@@ -1,0 +1,257 @@
+{
+  "NVDA": {
+    "last_updated": "2026-05-12",
+    "current_price_at_brief": 220.47,
+    "last_seen_price": 220.47,
+    "levels": [
+      {
+        "price": 226.28,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Fib 1.272 extension target",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Aggressive breakout trigger \u2014 reclaimed today",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 214.92,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Intraday low invalidation \u2014 stop set here",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 206.5,
+        "type": "S2",
+        "strength": 5,
+        "reason": "MA20 macro stop \u2014 decisive close below = exit",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  },
+  "RTX": {
+    "last_updated": "2026-05-12",
+    "current_price_at_brief": 179.34,
+    "last_seen_price": 179.34,
+    "levels": [
+      {
+        "price": 185.57,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Recent swing low / supply zone \u2014 reclaim signals reversal",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 180.47,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Fib 0.786 + MA20 confluence \u2014 must reclaim to flip bias",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 176.62,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Below today low confirms downtrend to 71.20 \u2014 stop here",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 171.2,
+        "type": "S2",
+        "strength": 5,
+        "reason": "60-day absolute low \u2014 breach invalidates all bullish scenarios",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  },
+  "OXY": {
+    "last_updated": "2026-05-12",
+    "current_price_at_brief": 56.21,
+    "last_seen_price": 56.21,
+    "levels": [
+      {
+        "price": 58.5,
+        "type": "R1",
+        "strength": 3,
+        "reason": "Prior consolidation resistance zone",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.25,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fib 0.500 midpoint \u2014 apex of current indecision",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.17,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today low / intraday support cluster",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 54.01,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "S2 swing low \u2014 stop set here",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 53.61,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Golden pocket support \u2014 last line before thesis breaks",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  },
+  "MSTR": {
+    "last_updated": "2026-05-12",
+    "current_price_at_brief": 184.65,
+    "last_seen_price": 184.65,
+    "levels": [
+      {
+        "price": 192.85,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Fib 0.500 midpoint resistance",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 187.74,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fib 0.618 golden pocket start",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 180.47,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fib 0.786 + MA20 double confluence \u2014 key bounce zone",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 175.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Hard stop \u2014 -10% from entry fallback",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 171.2,
+        "type": "S3",
+        "strength": 5,
+        "reason": "60-day absolute low \u2014 full thesis invalidation",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  },
+  "BTC": {
+    "last_updated": "2026-05-12",
+    "current_price_at_brief": 80799,
+    "last_seen_price": 80799,
+    "levels": [
+      {
+        "price": 84000,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Recent swing high resistance",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 81388,
+        "type": "R2",
+        "strength": 3,
+        "reason": "Entry price \u2014 reclaim = breakeven",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 78000,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Prior support cluster / psychological level",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 73000,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Major macro support \u2014 breakdown = bearish regime",
+        "status": "active",
+        "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  }
+}
