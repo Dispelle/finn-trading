@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finn — Trading Mission Control</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,sans-serif;background:#060912;color:#e2e8f0;padding:16px;min-height:100vh}
+h1{font-size:20px;font-weight:700;margin-bottom:2px}
+.sub{font-size:12px;color:#64748b;margin-bottom:20px}
+.updated{font-size:11px;color:#64748b;float:right;margin-top:-36px}
+.grid{display:grid;gap:12px}
+.g4{grid-template-columns:repeat(4,1fr)}
+.g2{grid-template-columns:1fr 1fr}
+@media(max-width:700px){.g4{grid-template-columns:1fr 1fr}.g2{grid-template-columns:1fr}}
+@media(max-width:400px){.g4{grid-template-columns:1fr}}
+.card{background:#0d1117;border:1px solid #1e2535;border-radius:10px;padding:14px}
+.card h2{font-size:10px;color:#64748b;text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px}
+.stat{font-size:24px;font-weight:700}
+.stat-sub{font-size:11px;color:#64748b;margin-top:3px}
+.green{color:#22c55e}.red{color:#ef4444}.yellow{color:#eab308}.muted{color:#64748b}
+.bar{background:#1e2535;border-radius:99px;height:8px;margin:8px 0}
+.fill{height:8px;border-radius:99px;background:linear-gradient(90deg,#2563eb,#7c3aed)}
+.fill.gfill{background:linear-gradient(90deg,#16a34a,#22c55e)}
+.fill.yfill{background:linear-gradient(90deg,#ca8a04,#eab308)}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th{color:#64748b;font-weight:500;text-align:left;padding:6px 8px;border-bottom:1px solid #1e2535;font-size:10px;text-transform:uppercase}
+td{padding:7px 8px;border-bottom:1px solid rgba(30,37,53,.6);font-size:12px}
+tr:last-child td{border-bottom:none}
+.badge{background:rgba(37,99,235,.15);color:#60a5fa;padding:2px 7px;border-radius:99px;font-size:10px;font-weight:600}
+.green-badge{background:rgba(34,197,94,.15);color:#22c55e}
+.red-badge{background:rgba(239,68,68,.15);color:#ef4444}
+.section{font-size:13px;font-weight:600;margin:18px 0 8px;display:flex;align-items:center;gap:6px}
+.dot{width:7px;height:7px;border-radius:50%;background:#22c55e;animation:p 2s infinite;flex-shrink:0}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.4}}
+.cron-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid rgba(30,37,53,.6);font-size:12px}
+.cron-row:last-child{border-bottom:none}
+.ctx{background:rgba(37,99,235,.06);border:1px solid rgba(37,99,235,.2);border-radius:8px;padding:14px;font-size:12px;line-height:1.8;color:#94a3b8}
+.ctx b{color:#e2e8f0}
+.refresh{font-size:11px;color:#64748b;text-align:center;margin-top:16px}
+</style>
+</head>
+<body>
+<h1>🐾 Finn — Trading Mission Control</h1>
+<p class="sub">Nikolai Gilmore · Full autonomous trading access granted</p>
+<div class="updated">Updated: May 12, 2026 12:42 AM ET</div>
+
+<div class="grid g4">
+  <div class="card"><h2>Portfolio</h2><div class="stat">$803.66</div><div class="stat-sub">Coinbase + Alpaca</div></div>
+  <div class="card"><h2>Realized P&L</h2><div class="stat green">+$38.60</div><div class="stat-sub">Closed trades this month</div></div>
+  <div class="card"><h2>Unrealized P&L</h2><div class="stat" style="color:#ef4444">-$2.79</div><div class="stat-sub">Open positions</div></div>
+  <div class="card"><h2>Monthly Goal</h2><div class="stat" style="color:#a855f7">71.5%</div><div class="stat-sub">$38.60 / $54 target</div></div>
+</div>
+
+<div class="section"><div class="dot"></div>Goals</div>
+<div class="grid g2">
+  <div class="card"><h2>📈 Monthly Return (+15% = $54)</h2>
+    <div style="font-size:13px;font-weight:600">$38.60 / $54 <span class="green">(71.5%)</span></div>
+    <div class="bar"><div class="fill" style="width:71.5%"></div></div>
+    <div class="muted" style="font-size:11px">Realized +$38.60 · Unrealized -$2.79</div>
+  </div>
+  <div class="card"><h2>💰 Weekly Deposits ($300/wk)</h2>
+    <div style="font-size:13px;font-weight:600">$500 deposited <span class="yellow">(83.3%)</span></div>
+    <div class="bar"><div class="fill yfill" style="width:83.3%"></div></div>
+    <div class="muted" style="font-size:11px">$600 expected so far this month</div>
+  </div>
+</div>
+
+<div class="section"><div class="dot"></div>Live Positions</div>
+<div class="card" style="overflow-x:auto">
+  <table><thead><tr><th>Asset</th><th>Exchange</th><th>Price</th><th>Entry</th><th>Value</th><th>P&L</th><th>%</th></tr></thead>
+  <tbody>
+<tr>
+  <td><b>MSTR</b></td>
+  <td><span class="badge">Alpaca</span></td>
+  <td>$192.50</td>
+  <td>$195.25</td>
+  <td>$98.59</td>
+  <td style="color:#ef4444">-$1.41</td>
+  <td style="color:#ef4444">-1.41%</td>
+</tr>
+<tr>
+  <td><b>NVDA</b></td>
+  <td><span class="badge">Alpaca</span></td>
+  <td>$218.15</td>
+  <td>$219.16</td>
+  <td>$149.31</td>
+  <td style="color:#ef4444">-$0.69</td>
+  <td style="color:#ef4444">-0.46%</td>
+</tr>
+<tr>
+  <td><b>OXY</b></td>
+  <td><span class="badge">Alpaca</span></td>
+  <td>$55.27</td>
+  <td>$55.15</td>
+  <td>$100.22</td>
+  <td style="color:#22c55e">+$0.22</td>
+  <td style="color:#22c55e">+0.22%</td>
+</tr>
+<tr>
+  <td><b>RTX</b></td>
+  <td><span class="badge">Alpaca</span></td>
+  <td>$178.35</td>
+  <td>$179.06</td>
+  <td>$99.60</td>
+  <td style="color:#ef4444">-$0.40</td>
+  <td style="color:#ef4444">-0.40%</td>
+</tr>
+<tr>
+  <td><b>BTC</b></td>
+  <td><span class="badge">Coinbase</span></td>
+  <td>$81,251.00</td>
+  <td>$81,388.00</td>
+  <td>$305.93</td>
+  <td style="color:#ef4444">-$0.52</td>
+  <td style="color:#ef4444">-0.17%</td>
+</tr></tbody></table>
+</div>
+
+<div class="section">📋 Trade History (This Month)</div>
+<div class="card" style="overflow-x:auto">
+  <table><thead><tr><th>Date</th><th>Asset</th><th>Action</th><th>Entry</th><th>Exit</th><th>P&L</th><th>Note</th></tr></thead>
+  <tbody>
+<tr>
+  <td>2026-05-11</td>
+  <td><b>NOL-18MAY26-CDE</b></td>
+  <td><span class="badge green-badge">CLOSE LONG</span></td>
+  <td>$96.5</td>
+  <td>$98.67</td>
+  <td style="color:#22c55e">+$19.75</td>
+  <td class="muted">Closed ahead of May 18 expiry. Iran thesis played out.</td>
+</tr></tbody></table>
+</div>
+
+<div class="section">⚙️ Scheduled Tasks</div>
+<div class="card">
+<div class="cron-row"><span>🟢 <b>Market Open Watch</b></span><span class="muted">9:30 AM ET weekdays</span></div>
+<div class="cron-row"><span>🟢 <b>Daily Picks</b></span><span class="muted">9:00 AM ET weekdays</span></div>
+<div class="cron-row"><span>🟢 <b>Positions + Goals</b></span><span class="muted">9 AM & 4 PM ET weekdays</span></div>
+<div class="cron-row"><span>🟢 <b>Watchlist</b></span><span class="muted">9 AM & 4 PM ET weekdays</span></div>
+<div class="cron-row"><span>🟢 <b>Market Close EOD</b></span><span class="muted">4:30 PM ET weekdays</span></div>
+<div class="cron-row"><span>🟢 <b>Position Monitor</b></span><span class="muted">Every 15 min, 10AM–10PM ET</span></div>
+<div class="cron-row"><span>🟢 <b>Soloway YouTube Monitor</b></span><span class="muted">Every 3 hours</span></div>
+<div class="cron-row"><span>🟢 <b>System Health Check</b></span><span class="muted">Every 2 hours</span></div>
+<div class="cron-row"><span>🟢 <b>Mission Control Push</b></span><span class="muted">Every 15 minutes</span></div>
+<div class="cron-row"><span>🟢 <b>Oil Expiry Reminder</b></span><span class="muted">9 AM ET Mon–Thu</span></div>
+<div class="cron-row"><span>🟢 <b>Weekly Deposit Check</b></span><span class="muted">Fridays 5 PM ET</span></div>
+<div class="cron-row"><span>🟢 <b>Price Alerts (n8n)</b></span><span class="muted">Every 4 hours</span></div>
+<div class="cron-row"><span>🟢 <b>Earnings Watch (n8n)</b></span><span class="muted">Sun + Wed 7 PM ET</span></div></div>
+
+<div class="section">🧠 Context</div>
+<div class="ctx">
+<b>Autonomous trading:</b> ✅ Full permission — research first, execute with conviction. Max $150/trade. Can sell positions to fund better ones.<br>
+<b>Thesis:</b> OXY (oil/Iran) · RTX (defense) · NVDA (AI momentum) · BTC/MSTR (waiting for $86k break)
+<br><b>Stops:</b> NVDA $210 · RTX $165 · OXY $50 · MSTR $175 · BTC $72k<br>
+<b>Soloway:</b> Cautiously bullish BTC, needs $86k. Altcoins ripping. Don't get aggressive yet.<br>
+<b>Oil futures:</b> CLOSED ✅ +$38.60 realized total
+</div>
+
+<p class="refresh">Auto-pushes every 15 min · <a href="https://github.com/Dispelle/finn-trading" style="color:#60a5fa">GitHub</a></p>
+</body></html>
