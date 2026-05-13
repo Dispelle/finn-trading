@@ -124,8 +124,8 @@
     ]
   },
   "OXY": {
-    "last_updated": "2026-05-12",
-    "current_price_at_brief": 56.21,
+    "last_updated": "2026-05-13",
+    "current_price_at_brief": 56.125,
     "last_seen_price": 56.21,
     "levels": [
       {
@@ -175,6 +175,66 @@
         "reason": "Golden pocket support \u2014 last line before thesis breaks",
         "status": "active",
         "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 58.29,
+        "type": "R1",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59.36,
+        "type": "R2",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60.79,
+        "type": "R3",
+        "strength": 4,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.46,
+        "type": "S1",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 54.35,
+        "type": "S2",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 52.99,
+        "type": "S3",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
       }
