@@ -298,7 +298,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-05-12",
+    "last_updated": "2026-05-13",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -339,6 +339,16 @@
         "reason": "Major macro support \u2014 breakdown = bearish regime",
         "status": "active",
         "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 73346.27,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
       }
