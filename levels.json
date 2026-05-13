@@ -1,7 +1,7 @@
 {
   "NVDA": {
-    "last_updated": "2026-05-12",
-    "current_price_at_brief": 220.47,
+    "last_updated": "2026-05-13",
+    "current_price_at_brief": 224.585,
     "last_seen_price": 220.47,
     "levels": [
       {
@@ -41,6 +41,36 @@
         "reason": "MA20 macro stop \u2014 decisive close below = exit",
         "status": "active",
         "source_brief": "2026-05-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 227.16,
+        "type": "R1",
+        "strength": 5,
+        "reason": "|\n| **R2: $230.00** | Round number + 1.272 Fibonacci extension (244.27 too exten",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.78,
+        "type": "S1",
+        "strength": 5,
+        "reason": "|\n| **S2: $216.83** | 60-day swing high turned pivot; prior resistance zone; 5-d",
+        "status": "active",
+        "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.78,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
       }
