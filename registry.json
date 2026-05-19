@@ -1,0 +1,587 @@
+{
+  "generated_at": "2026-05-19T14:37:30.537094+00:00",
+  "overall_status": "red",
+  "overdue_count": 25,
+  "total_jobs": 25,
+  "openclaw_crons": [
+    {
+      "id": "e5cc98c4",
+      "name": "cron */3 9-16 * * 1-5 @ Ameri... in 2m",
+      "schedule": "1m ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "9402bab7",
+      "name": "in 3m",
+      "schedule": "2m ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "be27b526",
+      "name": "7m ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d01a2cdd",
+      "name": "7m ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "35a221f2",
+      "name": "in 14m",
+      "schedule": "1m ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "13526878",
+      "name": "cron 0 */3 * * * (stagger 5m)",
+      "schedule": "in 23m",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "5c65709e",
+      "name": "cron 0 */3 * * * (stagger 5m)",
+      "schedule": "in 25m",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "2a3b9b11",
+      "name": "in 1h",
+      "schedule": "36m ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "f0074f4b",
+      "name": "in 2h",
+      "schedule": "22h ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "e7488751",
+      "name": "21h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "3b653229",
+      "name": "19h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "4c920861",
+      "name": "2h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "4f9bbdda",
+      "name": "in 5h",
+      "schedule": "19h ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "6448de3d",
+      "name": "2h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "f7c1c317",
+      "name": "18h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "ed66ed81",
+      "name": "in 20h",
+      "schedule": "4h ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "8737eeef",
+      "name": "in 22h",
+      "schedule": "2h ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "dd89f6a8",
+      "name": "2h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "987dd610",
+      "name": "1h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d57a0119",
+      "name": "1h ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "c29333fc",
+      "name": "in 2d",
+      "schedule": "-",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "a6259e67",
+      "name": "4d ago",
+      "schedule": "ok",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d5360d95",
+      "name": "in 5d",
+      "schedule": "2d ago",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "aa2e8b20",
+      "name": "cron 30 22 * * 0 @ UTC (exact)",
+      "schedule": "in 5d",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "5ed7018d",
+      "name": "at 2026-05-25 14:00Z",
+      "schedule": "in 6d",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    }
+  ],
+  "n8n_workflows": [
+    {
+      "id": "3DbAxZ5A",
+      "name": "ANNIE Call Handler (Claude + Bill \u2014 tested \u2705)",
+      "active": true
+    },
+    {
+      "id": "3L4OwbYU",
+      "name": "PaintScout Quote Sent \u2192 Airtable Client + Estimate",
+      "active": false
+    },
+    {
+      "id": "4KROahkY",
+      "name": "Receipt Scanner - contactapainter@",
+      "active": true
+    },
+    {
+      "id": "4kbxyuZG",
+      "name": "UPA - Calendar Agent",
+      "active": true
+    },
+    {
+      "id": "4ovbFH92",
+      "name": "One-Shot: Ina Rossman - Airtable + Calendar",
+      "active": false
+    },
+    {
+      "id": "4rTjiDZZ",
+      "name": "Discord \u2014 Earnings Watch",
+      "active": true
+    },
+    {
+      "id": "4v2StxrF",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": true
+    },
+    {
+      "id": "6cysfWKU",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": false
+    },
+    {
+      "id": "7CvZUzti",
+      "name": "One-Shot: Ina Rossman Setup",
+      "active": false
+    },
+    {
+      "id": "7kfDKkrt",
+      "name": "Paintsocut to Airtable (Quote Sent)",
+      "active": false
+    },
+    {
+      "id": "8kvjCyYq",
+      "name": "Job Profitability \u2014 Auto-Calculate on Complete",
+      "active": true
+    },
+    {
+      "id": "9t75aABH",
+      "name": "Chart Trigger \u2014 Level Alerts",
+      "active": true
+    },
+    {
+      "id": "AQOwiT1T",
+      "name": "Home Decor Invoice Parser (Phase 1 - Manual)",
+      "active": false
+    },
+    {
+      "id": "AesJfkHo",
+      "name": "My workflow",
+      "active": false
+    },
+    {
+      "id": "D4h2FvcW",
+      "name": "Discord \u2014 Daily Morning Picks",
+      "active": false
+    },
+    {
+      "id": "EaO9eIwu",
+      "name": "UPA - Ultimate Assistant (Main Orchestrator)",
+      "active": true
+    },
+    {
+      "id": "G7oGQSDH",
+      "name": "_Backfill 48h - contactapainter@",
+      "active": true
+    },
+    {
+      "id": "HcvvfVB6",
+      "name": "ANNIE \u2014 Caller Recognition (Pre-Call Webhook)",
+      "active": true
+    },
+    {
+      "id": "Hvhg5a3s",
+      "name": "ANNIE Call Handler Backup perfectly tested",
+      "active": false
+    },
+    {
+      "id": "JZsFYmnl",
+      "name": "Level Watcher \u2014 Price Crosses",
+      "active": true
+    },
+    {
+      "id": "Kl8S88QC",
+      "name": "GHL New Contact \u2192 Airtable Client",
+      "active": true
+    },
+    {
+      "id": "KuBbUFMq",
+      "name": "UPA - Contact Agent",
+      "active": false
+    },
+    {
+      "id": "LPPfGmP8",
+      "name": "Sync Retell AI Call Details to GHL",
+      "active": false
+    },
+    {
+      "id": "N6vYS25O",
+      "name": "PaintScout Quote Accepted \u2192 Pre-Job Form SMS",
+      "active": true
+    },
+    {
+      "id": "NlCZxo0K",
+      "name": "Estimate Follow-Up Sequence \u2014 Day 1, 3, 6 (INACTIVE)",
+      "active": false
+    },
+    {
+      "id": "QKsefDKl",
+      "name": "My workflow 2",
+      "active": false
+    },
+    {
+      "id": "RMVHrQXU",
+      "name": "Discord \u2014 Market Close EOD",
+      "active": false
+    },
+    {
+      "id": "Sv4xkZ5V",
+      "name": "My workflow 4",
+      "active": false
+    },
+    {
+      "id": "TNrsiqpx",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": false
+    },
+    {
+      "id": "Uat2lTSG",
+      "name": "Receipt Scanner - team@",
+      "active": true
+    },
+    {
+      "id": "YcfCCIIV",
+      "name": "Discord \u2014 Price Alerts",
+      "active": true
+    },
+    {
+      "id": "Zh2iTtaV",
+      "name": "Claude MCP Server",
+      "active": true
+    },
+    {
+      "id": "ZzYdjV9X",
+      "name": "SMS Pipeline Updater",
+      "active": true
+    },
+    {
+      "id": "bSLIO2Gy",
+      "name": "Google Ads Query - Temp",
+      "active": true
+    },
+    {
+      "id": "dM89SIiq",
+      "name": "UPA - Content Creator Agent",
+      "active": true
+    },
+    {
+      "id": "dxN01QQe",
+      "name": "PaintScout \u2192 Airtable: Log Estimate on Send",
+      "active": true
+    },
+    {
+      "id": "e6qc7FIH",
+      "name": "Website Lead Form \u2192 GHL Contact + Airtable Client",
+      "active": true
+    },
+    {
+      "id": "eeANU1su",
+      "name": "Finn Live Status",
+      "active": false
+    },
+    {
+      "id": "gooR5Whx",
+      "name": "TEMP - Gmail Sync Test",
+      "active": false
+    },
+    {
+      "id": "hWItSyzA",
+      "name": "Job Calendar \u2014 Auto Set End Date from Job Value",
+      "active": true
+    },
+    {
+      "id": "k8FT7oad",
+      "name": "PaintScout Quote Sent \u2192 Airtable + GHL (v2)",
+      "active": true
+    },
+    {
+      "id": "kalJt1bK",
+      "name": "Finn Live Status",
+      "active": true
+    },
+    {
+      "id": "knvWStgF",
+      "name": "Gmail Inbox \u2192 Airtable Client Notes Sync (Daily)",
+      "active": true
+    },
+    {
+      "id": "mJ2ebfwa",
+      "name": "UPA - Email Agent",
+      "active": true
+    },
+    {
+      "id": "mTujoye1",
+      "name": "UPA - Calendar Agent",
+      "active": false
+    },
+    {
+      "id": "mbNODcxO",
+      "name": "PS Quote Sent to Airtable",
+      "active": false
+    },
+    {
+      "id": "n7VptjT5",
+      "name": "UPA - Email Agent",
+      "active": false
+    },
+    {
+      "id": "oieRcYQK",
+      "name": "PS Quote Sent to Airtable",
+      "active": false
+    },
+    {
+      "id": "pBBONrwD",
+      "name": "Airtable: Project in Progress \u2192 Crew App Job Sync",
+      "active": false
+    },
+    {
+      "id": "qh49dwlz",
+      "name": "UPA - Content Creator Agent",
+      "active": false
+    }
+  ],
+  "html_url": "https://dispelle.github.io/finn-trading/registry.html",
+  "raw_json_url": "https://raw.githubusercontent.com/Dispelle/finn-trading/main/registry.json"
+}
