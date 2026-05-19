@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-19T19:51:50.967387+00:00",
+  "generated_at": "2026-05-19T20:06:37.095820+00:00",
   "items": [
+    {
+      "ts": "2026-05-19T19:58:08.481000+00:00",
+      "time": "03:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.46** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
+    {
+      "ts": "2026-05-19T19:55:05.562000+00:00",
+      "time": "03:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $415.0** Current: **$412.30** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
+    },
+    {
+      "ts": "2026-05-19T19:55:03.918000+00:00",
+      "time": "03:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.57** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
+    {
+      "ts": "2026-05-19T19:54:02.083000+00:00",
+      "time": "03:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$220.56** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
+    },
     {
       "ts": "2026-05-19T18:56:41.837000+00:00",
       "time": "02:56 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:26 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE PIVOT $706.0** Current: **$707.28** | Strength: 5/5 Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$"
-    },
-    {
-      "ts": "2026-05-19T13:32:27.094000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $415.0** Current: **$420.50** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
-    },
-    {
-      "ts": "2026-05-19T13:32:25.528000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$221.63** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
-    },
-    {
-      "ts": "2026-05-19T13:31:23.178000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.40** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
-    },
-    {
-      "ts": "2026-05-19T13:30:22.510000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $415.0** Current: **$412.33** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
     }
   ]
 }
