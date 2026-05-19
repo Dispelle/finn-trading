@@ -647,6 +647,7 @@ a:hover { text-decoration: underline; }
 
 /* ===== Skeleton ===== */
 .skeleton-card {
+  min-height: 60px;
   height: 80px;
   background: linear-gradient(90deg, var(--bg-card) 0%, rgba(30, 45, 74, 0.4) 50%, var(--bg-card) 100%);
   background-size: 200% 100%;
@@ -1310,7 +1311,7 @@ const HARDCODED_JOURNAL = [
 async function fetchJSON(file) {
   try {
     const r = await fetch(file + '?t=' + Date.now(), { cache: 'no-store' });
-    if (!r.ok) { showFatal('fetch ' + file, 'HTTP ' + r.status); return null; }
+    if (!r.ok) { console.warn('fetch skip ('+r.status+'):', file); return null; }  // 404 = not built yet, skip silently
     const txt = await r.text();
     try { return JSON.parse(txt); }
     catch(pe) { showFatal('parse ' + file, pe.message + ' | preview: ' + txt.slice(0,80)); return null; }
