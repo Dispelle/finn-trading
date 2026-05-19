@@ -1,39 +1,130 @@
 {
-  "generated_at": "2026-05-19T22:20:00+00:00",
+  "generated_at": "2026-05-19T22:27:32.516082+00:00",
+  "source": "airtable_live",
   "summary": {
-    "active": 1,
-    "scheduled": 0,
-    "completed_mtd": 0,
-    "revenue_mtd": 0
+    "active": 4,
+    "scheduled": 6
   },
   "jobs": [
     {
-      "id": "job-001",
-      "address": "774 Lowell St, Peabody, MA 01960",
-      "customer": "Tim & Gale",
-      "email": "bgm529@gmail.com",
-      "phone": "978-535-0354",
-      "status": "in_progress",
+      "id": "rec4l6uyhqZ1o3e00",
+      "name": "2 Davis Ln - Georgetown",
+      "address": "2 Davis Ln, Georgetown, MA 01833",
+      "status": "In Progress",
       "status_label": "In Progress",
-      "crew": [],
-      "notes": ""
+      "job_type": "",
+      "value": 3090,
+      "notes": "Labor: $2,590 | Materials: $600 | Island discount: -$100 | Total: $3,090",
+      "start_date": "2026-05-14T07:00:00.000Z",
+      "client_phone": ""
     },
     {
-      "id": "job-002",
-      "address": "5 Ashley Ln, Danvers, MA 01923",
-      "customer": "",
-      "email": "",
-      "phone": "",
-      "status": "in_progress",
+      "id": "rec9ODqZOX7q6HNKZ",
+      "name": "12 Jewett Rd - Cynthia & Clif",
+      "address": "12 Jewett Rd, Beverly, MA",
+      "status": "In Progress",
       "status_label": "In Progress",
-      "crew": [
-        "Lucio"
-      ],
-      "scheduled_dates": [
-        "2026-05-18",
-        "2026-05-19"
-      ],
-      "notes": "Lucio \u2014 May 18 & 19"
+      "job_type": "Residential Exterior",
+      "value": 4980,
+      "notes": "",
+      "start_date": "",
+      "client_phone": "9785947467"
+    },
+    {
+      "id": "recHBXhryVphCWFmZ",
+      "name": "5 Ashley Ln Danvers - Robert Shay",
+      "address": "5 Ashley Ln, Danvers MA 01923",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Exterior",
+      "value": 0,
+      "notes": "Power washing. Monday May 11 \u2014 confirm with client (also offered Wednesday May 13 if needed).",
+      "start_date": "2026-05-11T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recHBooiyhevu7YeN",
+      "name": "40 Longmeadow Dr Rowley - Kristina Webber",
+      "address": "40 Longmeadow Dr, Rowley MA",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Wallpaper",
+      "value": 0,
+      "notes": "Wallpaper install. Hole patching needed \u2014 send painter ahead to fix holes. Client very flexible.",
+      "start_date": "2026-05-07T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recV1oI5WmWUPrCEm",
+      "name": "16 Jewett Rd - Kelsey Taylor",
+      "address": "16 Jewett Rd, Beverly, MA",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Residential Interior",
+      "value": 4221,
+      "notes": "Color selections confirmed by Kelsey (5/7/26):\n- White bedroom \u2192 BM Mt. Rainier Gray #2129-60\n- Teal bedroom \u2192 SW Sea Salt #SW 6204\n- Upstairs + Downstairs Hallway \u2192 BM Manchester Tan #HC-81",
+      "start_date": "2026-05-05T00:00:00.000Z",
+      "client_phone": "9788881358"
+    },
+    {
+      "id": "recaGGW5m6Sv86XdO",
+      "name": "19 curtis st Medford",
+      "address": "",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Interior",
+      "value": 0,
+      "notes": "\u26a0\ufe0f REVIEW: Scheduled job with no client link, no value, no start date. Identify and complete record.",
+      "start_date": "",
+      "client_phone": ""
+    },
+    {
+      "id": "receLXPeQ0Rw6j2ZD",
+      "name": "5 Laurel Dr - Wenham (Janis)",
+      "address": "5 Laurel Dr, Wenham, MA",
+      "status": "In Progress",
+      "status_label": "In Progress",
+      "job_type": "Exterior",
+      "value": 12000,
+      "notes": "Exterior trim project ~$12k.",
+      "start_date": "2026-05-18T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recf2t6Ie973jwvZp",
+      "name": "5 Blueberry Lane - Joanne & Jerry Wahl",
+      "address": "5 Blueberry Lane, Topsfield, MA",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Residential Interior",
+      "value": 0,
+      "notes": "Side job - T&M. Kitchen ceiling 2 coats, bathroom trim brown to white, power wash. Not in PaintScout.",
+      "start_date": "",
+      "client_phone": "9788049079"
+    },
+    {
+      "id": "reckIw71rTGVOMBgo",
+      "name": "Georgetown - Karen & Mark Johnson (Exterior)",
+      "address": "Georgetown, MA",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "Exterior",
+      "value": 10000,
+      "notes": "Exterior paint ~$10k. June 1st or June 15th \u2014 June 1 entered, confirm with client.",
+      "start_date": "2026-06-01T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recq3EiVX8GjnwudO",
+      "name": "774 Lowell St - Tim & Gale",
+      "address": "774 Lowell St, Peabody, MA 01960",
+      "status": "In Progress",
+      "status_label": "In Progress",
+      "job_type": "",
+      "value": 0,
+      "notes": "Customer: Tim & Gale | bgm529@gmail.com | 978-535-0354",
+      "start_date": "",
+      "client_phone": ""
     }
   ]
 }
