@@ -1,6 +1,6 @@
 {
   "NVDA": {
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-18",
     "current_price_at_brief": 224.585,
     "last_seen_price": 220.47,
     "levels": [
@@ -25,12 +25,12 @@
         "last_hit": null
       },
       {
-        "price": 214.92,
+        "price": 229.0,
         "type": "STOP",
         "strength": 5,
-        "reason": "Intraday low invalidation \u2014 stop set here",
+        "reason": "Raised May 18 \u2014 below May 14 consolidation base; position +7.6% at ATH, old stop $214.92 was too loose",
         "status": "active",
-        "source_brief": "2026-05-12",
+        "source_brief": "2026-05-18-manual",
         "hit_count": 0,
         "last_hit": null
       },
@@ -65,12 +65,12 @@
         "last_hit": null
       },
       {
-        "price": 220.78,
+        "price": 229.0,
         "type": "STOP",
         "strength": 5,
-        "reason": "Trade plan stop / invalidation level",
+        "reason": "Raised May 18 \u2014 below May 14 consolidation base; position +7.6% at ATH, old stop $214.92 was too loose",
         "status": "active",
-        "source_brief": "2026-05-13",
+        "source_brief": "2026-05-18-manual",
         "hit_count": 0,
         "last_hit": null
       }
@@ -349,6 +349,105 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 75000,
+        "type": "BUY",
+        "strength": 5,
+        "reason": "Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. RSI oversold zone, macro support.",
+        "status": "active",
+        "source_brief": "2026-05-18-manual",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
+  },
+  "INTC": {
+    "last_updated": "2026-05-15",
+    "current_price_at_brief": 110.0,
+    "last_seen_price": 110.0,
+    "levels": [
+      {
+        "price": 98.0,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Gareth buy zone \u2014 fib 0.236 retracement, gap fill target",
+        "status": "active",
+        "source_brief": "2026-05-15-soloway",
+        "hit_count": 0,
+        "last_hit": null,
+        "expires": "2026-08-13",
+        "gareth_note": "Expected pullback from $110 recent high. Longer-term lower target below."
+      },
+      {
+        "price": 96.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Gareth buy zone lower end \u2014 $96-98 range",
+        "status": "active",
+        "source_brief": "2026-05-15-soloway",
+        "hit_count": 0,
+        "last_hit": null,
+        "expires": "2026-08-13"
+      }
+    ]
+  },
+  "MU": {
+    "last_updated": "2026-05-15",
+    "current_price_at_brief": 120.0,
+    "last_seen_price": 120.0,
+    "levels": [
+      {
+        "price": 706.0,
+        "type": "PIVOT",
+        "strength": 5,
+        "reason": "Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$545",
+        "status": "active",
+        "source_brief": "2026-05-15-soloway",
+        "hit_count": 0,
+        "last_hit": null,
+        "expires": "2026-08-13",
+        "gareth_note": "Shooting star doji. If $706 breaks = bearish confirmation."
+      },
+      {
+        "price": 645.0,
+        "type": "S1",
+        "strength": 3,
+        "reason": "Gareth target if $706 breaks",
+        "status": "active",
+        "source_brief": "2026-05-15-soloway",
+        "hit_count": 0,
+        "last_hit": null,
+        "expires": "2026-08-13"
+      },
+      {
+        "price": 545.0,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Gareth primary buy zone \u2014 gap fill confluence",
+        "status": "active",
+        "source_brief": "2026-05-15-soloway",
+        "hit_count": 0,
+        "last_hit": null,
+        "expires": "2026-08-13",
+        "gareth_note": "This is where Soloway says he buys."
+      }
+    ]
+  },
+  "AMD": {
+    "last_updated": "2026-05-18",
+    "current_price_at_brief": 428.54,
+    "last_seen_price": 428.54,
+    "levels": [
+      {
+        "price": 415.0,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume dries up. $75 deploy on confirmation.",
+        "status": "active",
+        "source_brief": "2026-05-18-manual",
         "hit_count": 0,
         "last_hit": null
       }
