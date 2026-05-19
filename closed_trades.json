@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T17:39:38.063736+00:00",
+  "generated_at": "2026-05-19T17:40:21.985748+00:00",
   "closed": [
     {
       "ticker": "NVDA",
@@ -9,8 +9,7 @@
       "pnl": 1.56,
       "r": 1.56,
       "outcome": "TP1 Hit",
-      "bias": "LONG",
-      "notes": "Entry May 11. Tightened stop to $214.92 May 12.\nClose note: Stop broken at 229, sold ahead of earnin"
+      "bias": "LONG"
     },
     {
       "ticker": "RTX",
@@ -20,8 +19,7 @@
       "pnl": -1,
       "r": -1,
       "outcome": "Stopped Out",
-      "bias": "LONG",
-      "notes": "Entry May 11. Bearish structure \u2014 watching closely."
+      "bias": "LONG"
     },
     {
       "ticker": "MSTR",
@@ -31,8 +29,7 @@
       "pnl": -0.65,
       "r": -0.65,
       "outcome": "Manually Closed",
-      "bias": "LONG",
-      "notes": "Down -5.4% today. Watching $180.47 fib support.\nClose note: Manually closed due to structural defect"
+      "bias": "LONG"
     }
   ]
 }
