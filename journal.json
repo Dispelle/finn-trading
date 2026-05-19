@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-05-19T17:39:40.776955+00:00",
+  "days": [
+    {
+      "date": "May 19, 2026",
+      "entries": [
+        {
+          "time": "09:00 AM",
+          "icon": "\ud83d\udcca",
+          "type": "analysis",
+          "text": "TA Brief \u2014 OXY, BTC generated"
+        },
+        {
+          "time": "09:45 AM",
+          "icon": "\ud83c\udfaf",
+          "type": "trade",
+          "text": "Auto-TP system built \u2014 OXY TP $61.93 (4.4R from entry)"
+        },
+        {
+          "time": "11:45 AM",
+          "icon": "\u2705",
+          "type": "system",
+          "text": "Heartbeat fixes deployed \u2014 Level Watcher sync, Health Check last_run, Airtable timeout 20s"
+        },
+        {
+          "time": "12:43 PM",
+          "icon": "\u2699\ufe0f",
+          "type": "system",
+          "text": "Automation Registry v1 live \u2014 25 jobs, 0 overdue"
+        },
+        {
+          "time": "01:21 PM",
+          "icon": "\ud83d\ude80",
+          "type": "system",
+          "text": "Mission Control v2 deployed \u2014 Trading + Painting dual-workspace"
+        },
+        {
+          "time": "01:45 PM",
+          "icon": "\ud83d\udce1",
+          "type": "analysis",
+          "text": "Google Ads API Basic Access approved \u2014 token propagating (~24h)"
+        },
+        {
+          "time": "03:27 PM",
+          "icon": "\ud83d\udd14",
+          "type": "alert",
+          "text": "MU $706 pivot alert \u2014 Gareth bearish signal, targets $645\u2192$575. No trade (shorting disabled)."
+        },
+        {
+          "time": "03:35 PM",
+          "icon": "\ud83d\udcb0",
+          "type": "system",
+          "text": "positions.json live \u2014 Dashboard showing $795 portfolio, OXY +8.7%, BTC -6%"
+        }
+      ]
+    },
+    {
+      "date": "May 18, 2026",
+      "entries": [
+        {
+          "time": "09:41 AM",
+          "icon": "\u2705",
+          "type": "trade",
+          "text": "NVDA CLOSED @ $225.76 \u2014 entry $219.16, +3.01% (+$4.52). Pre-earnings exit."
+        },
+        {
+          "time": "01:00 PM",
+          "icon": "\ud83d\udcca",
+          "type": "analysis",
+          "text": "Market update \u2014 large-cap tech holding, small/mid-caps getting hit. OXY +8.6% standout."
+        }
+      ]
+    },
+    {
+      "date": "May 14, 2026",
+      "entries": [
+        {
+          "time": "10:30 AM",
+          "icon": "\ud83d\udd34",
+          "type": "trade",
+          "text": "RTX STOPPED OUT @ $176.62 \u2014 entry $179.06, -1.00R. Weekly structure bearish. NO re-entry."
+        }
+      ]
+    },
+    {
+      "date": "May 13, 2026",
+      "entries": [
+        {
+          "time": "09:15 AM",
+          "icon": "\ud83d\udd34",
+          "type": "trade",
+          "text": "MSTR CLOSED @ $182.03 \u2014 entry $195.25, -6.75% (-$6.77). Structural defect at entry (fractional share GTC issue)."
+        }
+      ]
+    },
+    {
+      "date": "May 11, 2026",
+      "entries": [
+        {
+          "time": "03:59 PM",
+          "icon": "\u2705",
+          "type": "trade",
+          "text": "Oil (NOL) CLOSED @ $98.67 \u2014 entry $96.50, +$19.75. Iran thesis played out ahead of expiry."
+        },
+        {
+          "time": "04:00 PM",
+          "icon": "\u2699\ufe0f",
+          "type": "system",
+          "text": "Trading system v1 launched \u2014 Alpaca + Coinbase + Discord automation fully live."
+        }
+      ]
+    }
+  ]
+}
