@@ -161,7 +161,7 @@ a:hover { text-decoration: underline; }
 }
 
 .page { display: none; }
-.page.active { display: block !important; }
+.page.active { display: block; }
 
 .page-header {
   margin-bottom: 22px;
@@ -779,6 +779,10 @@ details.collapse > *:not(summary) { margin-top: 14px; }
   .content {
     margin-left: 0 !important;
     padding: 16px 14px 80px;
+    width: 100% !important;
+    min-width: 0 !important;
+    min-height: 100vh;
+    box-sizing: border-box;
   }
 
   .page-title { font-size: 17px; padding-top: 44px; }
@@ -849,6 +853,10 @@ details.collapse > *:not(summary) { margin-top: 14px; }
 </style>
 </head>
 <body>
+<div id="fatalBanner" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#7f1d1d;color:#fff;padding:12px 16px;font:13px/1.5 -apple-system,sans-serif;border-bottom:2px solid #ef4444;max-height:45vh;overflow:auto;">
+  <strong>Dashboard error:</strong> <span id="fatalBannerMsg"></span>
+  <button onclick="document.getElementById('fatalBanner').style.display='none'" style="float:right;background:transparent;border:1px solid #fff;color:#fff;border-radius:4px;padding:2px 8px;cursor:pointer;">dismiss</button>
+</div>
 <button class="menu-toggle" id="menuToggle">☰</button>
 <div class="sidebar-overlay" id="sidebarOverlay"></div>
 <div class="app">
@@ -1232,6 +1240,17 @@ details.collapse > *:not(summary) { margin-top: 14px; }
 <script>
 'use strict';
 
+function showFatal(where, err) {
+  try {
+    var b = document.getElementById('fatalBanner');
+    var m = document.getElementById('fatalBannerMsg');
+    if (b && m) { b.style.display = 'block'; m.textContent = ' [' + where + '] ' + (err && err.message ? err.message : String(err)); }
+    if (window.console && console.error) console.error('[' + where + ']', err);
+  } catch(e) {}
+}
+window.addEventListener('error', function(e) { showFatal('window', e.error || e.message || 'unknown'); });
+window.addEventListener('unhandledrejection', function(e) { showFatal('promise', e.reason || 'unhandled rejection'); });
+
 // ============================================================
 // Configuration
 // ============================================================
@@ -1291,9 +1310,11 @@ const HARDCODED_JOURNAL = [
 async function fetchJSON(file) {
   try {
     const r = await fetch(file + '?t=' + Date.now(), { cache: 'no-store' });
-    if (!r.ok) return null;
-    return await r.json();
-  } catch (e) { return null; }
+    if (!r.ok) { showFatal('fetch ' + file, 'HTTP ' + r.status); return null; }
+    const txt = await r.text();
+    try { return JSON.parse(txt); }
+    catch(pe) { showFatal('parse ' + file, pe.message + ' | preview: ' + txt.slice(0,80)); return null; }
+  } catch(e) { showFatal('fetchJSON ' + file, e); return null; }
 }
 
 async function fetchText(url) {
@@ -1320,7 +1341,7 @@ async function loadAll() {
   ];
   const results = await Promise.all(files.map(([_, f]) => fetchJSON(f)));
   files.forEach(([key], i) => { STATE.data[key] = results[i]; });
-  try { renderAll(); } catch(e) { console.error("renderAll error:", e); }
+  renderAll();
   document.getElementById('lastRefresh').textContent = 'Refreshed ' + new Date().toLocaleTimeString();
 }
 
@@ -2205,18 +2226,23 @@ function renderPaintingJournal() {
 // ============================================================
 
 function renderAll() {
-  renderHealthPill();
-  renderDashboard();
-  renderPositions();
-  renderAutomations();
-  renderMemory();
-  renderJournal();
-  renderPaintingDashboard();
-  renderPaintingLeads();
-  renderPaintingJobs();
-  renderPaintingMarketing();
-  renderPaintingFollowups();
-  renderPaintingJournal();
+  var steps = [
+    ['renderHealthPill',      renderHealthPill],
+    ['renderDashboard',       renderDashboard],
+    ['renderPositions',       renderPositions],
+    ['renderAutomations',     renderAutomations],
+    ['renderMemory',          renderMemory],
+    ['renderJournal',         renderJournal],
+    ['renderPaintingDashboard', renderPaintingDashboard],
+    ['renderPaintingLeads',   renderPaintingLeads],
+    ['renderPaintingJobs',    renderPaintingJobs],
+    ['renderPaintingMarketing', renderPaintingMarketing],
+    ['renderPaintingFollowups', renderPaintingFollowups],
+    ['renderPaintingJournal', renderPaintingJournal]
+  ];
+  for (var i = 0; i < steps.length; i++) {
+    try { steps[i][1](); } catch(err) { showFatal(steps[i][0], err); }
+  }
 }
 
 // ============================================================
@@ -2226,11 +2252,14 @@ function renderAll() {
 document.querySelectorAll('.workspace-tab').forEach(b =>
   b.addEventListener('click', () => switchWorkspace(b.dataset.ws)));
 
-renderNav();
-showPage();
-renderAll();  // Show skeletons immediately
-loadAll();    // Then fetch real data
-setInterval(loadAll, 5 * 60 * 1000);
+function boot() {
+  try { renderNav(); } catch(e) { showFatal('renderNav', e); }
+  try { showPage(); } catch(e) { showFatal('showPage', e); }
+  try { renderAll(); } catch(e) { showFatal('renderAll-boot', e); }
+  try { loadAll(); } catch(e) { showFatal('loadAll', e); }
+  setInterval(function() { try { loadAll(); } catch(e) { showFatal('interval', e); } }, 5 * 60 * 1000);
+}
+if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', boot); } else { boot(); }
 
 
 // ===== Mobile sidebar toggle =====
