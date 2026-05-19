@@ -2,136 +2,2123 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Finn — Trading Mission Control</title>
+<meta name="viewport" content="width=1200">
+<title>Finn Mission Control</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:system-ui,-apple-system,sans-serif;background:#060912;color:#e2e8f0;padding:16px;min-height:100vh}
-h1{font-size:20px;font-weight:700;margin-bottom:2px}
-.sub{font-size:12px;color:#64748b;margin-bottom:20px}
-.updated{font-size:11px;color:#64748b;float:right;margin-top:-36px}
-.grid{display:grid;gap:12px}
-.g4{grid-template-columns:repeat(4,1fr)}
-.g2{grid-template-columns:1fr 1fr}
-@media(max-width:700px){.g4{grid-template-columns:1fr 1fr}.g2{grid-template-columns:1fr}}
-@media(max-width:400px){.g4{grid-template-columns:1fr}}
-.card{background:#0d1117;border:1px solid #1e2535;border-radius:10px;padding:14px}
-.card h2{font-size:10px;color:#64748b;text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px}
-.stat{font-size:24px;font-weight:700}
-.stat-sub{font-size:11px;color:#64748b;margin-top:3px}
-.green{color:#22c55e}.red{color:#ef4444}.yellow{color:#eab308}.muted{color:#64748b}
-.bar{background:#1e2535;border-radius:99px;height:8px;margin:8px 0}
-.fill{height:8px;border-radius:99px;background:linear-gradient(90deg,#2563eb,#7c3aed)}
-.fill.gfill{background:linear-gradient(90deg,#16a34a,#22c55e)}
-.fill.yfill{background:linear-gradient(90deg,#ca8a04,#eab308)}
-table{width:100%;border-collapse:collapse;font-size:12px}
-th{color:#64748b;font-weight:500;text-align:left;padding:6px 8px;border-bottom:1px solid #1e2535;font-size:10px;text-transform:uppercase}
-td{padding:7px 8px;border-bottom:1px solid rgba(30,37,53,.6);font-size:12px}
-tr:last-child td{border-bottom:none}
-.badge{background:rgba(37,99,235,.15);color:#60a5fa;padding:2px 7px;border-radius:99px;font-size:10px;font-weight:600}
-.green-badge{background:rgba(34,197,94,.15);color:#22c55e}
-.red-badge{background:rgba(239,68,68,.15);color:#ef4444}
-.section{font-size:13px;font-weight:600;margin:18px 0 8px;display:flex;align-items:center;gap:6px}
-.dot{width:7px;height:7px;border-radius:50%;background:#22c55e;animation:p 2s infinite;flex-shrink:0}
-@keyframes p{0%,100%{opacity:1}50%{opacity:.4}}
-.cron-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid rgba(30,37,53,.6);font-size:12px}
-.cron-row:last-child{border-bottom:none}
-.ctx{background:rgba(37,99,235,.06);border:1px solid rgba(37,99,235,.2);border-radius:8px;padding:14px;font-size:12px;line-height:1.8;color:#94a3b8}
-.ctx b{color:#e2e8f0}
-.refresh{font-size:11px;color:#64748b;text-align:center;margin-top:16px}
+:root {
+  --bg-primary: #0a0f1e;
+  --bg-card: #0f1729;
+  --bg-sidebar: #080d1a;
+  --border: #1e2d4a;
+  --accent-blue: #3b82f6;
+  --accent-green: #22c55e;
+  --accent-yellow: #f59e0b;
+  --accent-red: #ef4444;
+  --accent-purple: #a855f7;
+  --text-primary: #e2e8f0;
+  --text-muted: #64748b;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  min-width: 1200px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--accent-blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* ===== Sidebar ===== */
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  background: var(--bg-sidebar);
+  border-right: 1px solid var(--border);
+  padding: 20px 0 12px;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  height: 100vh;
+  z-index: 10;
+}
+
+.sidebar .logo {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent-blue);
+  padding: 0 20px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.workspace-switcher {
+  display: flex;
+  gap: 4px;
+  padding: 0 12px 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+
+.workspace-tab {
+  flex: 1;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  padding: 6px 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 11px;
+  font-family: inherit;
+  transition: all 0.15s;
+}
+
+.workspace-tab:hover { color: var(--text-primary); }
+
+.workspace-tab.active {
+  background: rgba(59, 130, 246, 0.15);
+  border-color: var(--accent-blue);
+  color: var(--text-primary);
+}
+
+.nav-list {
+  list-style: none;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: var(--text-muted);
+  border-left: 3px solid transparent;
+  transition: background 0.15s, color 0.15s;
+  font-size: 13px;
+  user-select: none;
+}
+
+.nav-item:hover {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-primary);
+}
+
+.nav-item.active {
+  background: rgba(59, 130, 246, 0.08);
+  color: var(--text-primary);
+  border-left-color: var(--accent-blue);
+}
+
+.nav-item .icon { width: 18px; text-align: center; }
+
+.health-pill {
+  margin: 12px;
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+}
+
+.health-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent-green);
+  flex-shrink: 0;
+  animation: pulse 2.5s infinite;
+}
+.health-dot.yellow { background: var(--accent-yellow); }
+.health-dot.red { background: var(--accent-red); }
+.health-dot.gray { background: var(--text-muted); animation: none; }
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+}
+
+/* ===== Content ===== */
+.content {
+  margin-left: 220px;
+  flex: 1;
+  padding: 28px 32px 60px;
+  min-width: 0;
+}
+
+.page { display: none; }
+.page.active { display: block; }
+
+.page-header {
+  margin-bottom: 22px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.page-title {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
+
+.page-subtitle {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.section { margin-bottom: 28px; }
+
+.section-title {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+/* ===== Cards ===== */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.card:hover {
+  border-color: rgba(59, 130, 246, 0.35);
+  box-shadow: 0 0 20px rgba(59, 130, 246, 0.06);
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-bottom: 22px;
+}
+
+.stat-card .label {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 8px;
+}
+
+.stat-card .value {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+
+.stat-card .sub {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.value.positive { color: var(--accent-green); }
+.value.negative { color: var(--accent-red); }
+
+/* ===== Two-col ===== */
+.two-col {
+  display: grid;
+  grid-template-columns: 65fr 35fr;
+  gap: 20px;
+  align-items: start;
+}
+
+/* ===== Position cards ===== */
+.position-card { margin-bottom: 12px; padding: 14px 16px; }
+
+.position-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.ticker-badge {
+  font-weight: 700;
+  font-size: 14px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  letter-spacing: 0.3px;
+}
+.ticker-badge.profit { background: rgba(34, 197, 94, 0.15); color: var(--accent-green); }
+.ticker-badge.loss { background: rgba(239, 68, 68, 0.15); color: var(--accent-red); }
+.ticker-badge.neutral { background: rgba(100, 116, 139, 0.15); color: var(--text-muted); }
+
+.position-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.position-stats .stat label {
+  display: block;
+  color: var(--text-muted);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 2px;
+}
+.position-stats .stat span { font-weight: 500; font-size: 13px; }
+
+.progress-track {
+  position: relative;
+  height: 8px;
+  background: rgba(30, 45, 74, 0.4);
+  border-radius: 4px;
+  margin: 12px 0 6px;
+}
+
+.progress-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--accent-red), var(--accent-yellow), var(--accent-green));
+  opacity: 0.5;
+}
+
+.progress-marker {
+  position: absolute;
+  top: -3px;
+  width: 4px;
+  height: 14px;
+  border-radius: 2px;
+  transform: translateX(-50%);
+}
+.progress-marker.stop { background: var(--accent-red); }
+.progress-marker.tp { background: var(--accent-green); }
+.progress-marker.current { background: var(--accent-blue); box-shadow: 0 0 8px var(--accent-blue); width: 6px; }
+
+.progress-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+/* ===== Activity feed ===== */
+.activity-feed {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 680px;
+  overflow-y: auto;
+}
+
+.activity-item {
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.02);
+  border-left: 3px solid var(--text-muted);
+  border-radius: 0 6px 6px 0;
+  font-size: 12px;
+  transition: opacity 0.2s;
+}
+
+.activity-item.trade { border-left-color: var(--accent-green); }
+.activity-item.alert { border-left-color: var(--accent-red); }
+.activity-item.system { border-left-color: var(--text-muted); }
+.activity-item.analysis { border-left-color: var(--accent-blue); }
+
+.activity-time {
+  display: block;
+  color: var(--text-muted);
+  font-size: 10px;
+  margin-bottom: 3px;
+}
+
+.activity-feed > .activity-item:nth-child(n+11) { opacity: 0.6; }
+.activity-feed > .activity-item:nth-child(n+16) { opacity: 0.4; }
+
+/* ===== Tables ===== */
+.table-wrap {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th {
+  text-align: left;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-muted);
+  padding: 10px 14px;
+  background: rgba(0, 0, 0, 0.15);
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  user-select: none;
+}
+
+.table th:hover { color: var(--text-primary); }
+
+.table th.sort-asc::after { content: ' ▲'; color: var(--accent-blue); }
+.table th.sort-desc::after { content: ' ▼'; color: var(--accent-blue); }
+
+.table td {
+  padding: 11px 14px;
+  border-bottom: 1px solid rgba(30, 45, 74, 0.4);
+  font-size: 13px;
+}
+
+.table tr:last-child td { border-bottom: none; }
+.table tr:hover td { background: rgba(59, 130, 246, 0.03); }
+
+/* ===== Badges ===== */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 500;
+}
+.badge.green { background: rgba(34, 197, 94, 0.15); color: var(--accent-green); }
+.badge.red { background: rgba(239, 68, 68, 0.15); color: var(--accent-red); }
+.badge.yellow { background: rgba(245, 158, 11, 0.15); color: var(--accent-yellow); }
+.badge.blue { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); }
+.badge.purple { background: rgba(168, 85, 247, 0.15); color: var(--accent-purple); }
+.badge.gray { background: rgba(100, 116, 139, 0.15); color: var(--text-muted); }
+
+/* ===== Automations ===== */
+.health-bar {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 14px 18px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin-bottom: 22px;
+  font-size: 13px;
+}
+
+.health-bar .item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.health-bar .updated {
+  margin-left: auto;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  margin-bottom: 22px;
+}
+
+.cal-day {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 8px;
+  min-height: 180px;
+}
+
+.cal-day-name {
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 8px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.cal-pill {
+  display: block;
+  padding: 4px 6px;
+  font-size: 10px;
+  border-radius: 4px;
+  margin-bottom: 4px;
+  background: rgba(100, 116, 139, 0.1);
+  border-left: 2px solid var(--text-muted);
+  cursor: help;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cal-pill.green { border-left-color: var(--accent-green); background: rgba(34, 197, 94, 0.08); }
+.cal-pill.yellow { border-left-color: var(--accent-yellow); background: rgba(245, 158, 11, 0.08); }
+.cal-pill.red { border-left-color: var(--accent-red); background: rgba(239, 68, 68, 0.08); animation: pulse 2.5s infinite; }
+
+.job-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.job-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.job-card .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background: var(--accent-green);
+}
+.job-card .dot.yellow { background: var(--accent-yellow); }
+.job-card .dot.red { background: var(--accent-red); animation: pulse 2s infinite; }
+.job-card .dot.gray { background: var(--text-muted); }
+
+.job-card .info { flex: 1; min-width: 0; }
+.job-card .info .name { font-weight: 500; font-size: 13px; margin-bottom: 2px; }
+.job-card .info .meta { font-size: 11px; color: var(--text-muted); }
+.job-card .info .id { font-family: ui-monospace, monospace; font-size: 10px; color: var(--text-muted); }
+
+/* ===== Kanban ===== */
+.kanban {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+
+.kanban-column h3 {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+}
+
+.kanban-column h3 .count {
+  background: var(--bg-card);
+  padding: 1px 6px;
+  border-radius: 10px;
+  font-size: 10px;
+}
+
+.kanban-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.kanban-card .k-title { font-weight: 500; margin-bottom: 4px; font-size: 13px; }
+.kanban-card .k-desc { font-size: 11px; color: var(--text-muted); margin-bottom: 8px; line-height: 1.4; }
+.kanban-card .k-meta { display: flex; gap: 6px; flex-wrap: wrap; }
+
+.kanban-column[data-col="safety"] .kanban-card { border-left: 3px solid var(--accent-red); }
+.kanban-column[data-col="progress"] .kanban-card { border-left: 3px solid var(--accent-yellow); }
+.kanban-column[data-col="proof"] .kanban-card { border-left: 3px solid var(--accent-purple); }
+.kanban-column[data-col="done"] .kanban-card { border-left: 3px solid var(--accent-green); opacity: 0.75; }
+
+.kanban-empty { color: var(--text-muted); font-size: 12px; font-style: italic; padding: 8px 0; }
+
+/* ===== Memory ===== */
+.memory-layout {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.memory-search {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  width: 100%;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+.memory-search:focus { outline: none; border-color: var(--accent-blue); }
+
+.memory-entry {
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.memory-entry:hover { border-color: var(--accent-blue); }
+.memory-entry.active { border-color: var(--accent-blue); background: rgba(59, 130, 246, 0.06); }
+
+.memory-entry .m-title { font-weight: 500; font-size: 13px; margin-bottom: 2px; }
+.memory-entry .m-meta { font-size: 11px; color: var(--text-muted); }
+
+.memory-entry.pinned {
+  background: rgba(168, 85, 247, 0.07);
+  border-color: rgba(168, 85, 247, 0.3);
+}
+.memory-entry.pinned .m-title { color: var(--accent-purple); }
+
+.memory-content {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 28px;
+  min-height: 600px;
+}
+
+.memory-content h1 { font-size: 22px; margin-bottom: 12px; }
+.memory-content h2 { font-size: 18px; margin: 18px 0 10px; color: var(--accent-blue); }
+.memory-content h3 { font-size: 15px; margin: 14px 0 8px; }
+.memory-content p, .memory-content li { line-height: 1.7; margin-bottom: 8px; }
+.memory-content ul, .memory-content ol { margin-left: 24px; margin-bottom: 12px; }
+.memory-content code { background: rgba(30, 45, 74, 0.6); padding: 1px 5px; border-radius: 3px; font-family: ui-monospace, monospace; font-size: 12px; }
+.memory-content pre { background: rgba(30, 45, 74, 0.4); padding: 12px; border-radius: 6px; overflow-x: auto; margin-bottom: 12px; }
+.memory-content blockquote { border-left: 3px solid var(--accent-blue); padding-left: 12px; color: var(--text-muted); margin-bottom: 12px; }
+.memory-content hr { border: none; border-top: 1px solid var(--border); margin: 18px 0; }
+
+/* ===== Journal ===== */
+.journal-day { margin-bottom: 24px; }
+
+.journal-day h3 {
+  font-size: 12px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.journal-entry {
+  display: flex;
+  gap: 14px;
+  padding: 10px 0;
+  font-size: 13px;
+  align-items: flex-start;
+}
+
+.journal-entry .j-time {
+  color: var(--text-muted);
+  width: 78px;
+  flex-shrink: 0;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.journal-entry .j-icon { width: 22px; flex-shrink: 0; }
+
+/* ===== Skeleton ===== */
+.skeleton-card {
+  height: 80px;
+  background: linear-gradient(90deg, var(--bg-card) 0%, rgba(30, 45, 74, 0.4) 50%, var(--bg-card) 100%);
+  background-size: 200% 100%;
+  animation: skel 1.6s infinite;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+
+@keyframes skel {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.empty {
+  padding: 36px 24px;
+  text-align: center;
+  color: var(--text-muted);
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.empty .icon { font-size: 28px; margin-bottom: 8px; display: block; }
+
+/* ===== Collapse ===== */
+details.collapse {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 18px;
+  margin-top: 16px;
+}
+
+details.collapse summary {
+  cursor: pointer;
+  font-weight: 500;
+  user-select: none;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+details.collapse summary::-webkit-details-marker { display: none; }
+details.collapse summary::before { content: '▶'; font-size: 9px; color: var(--text-muted); transition: transform 0.15s; }
+details.collapse[open] summary::before { transform: rotate(90deg); }
+details.collapse > *:not(summary) { margin-top: 14px; }
+
+/* ===== Misc ===== */
+.muted { color: var(--text-muted); }
+.mono { font-family: ui-monospace, "SF Mono", Menlo, monospace; }
+.right { text-align: right; }
+
+.last-refresh {
+  position: fixed;
+  bottom: 10px;
+  right: 14px;
+  font-size: 10px;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  padding: 4px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  z-index: 100;
+}
+
+.toolbar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 12px;
+  transition: border-color 0.15s;
+}
+.btn:hover { border-color: var(--accent-blue); }
+.btn.primary { background: var(--accent-blue); border-color: var(--accent-blue); }
+
 </style>
 </head>
 <body>
-<h1>🐾 Finn — Trading Mission Control</h1>
-<p class="sub">Nikolai Gilmore · Full autonomous trading access granted</p>
-<div class="updated">Updated: May 19, 2026 11:06 AM ET</div>
+<div class="app">
+  <aside class="sidebar">
+    <div class="logo"><span>🐾</span><span>Finn</span></div>
+    <div class="workspace-switcher">
+      <button class="workspace-tab active" data-ws="trading">📈 Trading</button>
+      <button class="workspace-tab" data-ws="painting">🎨 Painting</button>
+    </div>
+    <ul class="nav-list" id="navList"></ul>
+    <div class="health-pill" id="healthPill">
+      <span class="health-dot gray"></span>
+      <span id="healthText">Loading…</span>
+    </div>
+  </aside>
 
-<div class="grid g4">
-  <div class="card"><h2>Portfolio</h2><div class="stat">$795.54</div><div class="stat-sub">Coinbase + Alpaca</div></div>
-  <div class="card"><h2>Realized P&L</h2><div class="stat green">+$38.60</div><div class="stat-sub">Closed trades this month</div></div>
-  <div class="card"><h2>Unrealized P&L</h2><div class="stat" style="color:#ef4444">-$7.09</div><div class="stat-sub">Open positions</div></div>
-  <div class="card"><h2>Monthly Goal</h2><div class="stat" style="color:#a855f7">71.5%</div><div class="stat-sub">$38.60 / $54 target</div></div>
+  <main class="content">
+
+    <!-- ========== TRADING: DASHBOARD ========== -->
+    <section class="page" data-page="trading-dashboard">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Dashboard</div>
+          <div class="page-subtitle">Live portfolio · 15% monthly target</div>
+        </div>
+      </div>
+
+      <div class="stat-grid" id="statGrid"></div>
+
+      <div class="two-col">
+        <div>
+          <div class="section-title">Active Positions</div>
+          <div id="positionCards"></div>
+        </div>
+        <div>
+          <div class="section-title">Live Activity</div>
+          <div class="activity-feed" id="activityFeed"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== TRADING: POSITIONS ========== -->
+    <section class="page" data-page="trading-positions">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Positions</div>
+          <div class="page-subtitle">All open and recently closed trades</div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Open Positions</div>
+        <div class="table-wrap">
+          <table class="table" id="openTable">
+            <thead>
+              <tr>
+                <th data-sort="ticker">Ticker</th>
+                <th data-sort="side">Side</th>
+                <th data-sort="entry" class="right">Entry</th>
+                <th data-sort="current" class="right">Current</th>
+                <th data-sort="stop" class="right">Stop</th>
+                <th data-sort="tp" class="right">TP</th>
+                <th data-sort="pnl" class="right">Unrealized P&L</th>
+                <th data-sort="r" class="right">R</th>
+                <th data-sort="status">Status</th>
+              </tr>
+            </thead>
+            <tbody id="openTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <details class="collapse">
+        <summary>Recently Closed</summary>
+        <div class="table-wrap" style="margin-top:14px;">
+          <table class="table" id="closedTable">
+            <thead>
+              <tr>
+                <th>Ticker</th>
+                <th class="right">Entry</th>
+                <th class="right">Exit</th>
+                <th class="right">Realized P&L</th>
+                <th class="right">R</th>
+                <th>Outcome</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody id="closedTableBody"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+
+    <!-- ========== TRADING: AUTOMATIONS ========== -->
+    <section class="page" data-page="trading-automations">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Automations</div>
+          <div class="page-subtitle">Scheduled crons and n8n workflows</div>
+        </div>
+      </div>
+
+      <div class="health-bar" id="autoHealth"></div>
+
+      <div class="section">
+        <div class="section-title">Weekly Schedule</div>
+        <div class="cal-grid" id="calGrid"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">All Jobs (OpenClaw)</div>
+        <div class="job-grid" id="jobGrid"></div>
+      </div>
+
+      <details class="collapse">
+        <summary>n8n Workflows</summary>
+        <div class="table-wrap" style="margin-top:14px;">
+          <table class="table">
+            <thead>
+              <tr><th>Workflow</th><th>Status</th><th>ID</th></tr>
+            </thead>
+            <tbody id="n8nTableBody"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+
+    <!-- ========== TRADING: BACKLOG ========== -->
+    <section class="page" data-page="trading-backlog">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Backlog</div>
+          <div class="page-subtitle">Static — moved manually by Nikolai</div>
+        </div>
+      </div>
+
+      <div class="kanban">
+        <div class="kanban-column" data-col="safety">
+          <h3>Safety Queue <span class="count">3</span></h3>
+          <div class="kanban-card">
+            <div class="k-title">config.py key consolidation</div>
+            <div class="k-desc">All scripts import keys from one file.</div>
+            <div class="k-meta">
+              <span class="badge red">🔴 Safety</span>
+              <span class="badge gray">May 26</span>
+            </div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Pre-entry structural check</div>
+            <div class="k-desc">Gate before any new position; catches fractional share + GTC issues.</div>
+            <div class="k-meta">
+              <span class="badge red">🔴 Safety</span>
+              <span class="badge gray">May 26</span>
+            </div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Order-fill notification → Telegram</div>
+            <div class="k-desc">Confirm every fill within 60s.</div>
+            <div class="k-meta">
+              <span class="badge red">🔴 Safety</span>
+              <span class="badge gray">NEXT</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="kanban-column" data-col="progress">
+          <h3>In Progress <span class="count">0</span></h3>
+          <div class="kanban-empty">Nothing in flight.</div>
+        </div>
+
+        <div class="kanban-column" data-col="proof">
+          <h3>Needs Proof <span class="count">0</span></h3>
+          <div class="kanban-empty">Nothing pending verification.</div>
+        </div>
+
+        <div class="kanban-column" data-col="done">
+          <h3>Done <span class="count">5</span></h3>
+          <div class="kanban-card">
+            <div class="k-title">Automation Registry</div>
+            <div class="k-desc">Live cron + n8n registry page.</div>
+            <div class="k-meta"><span class="badge yellow">🟡 Capability</span><span class="badge gray">May 19</span></div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Auto-TP system</div>
+            <div class="k-desc">Take-profit automation deployed.</div>
+            <div class="k-meta"><span class="badge yellow">🟡 Capability</span><span class="badge gray">May 19</span></div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Soloway live positions fix</div>
+            <div class="k-desc">Bug fix.</div>
+            <div class="k-meta"><span class="badge blue">Bug fix</span><span class="badge gray">May 19</span></div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Health Check last_run fix</div>
+            <div class="k-desc">Bug fix.</div>
+            <div class="k-meta"><span class="badge blue">Bug fix</span><span class="badge gray">May 19</span></div>
+          </div>
+          <div class="kanban-card">
+            <div class="k-title">Level Watcher GitHub sync</div>
+            <div class="k-desc">Bug fix.</div>
+            <div class="k-meta"><span class="badge blue">Bug fix</span><span class="badge gray">May 19</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== TRADING: MEMORY ========== -->
+    <section class="page" data-page="trading-memory">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Memory</div>
+          <div class="page-subtitle">Daily journal entries + long-term memory</div>
+        </div>
+      </div>
+
+      <div class="memory-layout">
+        <div>
+          <input class="memory-search" id="memorySearch" placeholder="Search memory…">
+          <div id="memoryList"></div>
+        </div>
+        <div class="memory-content" id="memoryContent">
+          <div class="empty">
+            <span class="icon">🧠</span>
+            Select a memory file to view its contents.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== TRADING: JOURNAL ========== -->
+    <section class="page" data-page="trading-journal">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Journal</div>
+          <div class="page-subtitle">Reverse-chronological event log</div>
+        </div>
+      </div>
+      <div id="journalContent"></div>
+    </section>
+
+    <!-- ========== PAINTING: DASHBOARD ========== -->
+    <section class="page" data-page="painting-dashboard">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Painting · Dashboard</div>
+          <div class="page-subtitle">Pipeline, jobs, and marketing at a glance</div>
+        </div>
+      </div>
+
+      <div class="stat-grid" id="paintStatGrid"></div>
+
+      <div class="two-col">
+        <div>
+          <div class="section-title">This Week's Jobs</div>
+          <div id="paintWeekJobs"></div>
+        </div>
+        <div>
+          <div class="section-title">Hot Leads</div>
+          <div id="paintHotLeads"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== PAINTING: LEADS ========== -->
+    <section class="page" data-page="painting-leads">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Leads Pipeline</div>
+          <div class="page-subtitle">From inbound to booked</div>
+        </div>
+      </div>
+
+      <div class="kanban" id="leadsPipeline">
+        <div class="kanban-column" data-col="progress"><h3>New <span class="count" id="leadsNewCount">0</span></h3><div id="leadsNew"></div></div>
+        <div class="kanban-column" data-col="progress"><h3>Contacted <span class="count" id="leadsContactedCount">0</span></h3><div id="leadsContacted"></div></div>
+        <div class="kanban-column" data-col="proof"><h3>Quoted <span class="count" id="leadsQuotedCount">0</span></h3><div id="leadsQuoted"></div></div>
+        <div class="kanban-column" data-col="done"><h3>Booked <span class="count" id="leadsBookedCount">0</span></h3><div id="leadsBooked"></div></div>
+      </div>
+    </section>
+
+    <!-- ========== PAINTING: JOBS ========== -->
+    <section class="page" data-page="painting-jobs">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Jobs Board</div>
+          <div class="page-subtitle">Active and scheduled paint jobs</div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Active</div>
+        <div class="table-wrap">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Customer</th><th>Address</th><th>Type</th>
+                <th class="right">Quote</th><th>Start</th><th>Status</th><th>Crew</th>
+              </tr>
+            </thead>
+            <tbody id="jobsActiveBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <details class="collapse">
+        <summary>Completed</summary>
+        <div class="table-wrap" style="margin-top:14px;">
+          <table class="table">
+            <thead>
+              <tr><th>Customer</th><th>Type</th><th class="right">Revenue</th><th>Completed</th><th>Rating</th></tr>
+            </thead>
+            <tbody id="jobsDoneBody"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+
+    <!-- ========== PAINTING: MARKETING ========== -->
+    <section class="page" data-page="painting-marketing">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Marketing Stats</div>
+          <div class="page-subtitle">Channel performance and lead sources</div>
+        </div>
+      </div>
+
+      <div class="stat-grid" id="mktStatGrid"></div>
+
+      <div class="section">
+        <div class="section-title">Channel Breakdown</div>
+        <div class="table-wrap">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Channel</th><th class="right">Spend</th><th class="right">Leads</th>
+                <th class="right">CPL</th><th class="right">Booked</th><th class="right">Revenue</th><th class="right">ROAS</th>
+              </tr>
+            </thead>
+            <tbody id="mktChannelBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== PAINTING: FOLLOW-UPS ========== -->
+    <section class="page" data-page="painting-followups">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Follow-Up Queue</div>
+          <div class="page-subtitle">Leads waiting on a touchpoint</div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Due Now</div>
+        <div id="followupsDue"></div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Upcoming (next 7 days)</div>
+        <div id="followupsUpcoming"></div>
+      </div>
+    </section>
+
+    <!-- ========== PAINTING: JOURNAL ========== -->
+    <section class="page" data-page="painting-journal">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Painting · Journal</div>
+          <div class="page-subtitle">Sales events, customer touches, deliveries</div>
+        </div>
+      </div>
+      <div id="paintJournal"></div>
+    </section>
+
+  </main>
 </div>
 
-<div class="section"><div class="dot"></div>Goals</div>
-<div class="grid g2">
-  <div class="card"><h2>📈 Monthly Return (+15% = $54)</h2>
-    <div style="font-size:13px;font-weight:600">$38.60 / $54 <span class="green">(71.5%)</span></div>
-    <div class="bar"><div class="fill" style="width:71.5%"></div></div>
-    <div class="muted" style="font-size:11px">Realized +$38.60 · Unrealized -$7.09</div>
-  </div>
-  <div class="card"><h2>💰 Weekly Deposits ($300/wk)</h2>
-    <div style="font-size:13px;font-weight:600">$500 deposited <span class="yellow">(83.3%)</span></div>
-    <div class="bar"><div class="fill yfill" style="width:83.3%"></div></div>
-    <div class="muted" style="font-size:11px">$600 expected so far this month</div>
-  </div>
-</div>
+<div class="last-refresh" id="lastRefresh">—</div>
 
-<div class="section"><div class="dot"></div>Live Positions</div>
-<div class="card" style="overflow-x:auto">
-  <table><thead><tr><th>Asset</th><th>Exchange</th><th>Price</th><th>Entry</th><th>Value</th><th>P&L</th><th>%</th></tr></thead>
-  <tbody>
-<tr>
-  <td><b>OXY</b></td>
-  <td><span class="badge">Alpaca</span></td>
-  <td>$59.82</td>
-  <td>$55.49</td>
-  <td>$160.62</td>
-  <td style="color:#22c55e">+$11.62</td>
-  <td style="color:#22c55e">+7.80%</td>
-</tr>
-<tr>
-  <td><b>BTC</b></td>
-  <td><span class="badge">Coinbase</span></td>
-  <td>$76,419.00</td>
-  <td>$81,388.00</td>
-  <td>$287.74</td>
-  <td style="color:#ef4444">-$18.71</td>
-  <td style="color:#ef4444">-6.11%</td>
-</tr></tbody></table>
-</div>
+<script>
+'use strict';
 
-<div class="section">📋 Trade History (This Month)</div>
-<div class="card" style="overflow-x:auto">
-  <table><thead><tr><th>Date</th><th>Asset</th><th>Action</th><th>Entry</th><th>Exit</th><th>P&L</th><th>Note</th></tr></thead>
-  <tbody>
-<tr>
-  <td>2026-05-11</td>
-  <td><b>NOL-18MAY26-CDE</b></td>
-  <td><span class="badge green-badge">CLOSE LONG</span></td>
-  <td>$96.5</td>
-  <td>$98.67</td>
-  <td style="color:#22c55e">+$19.75</td>
-  <td class="muted">Closed ahead of May 18 expiry. Iran thesis played out.</td>
-</tr></tbody></table>
-</div>
+// ============================================================
+// Configuration
+// ============================================================
 
-<div class="section">⚙️ Scheduled Tasks</div>
-<div class="card">
-<div class="cron-row"><span>🟢 <b>Soloway TA Brief</b></span><span class="muted">9:15 AM ET weekdays — #chart-setups</span></div>
-<div class="cron-row"><span>🟢 <b>Daily Picks + Full TA</b></span><span class="muted">9:00 AM ET weekdays — #daily-picks + #chart-setups (all positions, weekly+daily+4H)</span></div>
-<div class="cron-row"><span>🟢 <b>Market News Midday</b></span><span class="muted">1:00 PM ET weekdays — #market-news</span></div>
-<div class="cron-row"><span>🟢 <b>Market Close EOD</b></span><span class="muted">4:30 PM ET weekdays — #market-close</span></div>
-<div class="cron-row"><span>🟢 <b>Earnings Watch</b></span><span class="muted">Sun + Wed 7 PM ET — #earnings-watch (n8n)</span></div>
-<div class="cron-row"><span>🟢 <b>Price Alerts</b></span><span class="muted">Every 4 hours — #price-alerts (n8n)</span></div>
-<div class="cron-row"><span>🟢 <b>Soloway YouTube Monitor</b></span><span class="muted">Every 3 hours — #chart-setups (new video auto-detected)</span></div>
-<div class="cron-row"><span>🟢 <b>My Positions Update</b></span><span class="muted">9 AM & 4 PM ET weekdays — #my-positions (full TA framing)</span></div>
-<div class="cron-row"><span>🟢 <b>Goals Progress</b></span><span class="muted">9 AM & 4 PM ET weekdays — #goals (vs 15%/mo target)</span></div>
-<div class="cron-row"><span>🟢 <b>Watchlist Prices</b></span><span class="muted">9 AM & 4 PM ET weekdays — #watchlist (live prices)</span></div>
-<div class="cron-row"><span>🟢 <b>Position Monitor</b></span><span class="muted">Every 15 min 10AM–10PM ET — #alerts (stop-loss watch, Telegram ping)</span></div>
-<div class="cron-row"><span>🟢 <b>System Health Check</b></span><span class="muted">Every 2 hours — #system-status (auto-fix + Telegram ping if broken)</span></div>
-<div class="cron-row"><span>🟢 <b>Mission Control Push</b></span><span class="muted">Every 15 minutes — GitHub Pages live dashboard</span></div>
-<div class="cron-row"><span>🟢 <b>Weekly Deposit Check</b></span><span class="muted">Fridays 5 PM ET — Telegram reminder</span></div>
-<div class="cron-row"><span>🟢 <b>TA Trade Log</b></span><span class="muted">Every analysis — Airtable auto-log (ticker, bias, levels, R:R, outcome)</span></div></div>
+const GITHUB_USER = 'dispelle';
+const GITHUB_REPO = 'finn-trading';
+const GITHUB_BRANCH = 'main';
+const RAW = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}`;
 
-<div class="section">🧠 Context</div>
-<div class="ctx">
-<b>Autonomous trading:</b> ✅ Full permission — research first, execute with conviction. Max $150/trade. Can sell positions to fund better ones.<br>
-<b>Thesis:</b> OXY (oil/Iran) · RTX (defense) · NVDA (AI momentum) · BTC/MSTR (waiting for $86k break)
-<br><b>Stops:</b> NVDA $210 · RTX $165 · OXY $50 · MSTR $175 · BTC $72k<br>
-<b>Soloway:</b> Cautiously bullish BTC, needs $86k. Altcoins ripping. Don't get aggressive yet.<br>
-<b>Oil futures:</b> CLOSED ✅ +$38.60 realized total
-</div>
+const NAV = {
+  trading: [
+    { id: 'trading-dashboard',   icon: '📊', label: 'Dashboard' },
+    { id: 'trading-positions',   icon: '💼', label: 'Positions' },
+    { id: 'trading-automations', icon: '⚙️', label: 'Automations' },
+    { id: 'trading-backlog',     icon: '📋', label: 'Backlog' },
+    { id: 'trading-memory',      icon: '🧠', label: 'Memory' },
+    { id: 'trading-journal',     icon: '📓', label: 'Journal' }
+  ],
+  painting: [
+    { id: 'painting-dashboard',  icon: '📊', label: 'Dashboard' },
+    { id: 'painting-leads',      icon: '🎯', label: 'Leads' },
+    { id: 'painting-jobs',       icon: '🪜', label: 'Jobs' },
+    { id: 'painting-marketing',  icon: '📈', label: 'Marketing' },
+    { id: 'painting-followups',  icon: '📞', label: 'Follow-ups' },
+    { id: 'painting-journal',    icon: '📓', label: 'Journal' }
+  ]
+};
 
-<p class="refresh">Auto-pushes every 15 min · <a href="https://github.com/Dispelle/finn-trading" style="color:#60a5fa">GitHub</a> · <a href="registry.html" style="color:#60a5fa">⚙️ Automation Registry</a></p>
-</body></html>
+const STATE = {
+  workspace: 'trading',
+  page: 'trading-dashboard',
+  data: {},
+  selectedMemory: null,
+  sortKey: null,
+  sortDir: 'asc'
+};
+
+const HARDCODED_MEMORY_DATES = [
+  '2026-05-19','2026-05-18','2026-05-17','2026-05-16','2026-05-15',
+  '2026-05-14','2026-05-13','2026-05-12','2026-05-11'
+];
+
+const HARDCODED_JOURNAL = [
+  { date: '2026-05-19', entries: [
+    { time: '09:15 AM', type: 'analysis', icon: '📊', text: 'TA Brief — OXY, BTC generated' },
+    { time: '11:45 AM', type: 'build',    icon: '✅', text: 'Heartbeat fixes deployed (3 items)' },
+    { time: '01:45 PM', type: 'trade',    icon: '🎯', text: 'Auto-TP system built' },
+    { time: '02:43 PM', type: 'system',   icon: '⚙️', text: 'Automation Registry v1 live' },
+    { time: '02:56 PM', type: 'build',    icon: '📋', text: 'Mission Control spec written' }
+  ]}
+];
+
+// ============================================================
+// Fetch helpers
+// ============================================================
+
+async function fetchJSON(file) {
+  try {
+    const r = await fetch(file + '?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return null;
+    return await r.json();
+  } catch (e) { return null; }
+}
+
+async function fetchText(url) {
+  try {
+    const r = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return null;
+    return await r.text();
+  } catch (e) { return null; }
+}
+
+async function loadAll() {
+  const files = [
+    ['registry',     'registry.json'],
+    ['positions',    'positions.json'],
+    ['activity',     'activity.json'],
+    ['closed',       'closed_trades.json'],
+    ['journal',      'journal.json'],
+    ['memoryIndex',  'memory_index.json'],
+    ['paintLeads',   'painting_leads.json'],
+    ['paintJobs',    'painting_jobs.json'],
+    ['paintMarketing','painting_marketing.json'],
+    ['paintFollowups','painting_followups.json'],
+    ['paintJournal', 'painting_journal.json']
+  ];
+  const results = await Promise.all(files.map(([_, f]) => fetchJSON(f)));
+  files.forEach(([key], i) => { STATE.data[key] = results[i]; });
+  renderAll();
+  document.getElementById('lastRefresh').textContent = 'Refreshed ' + new Date().toLocaleTimeString();
+}
+
+// ============================================================
+// Format helpers
+// ============================================================
+
+const fmtMoney = n => n == null ? '—' : '$' + Number(n).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const fmtMoneyShort = n => {
+  if (n == null) return '—';
+  const a = Math.abs(n);
+  if (a >= 1e6) return '$' + (n/1e6).toFixed(2) + 'M';
+  if (a >= 1e3) return '$' + (n/1e3).toFixed(1) + 'K';
+  return '$' + Number(n).toFixed(0);
+};
+const fmtPct = n => n == null ? '—' : (n > 0 ? '+' : '') + Number(n).toFixed(2) + '%';
+const fmtNum = n => n == null ? '—' : Number(n).toLocaleString('en-US');
+
+function escapeHTML(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+// ============================================================
+// Navigation
+// ============================================================
+
+function renderNav() {
+  const list = document.getElementById('navList');
+  list.innerHTML = NAV[STATE.workspace].map(item => `
+    <li class="nav-item ${item.id === STATE.page ? 'active' : ''}" data-page="${item.id}">
+      <span class="icon">${item.icon}</span><span>${item.label}</span>
+    </li>
+  `).join('');
+  list.querySelectorAll('.nav-item').forEach(el => {
+    el.addEventListener('click', () => {
+      STATE.page = el.dataset.page;
+      renderNav();
+      showPage();
+    });
+  });
+}
+
+function showPage() {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  const target = document.querySelector(`[data-page="${STATE.page}"]`);
+  if (target) target.classList.add('active');
+}
+
+function switchWorkspace(ws) {
+  if (STATE.workspace === ws) return;
+  STATE.workspace = ws;
+  STATE.page = NAV[ws][0].id;
+  document.querySelectorAll('.workspace-tab').forEach(b =>
+    b.classList.toggle('active', b.dataset.ws === ws));
+  renderNav();
+  showPage();
+}
+
+// ============================================================
+// Health pill (from registry.json)
+// ============================================================
+
+function renderHealthPill() {
+  const r = STATE.data.registry;
+  const pill = document.getElementById('healthPill');
+  const dot = pill.querySelector('.health-dot');
+  const text = document.getElementById('healthText');
+  if (!r) {
+    dot.className = 'health-dot gray';
+    text.textContent = 'No data';
+    return;
+  }
+  const status = r.overall_status || 'green';
+  const total = r.total_jobs ?? (Array.isArray(r.openclaw_crons) ? r.openclaw_crons.length : 0);
+  dot.className = 'health-dot' + (status === 'red' || status === 'yellow' ? ' ' + status : '');
+  text.textContent = `${total} jobs · ${status}`;
+}
+
+// ============================================================
+// Trading: Dashboard
+// ============================================================
+
+function renderDashboard() {
+  renderStatGrid();
+  renderPositionCards();
+  renderActivityFeed();
+}
+
+function renderStatGrid() {
+  const p = STATE.data.positions;
+  const grid = document.getElementById('statGrid');
+  if (!p) {
+    grid.innerHTML = Array(4).fill('<div class="skeleton-card"></div>').join('');
+    return;
+  }
+  const total = p.portfolio_total;
+  const monthPnl = p.month_pnl_pct;
+  const openCount = (p.open || []).length;
+  const cash = p.cash_ready;
+  const monthClass = (monthPnl ?? 0) >= 0 ? 'positive' : 'negative';
+  const targetPct = monthPnl != null ? Math.min(100, Math.max(0, (monthPnl / 15) * 100)).toFixed(0) : '—';
+  grid.innerHTML = `
+    <div class="card stat-card">
+      <div class="label">Portfolio Total</div>
+      <div class="value">${fmtMoney(total)}</div>
+      <div class="sub">All accounts</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Month P&L</div>
+      <div class="value ${monthClass}">${fmtPct(monthPnl)}</div>
+      <div class="sub">${targetPct}% of 15% target</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Open Trades</div>
+      <div class="value">${openCount}</div>
+      <div class="sub">${p.long_count ?? 0} long · ${p.short_count ?? 0} short</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Cash Ready</div>
+      <div class="value">${fmtMoney(cash)}</div>
+      <div class="sub">Alpaca buying power</div>
+    </div>
+  `;
+}
+
+function renderPositionCards() {
+  const p = STATE.data.positions;
+  const wrap = document.getElementById('positionCards');
+  if (!p) {
+    wrap.innerHTML = Array(3).fill('<div class="skeleton-card"></div>').join('');
+    return;
+  }
+  const open = p.open || [];
+  if (open.length === 0) {
+    wrap.innerHTML = '<div class="empty"><span class="icon">📭</span>No open positions.</div>';
+    return;
+  }
+  wrap.innerHTML = open.map(pos => {
+    const profit = (pos.pnl_pct ?? 0) >= 0;
+    const klass = profit ? 'profit' : 'loss';
+    const entry = pos.entry, current = pos.current, stop = pos.stop, tp = pos.tp;
+    let pctOnBar = 50;
+    if (entry != null && stop != null && tp != null && current != null && tp !== stop) {
+      pctOnBar = ((current - stop) / (tp - stop)) * 100;
+      pctOnBar = Math.min(100, Math.max(0, pctOnBar));
+    }
+    return `
+      <div class="card position-card">
+        <div class="position-row">
+          <span class="ticker-badge ${klass}">${escapeHTML(pos.ticker)}</span>
+          <div>
+            <span class="badge ${klass === 'profit' ? 'green' : 'red'}">${fmtPct(pos.pnl_pct)}</span>
+            ${pos.conviction ? `<span class="badge blue">${escapeHTML(pos.conviction)}</span>` : ''}
+          </div>
+        </div>
+        <div class="position-stats">
+          <div class="stat"><label>Entry</label><span>${fmtMoney(entry)}</span></div>
+          <div class="stat"><label>Current</label><span>${fmtMoney(current)}</span></div>
+          <div class="stat"><label>Stop</label><span class="muted">${fmtMoney(stop)}</span></div>
+          <div class="stat"><label>TP</label><span class="muted">${fmtMoney(tp)}</span></div>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" style="width:100%;"></div>
+          <div class="progress-marker stop" style="left:0%;" title="Stop"></div>
+          <div class="progress-marker current" style="left:${pctOnBar.toFixed(1)}%;" title="Current"></div>
+          <div class="progress-marker tp" style="left:100%;" title="Take profit"></div>
+        </div>
+        <div class="progress-labels">
+          <span>🔴 Stop</span>
+          <span>🎯 TP</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderActivityFeed() {
+  const a = STATE.data.activity;
+  const feed = document.getElementById('activityFeed');
+  if (!a) {
+    feed.innerHTML = Array(5).fill('<div class="skeleton-card" style="height:50px;"></div>').join('');
+    return;
+  }
+  const items = (a.items || a || []).slice(0, 20);
+  if (items.length === 0) {
+    feed.innerHTML = '<div class="empty"><span class="icon">📡</span>No recent activity.</div>';
+    return;
+  }
+  feed.innerHTML = items.map(it => `
+    <div class="activity-item ${escapeHTML(it.type || 'system')}">
+      <span class="activity-time">${escapeHTML(it.time || '')}</span>
+      <div>${escapeHTML(it.message || it.text || '')}</div>
+    </div>
+  `).join('');
+}
+
+// ============================================================
+// Trading: Positions
+// ============================================================
+
+function renderPositions() {
+  const p = STATE.data.positions;
+  const body = document.getElementById('openTableBody');
+  if (!p) {
+    body.innerHTML = `<tr><td colspan="9" class="muted" style="text-align:center;padding:24px;">Loading…</td></tr>`;
+  } else {
+    let open = (p.open || []).slice();
+    if (STATE.sortKey) {
+      const k = STATE.sortKey, dir = STATE.sortDir === 'asc' ? 1 : -1;
+      open.sort((a, b) => {
+        const va = a[k], vb = b[k];
+        if (va == null) return 1;
+        if (vb == null) return -1;
+        if (typeof va === 'number' && typeof vb === 'number') return (va - vb) * dir;
+        return String(va).localeCompare(String(vb)) * dir;
+      });
+    }
+    if (open.length === 0) {
+      body.innerHTML = `<tr><td colspan="9" class="muted" style="text-align:center;padding:24px;">No open positions.</td></tr>`;
+    } else {
+      body.innerHTML = open.map(pos => {
+        const klass = (pos.pnl_pct ?? 0) >= 0 ? 'green' : 'red';
+        const statusBadge = pos.status
+          ? `<span class="badge ${statusColor(pos.status)}">${escapeHTML(pos.status)}</span>`
+          : '<span class="muted">—</span>';
+        return `
+          <tr>
+            <td><strong>${escapeHTML(pos.ticker)}</strong></td>
+            <td>${escapeHTML(pos.side || 'long')}</td>
+            <td class="right">${fmtMoney(pos.entry)}</td>
+            <td class="right">${fmtMoney(pos.current)}</td>
+            <td class="right muted">${fmtMoney(pos.stop)}</td>
+            <td class="right muted">${fmtMoney(pos.tp)}</td>
+            <td class="right"><span class="badge ${klass}">${fmtPct(pos.pnl_pct)}</span></td>
+            <td class="right">${pos.r != null ? Number(pos.r).toFixed(2) + 'R' : '—'}</td>
+            <td>${statusBadge}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+  }
+
+  // Closed trades
+  const closed = STATE.data.closed;
+  const cbody = document.getElementById('closedTableBody');
+  if (!closed) {
+    cbody.innerHTML = `<tr><td colspan="7" class="muted" style="text-align:center;padding:18px;">No data.</td></tr>`;
+  } else {
+    const arr = closed.closed || closed || [];
+    if (arr.length === 0) {
+      cbody.innerHTML = `<tr><td colspan="7" class="muted" style="text-align:center;padding:18px;">No closed trades.</td></tr>`;
+    } else {
+      cbody.innerHTML = arr.map(t => {
+        const klass = (t.pnl ?? 0) >= 0 ? 'green' : 'red';
+        return `
+          <tr>
+            <td><strong>${escapeHTML(t.ticker)}</strong></td>
+            <td class="right">${fmtMoney(t.entry)}</td>
+            <td class="right">${fmtMoney(t.exit)}</td>
+            <td class="right"><span class="badge ${klass}">${fmtMoney(t.pnl)}</span></td>
+            <td class="right">${t.r != null ? Number(t.r).toFixed(2) + 'R' : '—'}</td>
+            <td>${escapeHTML(t.outcome || '—')}</td>
+            <td class="muted">${escapeHTML(t.date || '—')}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+  }
+}
+
+function statusColor(s) {
+  s = (s || '').toUpperCase();
+  if (s === 'HOLD') return 'blue';
+  if (s === 'WATCH') return 'yellow';
+  if (s === 'TP-ZONE') return 'green';
+  if (s === 'STOP-NEAR') return 'red';
+  return 'gray';
+}
+
+// Sort handlers
+document.addEventListener('click', e => {
+  const th = e.target.closest('#openTable th[data-sort]');
+  if (!th) return;
+  const key = th.dataset.sort;
+  if (STATE.sortKey === key) STATE.sortDir = STATE.sortDir === 'asc' ? 'desc' : 'asc';
+  else { STATE.sortKey = key; STATE.sortDir = 'asc'; }
+  document.querySelectorAll('#openTable th').forEach(h => h.classList.remove('sort-asc','sort-desc'));
+  th.classList.add('sort-' + STATE.sortDir);
+  renderPositions();
+});
+
+// ============================================================
+// Trading: Automations
+// ============================================================
+
+function renderAutomations() {
+  const r = STATE.data.registry;
+  const bar = document.getElementById('autoHealth');
+  if (!r) {
+    bar.innerHTML = '<span class="muted">Loading registry…</span>';
+    document.getElementById('calGrid').innerHTML = '';
+    document.getElementById('jobGrid').innerHTML = '';
+    document.getElementById('n8nTableBody').innerHTML = '';
+    return;
+  }
+  const crons = r.openclaw_crons || [];
+  const counts = { green: 0, yellow: 0, red: 0, gray: 0 };
+  crons.forEach(c => {
+    const s = (c.status || '').toLowerCase();
+    if (counts[s] != null) counts[s]++;
+    else counts.gray++;
+  });
+  const updated = r.generated_at ? new Date(r.generated_at) : null;
+  const updStr = updated ? timeAgo(updated) : '—';
+  bar.innerHTML = `
+    <span class="item">⚙️ <strong>${crons.length}</strong> jobs</span>
+    <span class="item"><span class="health-dot" style="width:8px;height:8px;animation:none;"></span> ${counts.green} running</span>
+    <span class="item"><span class="health-dot yellow" style="width:8px;height:8px;animation:none;"></span> ${counts.yellow} slow</span>
+    <span class="item"><span class="health-dot red" style="width:8px;height:8px;animation:none;"></span> ${counts.red} overdue</span>
+    <span class="updated">Updated ${updStr}</span>
+  `;
+
+  renderCalendar(crons);
+  renderJobGrid(crons);
+  renderN8N(r.n8n_workflows || []);
+}
+
+function renderCalendar(crons) {
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const grid = document.getElementById('calGrid');
+  const byDay = days.map(() => []);
+  crons.forEach(c => {
+    const ds = cronToDays(c.schedule || c.cron);
+    ds.forEach(d => byDay[d].push(c));
+  });
+  grid.innerHTML = days.map((d, i) => `
+    <div class="cal-day">
+      <div class="cal-day-name">${d}</div>
+      ${byDay[i].map(c => {
+        const s = (c.status || 'green').toLowerCase();
+        const klass = ['green','yellow','red'].includes(s) ? s : '';
+        const time = cronToTime(c.schedule || c.cron);
+        const tip = `${c.name} — ${c.schedule || ''} — last: ${c.last_run || '—'} — ${c.api_surface || ''}`;
+        return `<span class="cal-pill ${klass}" title="${escapeHTML(tip)}">${time ? time + ' ' : ''}${escapeHTML(c.name || c.id || 'job')}</span>`;
+      }).join('') || '<span class="muted" style="font-size:10px;">—</span>'}
+    </div>
+  `).join('');
+}
+
+function renderJobGrid(crons) {
+  const grid = document.getElementById('jobGrid');
+  if (crons.length === 0) {
+    grid.innerHTML = '<div class="empty"><span class="icon">⚙️</span>No jobs registered.</div>';
+    return;
+  }
+  grid.innerHTML = crons.map(c => {
+    const s = (c.status || 'green').toLowerCase();
+    const klass = ['green','yellow','red','gray'].includes(s) ? s : 'gray';
+    return `
+      <div class="job-card">
+        <span class="dot ${klass}"></span>
+        <div class="info">
+          <div class="name">${escapeHTML(c.name || c.id || 'untitled')}</div>
+          <div class="meta">${escapeHTML(cronHuman(c.schedule || c.cron))} · last: ${escapeHTML(c.last_run || '—')}</div>
+          <div class="id">${escapeHTML(c.api_surface || '')} ${c.id ? '· ' + escapeHTML(c.id) : ''}</div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderN8N(flows) {
+  const body = document.getElementById('n8nTableBody');
+  if (flows.length === 0) {
+    body.innerHTML = '<tr><td colspan="3" class="muted" style="text-align:center;padding:18px;">No n8n workflows.</td></tr>';
+    return;
+  }
+  body.innerHTML = flows.map(f => `
+    <tr>
+      <td>${escapeHTML(f.name || '—')}</td>
+      <td><span class="badge ${f.active ? 'green' : 'gray'}">${f.active ? 'Active' : 'Inactive'}</span></td>
+      <td class="mono muted">${escapeHTML(f.id || '')}</td>
+    </tr>
+  `).join('');
+}
+
+// Cron helpers
+function cronToDays(cron) {
+  if (!cron) return [0,1,2,3,4,5,6];
+  const s = String(cron).trim().toLowerCase();
+  if (s.startsWith('*/') || s.startsWith('every') || s === '*') return [0,1,2,3,4,5,6];
+  const parts = s.split(/\s+/);
+  if (parts.length < 5) return [0,1,2,3,4,5,6];
+  const dow = parts[4];
+  if (dow === '*') return [0,1,2,3,4,5,6];
+  if (dow.includes(',')) return dow.split(',').map(x => Number(x) % 7);
+  if (dow.includes('-')) {
+    const [a, b] = dow.split('-').map(Number);
+    const out = [];
+    for (let i = a; i <= b; i++) out.push(i % 7);
+    return out;
+  }
+  return [Number(dow) % 7];
+}
+
+function cronToTime(cron) {
+  if (!cron) return '';
+  const s = String(cron).trim();
+  if (s.startsWith('*/')) return s.split(/\s+/)[0];
+  const parts = s.split(/\s+/);
+  if (parts.length < 5) return '';
+  const m = parts[0], h = parts[1];
+  if (m === '*' && h === '*') return 'every min';
+  if (h === '*') return `:${m.padStart(2,'0')} hourly`;
+  const hh = String(h).padStart(2, '0');
+  const mm = String(m === '*' ? '00' : m).padStart(2, '0');
+  return `${hh}:${mm}`;
+}
+
+function cronHuman(cron) {
+  if (!cron) return '—';
+  const s = String(cron).trim();
+  if (s.startsWith('*/')) return 'every ' + s.split(/\s+/)[0].slice(2) + ' min';
+  const parts = s.split(/\s+/);
+  if (parts.length < 5) return s;
+  const m = parts[0], h = parts[1], dow = parts[4];
+  const time = cronToTime(s);
+  if (dow === '*') return `daily at ${time}`;
+  if (dow === '1-5') return `Mon-Fri at ${time}`;
+  if (dow === '0' || dow === '7') return `Sundays at ${time}`;
+  if (dow === '6') return `Saturdays at ${time}`;
+  return `${time} (${dow})`;
+}
+
+function timeAgo(d) {
+  const diff = (Date.now() - d.getTime()) / 1000;
+  if (diff < 60) return Math.floor(diff) + 's ago';
+  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
+  return Math.floor(diff/86400) + 'd ago';
+}
+
+// ============================================================
+// Trading: Memory
+// ============================================================
+
+function renderMemory() {
+  const list = document.getElementById('memoryList');
+  const index = STATE.data.memoryIndex;
+  const entries = (index && Array.isArray(index.entries))
+    ? index.entries
+    : HARDCODED_MEMORY_DATES.map(d => ({ date: d, filename: `memory/${d}.md`, excerpt: '' }));
+
+  let html = `
+    <div class="memory-entry pinned" data-mem="__long__">
+      <div class="m-title">🧠 Long-term Memory</div>
+      <div class="m-meta">MEMORY.md · pinned</div>
+    </div>
+  `;
+  html += entries.map(e => {
+    const isActive = STATE.selectedMemory && STATE.selectedMemory.filename === e.filename;
+    return `
+      <div class="memory-entry ${isActive ? 'active' : ''}" data-mem="${escapeHTML(e.filename)}" data-date="${escapeHTML(e.date)}">
+        <div class="m-title">${escapeHTML(e.date)}</div>
+        <div class="m-meta">${escapeHTML(e.excerpt || e.filename)}</div>
+      </div>
+    `;
+  }).join('');
+  list.innerHTML = html;
+
+  list.querySelectorAll('.memory-entry').forEach(el => {
+    el.addEventListener('click', () => {
+      const file = el.dataset.mem;
+      if (file === '__long__') loadMemoryFile('MEMORY.md', 'Long-term Memory');
+      else loadMemoryFile(file, el.dataset.date);
+      list.querySelectorAll('.memory-entry').forEach(x => x.classList.remove('active'));
+      el.classList.add('active');
+    });
+  });
+}
+
+async function loadMemoryFile(path, label) {
+  STATE.selectedMemory = { filename: path, label };
+  const content = document.getElementById('memoryContent');
+  content.innerHTML = `<div class="muted">Loading ${escapeHTML(path)}…</div>`;
+  const md = await fetchText(`${RAW}/${path}`);
+  if (!md) {
+    content.innerHTML = `
+      <div class="empty">
+        <span class="icon">📭</span>
+        Could not load <code>${escapeHTML(path)}</code><br>
+        <span style="font-size:11px;">Check that the file exists at <a href="${RAW}/${path}" target="_blank">${RAW}/${path}</a></span>
+      </div>
+    `;
+    return;
+  }
+  content.innerHTML = renderMarkdown(md);
+}
+
+// Tiny markdown renderer (subset)
+function renderMarkdown(md) {
+  const lines = md.split('\n');
+  let html = '';
+  let inCode = false;
+  let inList = false;
+  let listType = null;
+  for (let line of lines) {
+    if (line.startsWith('```')) {
+      if (inCode) { html += '</code></pre>'; inCode = false; }
+      else { html += '<pre><code>'; inCode = true; }
+      continue;
+    }
+    if (inCode) { html += escapeHTML(line) + '\n'; continue; }
+
+    const isUL = /^\s*[-*]\s+/.test(line);
+    const isOL = /^\s*\d+\.\s+/.test(line);
+    if ((isUL || isOL) && !inList) {
+      listType = isUL ? 'ul' : 'ol';
+      html += `<${listType}>`;
+      inList = true;
+    } else if (!isUL && !isOL && inList) {
+      html += `</${listType}>`;
+      inList = false; listType = null;
+    }
+
+    if (isUL || isOL) {
+      const text = line.replace(/^\s*([-*]|\d+\.)\s+/, '');
+      html += '<li>' + inlineMD(text) + '</li>';
+      continue;
+    }
+
+    if (/^#{1,6}\s/.test(line)) {
+      const m = line.match(/^(#{1,6})\s+(.*)/);
+      html += `<h${m[1].length}>${inlineMD(m[2])}</h${m[1].length}>`;
+      continue;
+    }
+
+    if (/^\s*>\s/.test(line)) {
+      html += '<blockquote>' + inlineMD(line.replace(/^\s*>\s/, '')) + '</blockquote>';
+      continue;
+    }
+
+    if (/^---+\s*$/.test(line)) { html += '<hr>'; continue; }
+
+    if (line.trim() === '') { html += ''; continue; }
+    html += '<p>' + inlineMD(line) + '</p>';
+  }
+  if (inCode) html += '</code></pre>';
+  if (inList) html += `</${listType}>`;
+  return html;
+}
+
+function inlineMD(s) {
+  s = escapeHTML(s);
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+  s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+  return s;
+}
+
+// Memory search filter
+document.addEventListener('input', e => {
+  if (e.target.id !== 'memorySearch') return;
+  const q = e.target.value.toLowerCase();
+  document.querySelectorAll('#memoryList .memory-entry').forEach(el => {
+    const txt = el.textContent.toLowerCase();
+    el.style.display = txt.includes(q) ? '' : 'none';
+  });
+});
+
+// ============================================================
+// Trading: Journal
+// ============================================================
+
+function renderJournal() {
+  const data = STATE.data.journal;
+  const wrap = document.getElementById('journalContent');
+  const days = (data && data.days) ? data.days : HARDCODED_JOURNAL;
+  if (!days || days.length === 0) {
+    wrap.innerHTML = '<div class="empty"><span class="icon">📓</span>No journal entries yet.</div>';
+    return;
+  }
+  wrap.innerHTML = days.map(day => `
+    <div class="journal-day">
+      <h3>${escapeHTML(day.date)}</h3>
+      ${(day.entries || []).map(e => `
+        <div class="journal-entry">
+          <span class="j-time">${escapeHTML(e.time)}</span>
+          <span class="j-icon">${e.icon || '•'}</span>
+          <span>${escapeHTML(e.text || e.message || '')}</span>
+        </div>
+      `).join('')}
+    </div>
+  `).join('');
+}
+
+// ============================================================
+// Painting: Dashboard
+// ============================================================
+
+function renderPaintingDashboard() {
+  const leads = STATE.data.paintLeads;
+  const jobs = STATE.data.paintJobs;
+  const mkt = STATE.data.paintMarketing;
+  const grid = document.getElementById('paintStatGrid');
+
+  if (!leads && !jobs && !mkt) {
+    grid.innerHTML = Array(4).fill('<div class="skeleton-card"></div>').join('');
+  } else {
+    const newLeads = leads ? ((leads.new || []).length + (leads.contacted || []).length) : 0;
+    const activeJobs = jobs ? (jobs.active || []).length : 0;
+    const monthRev = mkt ? mkt.month_revenue : null;
+    const roas = mkt ? mkt.roas : null;
+    grid.innerHTML = `
+      <div class="card stat-card">
+        <div class="label">New Leads</div>
+        <div class="value">${newLeads}</div>
+        <div class="sub">In pipeline</div>
+      </div>
+      <div class="card stat-card">
+        <div class="label">Active Jobs</div>
+        <div class="value">${activeJobs}</div>
+        <div class="sub">In progress / scheduled</div>
+      </div>
+      <div class="card stat-card">
+        <div class="label">Month Revenue</div>
+        <div class="value">${fmtMoneyShort(monthRev)}</div>
+        <div class="sub">Booked + completed</div>
+      </div>
+      <div class="card stat-card">
+        <div class="label">Blended ROAS</div>
+        <div class="value">${roas != null ? roas.toFixed(2) + 'x' : '—'}</div>
+        <div class="sub">All channels</div>
+      </div>
+    `;
+  }
+
+  // Week jobs
+  const wjWrap = document.getElementById('paintWeekJobs');
+  if (!jobs) {
+    wjWrap.innerHTML = Array(3).fill('<div class="skeleton-card" style="height:60px;"></div>').join('');
+  } else {
+    const list = (jobs.active || []).slice(0, 5);
+    if (list.length === 0) wjWrap.innerHTML = '<div class="empty"><span class="icon">🪜</span>No active jobs.</div>';
+    else wjWrap.innerHTML = list.map(j => `
+      <div class="card" style="margin-bottom:10px;padding:12px 14px;">
+        <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px;">
+          <strong>${escapeHTML(j.customer || 'Customer')}</strong>
+          <span class="badge ${j.status === 'in_progress' ? 'yellow' : 'blue'}">${escapeHTML(j.status || '—')}</span>
+        </div>
+        <div class="muted" style="font-size:12px;">${escapeHTML(j.address || '')} · ${escapeHTML(j.type || '')}</div>
+        <div class="muted" style="font-size:12px;margin-top:4px;">Start ${escapeHTML(j.start || '—')} · ${fmtMoney(j.quote)}</div>
+      </div>
+    `).join('');
+  }
+
+  // Hot leads
+  const hlWrap = document.getElementById('paintHotLeads');
+  if (!leads) {
+    hlWrap.innerHTML = Array(3).fill('<div class="skeleton-card" style="height:50px;"></div>').join('');
+  } else {
+    const list = (leads.quoted || []).concat(leads.contacted || []).slice(0, 6);
+    if (list.length === 0) hlWrap.innerHTML = '<div class="empty"><span class="icon">🎯</span>No hot leads.</div>';
+    else hlWrap.innerHTML = list.map(l => `
+      <div class="activity-item analysis">
+        <span class="activity-time">${escapeHTML(l.source || '—')} · ${escapeHTML(l.created || '')}</span>
+        <div><strong>${escapeHTML(l.name || 'Lead')}</strong> · ${escapeHTML(l.type || '')} ${l.value ? '· ' + fmtMoneyShort(l.value) : ''}</div>
+      </div>
+    `).join('');
+  }
+}
+
+// ============================================================
+// Painting: Leads
+// ============================================================
+
+function renderPaintingLeads() {
+  const leads = STATE.data.paintLeads;
+  const cols = ['new', 'contacted', 'quoted', 'booked'];
+  const targets = {
+    new: document.getElementById('leadsNew'),
+    contacted: document.getElementById('leadsContacted'),
+    quoted: document.getElementById('leadsQuoted'),
+    booked: document.getElementById('leadsBooked')
+  };
+  const counts = {
+    new: document.getElementById('leadsNewCount'),
+    contacted: document.getElementById('leadsContactedCount'),
+    quoted: document.getElementById('leadsQuotedCount'),
+    booked: document.getElementById('leadsBookedCount')
+  };
+
+  cols.forEach(c => {
+    const arr = leads ? (leads[c] || []) : [];
+    counts[c].textContent = arr.length;
+    if (!leads) {
+      targets[c].innerHTML = '<div class="skeleton-card" style="height:80px;"></div>';
+    } else if (arr.length === 0) {
+      targets[c].innerHTML = '<div class="kanban-empty">No leads here.</div>';
+    } else {
+      targets[c].innerHTML = arr.map(l => `
+        <div class="kanban-card">
+          <div class="k-title">${escapeHTML(l.name || 'Lead')}</div>
+          <div class="k-desc">${escapeHTML(l.type || '')} ${l.address ? '· ' + escapeHTML(l.address) : ''}</div>
+          <div class="k-meta">
+            <span class="badge blue">${escapeHTML(l.source || 'unknown')}</span>
+            ${l.value ? `<span class="badge green">${fmtMoneyShort(l.value)}</span>` : ''}
+            ${l.created ? `<span class="badge gray">${escapeHTML(l.created)}</span>` : ''}
+          </div>
+        </div>
+      `).join('');
+    }
+  });
+}
+
+// ============================================================
+// Painting: Jobs
+// ============================================================
+
+function renderPaintingJobs() {
+  const jobs = STATE.data.paintJobs;
+  const actBody = document.getElementById('jobsActiveBody');
+  const doneBody = document.getElementById('jobsDoneBody');
+
+  if (!jobs) {
+    actBody.innerHTML = `<tr><td colspan="7" class="muted" style="text-align:center;padding:24px;">Loading…</td></tr>`;
+    doneBody.innerHTML = `<tr><td colspan="5" class="muted" style="text-align:center;padding:18px;">—</td></tr>`;
+    return;
+  }
+
+  const active = jobs.active || [];
+  actBody.innerHTML = active.length === 0
+    ? `<tr><td colspan="7" class="muted" style="text-align:center;padding:24px;">No active jobs.</td></tr>`
+    : active.map(j => `
+        <tr>
+          <td><strong>${escapeHTML(j.customer || '—')}</strong></td>
+          <td class="muted">${escapeHTML(j.address || '')}</td>
+          <td>${escapeHTML(j.type || '')}</td>
+          <td class="right">${fmtMoney(j.quote)}</td>
+          <td>${escapeHTML(j.start || '—')}</td>
+          <td><span class="badge ${j.status === 'in_progress' ? 'yellow' : j.status === 'scheduled' ? 'blue' : 'gray'}">${escapeHTML(j.status || '—')}</span></td>
+          <td class="muted">${escapeHTML(j.crew || '—')}</td>
+        </tr>
+      `).join('');
+
+  const done = jobs.completed || [];
+  doneBody.innerHTML = done.length === 0
+    ? `<tr><td colspan="5" class="muted" style="text-align:center;padding:18px;">No completed jobs.</td></tr>`
+    : done.map(j => `
+        <tr>
+          <td><strong>${escapeHTML(j.customer || '—')}</strong></td>
+          <td>${escapeHTML(j.type || '')}</td>
+          <td class="right">${fmtMoney(j.revenue)}</td>
+          <td class="muted">${escapeHTML(j.completed || '—')}</td>
+          <td>${j.rating ? '⭐'.repeat(Math.min(5, j.rating)) : '—'}</td>
+        </tr>
+      `).join('');
+}
+
+// ============================================================
+// Painting: Marketing
+// ============================================================
+
+function renderPaintingMarketing() {
+  const mkt = STATE.data.paintMarketing;
+  const grid = document.getElementById('mktStatGrid');
+  const body = document.getElementById('mktChannelBody');
+
+  if (!mkt) {
+    grid.innerHTML = Array(4).fill('<div class="skeleton-card"></div>').join('');
+    body.innerHTML = `<tr><td colspan="7" class="muted" style="text-align:center;padding:24px;">Loading…</td></tr>`;
+    return;
+  }
+
+  grid.innerHTML = `
+    <div class="card stat-card">
+      <div class="label">Month Spend</div>
+      <div class="value">${fmtMoneyShort(mkt.month_spend)}</div>
+      <div class="sub">All channels</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Month Revenue</div>
+      <div class="value positive">${fmtMoneyShort(mkt.month_revenue)}</div>
+      <div class="sub">Booked + completed</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Avg CPL</div>
+      <div class="value">${fmtMoney(mkt.avg_cpl)}</div>
+      <div class="sub">Cost per lead</div>
+    </div>
+    <div class="card stat-card">
+      <div class="label">Blended ROAS</div>
+      <div class="value">${mkt.roas != null ? mkt.roas.toFixed(2) + 'x' : '—'}</div>
+      <div class="sub">Revenue / spend</div>
+    </div>
+  `;
+
+  const channels = mkt.channels || [];
+  body.innerHTML = channels.length === 0
+    ? `<tr><td colspan="7" class="muted" style="text-align:center;padding:24px;">No channel data.</td></tr>`
+    : channels.map(c => {
+        const roasKlass = (c.roas ?? 0) >= 2 ? 'green' : (c.roas ?? 0) >= 1 ? 'yellow' : 'red';
+        return `
+          <tr>
+            <td><strong>${escapeHTML(c.name || '—')}</strong></td>
+            <td class="right">${fmtMoneyShort(c.spend)}</td>
+            <td class="right">${fmtNum(c.leads)}</td>
+            <td class="right">${fmtMoney(c.cpl)}</td>
+            <td class="right">${fmtNum(c.booked)}</td>
+            <td class="right">${fmtMoneyShort(c.revenue)}</td>
+            <td class="right"><span class="badge ${roasKlass}">${c.roas != null ? c.roas.toFixed(2) + 'x' : '—'}</span></td>
+          </tr>
+        `;
+      }).join('');
+}
+
+// ============================================================
+// Painting: Follow-ups
+// ============================================================
+
+function renderPaintingFollowups() {
+  const fu = STATE.data.paintFollowups;
+  const due = document.getElementById('followupsDue');
+  const up = document.getElementById('followupsUpcoming');
+  if (!fu) {
+    due.innerHTML = Array(3).fill('<div class="skeleton-card" style="height:50px;"></div>').join('');
+    up.innerHTML = Array(3).fill('<div class="skeleton-card" style="height:50px;"></div>').join('');
+    return;
+  }
+  const renderList = (list, emptyMsg) => {
+    if (!list || list.length === 0) return `<div class="empty"><span class="icon">📞</span>${emptyMsg}</div>`;
+    return list.map(f => `
+      <div class="card" style="margin-bottom:8px;padding:12px 14px;display:flex;justify-content:space-between;align-items:center;">
+        <div>
+          <strong>${escapeHTML(f.name || 'Lead')}</strong>
+          <span class="muted" style="font-size:12px;"> · ${escapeHTML(f.reason || '')}</span>
+          <div class="muted" style="font-size:11px;margin-top:2px;">Last touch: ${escapeHTML(f.last_touch || '—')}</div>
+        </div>
+        <div style="text-align:right;">
+          <div><span class="badge ${f.priority === 'high' ? 'red' : f.priority === 'medium' ? 'yellow' : 'gray'}">${escapeHTML(f.priority || 'normal')}</span></div>
+          <div class="muted" style="font-size:11px;margin-top:4px;">Due ${escapeHTML(f.due || '')}</div>
+        </div>
+      </div>
+    `).join('');
+  };
+  due.innerHTML = renderList(fu.due, 'Nothing due. Inbox zero.');
+  up.innerHTML = renderList(fu.upcoming, 'No upcoming follow-ups.');
+}
+
+// ============================================================
+// Painting: Journal
+// ============================================================
+
+function renderPaintingJournal() {
+  const data = STATE.data.paintJournal;
+  const wrap = document.getElementById('paintJournal');
+  const days = (data && data.days) ? data.days : null;
+  if (!days || days.length === 0) {
+    wrap.innerHTML = '<div class="empty"><span class="icon">📓</span>No painting journal entries yet. Once Finn starts logging painting events, they\'ll appear here.</div>';
+    return;
+  }
+  wrap.innerHTML = days.map(day => `
+    <div class="journal-day">
+      <h3>${escapeHTML(day.date)}</h3>
+      ${(day.entries || []).map(e => `
+        <div class="journal-entry">
+          <span class="j-time">${escapeHTML(e.time)}</span>
+          <span class="j-icon">${e.icon || '•'}</span>
+          <span>${escapeHTML(e.text || e.message || '')}</span>
+        </div>
+      `).join('')}
+    </div>
+  `).join('');
+}
+
+// ============================================================
+// Render all
+// ============================================================
+
+function renderAll() {
+  renderHealthPill();
+  renderDashboard();
+  renderPositions();
+  renderAutomations();
+  renderMemory();
+  renderJournal();
+  renderPaintingDashboard();
+  renderPaintingLeads();
+  renderPaintingJobs();
+  renderPaintingMarketing();
+  renderPaintingFollowups();
+  renderPaintingJournal();
+}
+
+// ============================================================
+// Boot
+// ============================================================
+
+document.querySelectorAll('.workspace-tab').forEach(b =>
+  b.addEventListener('click', () => switchWorkspace(b.dataset.ws)));
+
+renderNav();
+showPage();
+loadAll();
+setInterval(loadAll, 5 * 60 * 1000);
+
+</script>
+</body>
+</html>
