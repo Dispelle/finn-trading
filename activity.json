@@ -1,101 +1,65 @@
 {
-  "generated_at": "2026-05-19T17:39:39.778190+00:00",
+  "generated_at": "2026-05-19T17:40:23.390853+00:00",
   "items": [
-    {
-      "ts": "2026-05-19T19:27:00+00:00",
-      "time": "03:27 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd14 MU broke above $706 pivot \u2014 Gareth bearish signal (cascade target $645\u2192$575)"
-    },
     {
       "ts": "2026-05-19T17:35:40.075000+00:00",
       "time": "01:35 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.55** | Strength: 5/5 Below today low confirms downtrend to 71"
+      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.55** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     },
     {
       "ts": "2026-05-19T17:25:27.896000+00:00",
       "time": "01:25 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.62** | Strength: 5/5 Below today low confirms downtrend to 71"
-    },
-    {
-      "ts": "2026-05-19T17:21:00+00:00",
-      "time": "01:21 PM ET",
-      "type": "system",
-      "message": "\ud83d\ude80 Mission Control v2 deployed \u2014 Trading + Painting workspaces"
-    },
-    {
-      "ts": "2026-05-19T16:43:00+00:00",
-      "time": "12:43 PM ET",
-      "type": "system",
-      "message": "\u2699\ufe0f Automation Registry v1 live \u2014 25 jobs monitored"
+      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.62** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     },
     {
       "ts": "2026-05-19T16:26:09.707000+00:00",
       "time": "12:26 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE PIVOT $706.0** Current: **$707.28** | Strength: 5/5 Gareth key level \u2014 break = top confirmed,"
-    },
-    {
-      "ts": "2026-05-19T15:45:00+00:00",
-      "time": "11:45 AM ET",
-      "type": "system",
-      "message": "\u2705 Heartbeat fixes deployed \u2014 Level Watcher, Health Check, Airtable timeout"
-    },
-    {
-      "ts": "2026-05-19T13:45:00+00:00",
-      "time": "09:45 AM ET",
-      "type": "trade",
-      "message": "\ud83c\udfaf Auto-TP system deployed \u2014 OXY TP set at $61.93 (4.4R)"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE PIVOT $706.0** Current: **$707.28** | Strength: 5/5 Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$"
     },
     {
       "ts": "2026-05-19T13:32:27.094000+00:00",
       "time": "09:32 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $415.0** Current: **$420.50** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance co"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $415.0** Current: **$420.50** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
     },
     {
       "ts": "2026-05-19T13:32:25.528000+00:00",
       "time": "09:32 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$221.63** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high t"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$221.63** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     },
     {
       "ts": "2026-05-19T13:31:23.178000+00:00",
       "time": "09:31 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.40** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed to"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.40** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
     },
     {
       "ts": "2026-05-19T13:30:22.510000+00:00",
       "time": "09:30 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $415.0** Current: **$412.33** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance co"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $415.0** Current: **$412.33** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
     },
     {
       "ts": "2026-05-19T13:30:20.517000+00:00",
       "time": "09:30 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$219.92** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high t"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$219.92** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     },
     {
-      "ts": "2026-05-19T13:04:47.481000+00:00",
-      "time": "09:04 AM ET",
-      "type": "analysis",
-      "message": "\u2550\u2550\u2550\u2550  **Moving Averages:** - **MA20 ($79,393.26):** Price **BELOW** by $2,504 | Slope: **UP** (green"
+      "ts": "2026-05-19T13:30:20.010000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.92** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
     },
     {
-      "ts": "2026-05-19T13:04:46.586000+00:00",
-      "time": "09:04 AM ET",
-      "type": "analysis",
-      "message": "\u2550\u2550\u2550\u2550  **Swing used:** From $64,971.71 (60-day low, Dec low) \u2192 $82,792.21 (60-day high, recent peak) "
-    },
-    {
-      "ts": "2026-05-19T13:04:45.705000+00:00",
-      "time": "09:04 AM ET",
-      "type": "analysis",
-      "message": "\u2550\u2550\u2550\u2550  ### RESISTANCE (above price: $76,889):  | Level | Price | Reason | Strength | |-------|-------"
+      "ts": "2026-05-18T19:07:08.178000+00:00",
+      "time": "03:07 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $415.0** Current: **$414.62** | Strength: 4/5 Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume"
     }
   ]
 }
