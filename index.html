@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=1200">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>Finn Mission Control</title>
 <style>
 :root {
@@ -26,7 +26,6 @@ html, body {
   color: var(--text-primary);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 14px;
-  min-width: 1200px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -736,9 +735,122 @@ details.collapse > *:not(summary) { margin-top: 14px; }
 .btn:hover { border-color: var(--accent-blue); }
 .btn.primary { background: var(--accent-blue); border-color: var(--accent-blue); }
 
+
+/* ===== Mobile hamburger button ===== */
+.menu-toggle {
+  display: none;
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  z-index: 200;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 8;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle { display: flex; }
+
+  .sidebar {
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 100;
+    box-shadow: 4px 0 24px rgba(0,0,0,0.5);
+  }
+
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-overlay.open { display: block; }
+
+  .content {
+    margin-left: 0 !important;
+    padding: 16px 14px 80px;
+  }
+
+  .page-title { font-size: 17px; padding-top: 44px; }
+
+  .stat-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 10px;
+  }
+
+  .stat-card .value { font-size: 17px; }
+
+  .two-col {
+    grid-template-columns: 1fr !important;
+  }
+
+  .kanban {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 10px;
+  }
+
+  .kanban-column h3 { font-size: 10px; }
+
+  .job-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .cal-grid {
+    grid-template-columns: repeat(7, minmax(90px, 1fr)) !important;
+    overflow-x: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 6px;
+    padding-bottom: 8px;
+  }
+
+  .cal-day { min-width: 90px; flex-shrink: 0; }
+
+  .table-wrap { overflow-x: auto; }
+
+  .memory-layout {
+    grid-template-columns: 1fr !important;
+  }
+
+  .memory-content { min-height: 300px; }
+
+  .health-bar {
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 12px;
+  }
+
+  .health-bar .updated { margin-left: 0; width: 100%; }
+
+  .table th, .table td { padding: 8px 10px; font-size: 12px; }
+
+  .position-stats { grid-template-columns: repeat(2, 1fr) !important; }
+
+  .workspace-switcher { padding: 0 12px 14px; }
+
+  .page-header { flex-direction: column; gap: 4px; }
+}
+
+@media (max-width: 400px) {
+  .stat-grid { grid-template-columns: 1fr 1fr !important; }
+  .kanban { grid-template-columns: 1fr !important; overflow-x: auto; }
+}
+
 </style>
 </head>
 <body>
+<button class="menu-toggle" id="menuToggle">☰</button>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
 <div class="app">
   <aside class="sidebar">
     <div class="logo"><span>🐾</span><span>Finn</span></div>
@@ -2118,6 +2230,31 @@ renderNav();
 showPage();
 loadAll();
 setInterval(loadAll, 5 * 60 * 1000);
+
+
+// ===== Mobile sidebar toggle =====
+const menuToggle = document.getElementById('menuToggle');
+const sidebarEl  = document.querySelector('.sidebar');
+const overlay    = document.getElementById('sidebarOverlay');
+
+function openSidebar() {
+  sidebarEl.classList.add('open');
+  overlay.classList.add('open');
+}
+function closeSidebar() {
+  sidebarEl.classList.remove('open');
+  overlay.classList.remove('open');
+}
+
+menuToggle.addEventListener('click', () => {
+  sidebarEl.classList.contains('open') ? closeSidebar() : openSidebar();
+});
+overlay.addEventListener('click', closeSidebar);
+
+// Close sidebar on nav item click (mobile)
+document.getElementById('navList').addEventListener('click', () => {
+  if (window.innerWidth <= 768) closeSidebar();
+});
 
 </script>
 </body>
