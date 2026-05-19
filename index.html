@@ -161,7 +161,7 @@ a:hover { text-decoration: underline; }
 }
 
 .page { display: none; }
-.page.active { display: block; }
+.page.active { display: block !important; }
 
 .page-header {
   margin-bottom: 22px;
@@ -1320,7 +1320,7 @@ async function loadAll() {
   ];
   const results = await Promise.all(files.map(([_, f]) => fetchJSON(f)));
   files.forEach(([key], i) => { STATE.data[key] = results[i]; });
-  renderAll();
+  try { renderAll(); } catch(e) { console.error("renderAll error:", e); }
   document.getElementById('lastRefresh').textContent = 'Refreshed ' + new Date().toLocaleTimeString();
 }
 
@@ -2228,7 +2228,8 @@ document.querySelectorAll('.workspace-tab').forEach(b =>
 
 renderNav();
 showPage();
-loadAll();
+renderAll();  // Show skeletons immediately
+loadAll();    // Then fetch real data
 setInterval(loadAll, 5 * 60 * 1000);
 
 
