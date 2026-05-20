@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-20T13:36:46.245178+00:00",
+  "generated_at": "2026-05-20T13:51:46.392089+00:00",
   "items": [
+    {
+      "ts": "2026-05-20T13:42:52.157000+00:00",
+      "time": "09:42 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R3 $60.79** Current: **$60.78** | Strength: 4/5"
+    },
     {
       "ts": "2026-05-20T13:33:38.897000+00:00",
       "time": "09:33 AM ET",
@@ -54,12 +60,6 @@
       "time": "02:56 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW PIVOT $706.0** Current: **$705.65** | Strength: 5/5 Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$"
-    },
-    {
-      "ts": "2026-05-19T18:32:01.703000+00:00",
-      "time": "02:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R3 $60.79** Current: **$60.77** | Strength: 4/5"
     }
   ]
 }
