@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-21T17:36:52.196125+00:00",
+  "generated_at": "2026-05-21T17:51:51.983794+00:00",
   "items": [
+    {
+      "ts": "2026-05-21T17:50:51.016000+00:00",
+      "time": "01:50 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.43** | Strength: 3/5 Prior consolidation resistance zone"
+    },
     {
       "ts": "2026-05-21T17:15:56.935000+00:00",
       "time": "01:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:15 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $59.36** Current: **$59.47** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-05-20T16:11:44.108000+00:00",
-      "time": "12:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.32** | Strength: 5/5"
     }
   ]
 }
