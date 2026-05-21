@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-21T14:22:02.435829+00:00",
+  "generated_at": "2026-05-21T14:36:51.153091+00:00",
   "items": [
+    {
+      "ts": "2026-05-21T14:31:30.067000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.26** | Strength: 5/5"
+    },
     {
       "ts": "2026-05-21T14:19:13.787000+00:00",
       "time": "10:19 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:42 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R3 $60.79** Current: **$60.78** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-05-20T13:33:38.897000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R3 $60.79** Current: **$60.92** | Strength: 4/5"
     }
   ]
 }
