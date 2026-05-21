@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-21T15:36:54.160746+00:00",
+  "generated_at": "2026-05-21T15:51:53.171975+00:00",
   "items": [
+    {
+      "ts": "2026-05-21T15:47:05.262000+00:00",
+      "time": "11:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.10** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
     {
       "ts": "2026-05-21T14:31:30.067000+00:00",
       "time": "10:31 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:12 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW PIVOT $706.0** Current: **$705.34** | Strength: 5/5 Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$"
-    },
-    {
-      "ts": "2026-05-20T13:42:52.157000+00:00",
-      "time": "09:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R3 $60.79** Current: **$60.78** | Strength: 4/5"
     }
   ]
 }
