@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-21T18:07:39.771029+00:00",
+  "generated_at": "2026-05-21T18:21:52.068659+00:00",
   "items": [
+    {
+      "ts": "2026-05-21T18:20:40.001000+00:00",
+      "time": "02:20 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.76** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
+    },
+    {
+      "ts": "2026-05-21T18:10:27.026000+00:00",
+      "time": "02:10 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.52** | Strength: 3/5 Prior consolidation resistance zone"
+    },
     {
       "ts": "2026-05-21T17:54:57.794000+00:00",
       "time": "01:54 PM ET",
@@ -48,18 +60,6 @@
       "time": "10:18 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$220.37** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
-    },
-    {
-      "ts": "2026-05-21T13:37:18.074000+00:00",
-      "time": "09:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $226.28** Current: **$224.62** | Strength: 4/5 Fib 1.272 extension target"
-    },
-    {
-      "ts": "2026-05-21T13:35:15.049000+00:00",
-      "time": "09:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $226.28** Current: **$226.54** | Strength: 4/5 Fib 1.272 extension target"
     }
   ]
 }
