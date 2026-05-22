@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-22T17:22:50.019964+00:00",
+  "generated_at": "2026-05-22T17:36:37.296599+00:00",
   "items": [
+    {
+      "ts": "2026-05-22T17:33:48.245000+00:00",
+      "time": "01:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.31** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-05-22T17:30:44.498000+00:00",
+      "time": "01:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$58.12** | Strength: 5/5"
+    },
     {
       "ts": "2026-05-22T16:20:10.656000+00:00",
       "time": "12:20 PM ET",
@@ -48,18 +60,6 @@
       "time": "09:30 AM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.23** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-05-21T19:47:54.123000+00:00",
-      "time": "03:47 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.07** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
-    },
-    {
-      "ts": "2026-05-21T18:23:44.880000+00:00",
-      "time": "02:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.99** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
     }
   ]
 }
