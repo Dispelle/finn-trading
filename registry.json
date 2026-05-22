@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-05-22T12:52:19.020406+00:00",
-  "overall_status": "green",
-  "overdue_count": 0,
+  "generated_at": "2026-05-22T13:21:35.356507+00:00",
+  "overall_status": "red",
+  "overdue_count": 3,
   "total_jobs": 24,
   "openclaw_crons": [
+    {
+      "id": "9402bab7",
+      "name": "Watcher Watchdog (lev...",
+      "schedule": "every 5m",
+      "script": "level_watcher_local",
+      "last_run": "2026-05-22T12:58:35.354994+00:00",
+      "last_run_label": "\u2717 0.4h ago \u2014 OVERDUE",
+      "status": "red",
+      "expected_hours": 0.083,
+      "api_keys": [
+        "Alpaca",
+        "Coinbase",
+        "Discord"
+      ]
+    },
     {
       "id": "35a221f2",
       "name": "Mission Control \u2014 Pus...",
       "schedule": "every 15m",
       "script": "push_mission_control",
-      "last_run": "2026-05-22T12:36:19.018718+00:00",
-      "last_run_label": "0.3h ago",
-      "status": "green",
+      "last_run": "2026-05-22T12:51:35.355116+00:00",
+      "last_run_label": "\u2717 0.5h ago \u2014 OVERDUE",
+      "status": "red",
       "expected_hours": 0.25,
       "api_keys": [
         "Alpaca",
@@ -21,112 +36,11 @@
       ]
     },
     {
-      "id": "9402bab7",
-      "name": "Watcher Watchdog (lev...",
-      "schedule": "every 5m",
-      "script": "level_watcher_local",
-      "last_run": "2026-05-22T12:48:19.018877+00:00",
-      "last_run_label": "0.1h ago (mkt closed)",
-      "status": "gray",
-      "expected_hours": 0.083,
-      "api_keys": [
-        "Alpaca",
-        "Coinbase",
-        "Discord"
-      ]
-    },
-    {
-      "id": "4c920861",
-      "name": "Discord \u2014 Watchlist (...",
-      "schedule": "cron 0 13,20 * * 1-5 @ UTC (e...",
-      "script": "watchlist_update",
-      "last_run": "2026-05-21T19:52:19.018969+00:00",
-      "last_run_label": "17.0h ago",
-      "status": "green",
-      "expected_hours": 12,
-      "api_keys": [
-        "Alpaca",
-        "Coinbase",
-        "Discord"
-      ]
-    },
-    {
-      "id": "6448de3d",
-      "name": "Discord \u2014 Goals Updat...",
-      "schedule": "cron 0 13,20 * * 1-5 @ UTC (e...",
-      "script": "goals_update",
-      "last_run": "2026-05-21T19:52:19.019053+00:00",
-      "last_run_label": "17.0h ago",
-      "status": "green",
-      "expected_hours": 12,
-      "api_keys": [
-        "Alpaca",
-        "Coinbase",
-        "Discord"
-      ]
-    },
-    {
-      "id": "8737eeef",
-      "name": "Discord \u2014 My Position...",
-      "schedule": "cron 0 13 * * 1-5 @ UTC (exact)",
-      "script": "unknown",
-      "last_run": "2026-05-21T12:52:19.019135+00:00",
-      "last_run_label": "24.0h ago (mkt closed)",
-      "status": "gray",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "d01a2cdd",
-      "name": "Shadow Alert Filter \u2014...",
-      "schedule": "cron */15 9-16 * * 1-5 @ Amer...",
-      "script": "alert_evaluator",
-      "last_run": "2026-05-21T20:52:19.019197+00:00",
-      "last_run_label": "16.0h ago (mkt closed)",
-      "status": "gray",
-      "expected_hours": 0.25,
-      "api_keys": [
-        "Discord"
-      ]
-    },
-    {
-      "id": "dd89f6a8",
-      "name": "Discord \u2014 Daily Picks...",
-      "schedule": "cron 0 9 * * 1-5 @ America/Ne...",
-      "script": "daily_picks",
-      "last_run": "2026-05-21T13:02:22.852930+00:00",
-      "last_run_label": "23.8h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "Alpaca",
-        "Coinbase",
-        "Anthropic",
-        "Discord"
-      ]
-    },
-    {
-      "id": "e5cc98c4",
-      "name": "NVDA Retest Watcher",
-      "schedule": "cron */3 9-16 * * 1-5 @ Ameri...",
-      "script": "nvda_retest_watch",
-      "last_run": "2026-05-21T20:52:19.019261+00:00",
-      "last_run_label": "16.0h ago (mkt closed)",
-      "status": "gray",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "Alpaca",
-        "Discord"
-      ]
-    },
-    {
       "id": "987dd610",
       "name": "Daily Gareth recap sc...",
       "schedule": "cron 15 9 * * 1-5 @ America/N...",
       "script": "soloway_monitor",
-      "last_run": "2026-05-21T12:52:19.019294+00:00",
+      "last_run": "2026-05-21T13:21:35.355184+00:00",
       "last_run_label": "24.0h ago",
       "status": "green",
       "expected_hours": 24,
@@ -138,12 +52,39 @@
       ]
     },
     {
+      "id": "e5cc98c4",
+      "name": "NVDA Retest Watcher",
+      "schedule": "cron */3 9-16 * * 1-5 @ Ameri...",
+      "script": "nvda_retest_watch",
+      "last_run": "2026-05-22T13:20:35.355242+00:00",
+      "last_run_label": "0.0h ago",
+      "status": "green",
+      "expected_hours": 0.05,
+      "api_keys": [
+        "Alpaca",
+        "Discord"
+      ]
+    },
+    {
+      "id": "d01a2cdd",
+      "name": "Shadow Alert Filter \u2014...",
+      "schedule": "cron */15 9-16 * * 1-5 @ Amer...",
+      "script": "alert_evaluator",
+      "last_run": "2026-05-22T13:20:35.355285+00:00",
+      "last_run_label": "0.0h ago",
+      "status": "green",
+      "expected_hours": 0.25,
+      "api_keys": [
+        "Discord"
+      ]
+    },
+    {
       "id": "d57a0119",
       "name": "Market Open Watch \u2014 9...",
       "schedule": "cron 30 9 * * 1-5 @ America/N...",
       "script": "unknown",
-      "last_run": "2026-05-21T13:52:19.019332+00:00",
-      "last_run_label": "23.0h ago",
+      "last_run": "2026-05-21T13:21:35.355394+00:00",
+      "last_run_label": "24.0h ago",
       "status": "green",
       "expected_hours": 24,
       "api_keys": [
@@ -155,9 +96,9 @@
       "name": "Position Monitor \u2014 Ev...",
       "schedule": "cron */15 10-22 * * 1-5 @ Ame...",
       "script": "position_monitor",
-      "last_run": "2026-05-22T02:52:19.019360+00:00",
-      "last_run_label": "10.0h ago (mkt closed)",
-      "status": "gray",
+      "last_run": "2026-05-22T02:21:35.355438+00:00",
+      "last_run_label": "\u2717 11.0h ago \u2014 OVERDUE",
+      "status": "red",
       "expected_hours": 0.25,
       "api_keys": [
         "Alpaca",
@@ -172,7 +113,7 @@
       "schedule": "cron 0 */2 * * * (stagger 5m)",
       "script": "health_check",
       "last_run": "2026-05-22T12:02:11.833595+00:00",
-      "last_run_label": "0.8h ago",
+      "last_run_label": "1.3h ago",
       "status": "green",
       "expected_hours": 2,
       "api_keys": [
@@ -187,8 +128,8 @@
       "name": "Soloway YouTube Monitor",
       "schedule": "cron 0 */3 * * * (stagger 5m)",
       "script": "soloway_monitor",
-      "last_run": "2026-05-22T12:00:19.019431+00:00",
-      "last_run_label": "0.9h ago",
+      "last_run": "2026-05-22T12:21:35.355513+00:00",
+      "last_run_label": "1.0h ago",
       "status": "green",
       "expected_hours": 3,
       "api_keys": [
@@ -203,8 +144,8 @@
       "name": "knowledge-monitor",
       "schedule": "cron 0 */3 * * * (stagger 5m)",
       "script": "knowledge_monitor",
-      "last_run": "2026-05-22T12:02:19.019462+00:00",
-      "last_run_label": "0.8h ago",
+      "last_run": "2026-05-22T12:21:35.355576+00:00",
+      "last_run_label": "1.0h ago",
       "status": "green",
       "expected_hours": 3,
       "api_keys": [
@@ -218,7 +159,7 @@
       "name": "Market News \u2014 Midday ...",
       "schedule": "cron 0 17 * * 1-5 @ UTC (exact)",
       "script": "market_news",
-      "last_run": "2026-05-21T16:52:19.019503+00:00",
+      "last_run": "2026-05-21T17:21:35.355678+00:00",
       "last_run_label": "20.0h ago",
       "status": "green",
       "expected_hours": 24,
@@ -232,7 +173,7 @@
       "name": "Remind Bill \u2014 Dave Cu...",
       "schedule": "cron 0 14 * * * @ America/New...",
       "script": "unknown",
-      "last_run": "2026-05-21T17:52:19.019620+00:00",
+      "last_run": "2026-05-21T18:21:35.355732+00:00",
       "last_run_label": "19.0h ago",
       "status": "green",
       "expected_hours": 24,
@@ -245,7 +186,7 @@
       "name": "BILL Spend & Expense ...",
       "schedule": "cron 56 15 * * * @ America/Ne...",
       "script": "unknown",
-      "last_run": "2026-05-21T19:52:19.019728+00:00",
+      "last_run": "2026-05-21T20:21:35.355772+00:00",
       "last_run_label": "17.0h ago",
       "status": "green",
       "expected_hours": 24,
@@ -254,16 +195,46 @@
       ]
     },
     {
+      "id": "4c920861",
+      "name": "Discord \u2014 Watchlist (...",
+      "schedule": "cron 0 13,20 * * 1-5 @ UTC (e...",
+      "script": "watchlist_update",
+      "last_run": "2026-05-22T13:00:35.355818+00:00",
+      "last_run_label": "0.4h ago",
+      "status": "green",
+      "expected_hours": 12,
+      "api_keys": [
+        "Alpaca",
+        "Coinbase",
+        "Discord"
+      ]
+    },
+    {
       "id": "4f9bbdda",
       "name": "Discord \u2014 My Position...",
       "schedule": "cron 0 20 * * 1-5 @ UTC (exact)",
       "script": "unknown",
-      "last_run": "2026-05-21T19:52:19.019809+00:00",
-      "last_run_label": "17.0h ago (mkt closed)",
-      "status": "gray",
+      "last_run": "2026-05-21T20:21:35.355889+00:00",
+      "last_run_label": "17.0h ago",
+      "status": "green",
       "expected_hours": 24,
       "api_keys": [
         "?"
+      ]
+    },
+    {
+      "id": "6448de3d",
+      "name": "Discord \u2014 Goals Updat...",
+      "schedule": "cron 0 13,20 * * 1-5 @ UTC (e...",
+      "script": "goals_update",
+      "last_run": "2026-05-22T13:00:35.355955+00:00",
+      "last_run_label": "0.4h ago",
+      "status": "green",
+      "expected_hours": 12,
+      "api_keys": [
+        "Alpaca",
+        "Coinbase",
+        "Discord"
       ]
     },
     {
@@ -271,8 +242,8 @@
       "name": "Discord \u2014 Market Clos...",
       "schedule": "cron 30 16 * * 1-5 @ America/...",
       "script": "unknown",
-      "last_run": "2026-05-21T20:52:19.019872+00:00",
-      "last_run_label": "16.0h ago",
+      "last_run": "2026-05-21T20:21:35.356023+00:00",
+      "last_run_label": "17.0h ago",
       "status": "green",
       "expected_hours": 24,
       "api_keys": [
@@ -284,7 +255,7 @@
       "name": "Weekly Deposit Remind...",
       "schedule": "cron 0 17 * * 5 @ America/New...",
       "script": "unknown",
-      "last_run": "2026-05-15T12:52:19.019947+00:00",
+      "last_run": "2026-05-15T13:21:35.356072+00:00",
       "last_run_label": "168.0h ago",
       "status": "green",
       "expected_hours": 168,
@@ -297,7 +268,7 @@
       "name": "Weekly Review \u2014 Sunda...",
       "schedule": "cron 0 22 * * 0 @ UTC (exact)",
       "script": "unknown",
-      "last_run": "2026-05-17T12:52:19.020040+00:00",
+      "last_run": "2026-05-17T13:21:35.356127+00:00",
       "last_run_label": "120.0h ago",
       "status": "green",
       "expected_hours": 168,
@@ -310,7 +281,7 @@
       "name": "Macro Calendar \u2014 Weekly",
       "schedule": "cron 30 22 * * 0 @ UTC (exact)",
       "script": "unknown",
-      "last_run": "2026-05-17T12:52:19.020115+00:00",
+      "last_run": "2026-05-17T13:21:35.356189+00:00",
       "last_run_label": "120.0h ago",
       "status": "green",
       "expected_hours": 168,
@@ -323,7 +294,7 @@
       "name": "Daily Heartbeat \u2014 7AM ET",
       "schedule": "cron 0 11 * * 1-5 @ UTC (exact)",
       "script": "daily_heartbeat",
-      "last_run": "2026-05-22T10:52:19.020188+00:00",
+      "last_run": "2026-05-22T11:21:35.356238+00:00",
       "last_run_label": "2.0h ago",
       "status": "green",
       "expected_hours": 24,
@@ -331,6 +302,35 @@
         "Alpaca",
         "Airtable",
         "GitHub",
+        "Discord"
+      ]
+    },
+    {
+      "id": "8737eeef",
+      "name": "Discord \u2014 My Position...",
+      "schedule": "cron 0 13 * * 1-5 @ UTC (exact)",
+      "script": "unknown",
+      "last_run": "2026-05-22T12:59:35.356291+00:00",
+      "last_run_label": "0.4h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "dd89f6a8",
+      "name": "Discord \u2014 Daily Picks...",
+      "schedule": "cron 0 9 * * 1-5 @ America/Ne...",
+      "script": "daily_picks",
+      "last_run": "2026-05-22T13:02:20.652715+00:00",
+      "last_run_label": "0.3h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "Alpaca",
+        "Coinbase",
+        "Anthropic",
         "Discord"
       ]
     },
