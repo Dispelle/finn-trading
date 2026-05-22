@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-22T13:36:19.987101+00:00",
+  "generated_at": "2026-05-22T13:51:20.706265+00:00",
   "items": [
+    {
+      "ts": "2026-05-22T13:41:52.114000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.82** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
+    {
+      "ts": "2026-05-22T13:39:49.167000+00:00",
+      "time": "09:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.25** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
     {
       "ts": "2026-05-22T13:32:39.626000+00:00",
       "time": "09:32 AM ET",
@@ -48,18 +60,6 @@
       "time": "02:20 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.76** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-21T18:10:27.026000+00:00",
-      "time": "02:10 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.52** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-05-21T17:54:57.794000+00:00",
-      "time": "01:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.34** | Strength: 5/5"
     }
   ]
 }
