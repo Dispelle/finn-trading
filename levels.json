@@ -74,7 +74,8 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   },
   "RTX": {
     "last_updated": "2026-05-13",
@@ -121,7 +122,8 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   },
   "OXY": {
     "last_updated": "2026-05-13",
@@ -238,7 +240,8 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "portfolio"
   },
   "MSTR": {
     "last_updated": "2026-05-12",
@@ -295,7 +298,8 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   },
   "BTC": {
     "last_updated": "2026-05-13",
@@ -362,7 +366,8 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "portfolio"
   },
   "INTC": {
     "last_updated": "2026-05-15",
@@ -392,7 +397,8 @@
         "last_hit": null,
         "expires": "2026-08-13"
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   },
   "MU": {
     "last_updated": "2026-05-15",
@@ -434,7 +440,8 @@
         "expires": "2026-08-13",
         "gareth_note": "This is where Soloway says he buys."
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   },
   "AMD": {
     "last_updated": "2026-05-18",
@@ -451,6 +458,7 @@
         "hit_count": 0,
         "last_hit": null
       }
-    ]
+    ],
+    "ticker_source": "watchlist"
   }
 }
