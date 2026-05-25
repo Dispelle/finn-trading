@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-25T02:56:49.777724+00:00",
-  "portfolio_total": 1099.8,
+  "generated_at": "2026-05-25T03:11:56.701562+00:00",
+  "portfolio_total": 509.16,
   "alpaca_equity": 505.09,
-  "btc_value": 594.71,
+  "btc_value": 4.07,
   "cash_ready": 347.18,
   "month_pnl_pct": 10.7,
   "month_pnl_dollar": 38.6,
   "month_target_pct": 15.0,
-  "unrealized_total": -24.57,
-  "long_count": 2,
+  "unrealized_total": 8.91,
+  "long_count": 1,
   "short_count": 0,
   "open": [
     {
@@ -25,21 +25,6 @@
       "conviction": "7/10",
       "status": "HOLD",
       "account": "Alpaca"
-    },
-    {
-      "ticker": "BTC",
-      "side": "long",
-      "entry": 81388,
-      "current": 77050,
-      "qty": 0.007719,
-      "stop": null,
-      "tp": null,
-      "pnl_dollar": -33.48,
-      "pnl_pct": -5.33,
-      "r": null,
-      "conviction": "6/10",
-      "status": "HOLD",
-      "account": "Coinbase"
     }
   ]
 }
