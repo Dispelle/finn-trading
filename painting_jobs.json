@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T22:00:07.528291+00:00",
+  "generated_at": "2026-05-26T22:14:16.117831+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 5,
+    "active": 4,
     "scheduled": 6
   },
   "jobs": [
@@ -52,18 +52,6 @@
       "value": 0,
       "notes": "Wallpaper install. Hole patching needed \u2014 send painter ahead to fix holes. Client very flexible.",
       "start_date": "2026-05-07T08:00:00.000Z",
-      "client_phone": ""
-    },
-    {
-      "id": "recO6uSJWyjB7iUXL",
-      "name": "5 Ashley Ln - Danvers",
-      "address": "5 Ashley Ln, Danvers, MA 01923",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "",
-      "value": 0,
-      "notes": "",
-      "start_date": "",
       "client_phone": ""
     },
     {
