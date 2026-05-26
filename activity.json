@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-26T13:38:26.992168+00:00",
+  "generated_at": "2026-05-26T13:52:51.357668+00:00",
   "items": [
+    {
+      "ts": "2026-05-26T13:47:17.567000+00:00",
+      "time": "09:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.63** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
+    },
+    {
+      "ts": "2026-05-26T13:46:15.944000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.56** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
+    },
     {
       "ts": "2026-05-26T13:31:52.751000+00:00",
       "time": "09:31 AM ET",
@@ -48,18 +60,6 @@
       "time": "12:19 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.63** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-22T13:41:52.114000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.82** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
-    },
-    {
-      "ts": "2026-05-22T13:39:49.167000+00:00",
-      "time": "09:39 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.25** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
     }
   ]
 }
