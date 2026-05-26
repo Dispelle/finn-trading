@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:00:16.337427+00:00",
+  "generated_at": "2026-05-26T22:14:25.034471+00:00",
   "overall_status": "green",
   "overdue_count": 0,
   "total_jobs": 0,
@@ -74,6 +74,11 @@
       "id": "AesJfkHo",
       "name": "My workflow",
       "active": false
+    },
+    {
+      "id": "CCq9lDCs",
+      "name": "Pipeline Sync \u2014 Lead Status \u2192 Job Status",
+      "active": true
     },
     {
       "id": "D4h2FvcW",
@@ -248,11 +253,6 @@
     {
       "id": "pBBONrwD",
       "name": "Airtable: Project in Progress \u2192 Crew App Job Sync",
-      "active": false
-    },
-    {
-      "id": "qh49dwlz",
-      "name": "UPA - Content Creator Agent",
       "active": false
     }
   ],
