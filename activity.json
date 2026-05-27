@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-05-27T13:23:58.982901+00:00",
+  "generated_at": "2026-05-27T13:39:00.990461+00:00",
   "items": [
+    {
+      "ts": "2026-05-27T13:35:37.525000+00:00",
+      "time": "09:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.50** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
+    },
+    {
+      "ts": "2026-05-27T13:33:34.203000+00:00",
+      "time": "09:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE BUY $75000.0** Current: **$75068.74** | Strength: 5/5 Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. R"
+    },
+    {
+      "ts": "2026-05-27T13:32:32.122000+00:00",
+      "time": "09:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW BUY $75000.0** Current: **$74999.96** | Strength: 5/5 Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. R"
+    },
+    {
+      "ts": "2026-05-27T13:30:27.421000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.46** Current: **$56.05** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-05-27T13:30:26.681000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $56.25** Current: **$56.05** | Strength: 4/5 Fib 0.500 midpoint \u2014 apex of current indecision"
+    },
     {
       "ts": "2026-05-26T14:07:46.518000+00:00",
       "time": "10:07 AM ET",
@@ -30,36 +60,6 @@
       "time": "09:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$57.91** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-05-26T13:30:47.634000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$57.91** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-05-22T17:53:12.308000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.51** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-05-22T17:33:48.245000+00:00",
-      "time": "01:33 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.31** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-05-22T17:30:44.498000+00:00",
-      "time": "01:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$58.12** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-05-22T16:20:10.656000+00:00",
-      "time": "12:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.53** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
