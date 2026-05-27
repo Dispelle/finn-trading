@@ -1,10 +1,261 @@
 {
-  "generated_at": "2026-05-27T15:25:04.393237+00:00",
+  "generated_at": "2026-05-27T15:39:25.410391+00:00",
   "overall_status": "green",
   "overdue_count": 0,
   "total_jobs": 0,
   "openclaw_crons": [],
-  "n8n_workflows": [],
+  "n8n_workflows": [
+    {
+      "id": "3DbAxZ5A",
+      "name": "ANNIE Call Handler (Claude + Bill \u2014 tested \u2705)",
+      "active": true
+    },
+    {
+      "id": "3L4OwbYU",
+      "name": "PaintScout Quote Sent \u2192 Airtable Client + Estimate",
+      "active": false
+    },
+    {
+      "id": "4KROahkY",
+      "name": "Receipt Scanner - contactapainter@",
+      "active": true
+    },
+    {
+      "id": "4kbxyuZG",
+      "name": "UPA - Calendar Agent",
+      "active": true
+    },
+    {
+      "id": "4ovbFH92",
+      "name": "One-Shot: Ina Rossman - Airtable + Calendar",
+      "active": false
+    },
+    {
+      "id": "4rTjiDZZ",
+      "name": "Discord \u2014 Earnings Watch",
+      "active": true
+    },
+    {
+      "id": "4v2StxrF",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": true
+    },
+    {
+      "id": "6cysfWKU",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": false
+    },
+    {
+      "id": "7CvZUzti",
+      "name": "One-Shot: Ina Rossman Setup",
+      "active": false
+    },
+    {
+      "id": "7kfDKkrt",
+      "name": "Paintsocut to Airtable (Quote Sent)",
+      "active": false
+    },
+    {
+      "id": "8kvjCyYq",
+      "name": "Job Profitability \u2014 Auto-Calculate on Complete",
+      "active": true
+    },
+    {
+      "id": "9t75aABH",
+      "name": "Chart Trigger \u2014 Level Alerts",
+      "active": true
+    },
+    {
+      "id": "AQOwiT1T",
+      "name": "Home Decor Invoice Parser (Phase 1 - Manual)",
+      "active": false
+    },
+    {
+      "id": "AesJfkHo",
+      "name": "My workflow",
+      "active": false
+    },
+    {
+      "id": "CCq9lDCs",
+      "name": "Pipeline Sync \u2014 Lead Status \u2192 Job Status",
+      "active": true
+    },
+    {
+      "id": "D4h2FvcW",
+      "name": "Discord \u2014 Daily Morning Picks",
+      "active": false
+    },
+    {
+      "id": "EaO9eIwu",
+      "name": "UPA - Ultimate Assistant (Main Orchestrator)",
+      "active": true
+    },
+    {
+      "id": "G7oGQSDH",
+      "name": "_Backfill 48h - contactapainter@",
+      "active": true
+    },
+    {
+      "id": "HcvvfVB6",
+      "name": "ANNIE \u2014 Caller Recognition (Pre-Call Webhook)",
+      "active": true
+    },
+    {
+      "id": "Hvhg5a3s",
+      "name": "ANNIE Call Handler Backup perfectly tested",
+      "active": false
+    },
+    {
+      "id": "JZsFYmnl",
+      "name": "Level Watcher \u2014 Price Crosses",
+      "active": true
+    },
+    {
+      "id": "Kl8S88QC",
+      "name": "GHL New Contact \u2192 Airtable Client",
+      "active": true
+    },
+    {
+      "id": "KuBbUFMq",
+      "name": "UPA - Contact Agent",
+      "active": false
+    },
+    {
+      "id": "LPPfGmP8",
+      "name": "Sync Retell AI Call Details to GHL",
+      "active": false
+    },
+    {
+      "id": "N6vYS25O",
+      "name": "PaintScout Quote Accepted \u2192 Pre-Job Form SMS",
+      "active": true
+    },
+    {
+      "id": "NlCZxo0K",
+      "name": "Estimate Follow-Up Sequence \u2014 Day 1, 3, 6 (INACTIVE)",
+      "active": false
+    },
+    {
+      "id": "QKsefDKl",
+      "name": "My workflow 2",
+      "active": false
+    },
+    {
+      "id": "RMVHrQXU",
+      "name": "Discord \u2014 Market Close EOD",
+      "active": false
+    },
+    {
+      "id": "Sv4xkZ5V",
+      "name": "My workflow 4",
+      "active": false
+    },
+    {
+      "id": "TNrsiqpx",
+      "name": "Daily Morning Pipeline Report \u2014 7:30 AM",
+      "active": false
+    },
+    {
+      "id": "Uat2lTSG",
+      "name": "Receipt Scanner - team@",
+      "active": true
+    },
+    {
+      "id": "YcfCCIIV",
+      "name": "Discord \u2014 Price Alerts",
+      "active": true
+    },
+    {
+      "id": "Zh2iTtaV",
+      "name": "Claude MCP Server",
+      "active": true
+    },
+    {
+      "id": "ZzYdjV9X",
+      "name": "SMS Pipeline Updater",
+      "active": true
+    },
+    {
+      "id": "bSLIO2Gy",
+      "name": "Google Ads Query - Temp",
+      "active": true
+    },
+    {
+      "id": "dM89SIiq",
+      "name": "UPA - Content Creator Agent",
+      "active": true
+    },
+    {
+      "id": "dxN01QQe",
+      "name": "PaintScout \u2192 Airtable: Log Estimate on Send",
+      "active": true
+    },
+    {
+      "id": "e6qc7FIH",
+      "name": "Website Lead Form \u2192 GHL Contact + Airtable Client",
+      "active": true
+    },
+    {
+      "id": "eeANU1su",
+      "name": "Finn Live Status",
+      "active": false
+    },
+    {
+      "id": "gooR5Whx",
+      "name": "TEMP - Gmail Sync Test",
+      "active": false
+    },
+    {
+      "id": "hWItSyzA",
+      "name": "Job Calendar \u2014 Auto Set End Date from Job Value",
+      "active": true
+    },
+    {
+      "id": "k8FT7oad",
+      "name": "PaintScout Quote Sent \u2192 Airtable + GHL (v2)",
+      "active": true
+    },
+    {
+      "id": "kalJt1bK",
+      "name": "Finn Live Status",
+      "active": true
+    },
+    {
+      "id": "knvWStgF",
+      "name": "Gmail Inbox \u2192 Airtable Client Notes Sync (Daily)",
+      "active": true
+    },
+    {
+      "id": "mJ2ebfwa",
+      "name": "UPA - Email Agent",
+      "active": true
+    },
+    {
+      "id": "mTujoye1",
+      "name": "UPA - Calendar Agent",
+      "active": false
+    },
+    {
+      "id": "mbNODcxO",
+      "name": "PS Quote Sent to Airtable",
+      "active": false
+    },
+    {
+      "id": "n7VptjT5",
+      "name": "UPA - Email Agent",
+      "active": false
+    },
+    {
+      "id": "oieRcYQK",
+      "name": "PS Quote Sent to Airtable",
+      "active": false
+    },
+    {
+      "id": "pBBONrwD",
+      "name": "Airtable: Project in Progress \u2192 Crew App Job Sync",
+      "active": false
+    }
+  ],
   "html_url": "https://dispelle.github.io/finn-trading/registry.html",
   "raw_json_url": "https://raw.githubusercontent.com/Dispelle/finn-trading/main/registry.json"
 }
