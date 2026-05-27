@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:56:52.002672+00:00",
+  "generated_at": "2026-05-27T10:57:04.075685+00:00",
   "portfolio_total": 513.18,
   "alpaca_equity": 499.61,
   "btc_value": 13.57,
@@ -30,7 +30,7 @@
       "ticker": "BTC",
       "side": "long",
       "entry": 81388,
-      "current": 75823,
+      "current": 75818,
       "qty": 0.000179,
       "stop": null,
       "tp": null,
