@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-27T13:54:45.386922+00:00",
+  "generated_at": "2026-05-27T14:09:00.392208+00:00",
   "items": [
+    {
+      "ts": "2026-05-27T14:08:38.487000+00:00",
+      "time": "10:08 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.46** Current: **$56.50** | Strength: 5/5"
+    },
     {
       "ts": "2026-05-27T13:41:49.578000+00:00",
       "time": "09:41 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:47 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.63** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-26T13:46:15.944000+00:00",
-      "time": "09:46 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.56** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
