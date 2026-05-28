@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-28T14:06:17.246130+00:00",
+  "generated_at": "2026-05-28T14:21:19.090240+00:00",
   "items": [
+    {
+      "ts": "2026-05-28T14:19:00.062000+00:00",
+      "time": "10:19 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $73346.27** Current: **$73354.67** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-05-28T14:18:58.893000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW R2 $180.47** Current: **$180.29** | Strength: 5/5 Fib 0.786 + MA20 confluence \u2014 must reclaim to flip bias"
+    },
+    {
+      "ts": "2026-05-28T14:17:57.095000+00:00",
+      "time": "10:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE R2 $180.47** Current: **$180.55** | Strength: 5/5 Fib 0.786 + MA20 confluence \u2014 must reclaim to flip bias"
+    },
+    {
+      "ts": "2026-05-28T14:14:53.048000+00:00",
+      "time": "10:14 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $73000.0** Current: **$73163.12** | Strength: 5/5 Major macro support \u2014 breakdown = bearish regime"
+    },
     {
       "ts": "2026-05-28T14:00:07.684000+00:00",
       "time": "10:00 AM ET",
@@ -36,30 +60,6 @@
       "time": "09:41 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.77** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-27T13:35:37.525000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.50** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-27T13:33:34.203000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE BUY $75000.0** Current: **$75068.74** | Strength: 5/5 Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. R"
-    },
-    {
-      "ts": "2026-05-27T13:32:32.122000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW BUY $75000.0** Current: **$74999.96** | Strength: 5/5 Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. R"
-    },
-    {
-      "ts": "2026-05-27T13:30:27.421000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.46** Current: **$56.05** | Strength: 5/5"
     }
   ]
 }
