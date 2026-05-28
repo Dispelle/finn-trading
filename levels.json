@@ -367,7 +367,8 @@
         "last_hit": null
       }
     ],
-    "ticker_source": "portfolio"
+    "ticker_source": "watchlist",
+    "position_note": "Watching only \u2014 no meaningful position. Dust ~$13."
   },
   "INTC": {
     "last_updated": "2026-05-15",
