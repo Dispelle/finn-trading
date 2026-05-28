@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-28T18:47:02.850104+00:00",
+  "generated_at": "2026-05-28T19:22:11.582841+00:00",
   "items": [
+    {
+      "ts": "2026-05-28T19:15:02.890000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $73346.27** Current: **$73347.99** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-05-28T19:14:00.637000+00:00",
+      "time": "03:14 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $73346.27** Current: **$73328.12** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-05-28T14:19:00.062000+00:00",
       "time": "10:19 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:08 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.46** Current: **$56.50** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-05-27T13:41:49.578000+00:00",
-      "time": "09:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $56.25** Current: **$56.29** | Strength: 4/5 Fib 0.500 midpoint \u2014 apex of current indecision"
-    },
-    {
-      "ts": "2026-05-27T13:41:48.180000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.77** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
