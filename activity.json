@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-29T17:39:40.465067+00:00",
+  "generated_at": "2026-05-29T17:53:57.810004+00:00",
   "items": [
+    {
+      "ts": "2026-05-29T17:46:24.552000+00:00",
+      "time": "01:46 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.46** Current: **$56.48** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-05-29T17:44:21.464000+00:00",
+      "time": "01:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.46** Current: **$56.44** | Strength: 5/5"
+    },
     {
       "ts": "2026-05-29T15:25:31.967000+00:00",
       "time": "11:25 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:37 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $73000.0** Current: **$73014.61** | Strength: 5/5 Major macro support \u2014 breakdown = bearish regime"
-    },
-    {
-      "ts": "2026-05-29T13:30:03.026000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $73346.27** Current: **$72948.88** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-05-29T13:30:02.322000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $73000.0** Current: **$72948.88** | Strength: 5/5 Major macro support \u2014 breakdown = bearish regime"
     }
   ]
 }
