@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-29T15:08:52.418750+00:00",
+  "generated_at": "2026-05-29T15:23:48.813452+00:00",
   "items": [
+    {
+      "ts": "2026-05-29T15:09:09.681000+00:00",
+      "time": "11:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $56.25** Current: **$56.20** | Strength: 4/5 Fib 0.500 midpoint \u2014 apex of current indecision"
+    },
     {
       "ts": "2026-05-29T15:08:08.156000+00:00",
       "time": "11:08 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $73346.27** Current: **$73347.99** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-05-28T19:14:00.637000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $73346.27** Current: **$73328.12** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
