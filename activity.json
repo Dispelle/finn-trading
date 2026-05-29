@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-29T13:38:41.193595+00:00",
+  "generated_at": "2026-05-29T13:53:42.449946+00:00",
   "items": [
+    {
+      "ts": "2026-05-29T13:44:23.415000+00:00",
+      "time": "09:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.46** Current: **$56.47** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-05-29T13:43:21.816000+00:00",
+      "time": "09:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.46** Current: **$56.39** | Strength: 5/5"
+    },
     {
       "ts": "2026-05-29T13:37:14.206000+00:00",
       "time": "09:37 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:17 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE R2 $180.47** Current: **$180.55** | Strength: 5/5 Fib 0.786 + MA20 confluence \u2014 must reclaim to flip bias"
-    },
-    {
-      "ts": "2026-05-28T14:14:53.048000+00:00",
-      "time": "10:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $73000.0** Current: **$73163.12** | Strength: 5/5 Major macro support \u2014 breakdown = bearish regime"
-    },
-    {
-      "ts": "2026-05-28T14:00:07.684000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -10.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$72,887**  \u23f0 **YOU "
     }
   ]
 }
