@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-01T03:57:58.177176+00:00",
+  "generated_at": "2026-06-01T04:12:59.525447+00:00",
   "items": [
+    {
+      "ts": "2026-06-01T04:00:02.377000+00:00",
+      "time": "12:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $73,647 \u25bc-0.54% | MCap $1476B \ud83d\udd37 ETH $2,006.69 \u25bc-1.19%  **Indices** \ud83d\udcca SPY $756.48 \u25b2+0.25% "
+    },
     {
       "ts": "2026-06-01T00:00:02.176000+00:00",
       "time": "08:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:03 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.78** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
-    },
-    {
-      "ts": "2026-05-29T14:02:46.988000+00:00",
-      "time": "10:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.57** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
