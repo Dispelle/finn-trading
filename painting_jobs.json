@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-01T21:11:06.186921+00:00",
+  "generated_at": "2026-06-01T21:25:46.087374+00:00",
   "source": "airtable_live",
   "summary": {
     "active": 2,
-    "scheduled": 6
+    "scheduled": 5
   },
   "jobs": [
     {
@@ -41,18 +41,6 @@
       "notes": "Quote #33 | Was ON HOLD \u2014 now scheduled for Wed June 4",
       "start_date": "2026-06-04T09:00:00.000Z",
       "client_phone": ""
-    },
-    {
-      "id": "recV1oI5WmWUPrCEm",
-      "name": "16 Jewett Rd - Kelsey Taylor",
-      "address": "16 Jewett Rd, Beverly, MA",
-      "status": "Scheduled",
-      "status_label": "Scheduled",
-      "job_type": "Residential Interior",
-      "value": 4221,
-      "notes": "Color selections confirmed by Kelsey (5/7/26):\n- White bedroom \u2192 BM Mt. Rainier Gray #2129-60\n- Teal bedroom \u2192 SW Sea Salt #SW 6204\n- Upstairs + Downstairs Hallway \u2192 BM Manchester Tan #HC-81",
-      "start_date": "2026-05-05T00:00:00.000Z",
-      "client_phone": "9788881358"
     },
     {
       "id": "recaGGW5m6Sv86XdO",
