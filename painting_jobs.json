@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T18:40:32.688172+00:00",
+  "generated_at": "2026-06-01T18:55:32.759132+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 3,
+    "active": 2,
     "scheduled": 6
   },
   "jobs": [
@@ -28,6 +28,18 @@
       "value": 0,
       "notes": "Wallpaper install. Hole patching needed \u2014 send painter ahead to fix holes. Client very flexible.",
       "start_date": "2026-05-07T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recURzZ7nhLVVITZh",
+      "name": "Debbie & Ed Reynolds \u2014 Interior",
+      "address": "5 School Hill Ln, North Reading MA 01864",
+      "status": "Scheduled",
+      "status_label": "Scheduled",
+      "job_type": "",
+      "value": 4161,
+      "notes": "Quote #33 | Was ON HOLD \u2014 now scheduled for Wed June 4",
+      "start_date": "2026-06-04T09:00:00.000Z",
       "client_phone": ""
     },
     {
@@ -67,18 +79,6 @@
       "client_phone": ""
     },
     {
-      "id": "receLXPeQ0Rw6j2ZD",
-      "name": "5 Laurel Dr - Wenham (Janis)",
-      "address": "5 Laurel Dr, Wenham, MA",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "Exterior",
-      "value": 12000,
-      "notes": "Exterior trim project ~$12k.",
-      "start_date": "2026-05-18T08:00:00.000Z",
-      "client_phone": ""
-    },
-    {
       "id": "recf2t6Ie973jwvZp",
       "name": "5 Blueberry Lane - Joanne & Jerry Wahl",
       "address": "5 Blueberry Lane, Topsfield, MA",
@@ -94,24 +94,12 @@
       "id": "reckIw71rTGVOMBgo",
       "name": "Georgetown - Karen & Mark Johnson (Exterior)",
       "address": "Georgetown, MA",
-      "status": "Scheduled",
-      "status_label": "Scheduled",
+      "status": "In Progress",
+      "status_label": "In Progress",
       "job_type": "Exterior",
       "value": 10000,
       "notes": "Exterior paint ~$10k. June 1st or June 15th \u2014 June 1 entered, confirm with client.",
       "start_date": "2026-06-01T08:00:00.000Z",
-      "client_phone": ""
-    },
-    {
-      "id": "recq3EiVX8GjnwudO",
-      "name": "774 Lowell St - Tim & Gale",
-      "address": "774 Lowell St, Peabody, MA 01960",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "",
-      "value": 0,
-      "notes": "Customer: Tim & Gale | bgm529@gmail.com | 978-535-0354",
-      "start_date": "2026-06-01T09:00:00.000Z",
       "client_phone": ""
     }
   ]
