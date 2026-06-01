@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-01T13:21:00.617614+00:00",
+  "generated_at": "2026-06-01T15:21:04.894005+00:00",
   "items": [
     {
-      "ts": "2026-06-01T12:00:02.675000+00:00",
-      "time": "08:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $72,421 \u25bc-1.94% | MCap $1455B \ud83d\udd37 ETH $1,979.81 \u25bc-2.00%  **Indices** \ud83d\udcca SPY $756.48 \u25b2+0.25% "
-    },
-    {
-      "ts": "2026-06-01T08:00:02.734000+00:00",
-      "time": "04:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 04:00 AM ET  **Crypto** \ud83d\udfe0 BTC $72,720 \u25bc-1.42% | MCap $1457B \ud83d\udd37 ETH $1,974.34 \u25bc-2.32%  **Indices** \ud83d\udcca SPY $756.48 \u25b2+0.25% "
-    },
-    {
-      "ts": "2026-06-01T04:00:02.377000+00:00",
-      "time": "12:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $73,647 \u25bc-0.54% | MCap $1476B \ud83d\udd37 ETH $2,006.69 \u25bc-1.19%  **Indices** \ud83d\udcca SPY $756.48 \u25b2+0.25% "
-    },
-    {
-      "ts": "2026-06-01T00:00:02.176000+00:00",
-      "time": "08:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, May 31 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $73,581 \u25bc-0.23% | MCap $1474B \ud83d\udd37 ETH $2,004.58 \u25bc-0.72%  **Indices** \ud83d\udcca SPY $756.48 \u25b2+0.25%"
-    },
-    {
-      "ts": "2026-05-29T19:33:35.163000+00:00",
-      "time": "03:33 PM ET",
+      "ts": "2026-06-01T14:16:24.728000+00:00",
+      "time": "10:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $73346.27** Current: **$73438.52** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$220.69** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     },
     {
-      "ts": "2026-05-29T18:52:44.666000+00:00",
-      "time": "02:52 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $73346.27** Current: **$73125.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-05-29T17:46:24.552000+00:00",
-      "time": "01:46 PM ET",
+      "ts": "2026-06-01T14:15:22.877000+00:00",
+      "time": "10:15 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.46** Current: **$56.48** | Strength: 5/5"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$220.82** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     },
     {
-      "ts": "2026-05-29T17:44:21.464000+00:00",
-      "time": "01:44 PM ET",
+      "ts": "2026-06-01T14:13:20.086000+00:00",
+      "time": "10:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.46** Current: **$56.44** | Strength: 5/5"
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.29** | Strength: 5/5"
     },
     {
-      "ts": "2026-05-29T15:25:31.967000+00:00",
-      "time": "11:25 AM ET",
+      "ts": "2026-06-01T14:04:07.005000+00:00",
+      "time": "10:04 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $56.25** Current: **$56.28** | Strength: 4/5 Fib 0.500 midpoint \u2014 apex of current indecision"
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $59.36** Current: **$59.37** | Strength: 5/5"
     },
     {
-      "ts": "2026-05-29T15:09:09.681000+00:00",
-      "time": "11:09 AM ET",
+      "ts": "2026-06-01T13:50:48.719000+00:00",
+      "time": "09:50 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $56.25** Current: **$56.20** | Strength: 4/5 Fib 0.500 midpoint \u2014 apex of current indecision"
+      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.48** | Strength: 3/5 Prior consolidation resistance zone"
+    },
+    {
+      "ts": "2026-06-01T13:49:46.786000+00:00",
+      "time": "09:49 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.51** | Strength: 3/5 Prior consolidation resistance zone"
+    },
+    {
+      "ts": "2026-06-01T13:41:34.878000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.44** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
+    {
+      "ts": "2026-06-01T13:38:30.541000+00:00",
+      "time": "09:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.62** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
+    },
+    {
+      "ts": "2026-06-01T13:38:29.918000+00:00",
+      "time": "09:38 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $220.0** Current: **$220.02** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
+    },
+    {
+      "ts": "2026-06-01T13:37:27.644000+00:00",
+      "time": "09:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **RTX \u2014 BROKE BELOW STOP $176.62** Current: **$176.58** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
