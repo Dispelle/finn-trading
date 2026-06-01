@@ -1,35 +1,11 @@
 {
-  "generated_at": "2026-06-01T18:25:35.322131+00:00",
+  "generated_at": "2026-06-01T18:40:32.688172+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 5,
+    "active": 3,
     "scheduled": 6
   },
   "jobs": [
-    {
-      "id": "rec4l6uyhqZ1o3e00",
-      "name": "2 Davis Ln - Georgetown",
-      "address": "2 Davis Ln, Georgetown, MA 01833",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "",
-      "value": 3090,
-      "notes": "Labor: $2,590 | Materials: $600 | Island discount: -$100 | Total: $3,090",
-      "start_date": "2026-05-14T07:00:00.000Z",
-      "client_phone": ""
-    },
-    {
-      "id": "rec9ODqZOX7q6HNKZ",
-      "name": "12 Jewett Rd - Cynthia & Clif",
-      "address": "12 Jewett Rd, Beverly, MA",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "Residential Exterior",
-      "value": 4980,
-      "notes": "",
-      "start_date": "",
-      "client_phone": "9785947467"
-    },
     {
       "id": "recHBXhryVphCWFmZ",
       "name": "5 Ashley Ln Danvers - Robert Shay",
@@ -87,7 +63,7 @@
       "job_type": "",
       "value": 0,
       "notes": "",
-      "start_date": "",
+      "start_date": "2026-06-01T09:00:00.000Z",
       "client_phone": ""
     },
     {
@@ -135,7 +111,7 @@
       "job_type": "",
       "value": 0,
       "notes": "Customer: Tim & Gale | bgm529@gmail.com | 978-535-0354",
-      "start_date": "",
+      "start_date": "2026-06-01T09:00:00.000Z",
       "client_phone": ""
     }
   ]
