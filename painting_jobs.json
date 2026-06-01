@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T17:21:08.630399+00:00",
+  "generated_at": "2026-06-01T18:10:43.060189+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 4,
+    "active": 5,
     "scheduled": 6
   },
   "jobs": [
@@ -75,6 +75,18 @@
       "job_type": "Interior",
       "value": 0,
       "notes": "\u26a0\ufe0f REVIEW: Scheduled job with no client link, no value, no start date. Identify and complete record.",
+      "start_date": "",
+      "client_phone": ""
+    },
+    {
+      "id": "recdLfgE5fQ7NtHEg",
+      "name": "Kathryn & Dan Sweeney",
+      "address": "7 Oberlin Rd, Danvers MA 01923",
+      "status": "In Progress",
+      "status_label": "In Progress",
+      "job_type": "",
+      "value": 0,
+      "notes": "",
       "start_date": "",
       "client_phone": ""
     },
