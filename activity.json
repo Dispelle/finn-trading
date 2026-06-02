@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-01T23:56:24.133259+00:00",
+  "generated_at": "2026-06-02T00:11:08.253302+00:00",
   "items": [
+    {
+      "ts": "2026-06-02T00:00:02.411000+00:00",
+      "time": "08:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $71,308 \u25bc-3.08% | MCap $1429B \ud83d\udd37 ETH $2,002.72 \u25bc-0.08%  **Indices** \ud83d\udcca SPY $758.54 \u25b2+0.27% "
+    },
     {
       "ts": "2026-06-01T20:00:02.266000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "09:41 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.44** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
-    },
-    {
-      "ts": "2026-06-01T13:38:30.541000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **RTX \u2014 BROKE ABOVE STOP $176.62** Current: **$176.62** | Strength: 5/5 Below today low confirms downtrend to 71.20 \u2014 stop here"
     }
   ]
 }
