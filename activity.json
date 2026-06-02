@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-02T13:21:08.709223+00:00",
+  "generated_at": "2026-06-02T13:36:10.667389+00:00",
   "items": [
+    {
+      "ts": "2026-06-02T13:32:32.187000+00:00",
+      "time": "09:32 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.62** | Strength: 3/5 Prior consolidation resistance zone"
+    },
+    {
+      "ts": "2026-06-02T13:30:28.362000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.30** | Strength: 3/5 Prior consolidation resistance zone"
+    },
     {
       "ts": "2026-06-02T12:00:04.652000+00:00",
       "time": "08:00 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:15 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$220.82** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
-    },
-    {
-      "ts": "2026-06-01T14:13:20.086000+00:00",
-      "time": "10:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.29** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-01T14:04:07.005000+00:00",
-      "time": "10:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $59.36** Current: **$59.37** | Strength: 5/5"
     }
   ]
 }
