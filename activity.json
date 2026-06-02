@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T15:51:21.518804+00:00",
+  "generated_at": "2026-06-02T16:06:22.025963+00:00",
   "items": [
+    {
+      "ts": "2026-06-02T16:00:02.564000+00:00",
+      "time": "12:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Tue, Jun 2 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $67,191 \u25bc-5.34% | MCap $1346B \ud83d\udd37 ETH $1,911.40 \u25bc-2.73%  **Indices** \ud83d\udcca SPY $759.70 \u25b2+0.15% "
+    },
     {
       "ts": "2026-06-02T13:32:32.187000+00:00",
       "time": "09:32 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:16 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$220.69** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
-    },
-    {
-      "ts": "2026-06-01T14:15:22.877000+00:00",
-      "time": "10:15 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.78** Current: **$220.82** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     }
   ]
 }
