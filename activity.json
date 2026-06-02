@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-02T16:21:23.449779+00:00",
+  "generated_at": "2026-06-02T16:36:24.217340+00:00",
   "items": [
+    {
+      "ts": "2026-06-02T16:36:13.036000+00:00",
+      "time": "12:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.33** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-06-02T16:34:10.861000+00:00",
+      "time": "12:34 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $59.36** Current: **$59.37** | Strength: 5/5"
+    },
     {
       "ts": "2026-06-02T16:00:02.564000+00:00",
       "time": "12:00 PM ET",
@@ -48,18 +60,6 @@
       "time": "04:00 PM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $71,474 \u25bc-2.70% | MCap $1432B \ud83d\udd37 ETH $2,001.90 \u25b2+0.25%  **Indices** \ud83d\udcca SPY $758.29 \u25b2+0.24% "
-    },
-    {
-      "ts": "2026-06-01T16:00:02.391000+00:00",
-      "time": "12:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $71,002 \u25bc-3.46% | MCap $1423B \ud83d\udd37 ETH $1,965.81 \u25bc-2.10%  **Indices** \ud83d\udcca SPY $756.72 \u25b2+0.03% "
-    },
-    {
-      "ts": "2026-06-01T14:16:24.728000+00:00",
-      "time": "10:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $220.78** Current: **$220.69** | Strength: 5/5 | | **S2: $216.83** | 60-day swing high turned pivot; prior resistance "
     }
   ]
 }
