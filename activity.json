@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T03:56:44.094780+00:00",
+  "generated_at": "2026-06-02T04:11:14.467718+00:00",
   "items": [
+    {
+      "ts": "2026-06-02T04:00:02.285000+00:00",
+      "time": "12:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Tue, Jun 2 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $70,844 \u25bc-3.81% | MCap $1420B \ud83d\udd37 ETH $2,000.75 \u25bc-0.30%  **Indices** \ud83d\udcca SPY $758.54 \u25b2+0.27% "
+    },
     {
       "ts": "2026-06-02T00:00:02.411000+00:00",
       "time": "08:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "09:49 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.51** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-06-01T13:41:34.878000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $220.0** Current: **$219.44** | Strength: 4/5 Aggressive breakout trigger \u2014 reclaimed today"
     }
   ]
 }
