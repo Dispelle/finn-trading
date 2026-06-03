@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T23:52:05.114245+00:00",
+  "generated_at": "2026-06-03T00:06:55.416413+00:00",
   "items": [
+    {
+      "ts": "2026-06-03T00:00:02.692000+00:00",
+      "time": "08:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Tue, Jun 2 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $66,743 \u25bc-6.42% | MCap $1337B \ud83d\udd37 ETH $1,859.16 \u25bc-7.20%  **Indices** \ud83d\udcca SPY $759.57 \u25b2+0.14% "
+    },
     {
       "ts": "2026-06-02T20:00:02.327000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:00 AM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Tue, Jun 2 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $70,844 \u25bc-3.81% | MCap $1420B \ud83d\udd37 ETH $2,000.75 \u25bc-0.30%  **Indices** \ud83d\udcca SPY $758.54 \u25b2+0.27% "
-    },
-    {
-      "ts": "2026-06-02T00:00:02.411000+00:00",
-      "time": "08:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Jun 1 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $71,308 \u25bc-3.08% | MCap $1429B \ud83d\udd37 ETH $2,002.72 \u25bc-0.08%  **Indices** \ud83d\udcca SPY $758.54 \u25b2+0.27% "
     }
   ]
 }
