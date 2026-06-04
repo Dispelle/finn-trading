@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-04T14:06:59.987023+00:00",
+  "generated_at": "2026-06-04T14:21:17.866131+00:00",
   "items": [
+    {
+      "ts": "2026-06-04T14:18:27.695000+00:00",
+      "time": "10:18 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.33** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-06-04T14:12:22.159000+00:00",
+      "time": "10:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$58.26** | Strength: 5/5"
+    },
     {
       "ts": "2026-06-04T14:02:13.572000+00:00",
       "time": "10:02 AM ET",
@@ -48,18 +60,6 @@
       "time": "12:00 PM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Wed, Jun 3 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $66,022 \u25bc-1.74% | MCap $1324B \ud83d\udd37 ETH $1,834.83 \u25bc-4.02%  **Indices** \ud83d\udcca SPY $755.22 \u25bc-0.57% "
-    },
-    {
-      "ts": "2026-06-03T13:37:10.083000+00:00",
-      "time": "09:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R2 $59.36** Current: **$59.27** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-03T13:31:01.936000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R2 $59.36** Current: **$59.73** | Strength: 5/5"
     }
   ]
 }
