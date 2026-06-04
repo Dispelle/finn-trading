@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-04T18:21:40.340086+00:00",
+  "generated_at": "2026-06-04T18:36:34.392174+00:00",
   "items": [
+    {
+      "ts": "2026-06-04T18:21:59.561000+00:00",
+      "time": "02:21 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.49** | Strength: 3/5 Prior consolidation resistance zone"
+    },
     {
       "ts": "2026-06-04T18:17:54.958000+00:00",
       "time": "02:17 PM ET",
@@ -54,12 +60,6 @@
       "time": "08:00 PM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Wed, Jun 3 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $64,035 \u25bc-3.99% | MCap $1283B \ud83d\udd37 ETH $1,812.39 \u25bc-2.45%  **Indices** \ud83d\udcca SPY $754.24 \u25bc-0.70% "
-    },
-    {
-      "ts": "2026-06-03T20:00:02.595000+00:00",
-      "time": "04:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Wed, Jun 3 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $65,330 \u25bc-2.69% | MCap $1309B \ud83d\udd37 ETH $1,801.34 \u25bc-5.58%  **Indices** \ud83d\udcca SPY $754.54 \u25bc-0.66% "
     }
   ]
 }
