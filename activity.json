@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-05T17:51:56.270508+00:00",
+  "generated_at": "2026-06-05T18:06:30.358052+00:00",
   "items": [
+    {
+      "ts": "2026-06-05T18:03:39.567000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,652**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-05T16:03:53.255000+00:00",
       "time": "12:03 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:02 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.51** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-06-04T13:52:03.054000+00:00",
-      "time": "09:52 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.48** | Strength: 3/5 Prior consolidation resistance zone"
     }
   ]
 }
