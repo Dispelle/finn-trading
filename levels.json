@@ -1,7 +1,7 @@
 {
   "OXY": {
-    "last_updated": "2026-06-01",
-    "current_price_at_brief": 56.125,
+    "last_updated": "2026-06-06",
+    "current_price_at_brief": 56.93,
     "last_seen_price": 58.745,
     "levels": [
       {
@@ -9,7 +9,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "Prior consolidation resistance zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -19,7 +19,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Fib 0.500 midpoint \u2014 apex of current indecision",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -29,7 +29,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "Today low / intraday support cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -39,7 +39,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "S2 swing low \u2014 stop set here",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -49,7 +49,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Golden pocket support \u2014 last line before thesis breaks",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -59,7 +59,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -69,7 +69,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -79,7 +79,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -89,7 +89,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -99,7 +99,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -109,7 +109,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
@@ -171,16 +171,6 @@
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
-      },
-      {
-        "price": 75000,
-        "type": "BUY",
-        "strength": 5,
-        "reason": "Nikolai standing order \u2014 limit buy $75 already placed on Coinbase. RSI oversold zone, macro support.",
-        "status": "active",
-        "source_brief": "2026-05-18-manual",
-        "hit_count": 0,
-        "last_hit": null
       }
     ],
     "ticker_source": "watchlist",
@@ -213,49 +203,6 @@
         "hit_count": 0,
         "last_hit": null,
         "expires": "2026-08-13"
-      }
-    ],
-    "ticker_source": "watchlist"
-  },
-  "MU": {
-    "last_updated": "2026-05-15",
-    "current_price_at_brief": 120.0,
-    "last_seen_price": 120.0,
-    "levels": [
-      {
-        "price": 706.0,
-        "type": "PIVOT",
-        "strength": 5,
-        "reason": "Gareth key level \u2014 break = top confirmed, expect cascade to $645\u2192$575\u2192$545",
-        "status": "active",
-        "source_brief": "2026-05-15-soloway",
-        "hit_count": 0,
-        "last_hit": null,
-        "expires": "2026-08-13",
-        "gareth_note": "Shooting star doji. If $706 breaks = bearish confirmation."
-      },
-      {
-        "price": 645.0,
-        "type": "S1",
-        "strength": 3,
-        "reason": "Gareth target if $706 breaks",
-        "status": "active",
-        "source_brief": "2026-05-15-soloway",
-        "hit_count": 0,
-        "last_hit": null,
-        "expires": "2026-08-13"
-      },
-      {
-        "price": 545.0,
-        "type": "S2",
-        "strength": 5,
-        "reason": "Gareth primary buy zone \u2014 gap fill confluence",
-        "status": "active",
-        "source_brief": "2026-05-15-soloway",
-        "hit_count": 0,
-        "last_hit": null,
-        "expires": "2026-08-13",
-        "gareth_note": "This is where Soloway says he buys."
       }
     ],
     "ticker_source": "watchlist"
