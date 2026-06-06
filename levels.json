@@ -113,6 +113,106 @@
         "source_brief": "2026-05-13",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 57.88,
+        "type": "R1",
+        "strength": 5,
+        "reason": "**0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss zone where shorts get trapped",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59.7,
+        "type": "R2",
+        "strength": 4,
+        "reason": "**0.500 Fib + 3-bar distribution high (59.64 close)** \u2014 intermediate supply",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60.79,
+        "type": "R3",
+        "strength": 4,
+        "reason": "**60-day swing high + failed breakout level** \u2014 where buyers abandoned 10 days ago",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63.79,
+        "type": "R3",
+        "strength": 3,
+        "reason": "**0.236 Fib extension + 60-day range midpoint** \u2014 intermediate zone",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 67.45,
+        "type": "R3",
+        "strength": 3,
+        "reason": "**52-week high + 1.000 extension (base of fib swing)** \u2014 all-time recent resistance",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.25,
+        "type": "S1",
+        "strength": 5,
+        "reason": "**Recent 60d swing low (HL) + psychological support** \u2014 breaking this = trend break",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.7,
+        "type": "S2",
+        "strength": 4,
+        "reason": "**10-day daily low + intraday support from 5 bars ago** \u2014 early test zone",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.27,
+        "type": "S3",
+        "strength": 4,
+        "reason": "**0.786 Fib retracement + 60-day cluster** \u2014 technical floor, risk/reward pivot",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 51.96,
+        "type": "S3",
+        "strength": 3,
+        "reason": "**60-day low + base of entire fib swing** \u2014 capitulation level (do not trade above/below without plan)",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59.7,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-06",
+        "hit_count": 0,
+        "last_hit": null
       }
     ],
     "ticker_source": "portfolio"
