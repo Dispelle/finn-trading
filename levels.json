@@ -3238,7 +3238,108 @@
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
-    "levels": []
+    "levels": [
+      {
+        "price": 422.41,
+        "type": "R1",
+        "strength": 4,
+        "reason": "MA20 daily (downsloping); 1H recent high zone; psychologically tested 5\u00d7 in last 10 bars",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 425.4,
+        "type": "R2",
+        "strength": 5,
+        "reason": "20-day VWAP \u2014 fair value anchor; price below suggests selling pressure",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 429.49,
+        "type": "R3",
+        "strength": 5,
+        "reason": "Last daily high (3 days ago); fib 0.382 ($424.28) cluster zone; swing level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 440.35,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fib 0.236 (retracement level from swing); prior support turned resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 450.33,
+        "type": "R3",
+        "strength": 5,
+        "reason": "Recent swing high (HH); **invalidation level for bearish structure**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 409.58,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Last daily low (touched 4 days ago); minor swing support; 1H low cluster zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 405.11,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior swing low (6 days ago); MA50 $409.27 above this = buffer zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 398.32,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Fib 0.618 \u2014 **golden pocket**; psychological round; 52w range floor at $356.28 is 13% below",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 394.79,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fib 0.650; extended support zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 379.83,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fib 0.786; weekly structure breaking here would signal major trend reversal",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   },
   "META": {
     "last_updated": "2026-06-08",
