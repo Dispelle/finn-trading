@@ -903,5 +903,73 @@
     "last_seen_price": 0,
     "ticker_source": "watchlist",
     "levels": []
+  },
+  "COPX": {
+    "last_updated": "2026-06-08",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 86.5,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 MA20(20-day), downward slope, intraday recovered to $87.06 but rejected",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 87.9,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement (68.49\u219293.89) + psychological round",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 88.14,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Last weekly close (2 weeks ago), now acting as supply cap",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 78.34,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Last 60-day swing low (5 days ago), Fib 0.618 golden pocket at $78.19",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76.53,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 60-day swing low (prior major bottom), Fib 0.700 zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 68.49,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 60-day absolute low, Fib 0.000 (swing origin)",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
