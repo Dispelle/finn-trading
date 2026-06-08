@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-08T20:58:44.445642+00:00",
+  "generated_at": "2026-06-08T21:18:09.984827+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T21:17:56.837000+00:00",
+      "time": "05:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,650**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-08T21:00:09.385000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,464** | P&L: **-22"
+    },
     {
       "ts": "2026-06-08T20:45:08.242000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,492**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-08T19:26:39.271000+00:00",
-      "time": "03:26 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $595.5** Current: **$595.75** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
-    },
-    {
-      "ts": "2026-06-08T19:25:34.771000+00:00",
-      "time": "03:25 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $595.5** Current: **$595.44** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
     }
   ]
 }
