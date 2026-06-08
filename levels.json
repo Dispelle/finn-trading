@@ -1,7 +1,7 @@
 {
   "OXY": {
     "last_updated": "2026-06-08",
-    "current_price_at_brief": 57.49,
+    "current_price_at_brief": 57.55,
     "last_seen_price": 56.93,
     "levels": [
       {
@@ -148,7 +148,7 @@
         "price": 63.79,
         "type": "R3",
         "strength": 3,
-        "reason": "\u2014 0.236 fib + supply zone (failed breakout zone)",
+        "reason": "\u2014 Fibonacci 0.236 retracement of 51.96\u219267.45 swing. **Extension resistance; ultra-thin test probability short-term.**",
         "status": "active",
         "source_brief": "2026-06-08",
         "hit_count": 0,
@@ -299,6 +299,56 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 58.95,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Prior daily high (3 of last 10 closes tested/rejected here) + confluence with 20-day VWAP ($58.06). **Immediate overhe",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60.5,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high + psychological round; failed breakout zone. **Structural resistance.**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 57.38,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **Immediate cushion.**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.25,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 60-day recent swing low; confluence with 0.786 Fib at $55.27 (nearby). **Critical support zone.**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.7,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Weekly MA20 + historic support (52-week low framework $51.96 is 8% below). **Trend-defining level \u2014 break here = major",
         "status": "active",
         "source_brief": "2026-06-08",
         "hit_count": 0,
