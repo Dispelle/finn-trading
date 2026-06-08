@@ -3755,6 +3755,56 @@
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 141.1,
+        "type": "R1",
+        "strength": 4,
+        "reason": "20-day VWAP; prior support in daily structure; confluence with MA20 resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 143.19,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Fibonacci 0.500 retracement (122.68\u2192163.70); psychological / half-way point; daily consolidation zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 135.29,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's intraday low; support being tested NOW",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 138.35,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Fibonacci 0.618 (golden pocket); confluence with daily MA20 proximity; key mean reversion level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 122.68,
+        "type": "S3",
+        "strength": 5,
+        "reason": "60-day low; 52w low; major psychological floor",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
