@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-08T16:57:22.815258+00:00",
+  "generated_at": "2026-06-08T17:21:50.167684+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T17:21:48.843000+00:00",
+      "time": "01:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R2 $145.9** Current: **$126.59** | Strength: 5/5 **0.618 Fib GOLDEN POCKET** \u2014 strongest Fib zone; psychological confluen"
+    },
+    {
+      "ts": "2026-06-08T17:21:48.007000+00:00",
+      "time": "01:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $132.01** Current: **$126.59** | Strength: 5/5 0.786 Fib retracement + prior swing low (132.76 nearby) + 4H structure"
+    },
     {
       "ts": "2026-06-08T15:38:32.408000+00:00",
       "time": "11:38 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:30 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $905.73** Current: **$942.71** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (311.49 \u2192 1089.29). **Psychological cluster"
-    },
-    {
-      "ts": "2026-06-08T13:30:37.054000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $219.48** Current: **$209.61** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement + MA20 convergence ($219.10); prior swing"
-    },
-    {
-      "ts": "2026-06-08T13:30:36.555000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $215.5** Current: **$209.61** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
