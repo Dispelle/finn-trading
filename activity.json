@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-08T17:51:53.834679+00:00",
+  "generated_at": "2026-06-08T18:06:55.647501+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T18:03:08.771000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $308.0** Current: **$307.03** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-06-08T18:00:59.871000+00:00",
+      "time": "02:00 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.44** | Strength: 5/5 MA50 (crossover support); just below current price"
+    },
+    {
+      "ts": "2026-06-08T18:00:08.551000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,535**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-08T17:54:39.166000+00:00",
+      "time": "01:54 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $310.0** Current: **$310.02** | Strength: 5/5"
+    },
     {
       "ts": "2026-06-08T17:45:17.531000+00:00",
       "time": "01:45 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:21 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R2 $145.9** Current: **$126.59** | Strength: 5/5 **0.618 Fib GOLDEN POCKET** \u2014 strongest Fib zone; psychological confluen"
-    },
-    {
-      "ts": "2026-06-08T17:21:48.007000+00:00",
-      "time": "01:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $132.01** Current: **$126.59** | Strength: 5/5 0.786 Fib retracement + prior swing low (132.76 nearby) + 4H structure"
-    },
-    {
-      "ts": "2026-06-08T15:38:32.408000+00:00",
-      "time": "11:38 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $57.38** Current: **$57.40** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
-    },
-    {
-      "ts": "2026-06-08T15:36:28.009000+00:00",
-      "time": "11:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.37** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
-    },
-    {
-      "ts": "2026-06-08T15:21:02.611000+00:00",
-      "time": "11:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $961.89** Current: **$961.00** | Strength: 5/5 Today's high; 60-day swing high cluster; psychological round"
     }
   ]
 }
