@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-08T13:21:26.393731+00:00",
+  "generated_at": "2026-06-08T13:36:21.981874+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T13:30:38.267000+00:00",
+      "time": "09:30 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $905.73** Current: **$942.71** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (311.49 \u2192 1089.29). **Psychological cluster"
+    },
+    {
+      "ts": "2026-06-08T13:30:37.054000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $219.48** Current: **$209.61** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement + MA20 convergence ($219.10); prior swing"
+    },
+    {
+      "ts": "2026-06-08T13:30:36.555000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $215.5** Current: **$209.61** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-08T13:30:35.873000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $219.3** Current: **$209.61** | Strength: 5/5 20-week VWAP; MA20 (weekly basis); major seller zone"
+    },
+    {
+      "ts": "2026-06-08T13:30:35.385000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $215.33** Current: **$209.61** | Strength: 5/5 Today's 1H high; psychological round; prior daily open"
+    },
     {
       "ts": "2026-06-05T18:03:39.567000+00:00",
       "time": "02:03 PM ET",
@@ -30,36 +60,6 @@
       "time": "09:33 AM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.48** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-06-04T18:21:59.561000+00:00",
-      "time": "02:21 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.5** Current: **$58.49** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-06-04T18:17:54.958000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.53** | Strength: 3/5 Prior consolidation resistance zone"
-    },
-    {
-      "ts": "2026-06-04T14:18:27.695000+00:00",
-      "time": "10:18 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.33** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-04T14:12:22.159000+00:00",
-      "time": "10:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$58.26** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-04T14:02:13.572000+00:00",
-      "time": "10:02 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.5** Current: **$58.51** | Strength: 3/5 Prior consolidation resistance zone"
     }
   ]
 }
