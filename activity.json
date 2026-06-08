@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-08T18:06:55.647501+00:00",
+  "generated_at": "2026-06-08T18:22:06.285052+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T18:17:54.422000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $305.46** Current: **$305.81** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-06-08T18:15:09.856000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 OXY** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **OXY HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$57.62** | P&L: **3.8%"
+    },
+    {
+      "ts": "2026-06-08T18:15:07.852000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,591** | P&L: **-21"
+    },
+    {
+      "ts": "2026-06-08T18:08:25.962000+00:00",
+      "time": "02:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S3 $305.46** Current: **$305.27** | Strength: 5/5"
+    },
     {
       "ts": "2026-06-08T18:03:08.771000+00:00",
       "time": "02:03 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:45 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,385** | P&L: **-22"
-    },
-    {
-      "ts": "2026-06-08T17:43:04.669000+00:00",
-      "time": "01:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $310.0** Current: **$309.72** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-08T17:29:10.957000+00:00",
-      "time": "01:29 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.23** Current: **$135.06** | Strength: 5/5 MA50 (crossover support); just below current price"
-    },
-    {
-      "ts": "2026-06-08T17:23:53.102000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $486.8** Current: **$487.19** | Strength: 5/5 **Daily swing low (9 days ago)**; invalidation point for bullish bias; mu"
-    },
-    {
-      "ts": "2026-06-08T17:21:48.843000+00:00",
-      "time": "01:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R2 $145.9** Current: **$126.59** | Strength: 5/5 **0.618 Fib GOLDEN POCKET** \u2014 strongest Fib zone; psychological confluen"
     }
   ]
 }
