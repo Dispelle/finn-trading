@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-08T18:51:58.116295+00:00",
+  "generated_at": "2026-06-08T19:13:31.479448+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T19:11:51.551000+00:00",
+      "time": "03:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $585.68** Current: **$585.59** | Strength: 5/5 Fibonacci 0.618 golden pocket; current price barely above; critical flo"
+    },
+    {
+      "ts": "2026-06-08T19:09:43.226000+00:00",
+      "time": "03:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $598.93** Current: **$598.62** | Strength: 5/5 Weekly close (strong weekly level); 20-day VWAP approx"
+    },
+    {
+      "ts": "2026-06-08T19:00:06.809000+00:00",
+      "time": "03:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,419**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-08T18:45:06.142000+00:00",
       "time": "02:45 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:03 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $308.0** Current: **$307.03** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-06-08T18:00:59.871000+00:00",
-      "time": "02:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.44** | Strength: 5/5 MA50 (crossover support); just below current price"
-    },
-    {
-      "ts": "2026-06-08T18:00:08.551000+00:00",
-      "time": "02:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,535**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-08T17:54:39.166000+00:00",
-      "time": "01:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $310.0** Current: **$310.02** | Strength: 5/5"
     }
   ]
 }
