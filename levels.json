@@ -348,7 +348,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-05-18",
+    "last_updated": "2026-06-08",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -359,6 +359,56 @@
         "reason": "Pullback watch \u2014 MA20 + prior resistance confluence. Entry zone if volume dries up. $75 deploy on confirmation.",
         "status": "active",
         "source_brief": "2026-05-18-manual",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 505.62,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Today's 1H high; psychological round; 20-day VWAP ($469.50) + 36pts; recent daily range midpoint",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 523.2,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Yesterday's daily close; swing high from 2 days ago; psychological resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 546.44,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day high; psychological $550 target; swing high; Fib 1.618 extension upside target",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 462.86,
+        "type": "S1",
+        "strength": 5,
+        "reason": "**Fibonacci 0.236 retracement** (192.27\u2192546.44); prior intraday support; golden zone entry",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 411.15,
+        "type": "S3",
+        "strength": 4,
+        "reason": "**Fibonacci 0.382 retracement**; prior daily support; structural support",
+        "status": "active",
+        "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
       }
