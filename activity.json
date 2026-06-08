@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-08T19:58:44.318975+00:00",
+  "generated_at": "2026-06-08T20:13:36.223600+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T20:00:44.252000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,410**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-08T19:48:48.139000+00:00",
       "time": "03:48 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:19 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $81.19** Current: **$81.19** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci retracement; current price within 1 tick; psy"
-    },
-    {
-      "ts": "2026-06-08T19:15:08.262000+00:00",
-      "time": "03:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,381** | P&L: **-22"
     }
   ]
 }
