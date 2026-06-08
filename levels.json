@@ -3032,5 +3032,113 @@
         "last_hit": null
       }
     ]
+  },
+  "MSTR": {
+    "last_updated": "2026-06-08",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 132.01,
+        "type": "R1",
+        "strength": 5,
+        "reason": "0.786 Fib retracement + prior swing low (132.76 nearby) + 4H structure",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.9,
+        "type": "R2",
+        "strength": 5,
+        "reason": "**0.618 Fib GOLDEN POCKET** \u2014 strongest Fib zone; psychological confluence",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 155.65,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.500 Fib retracement + MA50 ($155.15 exact) \u2014 20-day VWAP at $152.86",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 165.41,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.382 Fib retracement; prior recent daily swing high",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 177.49,
+        "type": "R3",
+        "strength": 3,
+        "reason": "0.236 Fib retracement + prior weekly close ($177.17, $177.42)",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 123.14,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Last daily low (today's candle); 1H recent low cluster",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 114.31,
+        "type": "S2",
+        "strength": 5,
+        "reason": "60-day absolute low; 1H low from ~5 days ago; psychological round",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 104.17,
+        "type": "S3",
+        "strength": 4,
+        "reason": "52-week low; potential capitulation zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 116.4,
+        "type": "S3",
+        "strength": 3,
+        "reason": "60-day swing low (older, but part of structure)",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 157.91,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
