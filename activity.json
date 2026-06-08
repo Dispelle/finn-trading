@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-08T15:11:48.598892+00:00",
+  "generated_at": "2026-06-08T15:26:28.383402+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T15:21:02.611000+00:00",
+      "time": "11:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $961.89** Current: **$961.00** | Strength: 5/5 Today's high; 60-day swing high cluster; psychological round"
+    },
     {
       "ts": "2026-06-08T14:37:47.694000+00:00",
       "time": "10:37 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $215.33** Current: **$209.61** | Strength: 5/5 Today's 1H high; psychological round; prior daily open"
-    },
-    {
-      "ts": "2026-06-05T18:03:39.567000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,652**  \u23f0 **YOU "
     }
   ]
 }
