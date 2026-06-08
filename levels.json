@@ -4130,6 +4130,66 @@
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 320.24,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high, recent rejection point, psychological round, Fibonacci 1.000 extension from $281.75 base",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 330.71,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.272 extension (281.75\u2192320.24), natural mathematical projection for bull continuation",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 344.03,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci 1.618 extension, 52-week high zone approach, extended bull target",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 305.54,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement, active intraday support, MA50 proximity ($304.59), zone of consolidation",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 296.45,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 golden pocket (start), psychological level, prior swing low cluster ($295.2\u2013$295.55)",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 281.75,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 60-day low, major structural support, 52-week low test point, invalidation of entire bullish thesis",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
