@@ -1106,6 +1106,76 @@
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 1010.0,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Prior swing high on 8 days ago ($1,009.5 daily low, $1,017.2 range midpoint); psychological round number; volume clust",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **Absolute 60-day peak, swing high anchor**, 1.272 Fib extension zone, psychological $1,090 round; supply resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1300.85,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 **1.272 Fibonacci extension** (from $311.49 \u2192 $1,089.29 swing); structural projection if breakout confirmed",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 905.73,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **0.236 Fibonacci retracement** (311.49 \u2192 1089.29); confluence with intraday 1H structure; natural pullback target",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 864.01,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 **Lowest daily close in last 10 days**, structural pivot; break here = lower low, invalidates week-bullish bias",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 792.17,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 **0.382 Fibonacci retracement**, prior swing low area around 818.67; intermediate support",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 864.01,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
