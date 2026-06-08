@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-08T14:07:15.334795+00:00",
+  "generated_at": "2026-06-08T14:21:19.783788+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T14:13:01.427000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.86** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
+    },
     {
       "ts": "2026-06-08T13:56:27.817000+00:00",
       "time": "09:56 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $58.29** Current: **$58.22** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-05T13:36:40.329000+00:00",
-      "time": "09:36 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $58.29** Current: **$58.32** | Strength: 5/5"
     }
   ]
 }
