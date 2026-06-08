@@ -620,5 +620,73 @@
         "last_hit": null
       }
     ]
+  },
+  "MU": {
+    "last_updated": "2026-06-08",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 905.73,
+        "type": "R1",
+        "strength": 5,
+        "reason": "0.236 Fib retracement + prior intraday support (1H lows near $886\u2013$905)",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 961.89,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Today's high; 60-day swing high cluster; psychological round",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day peak; swing high; Fib 1.618 extension base; *structural invalidation level*",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 844.7,
+        "type": "S1",
+        "strength": 5,
+        "reason": "20-day VWAP; *extremely tight* \u2014 **live trade pivot**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 792.17,
+        "type": "S2",
+        "strength": 4,
+        "reason": "0.382 Fib; prior daily swing low (904.78); volume inflection",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 700.39,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.500 Fib + MA20 confluence; psychological support; *secondary invalidation*",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
