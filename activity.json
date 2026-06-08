@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-08T19:13:31.479448+00:00",
+  "generated_at": "2026-06-08T19:28:32.241782+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T19:26:39.271000+00:00",
+      "time": "03:26 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $595.5** Current: **$595.75** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
+    },
+    {
+      "ts": "2026-06-08T19:25:34.771000+00:00",
+      "time": "03:25 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $595.5** Current: **$595.44** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
+    },
+    {
+      "ts": "2026-06-08T19:20:20.464000+00:00",
+      "time": "03:20 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $81.19** Current: **$81.23** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci retracement; current price within 1 tick; psy"
+    },
+    {
+      "ts": "2026-06-08T19:19:16.660000+00:00",
+      "time": "03:19 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $81.19** Current: **$81.19** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci retracement; current price within 1 tick; psy"
+    },
+    {
+      "ts": "2026-06-08T19:15:08.262000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,381** | P&L: **-22"
+    },
+    {
+      "ts": "2026-06-08T19:13:58.382000+00:00",
+      "time": "03:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $585.68** Current: **$585.76** | Strength: 5/5 Fibonacci 0.618 golden pocket; current price barely above; critical flo"
+    },
     {
       "ts": "2026-06-08T19:11:51.551000+00:00",
       "time": "03:11 PM ET",
@@ -24,42 +60,6 @@
       "time": "02:45 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,490** | P&L: **-22"
-    },
-    {
-      "ts": "2026-06-08T18:30:05.964000+00:00",
-      "time": "02:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,644**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-08T18:17:54.422000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $305.46** Current: **$305.81** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-08T18:15:09.856000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 OXY** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **OXY HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$57.62** | P&L: **3.8%"
-    },
-    {
-      "ts": "2026-06-08T18:15:07.852000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,591** | P&L: **-21"
-    },
-    {
-      "ts": "2026-06-08T18:08:25.962000+00:00",
-      "time": "02:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S3 $305.46** Current: **$305.27** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-08T18:03:08.771000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $308.0** Current: **$307.03** | Strength: 4/5"
     }
   ]
 }
