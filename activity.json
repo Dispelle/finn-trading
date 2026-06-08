@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-08T18:37:16.533000+00:00",
+  "generated_at": "2026-06-08T18:51:58.116295+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T18:45:06.142000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,490** | P&L: **-22"
+    },
     {
       "ts": "2026-06-08T18:30:05.964000+00:00",
       "time": "02:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $310.0** Current: **$310.02** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-08T17:45:17.531000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 OXY** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **OXY HIT STOP AT $57.41** (stop: $59.70) Entry: $55.49 \u2192 Now: **$57.41** | P&L: **"
     }
   ]
 }
