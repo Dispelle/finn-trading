@@ -1316,6 +1316,66 @@
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "R1",
+        "strength": 5,
+        "reason": "60-day ATH, recent swing high (6d old), psychological round, fib extension target",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1013.5,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Midpoint of recent swing high-low; 1H resistance, prior support that flipped",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 971.68,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Prior daily swing low that held, now resistance; HL of structure",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 916.5,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's daily low; 1H support cluster; tested twice in last 2 days",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 905.73,
+        "type": "S2",
+        "strength": 5,
+        "reason": "**Fib 0.236 retracement** (311.49 \u2192 1089.29); psychological $905 round; confluence",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 864.01,
+        "type": "S3",
+        "strength": 4,
+        "reason": "2-day low, swing low, prior breakout support (2d ago), now held support",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
