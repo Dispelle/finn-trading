@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-08T15:26:28.383402+00:00",
+  "generated_at": "2026-06-08T15:41:26.570257+00:00",
   "items": [
+    {
+      "ts": "2026-06-08T15:38:32.408000+00:00",
+      "time": "11:38 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $57.38** Current: **$57.40** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
+    {
+      "ts": "2026-06-08T15:36:28.009000+00:00",
+      "time": "11:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.37** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
     {
       "ts": "2026-06-08T15:21:02.611000+00:00",
       "time": "11:21 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $215.5** Current: **$209.61** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-08T13:30:35.873000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $219.3** Current: **$209.61** | Strength: 5/5 20-week VWAP; MA20 (weekly basis); major seller zone"
-    },
-    {
-      "ts": "2026-06-08T13:30:35.385000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $215.33** Current: **$209.61** | Strength: 5/5 Today's 1H high; psychological round; prior daily open"
     }
   ]
 }
