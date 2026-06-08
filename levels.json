@@ -2198,5 +2198,83 @@
         "last_hit": null
       }
     ]
+  },
+  "SPY": {
+    "last_updated": "2026-06-08",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 747.5,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 **20-day VWAP** ($745.72) + $760.40 = avg $753; current pullback often respects VWAP rejection. Minor resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.4,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **60-day swing high / 0.786 Fib extension** (recent resistance, double-tap zone). This is the **distribution peak**.",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 796.06,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 **1.272 Fibonacci extension** (629.28 \u2192 760.40). Aspirational target if breakout confirmed.",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 745.72,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 **20-day VWAP** (current price $741.32 is 0.4% below). Acts as dynamic cushion on intraday bounces.",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 737.55,
+        "type": "S2",
+        "strength": 3,
+        "reason": "\u2014 **Prior daily close / micro-support** (in yesterday's range $737.55\u2013$758.31). Psychological hold.",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 731.53,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 **Recent swing low (4 days ago)** + **0.650 Fibonacci level** ($675.17 is too far; using 60d structure). **This is the",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 729.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
