@@ -3160,6 +3160,76 @@
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 305.37,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP, price rejected below 3 of last 5 closes; also midpoint of today's range; **confluent supply zone**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 310.26,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 10-bar daily average; prior support from 8 bars ago; psychological round; repeat test zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 317.4,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 60-day high + weekly intraday high (today); extension target 1.272 fib = $336.95 sits above",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 300.43,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fibonacci retracement (golden pocket start); psychologically hard floor; **if broken = daily structure flip**",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 289.94,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 0.382 Fibonacci; daily MA20 $304.66 will drop to ~$300 by Friday, then $295 zone by next week; this is next structural",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 272.97,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fibonacci (golden pocket); **confluent with weekly MA20 $274.38**; reversal zone if weekly breaks",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 336.95,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
