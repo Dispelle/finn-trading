@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-06-08",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -387,7 +387,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Recent swing high resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -397,7 +397,7 @@
         "type": "R2",
         "strength": 3,
         "reason": "Entry price \u2014 reclaim = breakeven",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -407,7 +407,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "Prior support cluster / psychological level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -417,7 +417,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Major macro support \u2014 breakdown = bearish regime",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-12",
         "hit_count": 0,
         "last_hit": null
@@ -427,13 +427,103 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-05-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64177.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "0.786 Fib retracement (golden pocket); 60-day swing high resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 68156.0,
+        "type": "R2",
+        "strength": 5,
+        "reason": "0.618 Fib (golden pocket anchor); psychological round; 2-week resistance",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 70951.0,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.500 Fib midpoint; 60-day mid-range; MA20 proximity",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 73745.0,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.382 Fib; last higher low zone; 3-day resistance band",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 75597.0,
+        "type": "R3",
+        "strength": 5,
+        "reason": "MA50 (critical moving average); structural mean reversion line",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62451.0,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's low ($62,450.61); immediate daily support",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59109.0,
+        "type": "S2",
+        "strength": 5,
+        "reason": "60-day absolute low; round number (59k); prior LL",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61336.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "5-day low; intraday support band",
+        "status": "active",
+        "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60867.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "9-day low; secondary support zone",
+        "status": "active",
+        "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
       }
     ],
-    "ticker_source": "watchlist",
+    "ticker_source": "portfolio",
     "position_note": "Watching only \u2014 no meaningful position. Dust ~$13."
   },
   "INTC": {
