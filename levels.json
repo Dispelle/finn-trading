@@ -4912,7 +4912,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4981,9 +4981,9 @@
         "price": 148.03,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; prior swing low breakpoint",
+        "reason": "\u2014 0.382 Fib retracement. Secondary Fib resistance.",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5001,9 +5001,9 @@
         "price": 131.46,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement (golden pocket extension); 60-day low test zone",
+        "reason": "\u2014 Prior swing low (60d chart).",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5044,6 +5044,66 @@
         "reason": "\u2014 1H recent low (8 bars ago) + prior consolidation zone",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 136.47,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 Prior daily close (2 days ago); swing high from 1H chart. Minor but valid micro-resistance.",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 141.25,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Confluence zone: Prior daily low (2 days ago), near 20-day VWAP ($141.12), MA20 proximity. **Strong intermediate resis",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 143.19,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 0.5 Fibonacci retracement (golden midpoint). Psychological and structural. Breaks above this on daily close = trend re",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 154.02,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.236 Fib retracement; confluence with recent swing high zone (152.68, 156.28).",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 127.35,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **TODAY'S LOW / 60-DAY LOW** \u2014 Fresh structural support. If broken, next support is 122.68.",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 122.68,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 **52-WEEK LOW AND 60-DAY LOW** \u2014 Absolute floor for this move. Psychological and technical pivot.",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
