@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-09T14:40:29.880065+00:00",
+  "generated_at": "2026-06-09T14:55:42.657882+00:00",
   "items": [
     {
-      "ts": "2026-06-09T14:33:53.268000+00:00",
-      "time": "10:33 AM ET",
+      "ts": "2026-06-09T14:54:21.201000+00:00",
+      "time": "10:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $735.53** Current: **$735.96** | Strength: 4/5 10-day low (2 bars ago); 1H low from intraday compression"
+    },
+    {
+      "ts": "2026-06-09T14:52:11.895000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $81.19** Current: **$81.24** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci retracement; current price within 1 tick; psy"
+    },
+    {
+      "ts": "2026-06-09T14:52:11.160000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $59.5** Current: **$59.62** | Strength: 3/5 Round number; 0.382 retracement equivalent zone (extension math); psychological f"
+    },
+    {
+      "ts": "2026-06-09T14:52:10.195000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $590.0** Current: **$590.78** | Strength: 5/5 20-day VWAP ($582.19) + 1% buffer; MA20 at $585.75; technical equilibrium"
+    },
+    {
+      "ts": "2026-06-09T14:52:09.244000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $477.71** Current: **$478.36** | Strength: 5/5 Today's low, recent daily swing low, 1H support cluster"
+    },
+    {
+      "ts": "2026-06-09T14:51:05.171000+00:00",
+      "time": "10:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $205.1** Current: **$205.37** | Strength: 5/5 \u2014 10-day low, intraday tested twice in last 3 days"
+    },
+    {
+      "ts": "2026-06-09T14:51:04.566000+00:00",
+      "time": "10:51 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $60.37** Current: **$60.33** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $475.69** Current: **$477.27** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-09T14:32:49.010000+00:00",
-      "time": "10:32 AM ET",
+      "ts": "2026-06-09T14:51:03.904000+00:00",
+      "time": "10:51 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $60.37** Current: **$60.50** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $475.59** Current: **$477.27** | Strength: 5/5 MA20 daily, slope positive, dynamic support **[CRITICAL]**"
     },
     {
-      "ts": "2026-06-09T14:32:48.319000+00:00",
-      "time": "10:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $395.92** Current: **$396.32** | Strength: 5/5 Fresh 1H low (today's candle); 60-day low = $395.92 (3 days ago); tested"
-    },
-    {
-      "ts": "2026-06-09T14:30:08.485000+00:00",
-      "time": "10:30 AM ET",
+      "ts": "2026-06-09T14:49:59.094000+00:00",
+      "time": "10:49 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,568**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $205.1** Current: **$205.03** | Strength: 5/5 \u2014 10-day low, intraday tested twice in last 3 days"
     },
     {
-      "ts": "2026-06-09T14:29:34.352000+00:00",
-      "time": "10:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.27** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
-    },
-    {
-      "ts": "2026-06-09T14:23:14.603000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $134.02** Current: **$134.04** | Strength: 5/5 \u2014 1H recent low (8 bars ago) + prior consolidation zone"
-    },
-    {
-      "ts": "2026-06-09T14:23:11.853000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $60.85** Current: **$60.90** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-09T14:23:10.553000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $486.8** Current: **$487.51** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-09T14:23:09.405000+00:00",
-      "time": "10:23 AM ET",
+      "ts": "2026-06-09T14:48:55.923000+00:00",
+      "time": "10:48 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.25** Current: **$56.14** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
-    },
-    {
-      "ts": "2026-06-09T14:17:52.809000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $134.02** Current: **$133.75** | Strength: 5/5 \u2014 1H recent low (8 bars ago) + prior consolidation zone"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $735.53** Current: **$735.32** | Strength: 4/5 10-day low (2 bars ago); 1H low from intraday compression"
     }
   ]
 }
