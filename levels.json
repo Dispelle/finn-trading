@@ -3706,7 +3706,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3795,9 +3795,9 @@
         "price": 317.4,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day high + recent swing high. Psychological round. **",
+        "reason": "\u2014 60-DAY SWING HIGH (major supply)",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3825,9 +3825,9 @@
         "price": 272.97,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 \"golden pocket\" start** + MA20 weekly ($274.38) = major confluence. If price falls here, weekly bias",
+        "reason": "\u2014 FIBONACCI 0.618 (GOLDEN POCKET)",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3845,9 +3845,9 @@
         "price": 312.06,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Prior weekly close (2 weeks back); psychological level; convergence of recent swing highs",
+        "reason": "\u2014 PRIOR WEEKLY CLOSE (3 days ago) / weekly pivot",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3908,6 +3908,86 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 300.72,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 TODAY'S INTRADAY HIGH / prior 1H resistance",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 305.02,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 YESTERDAY'S DAILY LOW / structural pivot",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 308.3,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 PRIOR DAILY OPEN (10d avg entry zone) / MA20 proximity ($304.52)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 287.78,
+        "type": "S1",
+        "strength": 3,
+        "reason": "\u2014 TODAY'S INTRADAY LOW / minor support",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 281.45,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 FIBONACCI 0.500 (mid-point of 245.51 \u2192 317.40)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 265.07,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 PRIOR SWING LOW (60d)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 245.51,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 52-WEEK LOW",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 305.02,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
