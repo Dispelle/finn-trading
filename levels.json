@@ -2454,6 +2454,56 @@
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 400.45,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 reason: Daily high (today's candle); intra-day pivot; minor supply",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 404.6,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 reason: **0.786 Fib confluence + previous swing low support**; psychological round level",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 417.04,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 reason: **GOLDEN POCKET (0.618 Fib) + prior swing low ($414.16) + ex-MA20 resistance**; structural invalidation thresh",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 388.75,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 reason: **60-day LOW (today's low); structural swing bottom; daily reversal pin**",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 299.89,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 reason: **52-week low**; ultimate floor in current bull market context",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
