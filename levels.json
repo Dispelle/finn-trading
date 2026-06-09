@@ -5337,9 +5337,9 @@
         "price": 146.95,
         "type": "S2",
         "strength": 5,
-        "reason": "Recent swing low (within-range floor, tested multiple times)",
+        "reason": "\u2014 Prior swing low (3 days back) + 4H support zone",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5347,9 +5347,9 @@
         "price": 144.71,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day swing low, prior support that was broken, now resistance",
+        "reason": "\u2014 Prior daily low + 60-day range lower band",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5440,6 +5440,86 @@
         "reason": "Fib 0.650 retracement + recent daily high cluster + MA20 proximity",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 151.75,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior daily close + intraday resistance band (rejected 4x in last 5 bars)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 152.49,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 20-day MA (weekly/daily convergence) + psychological round + invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 153.81,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Prior 1H high + 4H resistance + prior daily high (10 days)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 155.13,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.618 Fib golden pocket (141.97\u2192176.41 retracement) + prior daily high ($155.29 swing)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 159.19,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 0.500 Fib retracement + psychological level",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 147.78,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **TODAY'S INTRADAY LOW** + tested 2x in 1H (strong rejection upward)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 146.87,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 10-day daily low cluster + micro support",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.26,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Prior swing low (5 days back) + daily support",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
