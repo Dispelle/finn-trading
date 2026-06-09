@@ -1,23 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:10:35.862877+00:00",
+  "generated_at": "2026-06-09T13:25:30.453200+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 3,
+    "active": 2,
     "scheduled": 5
   },
   "jobs": [
-    {
-      "id": "recB16EHetwuSURMA",
-      "name": "20 Brigham Ln - Jon & Katie Erlichman",
-      "address": "20 Brigham Ln, Portsmouth, NH 03801",
-      "status": "In Progress",
-      "status_label": "In Progress",
-      "job_type": "Residential Exterior",
-      "value": 2820,
-      "notes": "PaintScout Estimate #83 \u2014 Accepted",
-      "start_date": "",
-      "client_phone": "+13523483471"
-    },
     {
       "id": "recHBXhryVphCWFmZ",
       "name": "5 Ashley Ln Danvers - Robert Shay",
