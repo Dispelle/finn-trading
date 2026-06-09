@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-09T14:26:16.032048+00:00",
+  "generated_at": "2026-06-09T14:40:29.880065+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T14:33:53.268000+00:00",
+      "time": "10:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $60.37** Current: **$60.33** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
+    },
+    {
+      "ts": "2026-06-09T14:32:49.010000+00:00",
+      "time": "10:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $60.37** Current: **$60.50** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
+    },
+    {
+      "ts": "2026-06-09T14:32:48.319000+00:00",
+      "time": "10:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $395.92** Current: **$396.32** | Strength: 5/5 Fresh 1H low (today's candle); 60-day low = $395.92 (3 days ago); tested"
+    },
+    {
+      "ts": "2026-06-09T14:30:08.485000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,568**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-09T14:29:34.352000+00:00",
+      "time": "10:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.27** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
+    },
     {
       "ts": "2026-06-09T14:23:14.603000+00:00",
       "time": "10:23 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:17 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $134.02** Current: **$133.75** | Strength: 5/5 \u2014 1H recent low (8 bars ago) + prior consolidation zone"
-    },
-    {
-      "ts": "2026-06-09T14:17:50.359000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $60.85** Current: **$60.81** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-09T14:17:49.584000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $395.92** Current: **$395.65** | Strength: 5/5 Fresh 1H low (today's candle); 60-day low = $395.92 (3 days ago); tested"
-    },
-    {
-      "ts": "2026-06-09T14:17:48.760000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $598.93** Current: **$597.12** | Strength: 5/5 Weekly close (strong weekly level); 20-day VWAP approx"
-    },
-    {
-      "ts": "2026-06-09T14:17:47.847000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $486.8** Current: **$485.24** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-09T14:15:08.123000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,970** | P&L: **-23"
     }
   ]
 }
