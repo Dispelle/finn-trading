@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-09T20:53:36.907649+00:00",
+  "generated_at": "2026-06-09T21:22:53.370412+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T21:21:51.258000+00:00",
+      "time": "05:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,892**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-09T21:00:07.103000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,115** | P&L: **-23"
+    },
     {
       "ts": "2026-06-09T20:45:06.840000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:56 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $916.5** Current: **$917.14** | Strength: 5/5 \u2014 **Today's low; fib 0.236 retracement @ $905.73**"
-    },
-    {
-      "ts": "2026-06-09T19:51:49.701000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $735.53** Current: **$735.59** | Strength: 4/5 10-day low (2 bars ago); 1H low from intraday compression"
-    },
-    {
-      "ts": "2026-06-09T19:50:46.109000+00:00",
-      "time": "03:50 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $585.68** Current: **$586.32** | Strength: 5/5 \u2014 0.618 Fibonacci (golden pocket start)"
     }
   ]
 }
