@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-09T13:40:25.819858+00:00",
+  "generated_at": "2026-06-09T13:55:26.368250+00:00",
   "items": [
     {
-      "ts": "2026-06-09T13:39:08.072000+00:00",
-      "time": "09:39 AM ET",
+      "ts": "2026-06-09T13:55:16.199000+00:00",
+      "time": "09:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.72** Current: **$745.28** | Strength: 4/5 \u2014 **20-day VWAP** (current price $741.32 is 0.4% below). Acts as dynamic"
+    },
+    {
+      "ts": "2026-06-09T13:54:12.039000+00:00",
+      "time": "09:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $596.68** Current: **$596.09** | Strength: 5/5 Swing high (4 days ago); daily close resistance; 1H acting as hard ceil"
+    },
+    {
+      "ts": "2026-06-09T13:53:05.378000+00:00",
+      "time": "09:53 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $123.14** Current: **$123.55** | Strength: 5/5 \u2014 **Today's daily low (1H recent support)**"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62451.0** Current: **$62467.99** | Strength: 4/5 Today's low ($62,450.61); immediate daily support"
     },
     {
-      "ts": "2026-06-09T13:38:03.951000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $123.14** Current: **$122.97** | Strength: 5/5 \u2014 **Today's daily low (1H recent support)**"
-    },
-    {
-      "ts": "2026-06-09T13:38:02.760000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $150.02** Current: **$149.89** | Strength: 5/5 \u2014 1H recent lows, local support cluster, VWAP adjacent"
-    },
-    {
-      "ts": "2026-06-09T13:38:01.194000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $409.58** Current: **$409.45** | Strength: 5/5 Daily swing low (10 days ago); 1H low cluster support; MA50 below"
-    },
-    {
-      "ts": "2026-06-09T13:36:57.279000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.92** Current: **$12.91** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-06-09T13:35:50.122000+00:00",
-      "time": "09:35 AM ET",
+      "ts": "2026-06-09T13:52:04.358000+00:00",
+      "time": "09:52 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $409.58** Current: **$409.93** | Strength: 5/5 Daily swing low (10 days ago); 1H low cluster support; MA50 below"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $125.04** Current: **$125.08** | Strength: 4/5 Prior swing low (60d); intraday lows touch this frequently"
     },
     {
-      "ts": "2026-06-09T13:34:44.386000+00:00",
-      "time": "09:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $971.68** Current: **$971.15** | Strength: 4/5 Prior daily swing low that held, now resistance; HL of structure"
-    },
-    {
-      "ts": "2026-06-09T13:34:43.681000+00:00",
-      "time": "09:34 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP1 $606.2** Current: **$604.93** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-09T13:34:43.192000+00:00",
-      "time": "09:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $607.0** Current: **$604.93** | Strength: 4/5 Today's 1H high AND yesterday's high; local resistance, recent failed bre"
-    },
-    {
-      "ts": "2026-06-09T13:33:41.587000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-06-09T13:52:00.705000+00:00",
+      "time": "09:52 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.92** Current: **$12.94** | Strength: 3/5 |"
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $596.68** Current: **$596.80** | Strength: 5/5 Swing high (4 days ago); daily close resistance; 1H acting as hard ceil"
+    },
+    {
+      "ts": "2026-06-09T13:51:58.952000+00:00",
+      "time": "09:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $83.0** Current: **$82.95** | Strength: 4/5 Today's high; prior swing high 84.22; daily seller cluster"
+    },
+    {
+      "ts": "2026-06-09T13:50:53.819000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $612.3** Current: **$612.13** | Strength: 4/5 60-day swing high (prior to $642.77); trendline resistance"
+    },
+    {
+      "ts": "2026-06-09T13:49:50.836000+00:00",
+      "time": "09:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $149.34** Current: **$149.10** | Strength: 5/5 Fib 0.786 retracement (strong pullback rejection zone)"
+    },
+    {
+      "ts": "2026-06-09T13:49:48.846000+00:00",
+      "time": "09:49 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $83.0** Current: **$83.10** | Strength: 4/5 Today's high; prior swing high 84.22; daily seller cluster"
+    },
+    {
+      "ts": "2026-06-09T13:46:37.795000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.72** Current: **$745.81** | Strength: 4/5 \u2014 **20-day VWAP** (current price $741.32 is 0.4% below). Acts as dynamic"
     }
   ]
 }
