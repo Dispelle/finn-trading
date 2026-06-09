@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-09T19:53:15.409151+00:00",
+  "generated_at": "2026-06-09T20:07:16.001255+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T20:00:32.329000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,063**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-09T19:59:18.157000+00:00",
+      "time": "03:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $473.3** Current: **$474.72** | Strength: 5/5 \u2014 20-day VWAP (anchor & reversal zone)"
+    },
+    {
+      "ts": "2026-06-09T19:59:17.752000+00:00",
+      "time": "03:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $472.53** Current: **$474.72** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-09T19:59:17.263000+00:00",
+      "time": "03:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $472.38** Current: **$474.72** | Strength: 4/5 20-day VWAP (major volume-weighted anchor)"
+    },
+    {
+      "ts": "2026-06-09T19:59:16.663000+00:00",
+      "time": "03:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $472.18** Current: **$474.72** | Strength: 5/5 20-day VWAP; key liquidity anchor; break = trend flip signal"
+    },
+    {
+      "ts": "2026-06-09T19:56:05.356000+00:00",
+      "time": "03:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $916.5** Current: **$917.14** | Strength: 5/5 \u2014 **Today's low; fib 0.236 retracement @ $905.73**"
+    },
     {
       "ts": "2026-06-09T19:51:49.701000+00:00",
       "time": "03:51 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:50 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $581.96** Current: **$584.62** | Strength: 5/5 20-day VWAP; current price resting near this level; anchored value"
-    },
-    {
-      "ts": "2026-06-09T19:45:23.016000+00:00",
-      "time": "03:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.29** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
-    },
-    {
-      "ts": "2026-06-09T19:45:08.600000+00:00",
-      "time": "03:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,835** | P&L: **-24"
-    },
-    {
-      "ts": "2026-06-09T19:43:15.468000+00:00",
-      "time": "03:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $466.38** Current: **$467.10** | Strength: 5/5 8D swing low (LL from CHoCH), critical invalidation of bullish structure"
-    },
-    {
-      "ts": "2026-06-09T19:42:10.738000+00:00",
-      "time": "03:42 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $580.61** Current: **$580.66** | Strength: 4/5 20-day VWAP (price was below this for 1H candles); recent pivot/equilibr"
-    },
-    {
-      "ts": "2026-06-09T19:41:06.647000+00:00",
-      "time": "03:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $905.73** Current: **$903.52** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (311.49 \u2192 1089.29). **Psychological cluster"
-    },
-    {
-      "ts": "2026-06-09T19:41:05.894000+00:00",
-      "time": "03:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $582.0** Current: **$579.78** | Strength: 5/5 20-day VWAP; psychological anchor; confluence with Fib 0.236 ($576.00) ne"
     }
   ]
 }
