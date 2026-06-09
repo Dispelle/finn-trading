@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-09T17:16:41.475255+00:00",
+  "generated_at": "2026-06-09T17:31:44.226145+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T17:22:03.356000+00:00",
+      "time": "01:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $576.0** Current: **$576.15** | Strength: 5/5 \u2014 **0.236 Fibonacci retracement (359.86 \u2192 642.77); also 20-day VWAP ($580"
+    },
     {
       "ts": "2026-06-09T17:16:29.272000+00:00",
       "time": "01:16 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:58 PM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **BTC \u2014 BROKE ABOVE S3 $61336.0** Current: **$61379.56** | Strength: 3/5 5-day low; intraday support band"
-    },
-    {
-      "ts": "2026-06-09T16:45:43.610000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $725.0** Current: **$725.25** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
