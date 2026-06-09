@@ -3568,7 +3568,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3607,9 +3607,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day all-time high; psychological resistance; Fib 1.272 extension point; last supply exhaustion level",
+        "reason": "60-day HH; swing high; critical invalidation for bullish thesis",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3650,6 +3650,56 @@
         "reason": "Fib 0.382 retracement; MA50 trend support ($670.65); intermediate structural support",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 719.25,
+        "type": "R1",
+        "strength": 5,
+        "reason": "20-day VWAP \u2014 price currently below; psychological magnet for mean reversion",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 721.35,
+        "type": "R2",
+        "strength": 5,
+        "reason": "MA20 (weekly + daily anchor); slope down but a key daily pivot",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 686.37,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's intraday low; recent 1H low; knife-edge support",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 678.9,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Fib 0.382 retracement ($674.90) + prior swing low confluence; psychological zone",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 652.12,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Fib 0.500 retracement; MA50 ($673.31) nearby; midpoint of 52-week range",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
