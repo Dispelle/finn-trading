@@ -2884,7 +2884,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2893,9 +2893,9 @@
         "price": 139.55,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (anchored to recent breakout attempt); price below = pullback signal; confluence with MA20 slope trajector",
+        "reason": "\u2014 20-day VWAP + MA20 cluster; prior swing high.",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2933,9 +2933,9 @@
         "price": 124.64,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci (golden pocket start)",
+        "reason": "\u2014 0.618 Fibonacci (golden pocket); swing low at $122.48 nearby. **CRITICAL.**",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2963,9 +2963,9 @@
         "price": 142.84,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.236 retracement (106.45\u2192154.08); prior swing high reference; psychological round number",
+        "reason": "\u2014 0.236 Fibonacci retrace (106.45\u2192154.08); prior swing high at $141.42. Confluence.",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
