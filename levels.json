@@ -1263,9 +1263,9 @@
         "price": 642.77,
         "type": "R3",
         "strength": 5,
-        "reason": "**Recent 60-day swing high & all-time high in this cycle**; major supply zone",
+        "reason": "\u2014 reason: **60-day high & recent swing high**; psychologically significant reversal point; fib extension zone",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1363,9 +1363,9 @@
         "price": 467.93,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fibonacci golden pocket; MA20 (weekly) at $467.13 \u2014 this is deep support",
+        "reason": "\u2014 reason: **Fibonacci 0.618 (golden pocket)** within 60d swing; major institutional support zone; price would need 17.5%",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1393,9 +1393,9 @@
         "price": 542.67,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Recent swing low (60-day); critical floor. Break here = test of $534.70 (0.382 fib).",
+        "reason": "\u2014 reason: **Last major swing low (60d chart)**; 20-day psychological level; if breached, opens path to golden pocket",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1616,6 +1616,36 @@
         "reason": "\u2014 9-day swing low (critical structure anchor)",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 598.93,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 reason: **Prior swing high from distribution phase** (seen in last 10 daily closes + weekly close 4 bars ago); conflue",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 613.69,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 reason: **Today's high; short-term resistance** (1H data shows 1H high = $613.69); 20-day VWAP proximity $582.73 below",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 554.66,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 reason: **Today's intraday low; recent daily support cluster** (within 1\u20132 pip range of multiple 1H lows); breakdown h",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
