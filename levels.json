@@ -3112,7 +3112,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3160,10 +3160,10 @@
       {
         "price": 14.88,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 Recent 1H swing low (multiple tests, held)",
+        "strength": 5,
+        "reason": "\u2014 1H swing low (cluster of lows around 14.64\u201314.88) | Psychological | Prior test zone",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3191,9 +3191,9 @@
         "price": 16.52,
         "type": "R1",
         "strength": 5,
-        "reason": "Fib 0.786 (golden zone bottom) + prior hourly high cluster (1H recent highs $16.2\u2013$16.13)",
+        "reason": "\u2014 Fibonacci 0.786 retracement (14.64\u219223.42) | Prior daily swing high (2 days ago: $16.20) | Strong confluence",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3201,9 +3201,9 @@
         "price": 17.99,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.618 (golden pocket) + prior daily support $17.87\u2013$18.13",
+        "reason": "\u2014 Fibonacci 0.618 retracement (**Golden Pocket zone 0.618\u20130.650**) | Psychological mid-point of recent range",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3241,9 +3241,9 @@
         "price": 20.06,
         "type": "R3",
         "strength": 3,
-        "reason": "Fib 0.382 retracement",
+        "reason": "\u2014 Fibonacci 0.382 retracement | Major inflection from collapse",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3271,9 +3271,9 @@
         "price": 14.64,
         "type": "S3",
         "strength": 5,
-        "reason": "52-week low + 60d low (TODAY's intraday low) \u2014 **CRITICAL**",
+        "reason": "\u2014 **52-week low | Absolute floor tested 4 days ago | If breaks = invalidation of current range**",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3284,6 +3284,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 19.03,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 retracement | Daily MA20 ($19.08) nearby | Prior swing low",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 23.42,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 60-day swing high | Prior resistance (supply cluster)",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 15.33,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 Today's daily low | Intraday swing low (hourly chart) | Tight support",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
