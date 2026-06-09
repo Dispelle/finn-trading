@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-09T18:32:17.643081+00:00",
+  "generated_at": "2026-06-09T18:47:06.294633+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T18:37:38.681000+00:00",
+      "time": "02:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.32** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-06-09T18:31:15.248000+00:00",
       "time": "02:31 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:43 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $462.86** Current: **$463.69** | Strength: 5/5 **Fibonacci 0.236 retracement** (192.27\u2192546.44); prior intraday support;"
-    },
-    {
-      "ts": "2026-06-09T17:22:03.356000+00:00",
-      "time": "01:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $576.0** Current: **$576.15** | Strength: 5/5 \u2014 **0.236 Fibonacci retracement (359.86 \u2192 642.77); also 20-day VWAP ($580"
     }
   ]
 }
