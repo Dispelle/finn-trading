@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-09T13:56:03.725848+00:00",
+  "generated_at": "2026-06-09T13:56:27.728677+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T13:56:20.490000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $723.03** Current: **$722.66** | Strength: 5/5 20-day VWAP ($720.06) + MA20 ($722.25) zone; 1H recent swing high cluste"
+    },
     {
       "ts": "2026-06-09T13:55:16.199000+00:00",
       "time": "09:55 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:49 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $83.0** Current: **$83.10** | Strength: 4/5 Today's high; prior swing high 84.22; daily seller cluster"
-    },
-    {
-      "ts": "2026-06-09T13:46:37.795000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.72** Current: **$745.81** | Strength: 4/5 \u2014 **20-day VWAP** (current price $741.32 is 0.4% below). Acts as dynamic"
     }
   ]
 }
