@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-09T16:40:38.040252+00:00",
+  "generated_at": "2026-06-09T16:55:39.252591+00:00",
   "items": [
+    {
+      "ts": "2026-06-09T16:45:43.610000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $725.0** Current: **$725.25** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-09T16:45:42.650000+00:00",
+      "time": "12:45 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $78.19** Current: **$78.46** | Strength: 5/5 Fibonacci 0.618 (golden pocket) \u2014 **MAJOR magnet** in bear markets"
+    },
+    {
+      "ts": "2026-06-09T16:45:42.033000+00:00",
+      "time": "12:45 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $78.34** Current: **$78.46** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (golden zone start). This is THE critical"
+    },
+    {
+      "ts": "2026-06-09T16:45:40.892000+00:00",
+      "time": "12:45 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $390.0** Current: **$390.05** | Strength: 4/5 \u2014 Round psychological level + estimated extrapolation below 60-day low. M"
+    },
+    {
+      "ts": "2026-06-09T16:45:05.922000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,200**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-09T16:41:24.950000+00:00",
+      "time": "12:41 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $556.34** Current: **$557.30** | Strength: 4/5 Prior weekly close (2 weeks ago); fibonacci 0.236 at $576.00 just above"
+    },
     {
       "ts": "2026-06-09T16:40:22.699000+00:00",
       "time": "12:40 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $78.34** Current: **$78.06** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (golden zone start). This is THE critical"
-    },
-    {
-      "ts": "2026-06-09T16:40:17.976000+00:00",
-      "time": "12:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $556.34** Current: **$555.68** | Strength: 4/5 Prior weekly close (2 weeks ago); fibonacci 0.236 at $576.00 just above"
-    },
-    {
-      "ts": "2026-06-09T16:39:13.971000+00:00",
-      "time": "12:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $390.0** Current: **$390.00** | Strength: 4/5 \u2014 Round psychological level + estimated extrapolation below 60-day low. M"
-    },
-    {
-      "ts": "2026-06-09T16:30:44.123000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $129.09** Current: **$129.12** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-09T16:30:09.309000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$60,974** | P&L: **-25"
-    },
-    {
-      "ts": "2026-06-09T16:28:34.487000+00:00",
-      "time": "12:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S2 $55.7** Current: **$55.77** | Strength: 5/5 \u2014 Daily low cluster (55.70, 55.7, 55.1), fib 0.786 = $55.27 confluence"
-    },
-    {
-      "ts": "2026-06-09T16:27:32.787000+00:00",
-      "time": "12:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $289.94** Current: **$289.93** | Strength: 5/5 \u2014 0.382 Fibonacci; daily MA20 $304.66 will drop to ~$300 by Friday, the"
     }
   ]
 }
