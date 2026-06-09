@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -455,10 +455,10 @@
       {
         "price": 70951.0,
         "type": "R3",
-        "strength": 4,
-        "reason": "0.500 Fib midpoint; 60-day mid-range; MA20 proximity",
+        "strength": 5,
+        "reason": "\u2014 **0.500 Fib retracement; 50% of LL-to-HH swing; psychological midpoint**",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -496,9 +496,9 @@
         "price": 59109.0,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day absolute low; round number (59k); prior LL",
+        "reason": "\u2014 **52-week low = 60-day low; psychological panic floor; MAJOR support**",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -539,6 +539,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63901.52,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 **Prior 8-day swing high (10-day daily high from 6 days ago); 0.786 Fib zone edge**",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 67398.07,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **0.650 Fib retracement; psychological round number (67.4K); daily MA20 = $70.2K approaches above**",
+        "status": "active",
+        "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60847.79,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 **Yesterday's daily low; 1H recent lows cluster around 60.7K\u201361.1K**",
+        "status": "active",
+        "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
       }
