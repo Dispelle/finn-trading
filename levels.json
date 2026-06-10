@@ -466,9 +466,9 @@
         "price": 73745.0,
         "type": "R3",
         "strength": 4,
-        "reason": "0.382 Fib; last higher low zone; 3-day resistance band",
+        "reason": "\u2014 **0.382 Fib + recent swing low turned resistance**",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -627,6 +627,46 @@
         "type": "S1",
         "strength": 5,
         "reason": "60-day swing low support zone ($59,108\u2013$61,335); today's low $61,199.50 tested it; micro structure",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 68155.94,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket) + 20-day VWAP $68,930 confluence**",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 70950.56,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **0.500 Fib retracement + prior daily support zone**",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59108.92,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **60-day absolute swing low + 2.61% below current price + psychological round**",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61113.72,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 **Today's low / recent 1H candle low + intraday ledge**",
         "status": "active",
         "source_brief": "2026-06-10",
         "hit_count": 0,
