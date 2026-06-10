@@ -5648,6 +5648,16 @@
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 496.25,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
