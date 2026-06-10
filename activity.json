@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-10T16:40:29.614946+00:00",
+  "generated_at": "2026-06-10T16:55:19.999532+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T16:53:19.511000+00:00",
+      "time": "12:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $15.52** Current: **$15.58** | Strength: 5/5 \u2014 1H low cluster (recent support, 4 touches in last 20 1H candles)"
+    },
+    {
+      "ts": "2026-06-10T16:52:15.056000+00:00",
+      "time": "12:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $15.52** Current: **$15.52** | Strength: 5/5 \u2014 1H low cluster (recent support, 4 touches in last 20 1H candles)"
+    },
+    {
+      "ts": "2026-06-10T16:49:02.108000+00:00",
+      "time": "12:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $381.61** Current: **$382.00** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket START** + symmetry with $337.24 (60d "
+    },
+    {
+      "ts": "2026-06-10T16:47:55.865000+00:00",
+      "time": "12:47 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $381.61** Current: **$381.52** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket START** + symmetry with $337.24 (60d "
+    },
+    {
+      "ts": "2026-06-10T16:45:07.216000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,134**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-10T16:44:44.621000+00:00",
+      "time": "12:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.49** Current: **$12.47** | Strength: 4/5 \u2014 **Today's low; recent intraday floor**"
+    },
     {
       "ts": "2026-06-10T16:34:02.781000+00:00",
       "time": "12:34 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:00 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,580**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-10T15:54:28.972000+00:00",
-      "time": "11:54 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW TP1 $135.0** Current: **$135.00** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-10T15:54:28.342000+00:00",
-      "time": "11:54 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.23** Current: **$135.00** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
-    },
-    {
-      "ts": "2026-06-10T15:53:23.143000+00:00",
-      "time": "11:53 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $729.46** Current: **$730.07** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement"
-    },
-    {
-      "ts": "2026-06-10T15:52:18.913000+00:00",
-      "time": "11:52 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $729.46** Current: **$729.10** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement"
-    },
-    {
-      "ts": "2026-06-10T15:52:18.112000+00:00",
-      "time": "11:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.64** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
-    },
-    {
-      "ts": "2026-06-10T15:51:13.698000+00:00",
-      "time": "11:51 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE TP1 $135.0** Current: **$135.14** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
