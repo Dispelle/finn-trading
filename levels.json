@@ -2111,9 +2111,9 @@
         "price": 1089.29,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing high; all-time recent high; fib 1.272 extension of recent swing",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2250,8 +2250,8 @@
       {
         "price": 792.17,
         "type": "S3",
-        "strength": 4,
-        "reason": "\u2014 **Fibonacci 0.382 retracement** | Secondary support zone",
+        "strength": 5,
+        "reason": "\u2014 **0.382 Fib retracement** (from $311.49 \u2192 $1089.29); major mean reversion zone; confluence with psychological $800",
         "status": "active",
         "source_brief": "2026-06-10",
         "hit_count": 0,
@@ -2361,7 +2361,7 @@
         "price": 1036.37,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Daily close 4 bars ago | minor swing high | psychological",
+        "reason": "\u2014 Daily close 8 days ago; prior support-turned-resistance; round psych level",
         "status": "active",
         "source_brief": "2026-06-10",
         "hit_count": 0,
@@ -2390,10 +2390,10 @@
       {
         "price": 855.08,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 reason: **Today's intraday low; daily swing low; early support if VWAP breached**",
+        "strength": 5,
+        "reason": "\u2014 **TODAY'S INTRADAY LOW** (new 8-day swing low); critical structure break",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2491,9 +2491,9 @@
         "price": 989.15,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Prior intraday high from today's structure; confluence with 1H resistance",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2534,6 +2534,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 901.62,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 1H recent low (20-candle ago); immediate pullback floor",
+        "status": "active",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       }
