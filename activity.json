@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-10T21:49:15.409100+00:00",
+  "generated_at": "2026-06-10T22:03:52.633964+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T22:00:06.838000+00:00",
+      "time": "06:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,292**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-10T21:45:08.037000+00:00",
       "time": "05:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:57 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $77.57** Current: **$77.53** | Strength: 5/5 **Today's intraday low; fresh swing low; tested once**; governs lower-low"
-    },
-    {
-      "ts": "2026-06-10T19:54:39.043000+00:00",
-      "time": "03:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.37** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
     }
   ]
 }
