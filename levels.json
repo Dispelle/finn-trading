@@ -7217,9 +7217,9 @@
         "price": 155.65,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib midpoint; MA20 ($154.00) + MA50 ($154.98) convergence zone; critical for structure flip",
+        "reason": "\u2014 Fibonacci 0.500, MA200 resistance, 20-day VWAP ($148.47), prior daily support",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7266,10 +7266,10 @@
       {
         "price": 104.17,
         "type": "S3",
-        "strength": 4,
-        "reason": "\u2014 **52-week low**",
+        "strength": 5,
+        "reason": "\u2014 52-week low, capitulation zone",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7347,9 +7347,9 @@
         "price": 114.21,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **TODAY'S LOW** (intraday capitulation) + 60-day low + 1H support cluster",
+        "reason": "\u2014 Today's low, **60-day swing low, critical floor**",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7399,7 +7399,47 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 125.55,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Today's intraday high, recent swing high (4H), 1H confluence",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 131.92,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 retracement (114.21\u2192197.00), prior swing low cluster",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.83,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **Fibonacci 0.618 golden pocket** (classic reversal magnet), prior support, psychological zone",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 110.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Round number psychological support, ~6% below current price",
+        "status": "active",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       }
