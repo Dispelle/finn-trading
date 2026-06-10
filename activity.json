@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-10T15:40:15.712101+00:00",
+  "generated_at": "2026-06-10T15:55:55.298579+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T15:54:28.972000+00:00",
+      "time": "11:54 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW TP1 $135.0** Current: **$135.00** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-10T15:54:28.342000+00:00",
+      "time": "11:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.23** Current: **$135.00** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
+    },
+    {
+      "ts": "2026-06-10T15:53:23.143000+00:00",
+      "time": "11:53 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $729.46** Current: **$730.07** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement"
+    },
+    {
+      "ts": "2026-06-10T15:52:18.913000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $729.46** Current: **$729.10** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement"
+    },
+    {
+      "ts": "2026-06-10T15:52:18.112000+00:00",
+      "time": "11:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.64** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
+    },
+    {
+      "ts": "2026-06-10T15:51:13.698000+00:00",
+      "time": "11:51 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE TP1 $135.0** Current: **$135.14** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-10T15:48:00.211000+00:00",
+      "time": "11:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62451.0** Current: **$62269.24** | Strength: 4/5 Today's low ($62,450.61); immediate daily support"
+    },
+    {
+      "ts": "2026-06-10T15:46:56.264000+00:00",
+      "time": "11:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62451.0** Current: **$62495.16** | Strength: 4/5 Today's low ($62,450.61); immediate daily support"
+    },
+    {
+      "ts": "2026-06-10T15:45:08.921000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,334** | P&L: **-23"
+    },
     {
       "ts": "2026-06-10T15:24:59.051000+00:00",
       "time": "11:24 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,245**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-10T15:23:33.978000+00:00",
-      "time": "11:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $577.97** Current: **$578.76** | Strength: 4/5 \u2014 Today's daily low; also 1H support cluster (multiple tests). Short-ter"
-    },
-    {
-      "ts": "2026-06-10T15:22:29.626000+00:00",
-      "time": "11:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $576.0** Current: **$577.18** | Strength: 5/5 \u2014 0.236 fib retracement, near 20-day VWAP ($583.29), confluence zone"
-    },
-    {
-      "ts": "2026-06-10T15:22:28.228000+00:00",
-      "time": "11:22 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.87** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
-    },
-    {
-      "ts": "2026-06-10T15:21:25.365000+00:00",
-      "time": "11:21 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $78.34** Current: **$78.38** | Strength: 5/5 \u2014 Fib 0.618 (golden pocket) \u00b1 $77.38 (0.650); **current 1H low $77.68 sit"
-    },
-    {
-      "ts": "2026-06-10T15:19:17.702000+00:00",
-      "time": "11:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $78.19** Current: **$78.24** | Strength: 5/5 Fibonacci 0.618 (golden pocket) \u2014 **MAJOR magnet** in bear markets"
-    },
-    {
-      "ts": "2026-06-10T15:18:13.054000+00:00",
-      "time": "11:18 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $78.19** Current: **$78.18** | Strength: 5/5 Fibonacci 0.618 (golden pocket) \u2014 **MAJOR magnet** in bear markets"
-    },
-    {
-      "ts": "2026-06-10T15:17:08.969000+00:00",
-      "time": "11:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $698.5** Current: **$698.70** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-10T15:16:04.968000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $698.5** Current: **$698.04** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-10T15:16:03.862000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $78.34** Current: **$78.27** | Strength: 5/5 \u2014 Fib 0.618 (golden pocket) \u00b1 $77.38 (0.650); **current 1H low $77.68 sit"
     }
   ]
 }
