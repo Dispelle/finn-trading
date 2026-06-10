@@ -6324,7 +6324,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6333,9 +6333,9 @@
         "price": 1182.73,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Recent swing high (2 days ago), psychological round, 60-day peak",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6403,9 +6403,9 @@
         "price": 1131.03,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Latest swing low (7 days), still within daily range, critical pivot",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6483,9 +6483,9 @@
         "price": 1273.09,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Fibonacci 1.272 extension (850.51 \u2192 1182.73), strong projection level",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6493,9 +6493,9 @@
         "price": 1388.04,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Fibonacci 1.618 extension, structural target if breakout confirmed",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6506,6 +6506,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1082.92,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 10-day low, prior daily support cluster, MA20 proximity",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 977.42,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci 0.618 golden pocket, 50-day MA supports",
+        "status": "active",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       }
