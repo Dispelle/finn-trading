@@ -4698,7 +4698,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4717,9 +4717,9 @@
         "price": 723.03,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "MA20 daily (downsloping); prior 8-day average; real-time friction",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4727,9 +4727,9 @@
         "price": 738.31,
         "type": "R2",
         "strength": 5,
-        "reason": "Prior daily close (4 days ago); structural swing high",
+        "reason": "Swing high 4 days ago; double-tested on last two daily closes; psychological pivot",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4737,9 +4737,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day / 6-week absolute high; Fib 1.272 extension base; round number",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4777,9 +4777,9 @@
         "price": 674.9,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "**Fibonacci 0.382 retracement**; MA50 proximity ($673.56); weekly pivot zone",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4847,9 +4847,9 @@
         "price": 703.09,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "**Fibonacci 0.236 retracement** (555.60 \u2192 748.65); tested intraday today",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4857,9 +4857,9 @@
         "price": 695.25,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "5-day swing low; daily volume node; minor support cluster",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4870,6 +4870,16 @@
         "reason": "|",
         "status": "active",
         "source_brief": "2026-06-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 738.31,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       }
