@@ -3217,9 +3217,9 @@
         "price": 63.2,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (58.22 \u2192 80.86); confluence with recent swing lows pattern",
+        "reason": "\u2014 reason: **Fibonacci 0.786 (golden pocket lower bound) + intraday swing high from 1H chart**",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3376,10 +3376,10 @@
       {
         "price": 72.21,
         "type": "R3",
-        "strength": 3,
-        "reason": "\u2014 Fibonacci 0.382; MA50 $68.75 vicinity",
+        "strength": 4,
+        "reason": "\u2014 reason: **Fibonacci 0.382 retracement + psychological level**",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3418,6 +3418,16 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: **60-day swing low (now resistance) / Prior higher low**",
+        "status": "active",
+        "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.8,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 reason: **Extrapolated support from prior $60.37/$60.85 swing lows and golden ratio extension downward**",
         "status": "active",
         "source_brief": "2026-06-10",
         "hit_count": 0,
