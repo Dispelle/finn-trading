@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-10T22:04:20.141764+00:00",
+  "generated_at": "2026-06-10T22:18:54.779601+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T22:15:16.820000+00:00",
+      "time": "06:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,131** | P&L: **-24"
+    },
     {
       "ts": "2026-06-10T22:00:06.838000+00:00",
       "time": "06:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $77.5** Current: **$77.48** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-10T19:57:52.936000+00:00",
-      "time": "03:57 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $77.57** Current: **$77.53** | Strength: 5/5 **Today's intraday low; fresh swing low; tested once**; governs lower-low"
     }
   ]
 }
