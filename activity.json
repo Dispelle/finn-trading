@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-10T13:33:00.443984+00:00",
+  "generated_at": "2026-06-10T13:48:04.053634+00:00",
   "items": [
     {
-      "ts": "2026-06-10T13:32:59.328000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $584.09** Current: **$584.13** | Strength: 4/5 Daily MA20 (slope up); recent support; prior 1H support"
-    },
-    {
-      "ts": "2026-06-10T13:32:58.630000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $206.0** Current: **$206.34** | Strength: 5/5 \u2014 Today's low, initial downside floor"
-    },
-    {
-      "ts": "2026-06-10T13:31:54.449000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $133.02** Current: **$133.10** | Strength: 5/5 Recent 1H/daily swing low (3-4 days recent history); 10-day low cluster;"
-    },
-    {
-      "ts": "2026-06-10T13:31:49.979000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $582.0** Current: **$583.76** | Strength: 5/5 20-day VWAP; psychological anchor; confluence with Fib 0.236 ($576.00) ne"
-    },
-    {
-      "ts": "2026-06-10T13:31:49.455000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $581.96** Current: **$583.76** | Strength: 5/5 \u2014 **20-day VWAP**"
-    },
-    {
-      "ts": "2026-06-10T13:31:48.907000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $580.61** Current: **$583.76** | Strength: 4/5 20-day VWAP (price was below this for 1H candles); recent pivot/equilibr"
-    },
-    {
-      "ts": "2026-06-10T13:31:48.187000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $205.1** Current: **$205.98** | Strength: 5/5 \u2014 Prior daily close (3 days ago), 1H pivot support, VWAP proximity ($218"
-    },
-    {
-      "ts": "2026-06-10T13:31:46.069000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $466.38** Current: **$468.11** | Strength: 5/5 8D swing low (LL from CHoCH), critical invalidation of bullish structure"
-    },
-    {
-      "ts": "2026-06-10T13:30:44.583000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-10T13:47:14.763000+00:00",
+      "time": "09:47 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.75** Current: **$12.56** | Strength: 5/5 \u2014 Yesterday's close + 1H consolidation anchor"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $80.14** Current: **$80.10** | Strength: 4/5 Today's close; recent swing low (yesterday); psychological round"
     },
     {
-      "ts": "2026-06-10T13:30:43.325000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-10T13:47:13.572000+00:00",
+      "time": "09:47 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1143.59** Current: **$1152.50** | Strength: 5/5 Prior daily swing low (2 candles ago); 0.236 Fib ($1,104.33) above but"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $590.0** Current: **$590.47** | Strength: 5/5 20-day VWAP ($582.19) + 1% buffer; MA20 at $585.75; technical equilibrium"
+    },
+    {
+      "ts": "2026-06-10T13:46:12.029000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $120.44** Current: **$120.20** | Strength: 4/5 Recent swing low (10 days); MA200 proximity ($150.94 above is not suppo"
+    },
+    {
+      "ts": "2026-06-10T13:46:09.138000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $80.14** Current: **$80.16** | Strength: 4/5 Today's close; recent swing low (yesterday); psychological round"
+    },
+    {
+      "ts": "2026-06-10T13:45:06.608000+00:00",
+      "time": "09:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $131.46** Current: **$131.61** | Strength: 5/5 \u2014 Prior swing low (60d chart)."
+    },
+    {
+      "ts": "2026-06-10T13:44:00.137000+00:00",
+      "time": "09:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $735.53** Current: **$735.91** | Strength: 4/5 Today's close; last week's close ($737.55); psychological round; volume "
+    },
+    {
+      "ts": "2026-06-10T13:42:55.702000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $287.78** Current: **$288.82** | Strength: 3/5 \u2014 TODAY'S INTRADAY LOW / minor support"
+    },
+    {
+      "ts": "2026-06-10T13:41:52.087000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $150.02** Current: **$149.94** | Strength: 5/5 Prior HL (1 week ago), prior weekly close ($149.92), psychological round"
+    },
+    {
+      "ts": "2026-06-10T13:41:50.784000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $287.78** Current: **$287.68** | Strength: 3/5 \u2014 TODAY'S INTRADAY LOW / minor support"
+    },
+    {
+      "ts": "2026-06-10T13:41:49.294000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $59.01** Current: **$58.97** | Strength: 4/5 \u2014 Last 5 closes cluster here ($59.01\u2013$61.58); psychological round number; "
     }
   ]
 }
