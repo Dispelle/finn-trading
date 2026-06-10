@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-10T19:32:43.689726+00:00",
+  "generated_at": "2026-06-10T19:47:43.593889+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T19:34:21.709000+00:00",
+      "time": "03:34 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $375.0** Current: **$375.03** | Strength: 3/5 Round psychological level, ~5.6% below current price"
+    },
+    {
+      "ts": "2026-06-10T19:33:18.788000+00:00",
+      "time": "03:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $398.32** Current: **$398.51** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-06-10T19:32:13.058000+00:00",
       "time": "03:32 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:24 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $569.69** Current: **$569.79** | Strength: 5/5 \u2014 reason: Last swing low / 5-day anchor; **INVALIDATION LEVEL** for uptr"
-    },
-    {
-      "ts": "2026-06-10T19:23:38.932000+00:00",
-      "time": "03:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $12.27** Current: **$12.26** | Strength: 4/5 Prior daily low (1 bar ago = strong recent structure); 1H lows clustered $"
-    },
-    {
-      "ts": "2026-06-10T19:23:35.558000+00:00",
-      "time": "03:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $57.8** Current: **$57.78** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
