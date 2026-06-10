@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-10T19:47:43.593889+00:00",
+  "generated_at": "2026-06-10T20:02:46.947638+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T20:00:31.820000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,830** | P&L: **-24"
+    },
+    {
+      "ts": "2026-06-10T19:58:59.374000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $77.5** Current: **$77.48** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-10T19:57:52.936000+00:00",
+      "time": "03:57 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $77.57** Current: **$77.53** | Strength: 5/5 **Today's intraday low; fresh swing low; tested once**; governs lower-low"
+    },
+    {
+      "ts": "2026-06-10T19:54:39.043000+00:00",
+      "time": "03:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.37** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
+    {
+      "ts": "2026-06-10T19:51:30.059000+00:00",
+      "time": "03:51 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $310.2** Current: **$310.65** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-10T19:51:29.563000+00:00",
+      "time": "03:51 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $310.3** Current: **$310.65** | Strength: 5/5 Today's daily low; recent swing low; invalidation point for bullish struc"
+    },
+    {
+      "ts": "2026-06-10T19:51:27.453000+00:00",
+      "time": "03:51 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SLV \u2014 BROKE ABOVE S3 $57.91** Current: **$57.98** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-10T19:50:23.980000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $310.2** Current: **$310.02** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-10T19:50:23.459000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $310.3** Current: **$310.02** | Strength: 5/5 Today's daily low; recent swing low; invalidation point for bullish struc"
+    },
     {
       "ts": "2026-06-10T19:34:21.709000+00:00",
       "time": "03:34 PM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $375.0** Current: **$375.03** | Strength: 3/5 Round psychological level, ~5.6% below current price"
-    },
-    {
-      "ts": "2026-06-10T19:33:18.788000+00:00",
-      "time": "03:33 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $398.32** Current: **$398.51** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-10T19:32:13.058000+00:00",
-      "time": "03:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $451.41** Current: **$451.61** | Strength: 5/5 TODAY's low; 1H floor for last 20 bars; tight 1H range anchor"
-    },
-    {
-      "ts": "2026-06-10T19:31:10.743000+00:00",
-      "time": "03:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S3 $398.32** Current: **$398.25** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-10T19:30:08.183000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,737**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-10T19:30:04.851000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $57.8** Current: **$57.81** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-10T19:29:02.644000+00:00",
-      "time": "03:29 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $12.27** Current: **$12.29** | Strength: 4/5 Prior daily low (1 bar ago = strong recent structure); 1H lows clustered $"
-    },
-    {
-      "ts": "2026-06-10T19:29:00.356000+00:00",
-      "time": "03:29 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $77.68** Current: **$77.70** | Strength: 5/5 Today's 1H low; recent swing low (tested once, no break yet)"
-    },
-    {
-      "ts": "2026-06-10T19:27:55.493000+00:00",
-      "time": "03:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $77.68** Current: **$77.65** | Strength: 5/5 Today's 1H low; recent swing low (tested once, no break yet)"
-    },
-    {
-      "ts": "2026-06-10T19:24:40.829000+00:00",
-      "time": "03:24 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $569.69** Current: **$569.79** | Strength: 5/5 \u2014 reason: Last swing low / 5-day anchor; **INVALIDATION LEVEL** for uptr"
     }
   ]
 }
