@@ -648,7 +648,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -666,9 +666,9 @@
         "price": 505.62,
         "type": "R1",
         "strength": 5,
-        "reason": "Today's intraday high; failed breakout above recent consolidation",
+        "reason": "\u2014 Today's high, prior swing high from 1H reversal pattern",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -686,9 +686,9 @@
         "price": 546.44,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day all-time high (this cycle); psychological + technical supply",
+        "reason": "\u2014 60-day peak / Fib extension 1.272 = $642.62 far upper target",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -706,9 +706,9 @@
         "price": 411.15,
         "type": "S3",
         "strength": 5,
-        "reason": "0.382 Fibonacci retracement; 60-day structural support",
+        "reason": "\u2014 Fib 0.382 retracement",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -806,9 +806,9 @@
         "price": 463.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **Fibonacci 0.236 retracement; natural first pullback target; light demand zone below VWAP**",
+        "reason": "\u2014 Fib 0.236 retracement of $192.83 \u2192 $546.44 move",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -966,9 +966,9 @@
         "price": 393.36,
         "type": "S3",
         "strength": 4,
-        "reason": "60-day swing low; Fib 0.382 at $411.36 = golden pocket zone start",
+        "reason": "\u2014 Prior swing low (60-day), strong demand zone",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
