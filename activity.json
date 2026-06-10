@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-10T20:02:46.947638+00:00",
+  "generated_at": "2026-06-10T20:17:45.023983+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T20:15:07.489000+00:00",
+      "time": "04:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,746**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-10T20:00:31.820000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $310.3** Current: **$310.02** | Strength: 5/5 Today's daily low; recent swing low; invalidation point for bullish struc"
-    },
-    {
-      "ts": "2026-06-10T19:34:21.709000+00:00",
-      "time": "03:34 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $375.0** Current: **$375.03** | Strength: 3/5 Round psychological level, ~5.6% below current price"
     }
   ]
 }
