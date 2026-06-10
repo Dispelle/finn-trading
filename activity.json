@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-10T17:23:55.195275+00:00",
+  "generated_at": "2026-06-10T17:38:57.764066+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T17:38:06.299000+00:00",
+      "time": "01:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $131.46** Current: **$131.33** | Strength: 5/5 \u2014 Prior swing low (60d chart)."
+    },
+    {
+      "ts": "2026-06-10T17:37:01.003000+00:00",
+      "time": "01:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S3 $575.0** Current: **$574.61** | Strength: 4/5 Round number / psychological (implied from 60d low $520.26)"
+    },
     {
       "ts": "2026-06-10T17:23:42.794000+00:00",
       "time": "01:23 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:10 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1137.75** Current: **$1138.10** | Strength: 5/5 Today's low; minor swing low from 4-bar pullback; 0.236 Fib just above"
-    },
-    {
-      "ts": "2026-06-10T17:08:15.338000+00:00",
-      "time": "01:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1137.75** Current: **$1137.60** | Strength: 5/5 Today's low; minor swing low from 4-bar pullback; 0.236 Fib just above"
-    },
-    {
-      "ts": "2026-06-10T17:01:51.525000+00:00",
-      "time": "01:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $151.75** Current: **$151.75** | Strength: 5/5 Prior weekly close (2 bars ago) + daily structure high; failed breakout "
     }
   ]
 }
