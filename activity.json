@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-10T18:39:14.566172+00:00",
+  "generated_at": "2026-06-10T18:54:05.932961+00:00",
   "items": [
+    {
+      "ts": "2026-06-10T18:48:22.756000+00:00",
+      "time": "02:48 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $116.4** Current: **$116.44** | Strength: 3/5 60-day swing low (older, but part of structure)"
+    },
+    {
+      "ts": "2026-06-10T18:46:15.453000+00:00",
+      "time": "02:46 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $116.4** Current: **$116.34** | Strength: 3/5 60-day swing low (older, but part of structure)"
+    },
+    {
+      "ts": "2026-06-10T18:45:07.725000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,702** | P&L: **-24"
+    },
     {
       "ts": "2026-06-10T18:30:06.397000+00:00",
       "time": "02:30 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:00 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,927**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-10T17:52:59.559000+00:00",
-      "time": "01:52 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $901.62** Current: **$901.12** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-10T17:48:44.874000+00:00",
-      "time": "01:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $901.62** Current: **$903.73** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-10T17:46:39.277000+00:00",
-      "time": "01:46 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $131.46** Current: **$131.85** | Strength: 5/5 \u2014 Prior swing low (60d chart)."
     }
   ]
 }
