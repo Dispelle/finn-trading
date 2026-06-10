@@ -6146,7 +6146,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6195,9 +6195,9 @@
         "price": 305.54,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fib 0.382 retracement (281.75\u2192320.24). MA50 = $305.19 (confluence).",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6235,9 +6235,9 @@
         "price": 320.24,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **60-day swing high, Fib 1.0 extension (swing peak), zone of distribution**",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6245,19 +6245,19 @@
         "price": 330.71,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **Fib 1.272 extension from $281.75\u2192$320.24 swing; structural resistance above HH**",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 300.99,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 Fib 0.500 (midpoint of 281.75\u2192320.24). Previous daily close accumulation zone ($299.28\u2013$300.96).",
+        "strength": 5,
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
       },
