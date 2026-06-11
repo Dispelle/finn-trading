@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-11T14:48:52.437719+00:00",
+  "generated_at": "2026-06-11T15:22:07.098123+00:00",
   "items": [
     {
-      "ts": "2026-06-11T14:45:06.834000+00:00",
-      "time": "10:45 AM ET",
+      "ts": "2026-06-11T15:21:54.193000+00:00",
+      "time": "11:21 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,805** | P&L: **-22"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,714** | P&L: **-22"
     },
     {
-      "ts": "2026-06-11T14:41:51.981000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **COPX \u2014 BROKE BELOW TP1 $80.25** Current: **$80.24** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-11T14:37:36.733000+00:00",
-      "time": "10:37 AM ET",
+      "ts": "2026-06-11T15:21:22.179000+00:00",
+      "time": "11:21 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE TP1 $80.25** Current: **$80.28** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $80.51** Current: **$80.55** | Strength: 5/5 1H recent low; prior swing low; initial fractal support"
     },
     {
-      "ts": "2026-06-11T14:26:58.179000+00:00",
-      "time": "10:26 AM ET",
+      "ts": "2026-06-11T15:18:09.885000+00:00",
+      "time": "11:18 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $472.38** Current: **$470.92** | Strength: 4/5 20-day VWAP (major volume-weighted anchor)"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $80.44** Current: **$80.27** | Strength: 5/5 Prior swing high (60d data); 1H confluence"
     },
     {
-      "ts": "2026-06-11T14:22:45.864000+00:00",
-      "time": "10:22 AM ET",
+      "ts": "2026-06-11T15:17:05.547000+00:00",
+      "time": "11:17 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **LLY \u2014 BROKE BELOW TP1 $1150.0** Current: **$1148.57** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1166.42** Current: **$1165.57** | Strength: 5/5 \u2014 Yesterday's high, 1H high from last 20 candles; immediate intraday f"
     },
     {
-      "ts": "2026-06-11T14:22:45.395000+00:00",
-      "time": "10:22 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1149.15** Current: **$1148.57** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-11T14:21:40.706000+00:00",
-      "time": "10:21 AM ET",
+      "ts": "2026-06-11T15:17:03.647000+00:00",
+      "time": "11:17 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $289.94** Current: **$290.14** | Strength: 5/5 \u2014 0.382 Fibonacci retracement + confluence with yesterday's 1H low zone"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $80.44** Current: **$80.45** | Strength: 5/5 Prior swing high (60d data); 1H confluence"
     },
     {
-      "ts": "2026-06-11T14:20:37.694000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-11T15:08:33.495000+00:00",
+      "time": "11:08 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **LLY \u2014 BROKE ABOVE TP1 $1150.0** Current: **$1150.66** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $200.4** Current: **$200.69** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-06-11T14:20:36.064000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-11T15:04:20.938000+00:00",
+      "time": "11:04 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $115.23** Current: **$115.26** | Strength: 5/5 Yesterday's low; immediate floor; 1H recent lows cluster"
+    },
+    {
+      "ts": "2026-06-11T15:04:20.002000+00:00",
+      "time": "11:04 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1166.42** Current: **$1167.34** | Strength: 5/5 \u2014 Yesterday's high, 1H high from last 20 candles; immediate intraday f"
+    },
+    {
+      "ts": "2026-06-11T15:01:04.802000+00:00",
+      "time": "11:01 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $289.94** Current: **$289.85** | Strength: 5/5 \u2014 0.382 Fibonacci retracement + confluence with yesterday's 1H low zone"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $463.95** Current: **$462.62** | Strength: 5/5 Fib 0.236 retracement, moderate support from recent swing lows"
     },
     {
-      "ts": "2026-06-11T14:19:32.132000+00:00",
-      "time": "10:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1149.15** Current: **$1150.00** | Strength: 5/5 |"
+      "ts": "2026-06-11T15:00:08.192000+00:00",
+      "time": "11:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,647**  \u23f0 **YOU "
     }
   ]
 }
