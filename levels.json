@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -465,10 +465,10 @@
       {
         "price": 73745.0,
         "type": "R3",
-        "strength": 4,
-        "reason": "\u2014 0.382 Fib + prior swing low. Second-level technical ceiling",
+        "strength": 5,
+        "reason": "\u2014 **0.382 Fibonacci retracement** + **prior swing low cluster** (73.3K\u201374.2K)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -496,9 +496,9 @@
         "price": 59109.0,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 *60-day swing low + Fibonacci 0.786 extension ($64,177.14 reference point)* + *major capitulation level*",
+        "reason": "\u2014 **60-day absolute low** + **psychological support**",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -636,9 +636,9 @@
         "price": 68155.94,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **Golden Pocket (0.618 Fib)**",
+        "reason": "\u2014 **0.618 Fibonacci golden pocket** + **MA20 proximity** ($69,428 weekly)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -646,9 +646,9 @@
         "price": 70950.56,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fibonacci + MA20 cluster**",
+        "reason": "\u2014 **0.500 Fibonacci retracement** + **confluence with 20-day VWAP**",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -715,10 +715,10 @@
       {
         "price": 64177.14,
         "type": "S3",
-        "strength": 3,
-        "reason": "\u2014 *Fibonacci 0.786 retracement*",
+        "strength": 4,
+        "reason": "\u2014 **0.786 Fibonacci retracement** (secondary support above current price)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -739,6 +739,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61456.17,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **Today's daily open** + **1H low floor for past 20 bars**",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
