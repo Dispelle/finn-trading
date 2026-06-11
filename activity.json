@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-11T14:04:25.155958+00:00",
+  "generated_at": "2026-06-11T14:18:47.035191+00:00",
   "items": [
     {
-      "ts": "2026-06-11T14:03:21.070000+00:00",
-      "time": "10:03 AM ET",
+      "ts": "2026-06-11T14:18:24.960000+00:00",
+      "time": "10:18 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $310.2** Current: **$310.11** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $590.0** Current: **$588.45** | Strength: 5/5 20-day VWAP ($582.19) + 1% buffer; MA20 at $585.75; technical equilibrium"
     },
     {
-      "ts": "2026-06-11T14:03:20.297000+00:00",
-      "time": "10:03 AM ET",
+      "ts": "2026-06-11T14:15:13.721000+00:00",
+      "time": "10:15 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $310.3** Current: **$310.11** | Strength: 5/5 Today's daily low; recent swing low; invalidation point for bullish struc"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,753**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-06-11T14:01:12.167000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $388.59** Current: **$388.87** | Strength: 3/5 Recent intraday low (9 days ago); *minor psychological floor*; held once"
-    },
-    {
-      "ts": "2026-06-11T14:01:09.502000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $595.5** Current: **$595.85** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
-    },
-    {
-      "ts": "2026-06-11T14:00:09.051000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-11T14:13:04.408000+00:00",
+      "time": "10:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,996** | P&L: **-22"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $473.3** Current: **$472.17** | Strength: 5/5 \u2014 reason: 20-day VWAP (current price $475.51 = 2 points above = CRITICAL)"
     },
     {
-      "ts": "2026-06-11T14:00:05.811000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-11T14:13:03.936000+00:00",
+      "time": "10:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $703.09** Current: **$702.79** | Strength: 5/5 Fibonacci 0.236 (555.60\u2192748.65); confluence with 1H lows cluster"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $472.53** Current: **$472.17** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-11T14:00:04.109000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-11T14:13:03.277000+00:00",
+      "time": "10:13 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **SLV \u2014 BROKE BELOW S3 $57.91** Current: **$57.88** | Strength: 3/5 |"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $472.18** Current: **$472.17** | Strength: 5/5 20-day VWAP; key liquidity anchor; break = trend flip signal"
     },
     {
-      "ts": "2026-06-11T13:59:00.890000+00:00",
-      "time": "09:59 AM ET",
+      "ts": "2026-06-11T14:12:00.565000+00:00",
+      "time": "10:12 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1143.59** Current: **$1143.44** | Strength: 5/5 Prior daily swing low (2 candles ago); 0.236 Fib ($1,104.33) above but"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $729.0** Current: **$728.90** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-11T13:58:59.732000+00:00",
-      "time": "09:58 AM ET",
+      "ts": "2026-06-11T14:11:58.490000+00:00",
+      "time": "10:11 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $388.0** Current: **$388.11** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $474.65** Current: **$474.00** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-11T13:57:55.087000+00:00",
-      "time": "09:57 AM ET",
+      "ts": "2026-06-11T14:10:50.612000+00:00",
+      "time": "10:10 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $704.32** Current: **$703.13** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement; thin support but structural"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $595.5** Current: **$593.87** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
+    },
+    {
+      "ts": "2026-06-11T14:10:49.821000+00:00",
+      "time": "10:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $475.51** Current: **$475.02** | Strength: 5/5 \u2014 reason: Prior daily close (3 days ago); confluence with 1H swing high;"
+    },
+    {
+      "ts": "2026-06-11T14:10:49.318000+00:00",
+      "time": "10:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $475.69** Current: **$475.02** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
