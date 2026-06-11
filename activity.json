@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-11T22:20:34.282447+00:00",
+  "generated_at": "2026-06-11T22:35:24.078940+00:00",
   "items": [
+    {
+      "ts": "2026-06-11T22:30:06.994000+00:00",
+      "time": "06:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,526**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-11T22:15:08.070000+00:00",
       "time": "06:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:53 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $128.86** Current: **$128.89** | Strength: 5/5 \u2014 **Today's low; immediate support; psychological 128.xx round number**"
-    },
-    {
-      "ts": "2026-06-11T19:53:47.396000+00:00",
-      "time": "03:53 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW STOP $55.68** Current: **$55.66** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
