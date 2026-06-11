@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-11T17:18:13.954716+00:00",
+  "generated_at": "2026-06-11T17:33:05.583374+00:00",
   "items": [
     {
-      "ts": "2026-06-11T17:17:47.293000+00:00",
-      "time": "01:17 PM ET",
+      "ts": "2026-06-11T17:32:14.380000+00:00",
+      "time": "01:32 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,403**  \u23f0 **YOU "
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW TP1 $940.0** Current: **$938.67** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-11T17:17:14.939000+00:00",
-      "time": "01:17 PM ET",
+      "ts": "2026-06-11T17:31:11.901000+00:00",
+      "time": "01:31 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $150.02** Current: **$150.03** | Strength: 5/5 Prior HL (1 week ago), prior weekly close ($149.92), psychological round"
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $390.33** Current: **$391.63** | Strength: 3/5 Daily high (today); 1H high (recent swing); psychological support flipped res"
     },
     {
-      "ts": "2026-06-11T17:15:06.624000+00:00",
-      "time": "01:15 PM ET",
+      "ts": "2026-06-11T17:31:11.405000+00:00",
+      "time": "01:31 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $150.02** Current: **$149.95** | Strength: 5/5 Prior HL (1 week ago), prior weekly close ($149.92), psychological round"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $391.0** Current: **$391.63** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-11T17:10:45.160000+00:00",
-      "time": "01:10 PM ET",
+      "ts": "2026-06-11T17:31:10.386000+00:00",
+      "time": "01:31 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $114.31** Current: **$114.43** | Strength: 5/5 **60-day low** (structural bottom test); last panic low"
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $296.0** Current: **$296.62** | Strength: 4/5 \u2014 Round number + psychological support. INSUFFICIENT DATA on micro suppo"
     },
     {
-      "ts": "2026-06-11T17:08:30.633000+00:00",
-      "time": "01:08 PM ET",
+      "ts": "2026-06-11T17:31:09.822000+00:00",
+      "time": "01:31 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $114.21** Current: **$114.25** | Strength: 5/5 \u2014 reason: **60-day low (4 days old), recent daily low, psychological ro"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $707.83** Current: **$709.24** | Strength: 5/5 \u2014 **Weekly close level + psychological round**"
     },
     {
-      "ts": "2026-06-11T17:04:11.416000+00:00",
-      "time": "01:04 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62451.0** Current: **$62321.97** | Strength: 4/5 Today's low ($62,450.61); immediate daily support"
-    },
-    {
-      "ts": "2026-06-11T17:00:25.827000+00:00",
-      "time": "01:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,480** | P&L: **-23"
-    },
-    {
-      "ts": "2026-06-11T16:59:51.355000+00:00",
-      "time": "12:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $114.21** Current: **$114.09** | Strength: 5/5 \u2014 reason: **60-day low (4 days old), recent daily low, psychological ro"
-    },
-    {
-      "ts": "2026-06-11T16:58:45.428000+00:00",
-      "time": "12:58 PM ET",
+      "ts": "2026-06-11T17:31:09.120000+00:00",
+      "time": "01:31 PM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE TP1 $135.0** Current: **$135.12** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S3 $731.53** Current: **$733.40** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement; also aligns with the 60-day uptrend's fir"
     },
     {
-      "ts": "2026-06-11T16:57:43.267000+00:00",
-      "time": "12:57 PM ET",
+      "ts": "2026-06-11T17:31:08.198000+00:00",
+      "time": "01:31 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $114.31** Current: **$114.30** | Strength: 5/5 **60-day low** (structural bottom test); last panic low"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $131.3** Current: **$130.61** | Strength: 5/5 Last 2 weekly closes ($131.3, $133.02 last week), psychological round"
+    },
+    {
+      "ts": "2026-06-11T17:31:07.559000+00:00",
+      "time": "01:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $81.19** Current: **$81.95** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci retracement; current price within 1 tick; psy"
+    },
+    {
+      "ts": "2026-06-11T17:31:06.844000+00:00",
+      "time": "01:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $59.01** Current: **$59.11** | Strength: 4/5 \u2014 Last 5 closes cluster here ($59.01\u2013$61.58); psychological round number; "
+    },
+    {
+      "ts": "2026-06-11T17:31:06.231000+00:00",
+      "time": "01:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $376.87** Current: **$378.06** | Strength: 5/5 \u2014 TODAY'S LOW; immediate floor (psychological + technical)"
     }
   ]
 }
