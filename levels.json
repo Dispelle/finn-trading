@@ -5284,7 +5284,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5312,10 +5312,10 @@
       {
         "price": 149.47,
         "type": "R3",
-        "strength": 4,
-        "reason": "60-day swing high, psychological barrier before $154.08 peak",
+        "strength": 5,
+        "reason": "Prior 60-day swing high, psychological cluster $149\u2013$151",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5323,9 +5323,9 @@
         "price": 130.26,
         "type": "S1",
         "strength": 5,
-        "reason": "Fib 0.500 (golden zone start); recent 1H and daily support; 20-day VWAP touch zone",
+        "reason": "Fib 0.500 midpoint, confluent with recent 4H/daily support cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5333,9 +5333,9 @@
         "price": 124.64,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.618 **GOLDEN POCKET** \u2190 consolidation magnet; critical technical support",
+        "reason": "Fib 0.618 (golden pocket start) \u2014 **KEY ZONE**",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5343,9 +5343,9 @@
         "price": 116.64,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.786 + 52-week support",
+        "reason": "Fib 0.786, extended downside target",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5363,9 +5363,9 @@
         "price": 142.84,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement (106.45\u2192154.08); prior daily close (140.86 close 5 days ago); swing high clustering",
+        "reason": "Fib 0.236 retracement, prior swing high $141.42 cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5463,9 +5463,9 @@
         "price": 154.08,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day absolute high; weekly bull-case target; Fib 1.000 extension from 106.45 base",
+        "reason": "60-day high, extension target 1.272 at $167.04 beyond",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5662,10 +5662,10 @@
       {
         "price": 106.45,
         "type": "S3",
-        "strength": 3,
-        "reason": "60-day absolute low; Fib 0.000 base; account liquidation zone",
+        "strength": 5,
+        "reason": "60-day low (recent spike low, very strong support)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5713,9 +5713,9 @@
         "price": 138.72,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20 daily (active rejection point); VWAP 20-day at $138.91 \u2014 price bounced into this zone 8x in last 10 days",
+        "reason": "MA20 (downsloping but former support), Fib 0.382 ($135.89 nearby), mid-range retest",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5753,9 +5753,19 @@
         "price": 122.48,
         "type": "S3",
         "strength": 4,
-        "reason": "Recent swing low (5 days ago) + invalidation of bullish bias",
+        "reason": "Prior 60-day swing low, psychological $120\u2013$125 band",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 167.04,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
