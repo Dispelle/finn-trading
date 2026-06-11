@@ -6230,7 +6230,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6239,9 +6239,9 @@
         "price": 747.5,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 MA20 (daily), bearish rejection point",
+        "reason": "MA20 weekly; prior recent support; slope-negative confluence",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6368,10 +6368,10 @@
       {
         "price": 679.37,
         "type": "S3",
-        "strength": 3,
-        "reason": "\u2014 Fib 0.618 golden pocket (major reversal zone)",
+        "strength": 5,
+        "reason": "0.618 fib (golden pocket); MA50 context; swing low history",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6379,9 +6379,9 @@
         "price": 752.82,
         "type": "R2",
         "strength": 5,
-        "reason": "Last daily close before pullback began; daily HL (higher low swing)",
+        "reason": "Recent daily close (4 days ago); resistance cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6389,9 +6389,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; Weekly swing high; Major resistance cluster",
+        "reason": "60-day high, swing high, psychological barrier, 0.236 fib zone nearby",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6439,9 +6439,9 @@
         "price": 722.59,
         "type": "S1",
         "strength": 4,
-        "reason": "\u2014 10-day low (2 days back); first support zone",
+        "reason": "Recent daily low (2 days ago); intraday support zone in last 10 1H candles",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6449,9 +6449,9 @@
         "price": 708.37,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (strong golden zone approach)",
+        "reason": "0.382 fib retracement; confluence with mid-range support",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6481,7 +6481,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
