@@ -6449,7 +6449,7 @@
         "price": 747.5,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20 weekly; prior recent support; slope-negative confluence",
+        "reason": "\u2014 Daily prior swing high (2 bars ago), confluence with 20-day VWAP upper band",
         "status": "active",
         "source_brief": "2026-06-11",
         "hit_count": 0,
@@ -6539,9 +6539,9 @@
         "price": 731.53,
         "type": "S1",
         "strength": 5,
-        "reason": "Recent swing low; held multiple times last week",
+        "reason": "\u2014 Fibonacci 0.236 retracement, recent 4H bounce level",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6569,9 +6569,9 @@
         "price": 694.84,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 retracement; **golden pocket begins here**; MA50 ($719.32) above, but 0.500 is deep support",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint 629.28\u2192760.40), MA50 proximity at $717.45, deep support",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6882,6 +6882,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 720.0,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Psychological round, daily technical support (below $725.33 today's low)",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
