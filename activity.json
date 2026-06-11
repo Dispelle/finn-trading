@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-11T14:19:25.540590+00:00",
+  "generated_at": "2026-06-11T14:19:42.273786+00:00",
   "items": [
+    {
+      "ts": "2026-06-11T14:19:32.132000+00:00",
+      "time": "10:19 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1149.15** Current: **$1150.00** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-11T14:19:30.074000+00:00",
+      "time": "10:19 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $133.98** Current: **$134.10** | Strength: 5/5 \u2014 **"
+    },
     {
       "ts": "2026-06-11T14:18:24.960000+00:00",
       "time": "10:18 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:10 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $595.5** Current: **$593.87** | Strength: 4/5 Prior daily close (10 days back); 20-day VWAP at $582 = zone $582\u2013$595 ac"
-    },
-    {
-      "ts": "2026-06-11T14:10:49.821000+00:00",
-      "time": "10:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $475.51** Current: **$475.02** | Strength: 5/5 \u2014 reason: Prior daily close (3 days ago); confluence with 1H swing high;"
-    },
-    {
-      "ts": "2026-06-11T14:10:49.318000+00:00",
-      "time": "10:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $475.69** Current: **$475.02** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
