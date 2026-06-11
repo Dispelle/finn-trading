@@ -9473,9 +9473,9 @@
         "price": 1273.09,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension from 850.51\u21921182.73 swing; institutional target",
+        "reason": "\u2014 1.272 Fibonacci extension from swing low (850.51\u21921182.73); breakout target if R2 clears",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9573,9 +9573,9 @@
         "price": 1182.73,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high + recent breakout point; psychological round; 1.272 Fib extension anchor",
+        "reason": "\u2014 60-day swing high, psychological round ($1180), extension target zone; major supply node",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9593,9 +9593,9 @@
         "price": 1055.82,
         "type": "S3",
         "strength": 4,
-        "reason": "Fibonacci 0.382 retracement; mid-term pullback target",
+        "reason": "\u2014 0.382 Fibonacci retracement; secondary pullback target if S1 breaks",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9632,10 +9632,10 @@
       {
         "price": 1082.92,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 10-day low, prior daily support cluster, MA20 proximity",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP; daily MA20 nearby at $1072.69; pivot zone for mean-reversion",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9683,9 +9683,9 @@
         "price": 1166.42,
         "type": "R1",
         "strength": 5,
-        "reason": "Today's high; tested 3x in last 10 days; confluence with 1H recent high cluster (1,166.35, 1,166.42, 1,174.59)",
+        "reason": "\u2014 Yesterday's high, 1H high from last 20 candles; immediate intraday friction point",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9763,9 +9763,9 @@
         "price": 1104.33,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; dynamic support (near MA20 $1,072.69); prior daily low",
+        "reason": "\u2014 0.236 Fibonacci retracement; previous micro-support from daily wicks; psychological confluenc ($1100 round)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9785,7 +9785,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9796,6 +9796,26 @@
         "reason": "Psychological round; 62% extension zone between $1182.73 and $1273.09",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1150.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1182.73,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
