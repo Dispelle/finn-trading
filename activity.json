@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-11T20:34:12.126788+00:00",
+  "generated_at": "2026-06-11T20:48:19.502996+00:00",
   "items": [
+    {
+      "ts": "2026-06-11T20:45:09.879000+00:00",
+      "time": "04:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,221**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-11T20:30:06.527000+00:00",
       "time": "04:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:51 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S2 $55.7** Current: **$55.73** | Strength: 5/5 \u2014 Daily low cluster (55.70, 55.7, 55.1), fib 0.786 = $55.27 confluence"
-    },
-    {
-      "ts": "2026-06-11T19:50:35.666000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S3 $146.87** Current: **$146.80** | Strength: 4/5 Prior swing low (60d), support cluster"
     }
   ]
 }
