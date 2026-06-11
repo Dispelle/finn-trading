@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-11T15:37:43.912855+00:00",
+  "generated_at": "2026-06-11T15:52:10.733074+00:00",
   "items": [
+    {
+      "ts": "2026-06-11T15:46:56.477000+00:00",
+      "time": "11:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.23** Current: **$135.21** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
+    },
+    {
+      "ts": "2026-06-11T15:45:07.704000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,618** | P&L: **-23"
+    },
+    {
+      "ts": "2026-06-11T15:41:33.366000+00:00",
+      "time": "11:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.25** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
+    },
     {
       "ts": "2026-06-11T15:30:06.315000+00:00",
       "time": "11:30 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:17 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $80.44** Current: **$80.45** | Strength: 5/5 Prior swing high (60d data); 1H confluence"
-    },
-    {
-      "ts": "2026-06-11T15:08:33.495000+00:00",
-      "time": "11:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $200.4** Current: **$200.69** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-11T15:04:20.938000+00:00",
-      "time": "11:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $115.23** Current: **$115.26** | Strength: 5/5 Yesterday's low; immediate floor; 1H recent lows cluster"
-    },
-    {
-      "ts": "2026-06-11T15:04:20.002000+00:00",
-      "time": "11:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1166.42** Current: **$1167.34** | Strength: 5/5 \u2014 Yesterday's high, 1H high from last 20 candles; immediate intraday f"
     }
   ]
 }
