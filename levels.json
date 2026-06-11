@@ -8349,9 +8349,9 @@
         "price": 425.99,
         "type": "R1",
         "strength": 5,
-        "reason": "Daily MA20 sloping down; psychological round; prior support-turned-resistance",
+        "reason": "Fib 0.236 retracement (golden zone start); aligns with recent daily swing high cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8399,9 +8399,9 @@
         "price": 362.1,
         "type": "S3",
         "strength": 5,
-        "reason": "0.786 Fib retracement; 60-day support zone",
+        "reason": "Fib 0.786 (deep retracement); prior swing low structure ($364.02, $364.46 nearby)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8519,9 +8519,9 @@
         "price": 381.61,
         "type": "S1",
         "strength": 5,
-        "reason": "0.618 Fib golden pocket (EXACT match to current price \u2014 CRITICAL)",
+        "reason": "**GOLDEN POCKET** \u2014 Fib 0.618 retracement (volatility cluster sweet spot); 1H recent low cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8579,9 +8579,9 @@
         "price": 433.6,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: Recent daily swing high + psychological round. Breaks this = invalidation of bearish bias.",
+        "reason": "60-day swing high; recent LH; invalidation of bearish structure if broken",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8709,9 +8709,9 @@
         "price": 377.9,
         "type": "S2",
         "strength": 4,
-        "reason": "0.650 Fib retracement; minor swing low cluster",
+        "reason": "Fib 0.650 (extended fib, accumulation zone historically)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8782,6 +8782,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 445.6,
+        "type": "R3",
+        "strength": 4,
+        "reason": "60-day swing high prior to breakdown; psychological round; bears need to defend",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
