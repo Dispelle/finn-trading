@@ -10110,7 +10110,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10119,9 +10119,9 @@
         "price": 13.84,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.650 Fib (golden pocket zone) + psychological anchor",
+        "reason": "\u2014 0.650 Fibonacci + psychological zone, prior intraday swing high. First micro-resistance for bounce rejection.",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10129,9 +10129,9 @@
         "price": 14.01,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.618 (golden pocket mid-point); psychological; near recent swing high",
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket)** + major psychological level. This is THE key resistance for a dead-cat bounce. Str",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10159,9 +10159,9 @@
         "price": 11.95,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; 52-week low zone; capitulation wick territory",
+        "reason": "\u2014 **60-day low + swing low (bottom of range)**. This is the capitulation level. Tested 8 days ago. If broken on volume =",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10359,9 +10359,9 @@
         "price": 12.27,
         "type": "S1",
         "strength": 5,
-        "reason": "Prior 7-day low; 1H pivot support (multiple bounces from $12.24\u2013$12.28)",
+        "reason": "\u2014 Prior 1H low, recent daily low, psychological round number. Immediate support 4\u00a2 below current.",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10389,9 +10389,9 @@
         "price": 14.65,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 0.500 (psychological midpoint of $11.95\u2013$17.35 swing); MA20 weekly near",
+        "reason": "\u2014 0.500 Fib + MA20 ($14.49). If price breaches here with volume, reversal thesis triggered. This is the \"reset line.\"",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10472,6 +10472,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 10.58,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 **Projected extension: 1.272 Fib ($18.82) inverted into current lows** \u2248 $10.58 (rough projection). Panic zone. INSUFF",
+        "status": "active",
+        "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 15.29,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
