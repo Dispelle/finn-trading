@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-11T16:07:27.734174+00:00",
+  "generated_at": "2026-06-11T16:22:12.876277+00:00",
   "items": [
+    {
+      "ts": "2026-06-11T16:18:09.814000+00:00",
+      "time": "12:18 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $376.2** Current: **$376.13** | Strength: 3/5 \u2014 **52-week low ($299.89) + 50% extension** INSUFFICIENT DATA for precise 52-we"
+    },
+    {
+      "ts": "2026-06-11T16:17:05.795000+00:00",
+      "time": "12:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $58.22** Current: **$58.20** | Strength: 5/5 \u2014 **TODAY'S LOW** (60-day low, current support floor)"
+    },
+    {
+      "ts": "2026-06-11T16:15:06.773000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,762** | P&L: **-22"
+    },
+    {
+      "ts": "2026-06-11T16:14:55.692000+00:00",
+      "time": "12:14 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $58.22** Current: **$58.37** | Strength: 5/5 \u2014 **TODAY'S LOW** (60-day low, current support floor)"
+    },
+    {
+      "ts": "2026-06-11T16:14:54.966000+00:00",
+      "time": "12:14 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW R1 $929.51** Current: **$929.40** | Strength: 3/5 Intraday high TODAY; prior 1H swing high; minor resistance"
+    },
+    {
+      "ts": "2026-06-11T16:13:50.765000+00:00",
+      "time": "12:13 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $929.51** Current: **$931.16** | Strength: 3/5 Intraday high TODAY; prior 1H swing high; minor resistance"
+    },
     {
       "ts": "2026-06-11T16:00:07.442000+00:00",
       "time": "12:00 PM ET",
@@ -24,42 +60,6 @@
       "time": "11:41 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $135.23** Current: **$135.25** | Strength: 5/5 \u2014 MA50 (daily); currently at price level; if violated, next logical targ"
-    },
-    {
-      "ts": "2026-06-11T15:30:06.315000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,656**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-11T15:24:33.603000+00:00",
-      "time": "11:24 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $80.51** Current: **$80.44** | Strength: 5/5 1H recent low; prior swing low; initial fractal support"
-    },
-    {
-      "ts": "2026-06-11T15:21:54.193000+00:00",
-      "time": "11:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,714** | P&L: **-22"
-    },
-    {
-      "ts": "2026-06-11T15:21:22.179000+00:00",
-      "time": "11:21 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $80.51** Current: **$80.55** | Strength: 5/5 1H recent low; prior swing low; initial fractal support"
-    },
-    {
-      "ts": "2026-06-11T15:18:09.885000+00:00",
-      "time": "11:18 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $80.44** Current: **$80.27** | Strength: 5/5 Prior swing high (60d data); 1H confluence"
-    },
-    {
-      "ts": "2026-06-11T15:17:05.547000+00:00",
-      "time": "11:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1166.42** Current: **$1165.57** | Strength: 5/5 \u2014 Yesterday's high, 1H high from last 20 candles; immediate intraday f"
     }
   ]
 }
