@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-11T17:48:12.736012+00:00",
+  "generated_at": "2026-06-11T18:03:05.915273+00:00",
   "items": [
     {
-      "ts": "2026-06-11T17:46:31.253000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $711.26** Current: **$711.14** | Strength: 4/5 Today's 1H high; recent swing high; psychological round"
-    },
-    {
-      "ts": "2026-06-11T17:46:30.570000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $735.53** Current: **$735.42** | Strength: 4/5 Today's close; last week's close ($737.55); psychological round; volume "
-    },
-    {
-      "ts": "2026-06-11T17:46:28.897000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.2** Current: **$203.90** | Strength: 4/5 Daily MA50 (above, currently); key moving average"
-    },
-    {
-      "ts": "2026-06-11T17:46:28.340000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $204.33** Current: **$203.90** | Strength: 5/5 \u2014 1H low from 10 candles ago; strong intraday support (multiple touches"
-    },
-    {
-      "ts": "2026-06-11T17:45:23.690000+00:00",
-      "time": "01:45 PM ET",
+      "ts": "2026-06-11T18:02:50.888000+00:00",
+      "time": "02:02 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.2** Current: **$204.44** | Strength: 4/5 Daily MA50 (above, currently); key moving average"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $130.26** Current: **$130.67** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint of $106.45\u2013$154.08 swing). Recent support on"
     },
     {
-      "ts": "2026-06-11T17:45:07.414000+00:00",
-      "time": "01:45 PM ET",
+      "ts": "2026-06-11T18:01:44.838000+00:00",
+      "time": "02:01 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,277** | P&L: **-22"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $949.28** Current: **$948.50** | Strength: 5/5 \u2014 reason: Prior daily close (2 bars back); intraday pivot; recent swing h"
     },
     {
-      "ts": "2026-06-11T17:44:20.397000+00:00",
-      "time": "01:44 PM ET",
+      "ts": "2026-06-11T18:00:36.066000+00:00",
+      "time": "02:00 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $711.26** Current: **$711.65** | Strength: 4/5 Today's 1H high; recent swing high; psychological round"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $949.28** Current: **$949.62** | Strength: 5/5 \u2014 reason: Prior daily close (2 bars back); intraday pivot; recent swing h"
     },
     {
-      "ts": "2026-06-11T17:44:18.936000+00:00",
-      "time": "01:44 PM ET",
+      "ts": "2026-06-11T18:00:34.994000+00:00",
+      "time": "02:00 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $475.51** Current: **$475.88** | Strength: 5/5 \u2014 reason: Prior daily close (3 days ago); confluence with 1H swing high;"
+    },
+    {
+      "ts": "2026-06-11T18:00:33.673000+00:00",
+      "time": "02:00 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $382.0** Current: **$381.96** | Strength: 4/5 \u2014 *50% of 52-week range ($299.89 + $509.70)/2 = $404.80, but macro gold s"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $475.69** Current: **$475.88** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-11T17:43:14.771000+00:00",
-      "time": "01:43 PM ET",
+      "ts": "2026-06-11T18:00:33.007000+00:00",
+      "time": "02:00 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $735.53** Current: **$735.74** | Strength: 4/5 Today's close; last week's close ($737.55); psychological round; volume "
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $475.59** Current: **$475.88** | Strength: 5/5 2-candles-ago daily close; MA20 weekly at $477.58 nearby; psychological "
     },
     {
-      "ts": "2026-06-11T17:42:09.231000+00:00",
-      "time": "01:42 PM ET",
+      "ts": "2026-06-11T18:00:08.362000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,551**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-11T17:58:21.248000+00:00",
+      "time": "01:58 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $382.0** Current: **$382.19** | Strength: 4/5 \u2014 *50% of 52-week range ($299.89 + $509.70)/2 = $404.80, but macro gold s"
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $474.65** Current: **$475.25** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-11T17:55:05.301000+00:00",
+      "time": "01:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $147.78** Current: **$148.00** | Strength: 5/5 Today's intraday low (1H) + 60-day swing low proximity"
+    },
+    {
+      "ts": "2026-06-11T17:52:54.732000+00:00",
+      "time": "01:52 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.26** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
     }
   ]
 }
