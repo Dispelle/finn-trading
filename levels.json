@@ -5772,7 +5772,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5851,9 +5851,9 @@
         "price": 16.52,
         "type": "R1",
         "strength": 5,
-        "reason": "**Fib 0.786 retracement** (strong harmonic level; prior 1H resistance). Psychological round.",
+        "reason": "0.786 Fib retracement (golden zone upper bound) + prior intraday swing high (4 days)",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5921,9 +5921,9 @@
         "price": 14.95,
         "type": "S2",
         "strength": 5,
-        "reason": "Weekly close from 7 weeks ago. Psychological round number near 60d absolute low ($14.64).",
+        "reason": "Prior swing low (daily close, 6 days ago); psychological round-number vicinity",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5931,9 +5931,9 @@
         "price": 14.64,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **52-week low / absolute floor**. Tested and held (no close below). Psychological capitulation level. If broken, next ",
+        "reason": "**52-WEEK LOW / 60-DAY ABSOLUTE LOW** \u2014 Ultimate support; major inflection point",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5951,9 +5951,9 @@
         "price": 19.03,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (50% retracement). Mid-range psychological target.",
+        "reason": "0.500 Fib; psychological midpoint of $14.64\u2013$23.42 range",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5971,9 +5971,9 @@
         "price": 15.33,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Recent intraday low (day 9, daily bars). Intra-week swing point. Formed support on two separate 1H candles.",
+        "reason": "Recent daily low (4 days); tight support in consolidation band",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6131,9 +6131,9 @@
         "price": 18.12,
         "type": "R3",
         "strength": 4,
-        "reason": "**20-day VWAP**. Displaced downward but acts as mean reversion target; price traded below for 6+ days.",
+        "reason": "20-day VWAP (anchor resistance); key moving average",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6204,6 +6204,26 @@
         "reason": "\u2014 1H recent lows cluster; daily low from today; immediate floor",
         "status": "active",
         "source_brief": "2026-06-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.71,
+        "type": "R2",
+        "strength": 4,
+        "reason": "0.650 Fib (strong retracement zone); prior swing high support",
+        "status": "active",
+        "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.99,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.618 Fib (golden pocket) + daily MA20 approaches here",
+        "status": "active",
+        "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
       }
