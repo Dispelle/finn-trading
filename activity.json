@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-11T19:18:19.391870+00:00",
+  "generated_at": "2026-06-11T19:33:11.893394+00:00",
   "items": [
     {
-      "ts": "2026-06-11T19:17:58.373000+00:00",
-      "time": "03:17 PM ET",
+      "ts": "2026-06-11T19:33:08.573000+00:00",
+      "time": "03:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $120.44** Current: **$120.60** | Strength: 4/5 Recent swing low (10 days); MA200 proximity ($150.94 above is not suppo"
+    },
+    {
+      "ts": "2026-06-11T19:33:05.722000+00:00",
+      "time": "03:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $60.85** Current: **$60.90** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-06-11T19:30:59.560000+00:00",
+      "time": "03:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $12.8** Current: **$12.84** | Strength: 4/5 Recent 4H swing high; 1H rejection zone; early resistance into any bounce"
+    },
+    {
+      "ts": "2026-06-11T19:30:58.361000+00:00",
+      "time": "03:30 PM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP1 $606.2** Current: **$605.74** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $147.78** Current: **$147.41** | Strength: 5/5 Today's intraday low (1H) + 60-day swing low proximity"
     },
     {
-      "ts": "2026-06-11T19:16:53.908000+00:00",
-      "time": "03:16 PM ET",
+      "ts": "2026-06-11T19:30:57.628000+00:00",
+      "time": "03:30 PM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE TP1 $606.2** Current: **$606.31** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $397.09** Current: **$398.21** | Strength: 5/5 Prior daily high (4 bars ago); 1H resistance confluence; recent swing p"
     },
     {
-      "ts": "2026-06-11T19:15:49.209000+00:00",
-      "time": "03:15 PM ET",
+      "ts": "2026-06-11T19:30:57.027000+00:00",
+      "time": "03:30 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $485.0** Current: **$485.38** | Strength: 5/5 \u2014 Prior daily close ($490.33 two days back), psychological round number, "
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $396.68** Current: **$398.21** | Strength: 5/5 Weekly MA20 ($397.35), 1-hour recent close cluster, psychological round"
     },
     {
-      "ts": "2026-06-11T19:15:17.347000+00:00",
-      "time": "03:15 PM ET",
+      "ts": "2026-06-11T19:30:56.280000+00:00",
+      "time": "03:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $570.6** Current: **$570.92** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
+    },
+    {
+      "ts": "2026-06-11T19:30:55.071000+00:00",
+      "time": "03:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $738.38** Current: **$739.29** | Strength: 4/5 \u2014 Prior daily support (2 bars ago) + micro-zone cluster; confluence of 1"
+    },
+    {
+      "ts": "2026-06-11T19:30:54.425000+00:00",
+      "time": "03:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $738.19** Current: **$739.29** | Strength: 5/5 \u2014 Today's low, 1H support floor"
+    },
+    {
+      "ts": "2026-06-11T19:30:53.610000+00:00",
+      "time": "03:30 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,472**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-11T19:14:46.978000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $395.32** Current: **$395.40** | Strength: 5/5 Fibonacci 0.500 retracement (midpoint); MA50 bounce zone ($396.03 nearb"
-    },
-    {
-      "ts": "2026-06-11T19:14:44.879000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $384.21** Current: **$384.28** | Strength: 5/5 \u2014 today's daily high; recent swing high; intraday tested, rejected"
-    },
-    {
-      "ts": "2026-06-11T19:14:44.225000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $971.68** Current: **$971.65** | Strength: 5/5 Swing low turned resistance (HL from 4 days ago), critical pivot point, b"
-    },
-    {
-      "ts": "2026-06-11T19:13:40.176000+00:00",
-      "time": "03:13 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $60.37** Current: **$60.28** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
-    },
-    {
-      "ts": "2026-06-11T19:12:36.768000+00:00",
-      "time": "03:12 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $713.1** Current: **$714.02** | Strength: 5/5 Today's daily low; recent consolidation floor (1H bounce zone)"
-    },
-    {
-      "ts": "2026-06-11T19:12:35.691000+00:00",
-      "time": "03:12 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $60.37** Current: **$60.38** | Strength: 5/5 60-day absolute low; psychological round number; tested today (L: $61.24)"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $128.86** Current: **$128.81** | Strength: 5/5 \u2014 **Today's low; immediate support; psychological 128.xx round number**"
     }
   ]
 }
