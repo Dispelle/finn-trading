@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T21:52:12.774156+00:00",
+  "generated_at": "2026-06-12T22:07:03.577009+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T22:00:08.007000+00:00",
+      "time": "06:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,449**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-12T21:45:08.531000+00:00",
       "time": "05:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:57 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW TP2 $125.5** Current: **$125.47** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-12T19:50:50.867000+00:00",
-      "time": "03:50 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S3 $146.87** Current: **$146.89** | Strength: 4/5 Prior swing low (60d), support cluster"
     }
   ]
 }
