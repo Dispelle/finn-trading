@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T20:17:57.414132+00:00",
+  "generated_at": "2026-06-12T20:32:48.825333+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T20:30:08.016000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,470** | P&L: **-22"
+    },
     {
       "ts": "2026-06-12T20:00:29.076000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:45 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $86.08** Current: **$86.07** | Strength: 5/5 \u2014 20-day VWAP (Volume-Weighted Average Price); MA50 confluence at $83.25 "
-    },
-    {
-      "ts": "2026-06-12T19:45:07.539000+00:00",
-      "time": "03:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,627** | P&L: **-21"
     }
   ]
 }
