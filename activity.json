@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T19:32:55.829353+00:00",
+  "generated_at": "2026-06-12T19:33:49.773860+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T19:33:20.931000+00:00",
+      "time": "03:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.2** Current: **$204.13** | Strength: 4/5 Daily MA50 (above, currently); key moving average"
+    },
     {
       "ts": "2026-06-12T19:32:18.105000+00:00",
       "time": "03:32 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:15 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $320.24** Current: **$320.27** | Strength: 5/5 60-day swing high; prior HH; recent rejection zone (4 days of consolidat"
-    },
-    {
-      "ts": "2026-06-12T19:14:05.749000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $320.24** Current: **$320.22** | Strength: 5/5 60-day swing high; prior HH; recent rejection zone (4 days of consolidat"
     }
   ]
 }
