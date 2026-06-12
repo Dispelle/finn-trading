@@ -3122,7 +3122,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3171,9 +3171,9 @@
         "price": 792.17,
         "type": "S2",
         "strength": 4,
-        "reason": "Fib 0.382 retracement (311.49\u21921089.29); mid-range psychological level",
+        "reason": "0.382 Fibonacci retracement; intermediate swing low zone; confluence with prior support",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3181,9 +3181,9 @@
         "price": 700.39,
         "type": "S3",
         "strength": 4,
-        "reason": "Fibonacci 0.500 (midpoint); MA50 area ($665.37 nearby)",
+        "reason": "0.500 Fibonacci (golden midpoint); MA50 at $665.37 just below; major psychological zone",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3311,9 +3311,9 @@
         "price": 1089.29,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high; prior week resistance; psychological round; daily swing high",
+        "reason": "60-day ATH; confluence of recent swing high + psychological round number ($1090)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3380,10 +3380,10 @@
       {
         "price": 1569.97,
         "type": "R3",
-        "strength": 3,
-        "reason": "Fibonacci extension 1.618 (golden ratio extension); \"moon\" level",
+        "strength": 4,
+        "reason": "1.618 Fibonacci extension; long-term bull target; confluent with upside macro thesis",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3770,10 +3770,10 @@
       {
         "price": 883.25,
         "type": "S1",
-        "strength": 3,
-        "reason": "1H low today, intraday support, psychological",
+        "strength": 5,
+        "reason": "20-day VWAP; MA20 daily ($882.85); major daily moving average support; price tested here 3x in last 10 days",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3864,6 +3864,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1272.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "1.272 Fibonacci extension (311.49 \u2192 1089.29); confluence with prior breakout target",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
