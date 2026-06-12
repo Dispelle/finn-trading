@@ -13239,7 +13239,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13286,10 +13286,10 @@
       {
         "price": 120.44,
         "type": "S1",
-        "strength": 4,
-        "reason": "Recent swing low (10 days); MA200 proximity ($150.94 above is not support yet); intraday support",
+        "strength": 5,
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13357,9 +13357,9 @@
         "price": 131.19,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement of $113.27 \u2192 $197.00 swing",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13390,6 +13390,46 @@
         "reason": "\u2014 Fibonacci 0.618 (golden pocket) + 20-day VWAP confluence",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 140.95,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.25,
+        "type": "R3",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.27,
+        "type": "S3",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.44,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
