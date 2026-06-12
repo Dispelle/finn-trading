@@ -696,9 +696,9 @@
         "price": 77202.95,
         "type": "R3",
         "strength": 5,
-        "reason": "0.236 Fib retracement; prior daily close $77,429.35 (2 weeks ago); MA50 now at $74,694 (approaching)",
+        "reason": "\u2014 0.236 Fib; prior swing high rejection zone; daily chart higher high confirmation needed",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -756,9 +756,9 @@
         "price": 61456.17,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low; weekly close 2 bars ago; weekly structure point",
+        "reason": "\u2014 10-day average low; daily structural support; ~4 days ago low",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -786,9 +786,9 @@
         "price": 59108.92,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **52-week low / absolute floor of current downtrend**; major capitulation zone; break here = extended liquidation",
+        "reason": "\u2014 60-day absolute low; 0.786 Fib ($64,177) just above; psychological capitulation zone",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -796,19 +796,19 @@
         "price": 70950.56,
         "type": "R1",
         "strength": 5,
-        "reason": "0.500 Fib retracement; 20-day VWAP crossover zone; psychological 71k; confluence with MA20 declining toward it",
+        "reason": "\u2014 0.500 Fib retracement + 20-day VWAP ($67,318) confluence zone; psychological round level; MA20 very close",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 73745.19,
         "type": "R2",
-        "strength": 4,
-        "reason": "0.382 Fib retracement; sits between recent swing lows $72,435\u2013$74,255",
+        "strength": 5,
+        "reason": "\u2014 0.382 Fib (golden retracement zone); prior swing low resistance; daily structural reset",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -879,6 +879,16 @@
         "reason": "\u2014 1H swing low (last 20 bars); nearest structural support; 67 pips below current",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62855.65,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's daily low; 1H recent low cluster; immediate support for bounce",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
