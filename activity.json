@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-12T14:00:41.516229+00:00",
+  "generated_at": "2026-06-12T14:15:30.496218+00:00",
   "items": [
     {
-      "ts": "2026-06-12T14:00:06.964000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-12T14:15:07.061000+00:00",
+      "time": "10:15 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,165** | P&L: **-22"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,388**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-06-12T13:59:59.442000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $395.32** Current: **$394.67** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint 337.24\u2192453.40); psychological confluence; M"
-    },
-    {
-      "ts": "2026-06-12T13:59:56.968000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $384.21** Current: **$384.20** | Strength: 5/5 \u2014 today's daily high; recent swing high; intraday tested, rejected"
-    },
-    {
-      "ts": "2026-06-12T13:59:55.988000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $612.3** Current: **$610.89** | Strength: 4/5 60-day swing high (prior to $642.77); trendline resistance"
-    },
-    {
-      "ts": "2026-06-12T13:59:55.228000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $510.13** Current: **$509.38** | Strength: 4/5 Daily MA20 crossover zone; prior daily close; consolidation cap"
-    },
-    {
-      "ts": "2026-06-12T13:59:54.611000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $510.0** Current: **$509.38** | Strength: 5/5 \u2014 Prior daily high (3 days ago, multi-confirmation), 20-day VWAP nearby a"
-    },
-    {
-      "ts": "2026-06-12T13:58:50.280000+00:00",
-      "time": "09:58 AM ET",
+      "ts": "2026-06-12T14:14:18.452000+00:00",
+      "time": "10:14 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R3 $612.3** Current: **$612.38** | Strength: 4/5 60-day swing high (prior to $642.77); trendline resistance"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $120.44** Current: **$120.45** | Strength: 4/5 Recent swing low (10 days); MA200 proximity ($150.94 above is not suppo"
     },
     {
-      "ts": "2026-06-12T13:57:46.625000+00:00",
-      "time": "09:57 AM ET",
+      "ts": "2026-06-12T14:13:11.625000+00:00",
+      "time": "10:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW STOP $129.09** Current: **$129.06** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $719.25** Current: **$718.89** | Strength: 5/5 \u2014 MA20 (weekly); slope DOWN; was support, now resistance"
     },
     {
-      "ts": "2026-06-12T13:57:45.400000+00:00",
-      "time": "09:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $989.15** Current: **$989.47** | Strength: 5/5 Swing high from 6 days ago; tested twice recently"
+      "ts": "2026-06-12T14:13:10.617000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $86.42** Current: **$86.26** | Strength: 5/5 Last higher low anchor (9 days); prior daily high; confluence with MA20 d"
     },
     {
-      "ts": "2026-06-12T13:57:44.265000+00:00",
-      "time": "09:57 AM ET",
+      "ts": "2026-06-12T14:12:05.312000+00:00",
+      "time": "10:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $86.5** Current: **$86.47** | Strength: 5/5 \u2014 MA20(20-day), downward slope, intraday recovered to $87.06 but rejected"
+    },
+    {
+      "ts": "2026-06-12T14:12:04.090000+00:00",
+      "time": "10:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $619.13** Current: **$618.20** | Strength: 5/5 Prior daily high (2d ago, 638 area has rejected 3x in last 4d) + 1H rece"
+    },
+    {
+      "ts": "2026-06-12T14:11:02.253000+00:00",
+      "time": "10:11 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $510.13** Current: **$511.76** | Strength: 4/5 Daily MA20 crossover zone; prior daily close; consolidation cap"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $128.8** Current: **$128.96** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-12T14:09:57.605000+00:00",
+      "time": "10:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $128.75** Current: **$128.75** | Strength: 5/5 60d swing low; 1H recent low @ $127.35 just above; psychological suppor"
+    },
+    {
+      "ts": "2026-06-12T14:09:56.073000+00:00",
+      "time": "10:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $719.25** Current: **$719.61** | Strength: 5/5 \u2014 MA20 (weekly); slope DOWN; was support, now resistance"
+    },
+    {
+      "ts": "2026-06-12T14:09:54.818000+00:00",
+      "time": "10:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $86.42** Current: **$86.51** | Strength: 5/5 Last higher low anchor (9 days); prior daily high; confluence with MA20 d"
     }
   ]
 }
