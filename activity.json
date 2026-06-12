@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-12T19:18:26.282836+00:00",
+  "generated_at": "2026-06-12T19:32:45.419301+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T19:32:18.105000+00:00",
+      "time": "03:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $720.99** Current: **$720.60** | Strength: 5/5 20-day VWAP (717.99); price holding just below"
+    },
+    {
+      "ts": "2026-06-12T19:32:16.397000+00:00",
+      "time": "03:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $619.13** Current: **$618.75** | Strength: 5/5 Prior daily high (2d ago, 638 area has rejected 3x in last 4d) + 1H rece"
+    },
+    {
+      "ts": "2026-06-12T19:31:12.994000+00:00",
+      "time": "03:31 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $721.3** Current: **$721.14** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-12T19:31:10.637000+00:00",
+      "time": "03:31 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP2 $620.0** Current: **$619.87** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-06-12T19:18:23.944000+00:00",
       "time": "03:18 PM ET",
@@ -36,30 +60,6 @@
       "time": "03:14 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $320.24** Current: **$320.22** | Strength: 5/5 60-day swing high; prior HH; recent rejection zone (4 days of consolidat"
-    },
-    {
-      "ts": "2026-06-12T19:02:23.256000+00:00",
-      "time": "03:02 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1137.75** Current: **$1138.15** | Strength: 5/5 \u2014 Yesterday's daily low; recent 1H low $1,136.00. Micro support from 1"
-    },
-    {
-      "ts": "2026-06-12T19:00:07.588000+00:00",
-      "time": "03:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,654** | P&L: **-21"
-    },
-    {
-      "ts": "2026-06-12T18:59:11.972000+00:00",
-      "time": "02:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1137.75** Current: **$1137.74** | Strength: 5/5 \u2014 Yesterday's daily low; recent 1H low $1,136.00. Micro support from 1"
-    },
-    {
-      "ts": "2026-06-12T18:50:37.602000+00:00",
-      "time": "02:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S2 $146.95** Current: **$146.93** | Strength: 5/5 Daily swing low (10-bar history); 200-day MA cushion ($145.35) is 1.6% b"
     }
   ]
 }
