@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-12T15:51:53.725999+00:00",
+  "generated_at": "2026-06-12T16:06:56.081167+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T16:03:00.980000+00:00",
+      "time": "12:03 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $388.59** Current: **$388.33** | Strength: 3/5 Recent intraday low (9 days ago); *minor psychological floor*; held once"
+    },
+    {
+      "ts": "2026-06-12T16:00:07.936000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,539**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-12T15:51:15.377000+00:00",
       "time": "11:51 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $61.24** Current: **$61.20** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-12T15:28:45.052000+00:00",
-      "time": "11:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $388.15** Current: **$387.92** | Strength: 4/5 \u2014 52-week range extension (25% retracement of 52-week move); psychologic"
-    },
-    {
-      "ts": "2026-06-12T15:25:31.816000+00:00",
-      "time": "11:25 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE TP2 $125.5** Current: **$125.71** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
