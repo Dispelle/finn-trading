@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T21:37:02.515847+00:00",
+  "generated_at": "2026-06-12T21:52:02.895296+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T21:45:08.531000+00:00",
+      "time": "05:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,491** | P&L: **-22"
+    },
     {
       "ts": "2026-06-12T21:21:40.219000+00:00",
       "time": "05:21 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S3 $146.87** Current: **$146.89** | Strength: 4/5 Prior swing low (60d), support cluster"
-    },
-    {
-      "ts": "2026-06-12T19:49:44.018000+00:00",
-      "time": "03:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S3 $146.87** Current: **$146.85** | Strength: 4/5 Prior swing low (60d), support cluster"
     }
   ]
 }
