@@ -7879,9 +7879,9 @@
         "price": 747.5,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20(daily), slope neutral-down; intraday resistance",
+        "reason": "\u2014 Prior daily high / pivot rejection level / 1H resistance cluster",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7979,9 +7979,9 @@
         "price": 729.46,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.236 retracement**",
+        "reason": "\u2014 **Fibonacci 0.236 retracement** / intraday lows cluster / prior pivot",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8019,9 +8019,9 @@
         "price": 752.82,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior daily close; marks early breakdown point",
+        "reason": "\u2014 Prior swing high / 4.07 pts above R1 / daily support-flip-to-resistance",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8029,9 +8029,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "**60-day swing high, 0.786 Fibonacci extension nearby**; critical invalidation of bearish reversal",
+        "reason": "\u2014 **60-day high / weekly resistance / Fib extension confluence**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8332,6 +8332,16 @@
         "reason": "Psychological round number + prior swing high cluster",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 722.59,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 **Recent swing low (5 bars ago) / Daily break of HL structure**",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
