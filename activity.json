@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-12T13:45:46.494782+00:00",
+  "generated_at": "2026-06-12T13:45:59.404845+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T13:45:47.951000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $397.09** Current: **$396.34** | Strength: 5/5 Prior daily high (4 bars ago); 1H resistance confluence; recent swing p"
+    },
+    {
+      "ts": "2026-06-12T13:45:47.156000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $396.68** Current: **$396.34** | Strength: 5/5 Weekly MA20 ($397.35), 1-hour recent close cluster, psychological round"
+    },
     {
       "ts": "2026-06-12T13:44:41.573000+00:00",
       "time": "09:44 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:41 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $570.6** Current: **$569.38** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
-    },
-    {
-      "ts": "2026-06-12T13:41:21.941000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $738.38** Current: **$737.26** | Strength: 4/5 \u2014 Prior daily support (2 bars ago) + micro-zone cluster; confluence of 1"
-    },
-    {
-      "ts": "2026-06-12T13:41:21.437000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $738.19** Current: **$737.26** | Strength: 5/5 \u2014 Today's low, 1H support floor"
     }
   ]
 }
