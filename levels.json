@@ -9562,7 +9562,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9591,9 +9591,9 @@
         "price": 626.1,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.382 Fib retracement** + declining lower-high ceiling from past 8 days + 20-day VWAP at $608.02 (nearby); break her",
+        "reason": "**0.382 Fib + cluster of prior daily closes ($622.98, $627.57, prior weekly $632.51)**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9671,9 +9671,9 @@
         "price": 605.89,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fibonacci midpoint** + MA20 at $606.78 just above; this is critical demand zone before secondary resistance",
+        "reason": "**0.500 Fib + 20-day VWAP ($607.07) + prior daily close ($600.47)**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9773,7 +9773,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-09",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9841,9 +9841,9 @@
         "price": 585.68,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci golden pocket** (from $520.26 to $691.52 swing) + confluence with prior daily support zone ($584.59 ",
+        "reason": "**0.618 Fib (golden pocket) + prior swing low cluster ($592.6, $594.81, $596.68)**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9851,9 +9851,9 @@
         "price": 556.91,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **0.786 Fibonacci** (deep retrace zone); aligns with today's intraday low of $557.01; psychological round number nearb",
+        "reason": "**0.786 Fib (deep retracement) + 1H low cluster ($560.88, $560.65, $557.01)**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9861,9 +9861,9 @@
         "price": 520.26,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **52-week low** + base of entire Fibonacci swing; absolute floor for this cycle",
+        "reason": "**52-week low (psychological anchor) + cycle bottom + 60-day low**",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
