@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T17:17:22.441866+00:00",
+  "generated_at": "2026-06-12T17:31:50.704450+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T17:23:03.114000+00:00",
+      "time": "01:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $568.43** Current: **$568.19** | Strength: 5/5 \u2014 **Recent swing low** (2 days ago: Friday close). Tested intraday lows"
+    },
     {
       "ts": "2026-06-12T17:16:35.618000+00:00",
       "time": "01:16 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:12 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $388.0** Current: **$388.17** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-12T16:08:21.893000+00:00",
-      "time": "12:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $388.0** Current: **$387.97** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
