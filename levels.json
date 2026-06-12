@@ -10179,9 +10179,9 @@
         "price": 453.4,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high; structural resistance; would reset bullish bias if taken cleanly on 4H close",
+        "reason": "60-day swing high / 0.382 Fib confluence ($409.03 too low; jump to $453.40)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10189,9 +10189,9 @@
         "price": 395.32,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint 337.24\u2192453.40); psychological confluence; MA50 at $397.80 nearby",
+        "reason": "0.500 Fib retracement (midpoint; psychologically strong)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10199,9 +10199,9 @@
         "price": 381.61,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 \"golden pocket\" (also 0.650 at $377.90 \u2014 tight zone); prior daily low ($381.59); critical structural f",
+        "reason": "0.618 Fib (golden pocket START; major structural support)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10279,9 +10279,9 @@
         "price": 433.6,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Swing high from 60-day data; 0.382 Fib at $409.03 (weak), but $433.60 is clean swing high; 1.272 Fib extension at $485",
+        "reason": "Last swing high / recent daily high (broken, but acts as magnet in mean-reversion context)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10309,9 +10309,9 @@
         "price": 425.99,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (337.24\u2192453.40); prior swing high touch point; supply zone",
+        "reason": "0.236 Fib retracement (minor, but psychological round number near prior daily close $423.70\u2013$423.74)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10379,9 +10379,9 @@
         "price": 377.9,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.650 Fib; psychological round $378; stop-hunt zone if S2 breaks",
+        "reason": "0.650 Fib (minor, near S3 cluster)",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10682,6 +10682,36 @@
         "reason": "\u2014 20-day VWAP; zone of recent support (418.45 daily close 3 days ago); psychological whole number",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 414.83,
+        "type": "R1",
+        "strength": 5,
+        "reason": "20-day VWAP (primary resistance, high confluence with daily MA20 zone $415.63)",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 380.15,
+        "type": "S3",
+        "strength": 5,
+        "reason": "60-day swing low / invalidation level for weekly bullish bias (CRITICAL)",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 380.15,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
