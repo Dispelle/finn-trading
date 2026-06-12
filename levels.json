@@ -10468,7 +10468,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10487,9 +10487,9 @@
         "price": 155.13,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); historic swing high support zone; if broken = trend reversal signal; **",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10567,9 +10567,9 @@
         "price": 141.97,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing low; maximum Fibonacci retracement swing point; major support floor; **",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10687,9 +10687,9 @@
         "price": 159.19,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 **",
+        "reason": "\u2014 Fibonacci 0.500 retrace; bears cannot allow close here on daily; **",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10737,9 +10737,9 @@
         "price": 152.49,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 20-day VWAP + MA20 confluence zone; prior daily support turned resistance; **",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10930,6 +10930,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 146.95,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 Recent swing low (60d); near-term support; **",
+        "status": "active",
+        "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.2,
+        "type": "S2",
+        "strength": 3,
+        "reason": "\u2014 Today's intraday low + psychological round level; **",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
