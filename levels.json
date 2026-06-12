@@ -918,7 +918,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -936,9 +936,9 @@
         "price": 505.62,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior 4H & daily swing high (5 days ago); tested 2x in last 3 sessions; supply zone",
+        "reason": "Psychological round + 60d swing high just 2 wicks back ($505.62) + prior daily high confluence",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -956,9 +956,9 @@
         "price": 546.44,
         "type": "R3",
         "strength": 5,
-        "reason": "**ATH (60d high)**; failed breakout 2 days ago; supply/resistance zone; Fibonacci extension target",
+        "reason": "60-day absolute peak (3 candles back), extension target for bull breakout",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -996,9 +996,9 @@
         "price": 527.2,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high; confluence with lower-high pattern; psychological round level",
+        "reason": "60-day swing high, clear price rejection zone, intraday supply",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1066,9 +1066,9 @@
         "price": 475.59,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; daily MA20 at $478.88 (confluence); acts as initial pullback support",
+        "reason": "20-day VWAP \u2014 key equilibrium anchor; price currently $12.21 above",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1076,9 +1076,9 @@
         "price": 463.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement; previous daily close $462.4 (supports level); break here = deeper pullback likely",
+        "reason": "Fibonacci 0.236 retracement (236 golden zone start) + psychological",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1138,7 +1138,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1196,9 +1196,9 @@
         "price": 437.23,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Recent swing low (6 days ago); **CRITICAL invalidation point**; loss of higher low structure",
+        "reason": "60-day swing low (structure invalidation level) + Fibonacci confluence zone",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
