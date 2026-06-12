@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-12T16:07:21.560224+00:00",
+  "generated_at": "2026-06-12T16:21:55.126965+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T16:20:09.495000+00:00",
+      "time": "12:20 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $390.33** Current: **$390.54** | Strength: 3/5 Daily high (today); 1H high (recent swing); psychological support flipped res"
+    },
+    {
+      "ts": "2026-06-12T16:13:42.931000+00:00",
+      "time": "12:13 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $388.59** Current: **$389.16** | Strength: 3/5 Recent intraday low (9 days ago); *minor psychological floor*; held once"
+    },
+    {
+      "ts": "2026-06-12T16:12:38.663000+00:00",
+      "time": "12:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $388.0** Current: **$388.17** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-12T16:08:21.893000+00:00",
+      "time": "12:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $388.0** Current: **$387.97** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-06-12T16:03:00.980000+00:00",
       "time": "12:03 PM ET",
@@ -36,30 +60,6 @@
       "time": "11:50 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $717.97** Current: **$717.72** | Strength: 5/5 20-day VWAP (mean reversion anchor); MA20 at $721.62 nearby; cluster of "
-    },
-    {
-      "ts": "2026-06-12T15:45:07.319000+00:00",
-      "time": "11:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,860** | P&L: **-21"
-    },
-    {
-      "ts": "2026-06-12T15:38:23.766000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $125.55** Current: **$125.48** | Strength: 4/5 \u2014 Today's intraday high, recent swing high (4H), 1H confluence"
-    },
-    {
-      "ts": "2026-06-12T15:34:07.799000+00:00",
-      "time": "11:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $12.8** Current: **$12.79** | Strength: 4/5 Recent 4H swing high; 1H rejection zone; early resistance into any bounce"
-    },
-    {
-      "ts": "2026-06-12T15:30:53.626000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $61.24** Current: **$61.20** | Strength: 5/5 |"
     }
   ]
 }
