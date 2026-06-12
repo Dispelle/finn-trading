@@ -5726,7 +5726,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5745,9 +5745,9 @@
         "price": 87.9,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; prior daily swing high on day \u22123; clean round resistance",
+        "reason": "0.236 Fib retracement (first harmonic pullback target); swing high from 5d ago; supply zone",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5845,9 +5845,9 @@
         "price": 78.34,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.618 **golden pocket** \u2014 classical deep retracement; coincides with recent swing lows $77.45, $77.57 (within ",
+        "reason": "0.618 Fib retracement (**golden pocket** \u2014 highest probability reversal zone); prior swing high from 9d ago; technical p",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5925,9 +5925,9 @@
         "price": 93.89,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day swing high; failed breakout point; extension zone into 1.272 Fib at $100.80 above",
+        "reason": "60-day high; psychological round; 0.618 Fib extension from recent downswing; key reversal pivot",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5935,9 +5935,9 @@
         "price": 81.19,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.500 midpoint retracement; MA50 at $83.55 (above, so less reliable here); proximity to recent lows at $80.64,",
+        "reason": "0.500 Fib retracement (midpoint of 68.49\u219293.89 swing); MA50 daily ($83.55 nearby) confluence; structural support",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6075,9 +6075,9 @@
         "price": 76.53,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Reason: 60-day swing low (prior structure); $73.93 (0.786 fib) beyond this; **",
+        "reason": "Prior swing low; 0.786 Fib at $73.93 nearby; psychological $75 level; extended support",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6127,7 +6127,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6318,6 +6318,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 84.97,
+        "type": "R1",
+        "strength": 5,
+        "reason": "MA20 daily (slope neutral but downslope); prior day support; 20-day VWAP just above at $84.52; confluence zone",
+        "status": "active",
+        "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
       }
