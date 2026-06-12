@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-12T14:15:42.049582+00:00",
+  "generated_at": "2026-06-12T14:30:31.712161+00:00",
   "items": [
     {
-      "ts": "2026-06-12T14:15:07.061000+00:00",
-      "time": "10:15 AM ET",
+      "ts": "2026-06-12T14:30:07.109000+00:00",
+      "time": "10:30 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,388**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,570** | P&L: **-21"
     },
     {
-      "ts": "2026-06-12T14:14:18.452000+00:00",
-      "time": "10:14 AM ET",
+      "ts": "2026-06-12T14:29:24.949000+00:00",
+      "time": "10:29 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $120.44** Current: **$120.45** | Strength: 4/5 Recent swing low (10 days); MA200 proximity ($150.94 above is not suppo"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $123.14** Current: **$123.40** | Strength: 5/5 \u2014 **Today's daily low (1H recent support)**"
     },
     {
-      "ts": "2026-06-12T14:13:11.625000+00:00",
-      "time": "10:13 AM ET",
+      "ts": "2026-06-12T14:28:20.109000+00:00",
+      "time": "10:28 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $719.25** Current: **$718.89** | Strength: 5/5 \u2014 MA20 (weekly); slope DOWN; was support, now resistance"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1149.1** Current: **$1146.74** | Strength: 5/5 Swing low (3 days ago); contains 1H/4H support cluster"
     },
     {
-      "ts": "2026-06-12T14:13:10.617000+00:00",
-      "time": "10:13 AM ET",
+      "ts": "2026-06-12T14:28:19.493000+00:00",
+      "time": "10:28 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $86.42** Current: **$86.26** | Strength: 5/5 Last higher low anchor (9 days); prior daily high; confluence with MA20 d"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1149.15** Current: **$1146.74** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-06-12T14:12:05.312000+00:00",
-      "time": "10:12 AM ET",
+      "ts": "2026-06-12T14:28:19.035000+00:00",
+      "time": "10:28 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $86.5** Current: **$86.47** | Strength: 5/5 \u2014 MA20(20-day), downward slope, intraday recovered to $87.06 but rejected"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $318.5** Current: **$318.98** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-12T14:12:04.090000+00:00",
-      "time": "10:12 AM ET",
+      "ts": "2026-06-12T14:27:14.287000+00:00",
+      "time": "10:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $619.13** Current: **$618.20** | Strength: 5/5 Prior daily high (2d ago, 638 area has rejected 3x in last 4d) + 1H rece"
+      "message": "\ud83d\udd34 **LLY \u2014 BROKE BELOW TP1 $1150.0** Current: **$1149.53** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-12T14:11:02.253000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $128.8** Current: **$128.96** | Strength: 5/5 |"
+      "ts": "2026-06-12T14:27:11.839000+00:00",
+      "time": "10:27 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $85.59** Current: **$85.56** | Strength: 5/5 20-day VWAP; critical mean reversion level; MA20 nearby ($86.07)"
     },
     {
-      "ts": "2026-06-12T14:09:57.605000+00:00",
-      "time": "10:09 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $128.75** Current: **$128.75** | Strength: 5/5 60d swing low; 1H recent low @ $127.35 just above; psychological suppor"
+      "ts": "2026-06-12T14:25:03.835000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $318.0** Current: **$317.98** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-12T14:09:56.073000+00:00",
-      "time": "10:09 AM ET",
+      "ts": "2026-06-12T14:23:58.326000+00:00",
+      "time": "10:23 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $719.25** Current: **$719.61** | Strength: 5/5 \u2014 MA20 (weekly); slope DOWN; was support, now resistance"
+      "message": "\ud83d\udfe2 **JPM \u2014 BROKE ABOVE TP1 $318.0** Current: **$318.11** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-12T14:09:54.818000+00:00",
-      "time": "10:09 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $86.42** Current: **$86.51** | Strength: 5/5 Last higher low anchor (9 days); prior daily high; confluence with MA20 d"
+      "ts": "2026-06-12T14:23:57.087000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $718.42** Current: **$717.83** | Strength: 5/5 20-day VWAP (institutional accumulation anchor); MA20 daily $721.30 near"
     }
   ]
 }
