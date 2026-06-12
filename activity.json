@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-12T13:46:50.667304+00:00",
+  "generated_at": "2026-06-12T14:00:41.516229+00:00",
   "items": [
     {
-      "ts": "2026-06-12T13:45:47.951000+00:00",
-      "time": "09:45 AM ET",
+      "ts": "2026-06-12T14:00:06.964000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $397.09** Current: **$396.34** | Strength: 5/5 Prior daily high (4 bars ago); 1H resistance confluence; recent swing p"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,165** | P&L: **-22"
     },
     {
-      "ts": "2026-06-12T13:45:47.156000+00:00",
-      "time": "09:45 AM ET",
+      "ts": "2026-06-12T13:59:59.442000+00:00",
+      "time": "09:59 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $396.68** Current: **$396.34** | Strength: 5/5 Weekly MA20 ($397.35), 1-hour recent close cluster, psychological round"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $395.32** Current: **$394.67** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint 337.24\u2192453.40); psychological confluence; M"
     },
     {
-      "ts": "2026-06-12T13:44:41.573000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-06-12T13:59:56.968000+00:00",
+      "time": "09:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $384.21** Current: **$384.20** | Strength: 5/5 \u2014 today's daily high; recent swing high; intraday tested, rejected"
+    },
+    {
+      "ts": "2026-06-12T13:59:55.988000+00:00",
+      "time": "09:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $612.3** Current: **$610.89** | Strength: 4/5 60-day swing high (prior to $642.77); trendline resistance"
+    },
+    {
+      "ts": "2026-06-12T13:59:55.228000+00:00",
+      "time": "09:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $510.13** Current: **$509.38** | Strength: 4/5 Daily MA20 crossover zone; prior daily close; consolidation cap"
+    },
+    {
+      "ts": "2026-06-12T13:59:54.611000+00:00",
+      "time": "09:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $510.0** Current: **$509.38** | Strength: 5/5 \u2014 Prior daily high (3 days ago, multi-confirmation), 20-day VWAP nearby a"
+    },
+    {
+      "ts": "2026-06-12T13:58:50.280000+00:00",
+      "time": "09:58 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $713.1** Current: **$713.31** | Strength: 5/5 Today's daily low; recent consolidation floor (1H bounce zone)"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R3 $612.3** Current: **$612.38** | Strength: 4/5 60-day swing high (prior to $642.77); trendline resistance"
     },
     {
-      "ts": "2026-06-12T13:43:36.084000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-06-12T13:57:46.625000+00:00",
+      "time": "09:57 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $128.86** Current: **$128.57** | Strength: 5/5 \u2014 **Today's low; immediate support; psychological 128.xx round number**"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW STOP $129.09** Current: **$129.06** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-12T13:42:31.391000+00:00",
-      "time": "09:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $713.1** Current: **$712.50** | Strength: 5/5 Today's daily low; recent consolidation floor (1H bounce zone)"
-    },
-    {
-      "ts": "2026-06-12T13:42:30.061000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-06-12T13:57:45.400000+00:00",
+      "time": "09:57 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $128.86** Current: **$128.88** | Strength: 5/5 \u2014 **Today's low; immediate support; psychological 128.xx round number**"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $989.15** Current: **$989.47** | Strength: 5/5 Swing high from 6 days ago; tested twice recently"
     },
     {
-      "ts": "2026-06-12T13:42:28.516000+00:00",
-      "time": "09:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $205.1** Current: **$204.66** | Strength: 5/5 \u2014 Prior daily close (3 days ago), 1H pivot support, VWAP proximity ($218"
-    },
-    {
-      "ts": "2026-06-12T13:41:25.931000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $316.42** Current: **$316.24** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-12T13:41:25.358000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $316.3** Current: **$316.24** | Strength: 5/5 Prior 60-day swing high; confluent with recent 1H high clusters (314.72 \u2192"
-    },
-    {
-      "ts": "2026-06-12T13:41:23.668000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $570.6** Current: **$569.38** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
+      "ts": "2026-06-12T13:57:44.265000+00:00",
+      "time": "09:57 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $510.13** Current: **$511.76** | Strength: 4/5 Daily MA20 crossover zone; prior daily close; consolidation cap"
     }
   ]
 }
