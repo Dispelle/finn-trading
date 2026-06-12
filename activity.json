@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-12T20:49:03.410117+00:00",
+  "generated_at": "2026-06-12T21:22:00.647878+00:00",
   "items": [
+    {
+      "ts": "2026-06-12T21:21:40.219000+00:00",
+      "time": "05:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,545**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-12T21:00:09.199000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,422** | P&L: **-22"
+    },
     {
       "ts": "2026-06-12T20:45:07.049000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:49 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S3 $146.87** Current: **$146.85** | Strength: 4/5 Prior swing low (60d), support cluster"
-    },
-    {
-      "ts": "2026-06-12T19:49:42.057000+00:00",
-      "time": "03:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R2 $86.05** Current: **$86.06** | Strength: 5/5 20-day VWAP; psychological round; daily consolidation anchor"
-    },
-    {
-      "ts": "2026-06-12T19:46:18.852000+00:00",
-      "time": "03:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R2 $86.05** Current: **$86.03** | Strength: 5/5 20-day VWAP; psychological round; daily consolidation anchor"
     }
   ]
 }
