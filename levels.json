@@ -1855,9 +1855,9 @@
         "price": 215.33,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Last weekly close + MA20 proximity ($214.62) + 0.382 fib ($208.93) confluence zone. **",
+        "reason": "Prior daily close; MA20 daily ($214.62) confluence; 10-bar pivot resistance",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1865,9 +1865,9 @@
         "price": 219.3,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (164.27 \u2192 236.54); prior swing high overlap zone (216.83); confluent with 0.236 + prior hi",
+        "reason": "0.236 Fib retracement (golden zone start); swing high 60d $216.83 nearby",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1895,9 +1895,9 @@
         "price": 200.4,
         "type": "S2",
         "strength": 5,
-        "reason": "0.500 Fib (exact midpoint 164.27\u2192236.54), psychological $200 round, daily cycle floor",
+        "reason": "0.500 Fib retracement (mid-point psychological); recent low $199.34\u2013$199.92 cluster",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1937,7 +1937,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2045,9 +2045,9 @@
         "price": 191.88,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket), MA200 proximity ($192.80) \u2014 **critical confluence**",
+        "reason": "0.618 Fib golden pocket (major support); MA200 $192.80 confluence",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2395,9 +2395,9 @@
         "price": 225.32,
         "type": "R3",
         "strength": 5,
-        "reason": "Weekly close (8 bars ago, prior swing high), last HL before structure break",
+        "reason": "Prior weekly close (7 bars back); 0.382 Fib at $208.93 + gap zone above",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2615,9 +2615,9 @@
         "price": 203.44,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's low (1H support); recent daily support cluster",
+        "reason": "Today's intraday low; 1H floor; recent swing low (tight range)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2648,6 +2648,16 @@
         "reason": "Recent LL (4 bars ago), daily structure break point, volume shelf",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 214.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
