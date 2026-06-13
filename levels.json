@@ -8530,7 +8530,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -8639,9 +8639,9 @@
         "price": 729.46,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; loss of this level breaks weekly HL structure; major inflection",
+        "reason": "60-day swing low; prior area of consolidation",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8689,9 +8689,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day and 20-day VWAP anchor ($743.56 below, but 760.40 is psychological/technical max); extension target if breakout c",
+        "reason": "60-day high; psychological/technical ceiling; Fibonacci 1.272 extension at $796.06 well above",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8718,10 +8718,10 @@
       {
         "price": 735.53,
         "type": "S1",
-        "strength": 4,
-        "reason": "Prior daily close (2 closes ago); weekly close anchor; minor but proximate",
+        "strength": 5,
+        "reason": "Recent swing low; daily support from 3 days ago; multiple touches",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8811,7 +8811,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8879,9 +8879,9 @@
         "price": 745.25,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 MA20 (daily), recent confluence zone, hard to break without momentum",
+        "reason": "20-day VWAP; strong mean reversion magnet",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8999,9 +8999,39 @@
         "price": 722.59,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day swing low (older); proximate to MA50 ($722.80); psychological round",
+        "reason": "60-day minor swing low; critical floor; loss breaks bull structure",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 750.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.4,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 774.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
