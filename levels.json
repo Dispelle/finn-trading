@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -496,9 +496,9 @@
         "price": 59109.0,
         "type": "S2",
         "strength": 5,
-        "reason": "**60-day absolute low; capitulation floor; round 59k psych level**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -636,9 +636,9 @@
         "price": 68155.94,
         "type": "R1",
         "strength": 5,
-        "reason": "Fibonacci 0.618 (golden pocket start); Daily MA20 rejection zone; 20-day VWAP $68,348.48 nearby",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -646,9 +646,9 @@
         "price": 70950.56,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement (golden zone midpoint); psychological round number; **invalidation level for bearish bias*",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -696,9 +696,9 @@
         "price": 77202.95,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fib; prior swing high rejection zone; daily chart higher high confirmation needed",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -716,9 +716,9 @@
         "price": 64177.14,
         "type": "S3",
         "strength": 4,
-        "reason": "0.786 Fib retracement; intra-weekly support zone",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -886,9 +886,9 @@
         "price": 62855.65,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's daily low; 1H recent low cluster; immediate support for bounce",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -899,6 +899,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82792.21,
+        "type": "R3",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
