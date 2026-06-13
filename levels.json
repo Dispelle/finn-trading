@@ -11548,7 +11548,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11647,9 +11647,9 @@
         "price": 141.97,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low; Fibonacci base (0.000); major support",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11737,9 +11737,9 @@
         "price": 152.49,
         "type": "R2",
         "strength": 5,
-        "reason": "Weekly MA20 (slope down); 20-day VWAP at $152.66 (cluster)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11879,7 +11879,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12070,6 +12070,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 149.34,
+        "type": "R1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.2,
+        "type": "S1",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
