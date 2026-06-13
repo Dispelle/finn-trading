@@ -6457,9 +6457,9 @@
         "price": 57.3,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low; volume spike down here = capitulation zone; **key invalidation for bounce trades**",
+        "reason": "\u2014 (60-day absolute low)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6568,6 +6568,16 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low / recent intraday pivot; 60-day low zone ($57.30 support) just tested",
+        "status": "active",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62.34,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 (Fib 0.786)",
         "status": "active",
         "source_brief": "2026-06-13",
         "hit_count": 0,
