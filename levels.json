@@ -5598,7 +5598,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5947,9 +5947,9 @@
         "price": 57.2,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low, **capitulation flush level**, psychological round ($57), strong support",
+        "reason": "60-day absolute low (critical floor)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6157,9 +6157,9 @@
         "price": 69.24,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fibonacci midpoint (62-81 swing); prior swing high area",
+        "reason": "0.500 Fib midpoint + prior swing high cluster",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6347,9 +6347,9 @@
         "price": 66.3,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fibonacci golden pocket (62-81 swing); psychological round number",
+        "reason": "0.618 Fib (golden pocket) + psychological zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6397,9 +6397,9 @@
         "price": 62.34,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.786 retracement (Gann-strong), minor consolidation base",
+        "reason": "0.786 Fib extension (support in downtrend)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6407,9 +6407,9 @@
         "price": 65.25,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP, former support, psychological pivot",
+        "reason": "20-day VWAP + 0.650 Fibonacci confluenc",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6440,6 +6440,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59.87,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's daily low + 1H low cluster",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
