@@ -12096,7 +12096,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12327,7 +12327,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12555,9 +12555,9 @@
         "price": 331.99,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (281.75 \u2192 321.30 move); institutional swing point",
+        "reason": "Fibonacci 1.272 extension (281.75 \u2192 321.30 swing)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12565,9 +12565,9 @@
         "price": 337.25,
         "type": "R3",
         "strength": 5,
-        "reason": "52-week high; upper bound of entire multi-year range; max institutional supply zone",
+        "reason": "52-week high, psychological round-number zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12585,9 +12585,9 @@
         "price": 311.93,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.236 retracement + MA20 proximity ($304.82 trending up)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12617,7 +12617,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12645,9 +12645,9 @@
         "price": 315.55,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "Today's daily low, recent HL, double support from Wed open",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12655,9 +12655,9 @@
         "price": 321.3,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day high, today's intraday high, recent swing high cluster",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12667,17 +12667,17 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 306.19,
         "type": "S3",
-        "strength": 4,
-        "reason": "Fib 0.382 retracement (382 = intermediate pullback target), MA50 $306.58 nearby",
+        "strength": 5,
+        "reason": "Fibonacci 0.382 retracement, MA50/MA200 zone ($306.59 / $306.40)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12698,6 +12698,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 337.25,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
