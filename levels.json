@@ -8081,9 +8081,9 @@
         "price": 16.52,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement (previous swing high confluence)",
+        "reason": "\u2014 **0.786 Fibonacci retracement** + confluence with prior daily swing high (16.20, 60d chart). This is the **golden zone",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8151,9 +8151,9 @@
         "price": 14.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **8-day swing low** + **prior weekly close (5 weeks ago)**. Tested twice; firm institutional support.",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8161,9 +8161,9 @@
         "price": 14.64,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **52-week low** + **60-day low (absolute floor)**. Break below this = **new multi-year downtrend legs**. Psychological",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8181,9 +8181,9 @@
         "price": 19.03,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 + key psychological level. Marks descent midpoint.",
+        "reason": "\u2014 **0.500 Fib (midpoint)** + psychological half-way mark from swing low to swing high. Acts as profit-taking zone if bou",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8273,7 +8273,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8440,10 +8440,10 @@
       {
         "price": 17.71,
         "type": "R2",
-        "strength": 4,
-        "reason": "\u2014 Fib 0.650 + daily support zone (daily low $17.06 cluster). Mid-range resistance.",
+        "strength": 5,
+        "reason": "\u2014 **0.650 Fib** + within daily VWAP at $17.67 (20-day). Secondary resistance on relief bounce.",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8521,9 +8521,9 @@
         "price": 15.72,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **Today's daily low** + confluence with yesterday's close ($15.74). Micro-support, first line of defense.",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
