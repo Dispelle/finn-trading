@@ -13242,7 +13242,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13331,9 +13331,9 @@
         "price": 131.46,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Prior higher low (now acting as resistance after BOS)",
+        "reason": "Prior 60-day swing low; confluence with 0.786 Fib zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13401,9 +13401,9 @@
         "price": 143.19,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint of swing) + 20-day VWAP ($140.90)",
+        "reason": "0.500 Fib midpoint; supply zone from 141-146 range (10-7 days ago)",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13561,9 +13561,9 @@
         "price": 138.35,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Golden pocket zone** (Fib 0.618) + MA20 confluence (weekly $140.57)",
+        "reason": "0.618 Fib GOLDEN POCKET; Weekly MA20 ($140.42 proximity); prior daily lower high zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13641,9 +13641,9 @@
         "price": 131.46,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement + last swing high (daily)",
+        "reason": "0.786 Fib retracement; prior 1H swing high; psychological round; tested multiple times last 3 days",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13734,6 +13734,26 @@
         "reason": "\u2014 Current price / today's close + psychological round",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 122.68,
+        "type": "S1",
+        "strength": 5,
+        "reason": "52-week low; 60-day swing low; PSYCHOLOGICAL FLOOR; major support zone",
+        "status": "active",
+        "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 124.5,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Midpoint between 52w low ($122.68) and 0.236 Fib ($126.65 = today's low)",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
