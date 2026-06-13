@@ -12714,7 +12714,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12723,9 +12723,9 @@
         "price": 1182.73,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day swing high, confluence with Fibonacci 1.272 extension zone start, psychological barrier",
+        "reason": "60-day swing high; recent local top; 1.272 Fib extension base",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12733,9 +12733,9 @@
         "price": 1200.0,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 Round number, psychological target, Fibonacci extension zone (1.272 at $1273.09 is next cluster)",
+        "reason": "Round number; psychological; prior structure target",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12743,9 +12743,9 @@
         "price": 1273.09,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension from swing (850.51 \u2192 1182.73), also confluence with golden ratio target zone",
+        "reason": "1.272 Fib extension (850.51\u21921182.73 measured move); supply zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12793,9 +12793,9 @@
         "price": 1131.03,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Daily higher low from 4 days ago, immediate support, confluence with 20-day VWAP at $1093.04 (50 point cushion)",
+        "reason": "Daily HL; last pullback low; critical structure support",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12803,9 +12803,9 @@
         "price": 1104.33,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement, in-between zone before major support",
+        "reason": "4-day swing low; 0.236 Fib ($1104.33) proximity; MA20 anchor ($1086) below",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12825,7 +12825,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13226,6 +13226,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1016.62,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.500 Fib (golden zone start); 50-day MA proximity ($996); major macro support",
+        "status": "active",
+        "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
       }
