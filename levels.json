@@ -13845,9 +13845,9 @@
         "price": 305.54,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement (golden zone entry)",
+        "reason": "\u2014 MA50 ($306.59 exact) confluent with 0.382 fib retracement; psychological round number & 20-day VWAP anchor ($304.43) c",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13855,9 +13855,9 @@
         "price": 296.45,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.618 fib (golden pocket start), 52-week near-pivot zone, structural invalidation threshold if broken",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14215,19 +14215,19 @@
         "price": 332.06,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci extension 1.272 from 281.75\u2192321.30 swing",
+        "reason": "\u2014 Fibonacci 1.272 extension (281.75\u2192321.30), confluent with natural round number & prior swing high cluster zone",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 345.74,
         "type": "R3",
-        "strength": 4,
-        "reason": "\u2014 Fibonacci extension 1.618 from swing low",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.618 extension, ideal bull target if breakout confirmed",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14235,9 +14235,9 @@
         "price": 315.55,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day low (today's daily low), 1H repeated support/pivot, 0.236 fib level ($311.97 nearby)",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14338,6 +14338,16 @@
         "reason": "0.236 Fib retracement (critical minor support), MA20 zone ($304.82 below but 311.97 is active fib)",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 337.25,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 52-week high (upper boundary of entire range), psychological major resistance",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
