@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -466,9 +466,9 @@
         "price": 73745.0,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; prior 60-day swing low resistance ($73,346.27 nearby); MA50 ($74,708.71) just above",
+        "reason": "0.382 Fib retracement; confluence with swing low cluster ($72,435\u2013$74,255); 60-day structural resistance",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -646,9 +646,9 @@
         "price": 70950.56,
         "type": "R2",
         "strength": 5,
-        "reason": "0.500 Fib (psychological midpoint); MA20 exact ($70,863)",
+        "reason": "0.500 Fib retracement; MA20 weekly ($70,859.85) nearby; strong resistance from prior support zone",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -786,9 +786,9 @@
         "price": 59108.92,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low (capitulation floor); 0.786 Fib = $64,177.14 just above current",
+        "reason": "60-day absolute low; swing low anchor; 52-week low relative context; **hard floor**",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -856,9 +856,9 @@
         "price": 67398.07,
         "type": "R1",
         "strength": 5,
-        "reason": "0.650 Fib (golden pocket zone start); MA20 nearby ($67,520); 20-day VWAP ($66,982)",
+        "reason": "0.650 Fib retracement + 20-day VWAP ($66,988.46) cluster; psychological round ($67K); prior swing high confluence",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -989,6 +989,46 @@
         "reason": "Yesterday's close; 1H low floor (last 20 bars); daily structure pivot",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64177.14,
+        "type": "S1",
+        "strength": 4,
+        "reason": "0.786 Fib retracement; intraday swing low from last 10 bars ($64,373 daily low today); micro-level support",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62788.28,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior daily swing low; 10-bar average support zone; psychological $62.8K level",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63090.59,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 66988.46,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
