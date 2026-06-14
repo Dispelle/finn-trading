@@ -14363,9 +14363,9 @@
         "price": 1182.73,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day high; Friday swing high 6 days ago. Tested twice in last 8 days. Psychological / technical ceiling.",
+        "reason": "Prior 60-day high (fresh peak 6 days ago); swing high; psychological barrier",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14503,9 +14503,9 @@
         "price": 1055.82,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.382 retracement. Deeper correction zone if consolidation breaks down.",
+        "reason": "Fib 0.382 retracement (golden pocket boundary); prior mid-range resistance",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14513,9 +14513,9 @@
         "price": 1273.09,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (from $850.51 \u2192 $1182.73 swing). Confluence with potential move post-breakout above R1.",
+        "reason": "Fib 1.272 extension (measured from $850.51 \u2192 $1182.73 swing); round extension",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14563,9 +14563,9 @@
         "price": 1200.0,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Round number / psychological; Fib 1.272 extension = $1273.09 (too far)",
+        "reason": "Psychological round number; sits between R1 and R2; daily supply zone",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14765,7 +14765,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14785,7 +14785,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-12",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14823,7 +14823,7 @@
         "price": 1125.27,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 7-day swing low, critical daily support, holds HL structure",
+        "reason": "Recent intraday swing low (4 days ago); bounce point; daily structure support",
         "status": "active",
         "source_brief": "2026-06-14",
         "hit_count": 0,
@@ -14853,9 +14853,9 @@
         "price": 1093.04,
         "type": "S2",
         "strength": 5,
-        "reason": "20-day VWAP; MA20 at $1086.27 + Fib 0.236 at $1104.33 (confluence zone)",
+        "reason": "20-day VWAP; mean reversion anchor; technical mean",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14895,7 +14895,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14926,6 +14926,16 @@
         "reason": "20-day VWAP ($1,093.05) + $120 \u2248 expected exhaustion zone",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1200.0,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
