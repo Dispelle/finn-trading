@@ -9439,9 +9439,9 @@
         "price": 747.5,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior daily high (3 days ago), tested and rejected multiple times on 1H closes; MA20 resistance at $745.07",
+        "reason": "\u2014 Prior weekly swing high (Dec 18); MA20 daily now at $745.07; confluence zone = imminent rejection risk",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9478,10 +9478,10 @@
       {
         "price": 737.55,
         "type": "S2",
-        "strength": 3,
-        "reason": "\u2014 **Prior daily close / micro-support** (in yesterday's range $737.55\u2013$758.31). Psychological hold.",
+        "strength": 4,
+        "reason": "\u2014 Weekly support (Dec 18 close); Fibonacci 0.236 retracement at $729.46 nearby",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9489,9 +9489,9 @@
         "price": 731.53,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement (first meaningful Fib support); tested 10 bars ago ($729.55 on 1H)",
+        "reason": "\u2014 Recent swing low; break here = structure invalidation + potential cascade to $729.46 (0.236 fib)",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9589,9 +9589,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high. Weekly swing high. Fib 1.272 extension proximity ($796.06 too distant). **Critical resistance.**",
+        "reason": "\u2014 60-day ATH; Fibonacci 1.272 extension target $796.06 beyond this",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9629,9 +9629,9 @@
         "price": 738.19,
         "type": "S1",
         "strength": 5,
-        "reason": "MA20 (yesterday's support). Recent daily close clustering. Fib 0.236 ($729.46) nearby.",
+        "reason": "\u2014 Recent daily close / short-term pivot; within 2 points of current price",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9689,9 +9689,9 @@
         "price": 756.48,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior daily high (2 days ago); psychological round; swing high; volume resistance zone.",
+        "reason": "\u2014 Prior weekly close + psychological level; 60-day swing high cluster",
         "status": "active",
-        "source_brief": "2026-06-10",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9982,6 +9982,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 736.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 745.64,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
