@@ -1028,7 +1028,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -1106,9 +1106,9 @@
         "price": 527.2,
         "type": "R2",
         "strength": 5,
-        "reason": "Swing high from 60-day; prior supply cluster",
+        "reason": "Prior swing high (5 days ago); 2nd rejection point; confluent with daily resistance",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1136,9 +1136,9 @@
         "price": 462.86,
         "type": "S3",
         "strength": 5,
-        "reason": "0.236 Fib retracement / prior swing low structure",
+        "reason": "Fib 0.236 retracement; MA20 daily support zone ($481.97); psychological hold for bulls",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1226,9 +1226,9 @@
         "price": 642.77,
         "type": "R3",
         "strength": 4,
-        "reason": "1.272 Fibonacci extension (192.83\u2192546.44) / supply zone implied by prior range",
+        "reason": "Fib 1.272 extension (upside projection); VWAP breakout target if 546.44 holds",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1676,9 +1676,9 @@
         "price": 546.44,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high / swing high tested 3 days ago / psychological round",
+        "reason": "60-day absolute high; swing high tested 3x in past month; psychological/technical wall",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1826,9 +1826,9 @@
         "price": 486.8,
         "type": "S2",
         "strength": 5,
-        "reason": "Last swing low (5 days ago), critical hold for bullish bias; below this = BOS",
+        "reason": "Last swing low (4 days ago); **critical invalidation point**; break here = CHoCH",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1866,9 +1866,9 @@
         "price": 494.0,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's daily low / recent swing low cluster / MA20 support at $481.97 nearby",
+        "reason": "Today's low; 20-day VWAP ($479.09) just below; intraday support inflection",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
