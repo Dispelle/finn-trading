@@ -12260,7 +12260,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12389,9 +12389,9 @@
         "price": 433.6,
         "type": "R3",
         "strength": 5,
-        "reason": "Recent 9-day HH; daily structure invalidation level",
+        "reason": "Recent swing high (60d) + prior resistance (broken, now acts as supply)",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12419,9 +12419,9 @@
         "price": 425.99,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement; coincides with recent daily swing highs near $424\u2013$426",
+        "reason": "0.236 Fib retracement (337\u2192453) + psychological level",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12559,9 +12559,9 @@
         "price": 381.61,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.618 golden pocket; CRITICAL \u2014 aligns with 8-day swing low $380.15",
+        "reason": "0.618 Fib (golden pocket) + recent swing low cluster ($380.15)",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12799,9 +12799,9 @@
         "price": 414.83,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP; price rejection zone last 3 closes",
+        "reason": "20-day VWAP (demand anchor, price below it = weakness) + MA20 moving target",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12859,9 +12859,9 @@
         "price": 395.32,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.500 midpoint of 60d range; psychological round number",
+        "reason": "0.500 Fib retracement (337\u2192453) midpoint, psychological",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12899,9 +12899,9 @@
         "price": 399.15,
         "type": "S1",
         "strength": 5,
-        "reason": "Yesterday's close; recent daily HL; MA50 $398.30 just below",
+        "reason": "Recent daily close (2 days ago), HL candidate, demand zone",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
