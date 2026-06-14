@@ -12908,7 +12908,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12927,9 +12927,9 @@
         "price": 155.13,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fibonacci golden pocket (swing 141.97\u2192176.41), prior swing high confluence",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13007,9 +13007,9 @@
         "price": 141.97,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low + swing point (hardest support; would signal capitulation if broken)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13087,9 +13087,9 @@
         "price": 151.75,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 MA20 daily (downsloping, acted as resistance twice in last 3 days)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13126,10 +13126,10 @@
       {
         "price": 159.19,
         "type": "R3",
-        "strength": 4,
-        "reason": "0.500 fib retracement; secondary resistance",
+        "strength": 5,
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13387,9 +13387,9 @@
         "price": 145.2,
         "type": "S2",
         "strength": 5,
-        "reason": "Weekly swing low (1 week ago); daily low $145.15 **NEAR**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13397,9 +13397,9 @@
         "price": 146.42,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Recent 10-day low cluster (1H low $146.42, daily low $146.60)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13480,6 +13480,16 @@
         "reason": "1H intraday support, recent daily low bounce point",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 159.19,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
