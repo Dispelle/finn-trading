@@ -9988,7 +9988,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10469,7 +10469,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10497,9 +10497,9 @@
         "price": 717.97,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (current price = $721.34, *above* VWAP by $3.36); MA20 at $721.50 (price *near* MA20); confluence = critical",
+        "reason": "20-day VWAP (strong volume anchor). Current price sits **$3.36 above VWAP**. Acts as dynamic support.",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10557,9 +10557,9 @@
         "price": 705.06,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement, minor hidden support, psychological round.",
+        "reason": "**Fibonacci 0.236 retracement (golden zone start)**. Aligns with swing lows at $695\u2013$705. **Critical invalidation level.",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10597,9 +10597,9 @@
         "price": 748.65,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day absolute high; psychological round; Fibonacci 1.272 extension near ($801.16 fib, but $748 is price structure pivo",
+        "reason": "60-day high (psychologically critical). Fibonacci 1.272 extension = $801.16 (upside target if broken). Heavy supply zone",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10620,6 +10620,36 @@
         "reason": "Daily swing high (4 days ago); minor supply pocket; 1H resistance cluster $723\u2013$725",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 735.5,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior 1H high from yesterday; clustering with daily swing highs near $740\u2013745 range. First rejection point.",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.0,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Round-number psychological resistance + 2% above current price. Aligns with potential breakout continuation.",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 707.83,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior daily close (3 days ago); edge of lower daily range cluster ($707\u2013$717).",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
