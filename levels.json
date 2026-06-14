@@ -16207,9 +16207,9 @@
         "price": 104.17,
         "type": "S3",
         "strength": 5,
-        "reason": "52-week low; absolute floor (macro support)",
+        "reason": "| -16.0% | 52-week low; ultimate invalidation floor |",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16387,9 +16387,9 @@
         "price": 120.44,
         "type": "S1",
         "strength": 5,
-        "reason": "Recent 10-day close ($120.15), recent double-bottom bounce point, 1\u20132% below current",
+        "reason": "| -2.9% | Weekly close (2 bars ago); minor daily support |",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16507,9 +16507,9 @@
         "price": 145.25,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 0.618 \"golden pocket\" start; MA20 sitting here; psychological $145 round",
+        "reason": "| +17.1% | **Golden pocket** (0.618 Fib); major confluence zone |",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16517,9 +16517,9 @@
         "price": 113.27,
         "type": "S3",
         "strength": 5,
-        "reason": "Recent 60-day absolute low + capitulation reversal zone + 8.8% below current",
+        "reason": "| -8.8% | **60-day low** (absolute bottom); LL confirmed; psychological round |",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16586,10 +16586,10 @@
       {
         "price": 117.27,
         "type": "S2",
-        "strength": 3,
-        "reason": "Today's daily low; 1H low; minor psychological support",
+        "strength": 4,
+        "reason": "| -5.4% | Today's low; 60d low attempt; intraday pivot |",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16600,6 +16600,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 128.6,
+        "type": "R1",
+        "strength": 4,
+        "reason": "| +3.7% | Today's intraday high; daily pivot; minor swing high |",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 131.19,
+        "type": "R2",
+        "strength": 5,
+        "reason": "| +5.8% | Fib 0.786 retracement; structural swing low (60d) |",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 140.49,
+        "type": "R3",
+        "strength": 5,
+        "reason": "| +13.2% | 20-day VWAP; bears defending; MA20 far above |",
+        "status": "active",
+        "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 128.6,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
       }
