@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-15T14:12:27.096173+00:00",
+  "generated_at": "2026-06-15T14:27:12.006527+00:00",
   "items": [
     {
-      "ts": "2026-06-15T14:11:40.741000+00:00",
-      "time": "10:11 AM ET",
+      "ts": "2026-06-15T14:22:24.269000+00:00",
+      "time": "10:22 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $131.9** Current: **$131.79** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $90.06** Current: **$89.96** | Strength: 4/5 \u2014 Prior daily close; intraday swing high from session before breakdown. I"
     },
     {
-      "ts": "2026-06-15T14:11:39.981000+00:00",
-      "time": "10:11 AM ET",
+      "ts": "2026-06-15T14:19:10.304000+00:00",
+      "time": "10:19 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R2 $90.22** Current: **$90.21** | Strength: 4/5 Last daily close before breakdown; psychological level; 0.382 Fib at $84."
+    },
+    {
+      "ts": "2026-06-15T14:17:03.800000+00:00",
+      "time": "10:17 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1125.27** Current: **$1125.69** | Strength: 5/5 Daily swing low (2 days); critical HL that breaks weekly structure if "
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1131.03** Current: **$1133.00** | Strength: 5/5 4-day swing low, structural HL, loss of this = BOS"
     },
     {
-      "ts": "2026-06-15T14:11:39.604000+00:00",
-      "time": "10:11 AM ET",
+      "ts": "2026-06-15T14:17:02.597000+00:00",
+      "time": "10:17 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $591.3** Current: **$590.92** | Strength: 4/5 Today's high; 4H consolidation cap; psychological barrier"
+    },
+    {
+      "ts": "2026-06-15T14:17:01.356000+00:00",
+      "time": "10:17 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $752.82** Current: **$752.73** | Strength: 5/5 \u2014 Prior daily high; psychological resistance cluster"
+    },
+    {
+      "ts": "2026-06-15T14:15:58.271000+00:00",
+      "time": "10:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1128.0** Current: **$1130.97** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-15T14:15:09.898000+00:00",
+      "time": "10:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -18.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$66,400**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-15T14:13:49.349000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $296.0** Current: **$295.89** | Strength: 4/5 \u2014 Round number + psychological support. INSUFFICIENT DATA on micro suppo"
+    },
+    {
+      "ts": "2026-06-15T14:13:48.093000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $90.5** Current: **$90.43** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-15T14:12:44.501000+00:00",
+      "time": "10:12 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1125.64** Current: **$1125.69** | Strength: 5/5 4-day swing low, 1H consolidation base, tested twice in last 10 hours"
-    },
-    {
-      "ts": "2026-06-15T14:10:34.063000+00:00",
-      "time": "10:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.9** Current: **$132.03** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T14:07:18.753000+00:00",
-      "time": "10:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $208.78** Current: **$208.48** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T14:01:56.735000+00:00",
-      "time": "10:01 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $131.19** Current: **$131.15** | Strength: 5/5 Fibonacci 0.786 retracement (113.27 \u2192 197.00); also near recent 1H/dail"
-    },
-    {
-      "ts": "2026-06-15T14:00:50.924000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S3 $398.32** Current: **$398.20** | Strength: 5/5 Fibonacci 0.618 (golden pocket) \u2014 **Golden Pocket support**"
-    },
-    {
-      "ts": "2026-06-15T14:00:49.090000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $1054.0** Current: **$1053.94** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T14:00:08.190000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$66,402** | P&L: **-18"
-    },
-    {
-      "ts": "2026-06-15T13:59:45.798000+00:00",
-      "time": "09:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $398.32** Current: **$398.55** | Strength: 5/5 Fibonacci 0.618 (golden pocket) \u2014 **Golden Pocket support**"
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $296.0** Current: **$296.29** | Strength: 4/5 \u2014 Round number + psychological support. INSUFFICIENT DATA on micro suppo"
     }
   ]
 }
