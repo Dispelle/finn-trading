@@ -10758,7 +10758,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11239,7 +11239,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11257,9 +11257,9 @@
         "price": 801.16,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 1.272 Fibonacci extension from 555.60\u2192748.65 swing, ultra-strong multi-month target",
+        "reason": "Fibonacci 1.272 extension (555.60\u2192748.65); psychological round number; next institutional target if 748.65 breaks",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11267,9 +11267,9 @@
         "price": 717.97,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **20-day VWAP (exact confluence with MA20 $721.50); zone of fair value; pullbacks stop here**",
+        "reason": "20-day VWAP (price-weighted average); acts as dynamic demand; price currently AT this level",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11357,9 +11357,9 @@
         "price": 681.81,
         "type": "S3",
         "strength": 4,
-        "reason": "MA50 (major moving average support)",
+        "reason": "MA50; major moving average support; if breached, drops to MA200 ($638.10) or Fib 0.618 ($629.35 golden pocket)",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11367,9 +11367,9 @@
         "price": 748.65,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **60-day swing high + Fibonacci 1.272 extension zone ($801.16 far); rejection here on 3 consecutive lower highs = majo",
+        "reason": "60-day high / recent swing high; major supply zone; failed breakout attempts suggest rejection",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11417,9 +11417,9 @@
         "price": 707.83,
         "type": "S2",
         "strength": 4,
-        "reason": "Prior daily close (3 days ago); edge of lower daily range cluster ($707\u2013$717).",
+        "reason": "Prior daily close (2 bars ago); psychological level + minor cluster support in 705\u2013708 zone",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11450,6 +11450,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 738.31,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior weekly swing high (4 bars ago); coincides with psychological breakeven from recent dip",
+        "status": "active",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       }
