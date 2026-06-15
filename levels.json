@@ -6648,7 +6648,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6787,9 +6787,9 @@
         "price": 62.29,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fib 0.786 (golden pocket upper bound); prior 60d swing low cluster",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6997,9 +6997,9 @@
         "price": 57.2,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day low + Fibonacci 0.786 ($62.34 nearby)**",
+        "reason": "Fresh 60-day low (critical break); prior swing low base",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7207,9 +7207,9 @@
         "price": 69.24,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 retracement, mid-point of $57.30\u2013$80.86 range, prior support",
+        "reason": "Fib 0.500 (mid-swing); prior daily close cluster $68.33\u2013$68.36",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7497,9 +7497,9 @@
         "price": 59.87,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's low, intra-day support, 1H recent action compressed here",
+        "reason": "Today's low; 1H support cluster",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
