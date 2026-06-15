@@ -4408,6 +4408,76 @@
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 648.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "60-day high, new weekly high, psychological round, VWAP + $57.15",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 726.37,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension from swing (359.86 \u2192 648.00) + macro supply zone",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 639.25,
+        "type": "S1",
+        "strength": 5,
+        "reason": "TODAY'S LOW \u2014 intraday support, HL structure hinge",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 623.91,
+        "type": "S2",
+        "strength": 4,
+        "reason": "2-day low, recent swing point, intraday demand",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 590.85,
+        "type": "S3",
+        "strength": 5,
+        "reason": "20-day VWAP \u2014 institutional anchor, volume-weighted mean reversion target",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 580.0,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.236 retracement + prior swing high (578.06 nearby)",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 469.93,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.618 (golden pocket) \u2014 maximum pain zone for extended longs",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
