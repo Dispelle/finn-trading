@@ -10199,19 +10199,19 @@
         "price": 796.06,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.272 extension (from $629.28\u2192$760.40), structural target if breakout sustains",
+        "reason": "\u2014 Fibonacci 1.272 extension (extension of prior impulse move)",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 745.72,
         "type": "S1",
-        "strength": 4,
-        "reason": "\u2014 **20-day VWAP** (current price $741.32 is 0.4% below). Acts as dynamic cushion on intraday bounces.",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP, confluence with current price zone (within 1.8% below). Major dynamic support.",
         "status": "active",
-        "source_brief": "2026-06-08",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10279,9 +10279,9 @@
         "price": 729.46,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; prior 1H lows converging",
+        "reason": "\u2014 Most recent swing low (daily chart), marks **critical invalidation level** for bullish bias",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10639,9 +10639,9 @@
         "price": 722.59,
         "type": "S3",
         "strength": 5,
-        "reason": "60d swing low; MA50 ($722.80); golden pocket begins $679\u2013$675",
+        "reason": "\u2014 Secondary swing low, MA50 at $722.80 confluence. **Bias break point.**",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10679,9 +10679,9 @@
         "price": 760.4,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high, swing high (4 bars), weekly supply, failed breakout point",
+        "reason": "\u2014 60-day high, swing high, psychological round number, confluence with 52w high",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10812,6 +10812,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 766.5,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Fib 1.272 extension (from $629.28 \u2192 $760.40 swing) = $796.06, but intermediate cluster around $766 **insufficient data",
+        "status": "active",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       }
