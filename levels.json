@@ -1108,7 +1108,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -1276,9 +1276,9 @@
         "price": 527.2,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior swing high (60-day); daily support-turned-resistance; round number confluence",
+        "reason": "Swing high from 4 days ago; convergence with recent attempt; psychological round",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1286,9 +1286,9 @@
         "price": 546.44,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day high, 3-day rejection candle; psychological ceiling; fib extension zone",
+        "reason": "60-day high; prior breakout zone; market structure peak; Fibonacci 1.272 extension (642.62) is too far",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1348,7 +1348,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1906,9 +1906,9 @@
         "price": 486.8,
         "type": "S2",
         "strength": 5,
-        "reason": "Daily higher low (10-bar), structure break invalidates uptrend",
+        "reason": "2-day swing low; invalidation level for bullish bias; psychological support",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1916,9 +1916,9 @@
         "price": 478.23,
         "type": "S3",
         "strength": 5,
-        "reason": "20-day VWAP, moving average confluence zone",
+        "reason": "20-day VWAP; moving average (MA20 = $481.97 is nearby); accumulation zone",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1946,9 +1946,9 @@
         "price": 494.0,
         "type": "S1",
         "strength": 5,
-        "reason": "Daily open/low pivot (today), short-term consolidation floor",
+        "reason": "Today's low; recent higher low; daily chart pivot; loss of this = structure break",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2188,7 +2188,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
