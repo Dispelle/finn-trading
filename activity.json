@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-15T13:42:09.437229+00:00",
+  "generated_at": "2026-06-15T13:57:09.319640+00:00",
   "items": [
+    {
+      "ts": "2026-06-15T13:56:33.061000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $131.93** Current: **$131.80** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-15T13:56:32.496000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R2 $131.92** Current: **$131.80** | Strength: 5/5 \u2014 reason: **Fibonacci 0.786 retracement** (114.21\u2192197.00), heavy conflu"
+    },
+    {
+      "ts": "2026-06-15T13:56:32.031000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $132.01** Current: **$131.80** | Strength: 5/5 \u2014 Fib 0.786 retracement; confluence with recent 1H/daily local pivot; m"
+    },
+    {
+      "ts": "2026-06-15T13:56:31.337000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $13.84** Current: **$13.84** | Strength: 5/5 \u2014 0.650 Fibonacci retracement + horizontal support from day 5 swing low ar"
+    },
+    {
+      "ts": "2026-06-15T13:52:09.598000+00:00",
+      "time": "09:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $130.08** Current: **$130.04** | Strength: 5/5 1H low from recent consolidation; daily low $128.80 just printed; immed"
+    },
+    {
+      "ts": "2026-06-15T13:44:36.122000+00:00",
+      "time": "09:44 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP3 $139.5** Current: **$139.57** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-15T13:44:34.996000+00:00",
+      "time": "09:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $295.0** Current: **$294.93** | Strength: 5/5 \u2014 Fibonacci 0.382 ($289.94) + round number confluence; prior swing low s"
+    },
+    {
+      "ts": "2026-06-15T13:43:29.012000+00:00",
+      "time": "09:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $400.45** Current: **$400.21** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket** (strongest Fib support-turned-resist"
+    },
+    {
+      "ts": "2026-06-15T13:42:26.540000+00:00",
+      "time": "09:42 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $130.98** Current: **$130.83** | Strength: 4/5 **Intraday recent low (1H chart, 20 candles ago).** Fresh swing low sup"
+    },
     {
       "ts": "2026-06-15T13:41:21.046000+00:00",
       "time": "09:41 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $295.0** Current: **$295.19** | Strength: 5/5 \u2014 Fibonacci 0.382 ($289.94) + round number confluence; prior swing low s"
-    },
-    {
-      "ts": "2026-06-15T13:41:19.238000+00:00",
-      "time": "09:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $400.45** Current: **$400.62** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket** (strongest Fib support-turned-resist"
-    },
-    {
-      "ts": "2026-06-15T13:40:16.537000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1120.0** Current: **$1118.81** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T13:40:15.490000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $409.03** Current: **$408.54** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-15T13:40:12.458000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $209.5** Current: **$209.25** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T13:40:11.646000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $66636.08** Current: **$66600.80** | Strength: 5/5 20-day VWAP (daily fair value); price now $22 below"
-    },
-    {
-      "ts": "2026-06-15T13:39:10.358000+00:00",
-      "time": "09:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1124.0** Current: **$1124.21** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T13:38:05.586000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1120.0** Current: **$1123.63** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-15T13:37:00.390000+00:00",
-      "time": "09:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $324.5** Current: **$323.79** | Strength: 4/5 \u2014 Derived from 52-week range extrapolation; psychological round; historic"
-    },
-    {
-      "ts": "2026-06-15T13:35:54.490000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $325.5** Current: **$324.93** | Strength: 4/5 \u2014 **"
     }
   ]
 }
