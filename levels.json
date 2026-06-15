@@ -4571,7 +4571,7 @@
         "price": 1089.29,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day high; psychological round ($1090); failed breakout today (tested but rejected)",
+        "reason": "60-day high, 3x touches, daily swing high, psychological round",
         "status": "active",
         "source_brief": "2026-06-15",
         "hit_count": 0,
@@ -4821,7 +4821,7 @@
         "price": 854.35,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Recent swing low (5 days); invalidates bullish structure if broken",
+        "reason": "Recent swing low (6 days), macro support, invalidates bullish structure",
         "status": "active",
         "source_brief": "2026-06-15",
         "hit_count": 0,
@@ -5313,7 +5313,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5323,7 +5323,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-13",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5514,6 +5514,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1070.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1400.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       }
