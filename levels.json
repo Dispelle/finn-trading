@@ -15981,7 +15981,7 @@
         "price": 122.68,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day low; **hardest floor in dataset**; 2.0% below current price; extreme volume inflection point",
+        "reason": "52-week low; major structural floor; psychological round number",
         "status": "active",
         "source_brief": "2026-06-15",
         "hit_count": 0,
@@ -16191,7 +16191,7 @@
         "price": 131.46,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fibonacci (intraday tested, not broken on close); prior 1H high pivot (131.52 from 9 bars ago); minor resistance b",
+        "reason": "Fibonacci 0.786 retracement (122.68\u2192163.70); prior swing low cluster; 4H swing high",
         "status": "active",
         "source_brief": "2026-06-15",
         "hit_count": 0,
@@ -16271,7 +16271,7 @@
         "price": 126.65,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's intraday low; 1H low tested but rejected; first support off current close",
+        "reason": "Today's low; intraday support; **immediate break = strong selling signal**",
         "status": "active",
         "source_brief": "2026-06-15",
         "hit_count": 0,
@@ -16464,6 +16464,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 130.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
       }
