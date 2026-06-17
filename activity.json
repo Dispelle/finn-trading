@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-17T14:47:43.098315+00:00",
+  "generated_at": "2026-06-17T14:47:52.492266+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T14:47:43.678000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $120.94** Current: **$120.76** | Strength: 4/5 Today's intraday high + 1H swing resistance; prior support ceiling"
+    },
     {
       "ts": "2026-06-17T14:47:42.186000+00:00",
       "time": "10:47 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:24 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $90.5** Current: **$90.53** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-17T14:24:08.132000+00:00",
-      "time": "10:24 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $398.77** Current: **$399.47** | Strength: 5/5 0.650 Fib (weak retracement zone) + recent daily low cluster"
     }
   ]
 }
