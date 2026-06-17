@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-17T15:59:08.499751+00:00",
+  "generated_at": "2026-06-17T16:14:15.098410+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T16:03:33.364000+00:00",
+      "time": "12:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $400.45** Current: **$400.31** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket** (strongest Fib support-turned-resist"
+    },
+    {
+      "ts": "2026-06-17T16:02:28.345000+00:00",
+      "time": "12:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $400.45** Current: **$400.50** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket** (strongest Fib support-turned-resist"
+    },
+    {
+      "ts": "2026-06-17T16:00:19.891000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -19.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,745**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-17T15:56:04.593000+00:00",
       "time": "11:56 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:12 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $580.2** Current: **$580.22** | Strength: 5/5 \u2014 **0.650 Fibonacci**"
-    },
-    {
-      "ts": "2026-06-17T15:09:10.760000+00:00",
-      "time": "11:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $580.2** Current: **$579.96** | Strength: 5/5 \u2014 **0.650 Fibonacci**"
-    },
-    {
-      "ts": "2026-06-17T15:05:54.237000+00:00",
-      "time": "11:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $206.0** Current: **$206.22** | Strength: 5/5 \u2014 Today's low, initial downside floor"
-    },
-    {
-      "ts": "2026-06-17T15:04:49.824000+00:00",
-      "time": "11:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $206.0** Current: **$205.96** | Strength: 5/5 \u2014 Today's low, initial downside floor"
     }
   ]
 }
