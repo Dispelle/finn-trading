@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17T16:59:11.558308+00:00",
+  "generated_at": "2026-06-17T17:14:11.969732+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 2,
+    "active": 3,
     "scheduled": 5
   },
   "jobs": [
@@ -28,6 +28,18 @@
       "value": 0,
       "notes": "Wallpaper install. Hole patching needed \u2014 send painter ahead to fix holes. Client very flexible.",
       "start_date": "2026-05-07T08:00:00.000Z",
+      "client_phone": ""
+    },
+    {
+      "id": "recJKIfA6BmtcfxTN",
+      "name": "Allie \u2014 Pergola Painting",
+      "address": "39 Adams Rd, Boxford, MA 01921",
+      "status": "In Progress",
+      "status_label": "In Progress",
+      "job_type": "Exterior",
+      "value": 0,
+      "notes": "Painting Pergola \u2014 Benjamin Moore Woodluxe Translucent, 2 coats. Drop cloths throughout. Est. 32 hrs. PaintScout Estimate #84 ($2,144.00, dated May 20, 2026).",
+      "start_date": "2026-06-16T09:00:00.000Z",
       "client_phone": ""
     },
     {
