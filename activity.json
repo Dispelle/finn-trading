@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-17T20:14:23.026239+00:00",
+  "generated_at": "2026-06-17T20:29:20.094941+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T20:15:06.236000+00:00",
+      "time": "04:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,163**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-17T20:00:23.946000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:51 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $117.27** Current: **$117.18** | Strength: 5/5 Today's low; recent 1H cluster (last 20 bars shows low of $117.27); swi"
-    },
-    {
-      "ts": "2026-06-17T19:49:59.718000+00:00",
-      "time": "03:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $204.33** Current: **$204.25** | Strength: 5/5 \u2014 Last swing low (9 days ago), below MA50"
     }
   ]
 }
