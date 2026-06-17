@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T18:14:52.380170+00:00",
+  "generated_at": "2026-06-17T18:29:13.723140+00:00",
   "items": [
     {
-      "ts": "2026-06-17T18:13:44.417000+00:00",
-      "time": "02:13 PM ET",
+      "ts": "2026-06-17T18:28:52.946000+00:00",
+      "time": "02:28 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S3 $575.0** Current: **$575.14** | Strength: 4/5 Round number / psychological (implied from 60d low $520.26)"
+    },
+    {
+      "ts": "2026-06-17T18:27:48.025000+00:00",
+      "time": "02:27 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $393.31** Current: **$393.22** | Strength: 5/5 \u2014 0.786 Fibonacci (strong retracement magnet) + confluence with recent s"
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S3 $575.0** Current: **$574.63** | Strength: 4/5 Round number / psychological (implied from 60d low $520.26)"
     },
     {
-      "ts": "2026-06-17T18:12:40.081000+00:00",
-      "time": "02:12 PM ET",
+      "ts": "2026-06-17T18:20:14.176000+00:00",
+      "time": "02:20 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $62.29** Current: **$62.30** | Strength: 5/5 Fib 0.786 (golden pocket upper bound); prior 60d swing low cluster"
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $395.13** Current: **$395.14** | Strength: 5/5 0.786 Fibonacci retracement (golden pocket bottom); prior swing low $399"
     },
     {
-      "ts": "2026-06-17T18:10:33.479000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-06-17T18:20:13.570000+00:00",
+      "time": "02:20 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE TP1 $395.0** Current: **$395.14** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-17T18:17:00.884000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $89.01** Current: **$89.16** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-17T18:16:59.967000+00:00",
+      "time": "02:16 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE STOP $576.07** Current: **$576.42** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $394.32** Current: **$394.73** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-17T18:10:31.926000+00:00",
-      "time": "02:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $62.29** Current: **$62.27** | Strength: 5/5 Fib 0.786 (golden pocket upper bound); prior 60d swing low cluster"
-    },
-    {
-      "ts": "2026-06-17T18:10:30.831000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-06-17T18:16:59.545000+00:00",
+      "time": "02:16 PM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE TP1 $632.0** Current: **$633.04** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R2 $394.34** Current: **$394.73** | Strength: 5/5 \u2014 0.786 Fibonacci retracement (golden pocket lower band); hard technical"
     },
     {
-      "ts": "2026-06-17T18:10:30.328000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-06-17T18:15:57.691000+00:00",
+      "time": "02:15 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $632.21** Current: **$633.04** | Strength: 5/5 Yesterday's close (high-volume rejection), 10-day high"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $123.14** Current: **$123.57** | Strength: 5/5 \u2014 **Today's daily low (1H recent support)**"
     },
     {
-      "ts": "2026-06-17T18:10:29.455000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-06-17T18:15:55.383000+00:00",
+      "time": "02:15 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $521.71** Current: **$521.72** | Strength: 4/5 \u2014 Today's high, 1H resistance, intraday pivot"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.5** Current: **$747.62** | Strength: 5/5 Prior daily high (4 days ago); MA20 daily sits here; 1H candle cluster re"
     },
     {
-      "ts": "2026-06-17T18:10:28.898000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-06-17T18:15:54.204000+00:00",
+      "time": "02:15 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $520.0** Current: **$521.72** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-17T18:09:27.285000+00:00",
-      "time": "02:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $134.02** Current: **$134.12** | Strength: 5/5 \u2014 1H recent low (8 bars ago) + prior consolidation zone"
-    },
-    {
-      "ts": "2026-06-17T18:09:25.535000+00:00",
-      "time": "02:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $746.5** Current: **$746.50** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S3 $62.34** Current: **$62.51** | Strength: 5/5 \u2014 0.786 Fibonacci retracement (swing $57.30\u2013$80.86). **"
     }
   ]
 }
