@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-17T20:29:20.094941+00:00",
+  "generated_at": "2026-06-17T20:44:22.203020+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T20:30:09.551000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,310** | P&L: **-21"
+    },
     {
       "ts": "2026-06-17T20:15:06.236000+00:00",
       "time": "04:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:52 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $721.35** Current: **$721.30** | Strength: 5/5 MA20 (daily); slope down but tight enough to offer resistance on retest"
-    },
-    {
-      "ts": "2026-06-17T19:51:07.186000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $117.27** Current: **$117.18** | Strength: 5/5 Today's low; recent 1H cluster (last 20 bars shows low of $117.27); swi"
     }
   ]
 }
