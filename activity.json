@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T14:47:52.492266+00:00",
+  "generated_at": "2026-06-17T15:03:19.508303+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T15:00:34.454000+00:00",
+      "time": "11:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE STOP $385.0** Current: **$385.33** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-17T15:00:16.646000+00:00",
+      "time": "11:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,057** | P&L: **-20"
+    },
+    {
+      "ts": "2026-06-17T14:55:15.158000+00:00",
+      "time": "10:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $337.25** Current: **$337.12** | Strength: 5/5 52-week high; structural resistance"
+    },
+    {
+      "ts": "2026-06-17T14:54:10.748000+00:00",
+      "time": "10:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $337.25** Current: **$337.28** | Strength: 5/5 52-week high; structural resistance"
+    },
+    {
+      "ts": "2026-06-17T14:53:05.007000+00:00",
+      "time": "10:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $385.0** Current: **$384.91** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-17T14:48:49.601000+00:00",
+      "time": "10:48 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE R1 $120.94** Current: **$120.98** | Strength: 4/5 Today's intraday high + 1H swing resistance; prior support ceiling"
+    },
+    {
+      "ts": "2026-06-17T14:48:48.238000+00:00",
+      "time": "10:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S3 $141.97** Current: **$141.86** | Strength: 5/5 \u2014 60-day range low; Fibonacci 1.000 (swing anchor low). If broken, opens"
+    },
+    {
+      "ts": "2026-06-17T14:48:46.957000+00:00",
+      "time": "10:48 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R3 $730.0** Current: **$731.18** | Strength: 4/5 Yesterday's intraday high; rejection point; prior daily high"
+    },
+    {
+      "ts": "2026-06-17T14:48:46+00:00",
+      "time": "10:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S3 $118.06** Current: **$117.88** | Strength: 4/5 \u2014 Prior swing low (60-day), 0.786 Fib zone at $116.64 nearby"
+    },
     {
       "ts": "2026-06-17T14:47:43.678000+00:00",
       "time": "10:47 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $120.94** Current: **$120.76** | Strength: 4/5 Today's intraday high + 1H swing resistance; prior support ceiling"
-    },
-    {
-      "ts": "2026-06-17T14:47:42.186000+00:00",
-      "time": "10:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S3 $141.97** Current: **$142.14** | Strength: 5/5 \u2014 60-day range low; Fibonacci 1.000 (swing anchor low). If broken, opens"
-    },
-    {
-      "ts": "2026-06-17T14:47:39.721000+00:00",
-      "time": "10:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $118.06** Current: **$119.25** | Strength: 4/5 \u2014 Prior swing low (60-day), 0.786 Fib zone at $116.64 nearby"
-    },
-    {
-      "ts": "2026-06-17T14:47:38.730000+00:00",
-      "time": "10:47 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $398.77** Current: **$398.06** | Strength: 5/5 0.650 Fib (weak retracement zone) + recent daily low cluster"
-    },
-    {
-      "ts": "2026-06-17T14:42:19.775000+00:00",
-      "time": "10:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $749.53** Current: **$749.89** | Strength: 5/5 60-day swing high (3 days ago); prior HH confluence"
-    },
-    {
-      "ts": "2026-06-17T14:41:14.454000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $749.53** Current: **$749.51** | Strength: 5/5 60-day swing high (3 days ago); prior HH confluence"
-    },
-    {
-      "ts": "2026-06-17T14:41:13.566000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R2 $90.22** Current: **$90.11** | Strength: 4/5 Last daily close before breakdown; psychological level; 0.382 Fib at $84."
-    },
-    {
-      "ts": "2026-06-17T14:39:03.651000+00:00",
-      "time": "10:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R2 $399.24** Current: **$399.23** | Strength: 5/5 Fib 0.650 retracement; prior swing low cluster; round number confluence"
-    },
-    {
-      "ts": "2026-06-17T14:33:45.407000+00:00",
-      "time": "10:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $90.5** Current: **$90.44** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-17T14:24:09.063000+00:00",
-      "time": "10:24 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $90.5** Current: **$90.53** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
