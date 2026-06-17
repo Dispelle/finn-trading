@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T19:14:16.672398+00:00",
+  "generated_at": "2026-06-17T19:29:17.678228+00:00",
   "items": [
     {
-      "ts": "2026-06-17T19:12:58.894000+00:00",
-      "time": "03:12 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $570.6** Current: **$571.01** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
-    },
-    {
-      "ts": "2026-06-17T19:11:54.697000+00:00",
-      "time": "03:11 PM ET",
+      "ts": "2026-06-17T19:28:14.933000+00:00",
+      "time": "03:28 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $570.6** Current: **$570.57** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S3 $379.83** Current: **$379.78** | Strength: 5/5 Fibonacci 0.786 retracement; strong fib support + psychological (near $"
     },
     {
-      "ts": "2026-06-17T19:08:41.226000+00:00",
-      "time": "03:08 PM ET",
+      "ts": "2026-06-17T19:28:13.092000+00:00",
+      "time": "03:28 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1089.29** Current: **$1088.63** | Strength: 5/5 60-day and weekly swing high, **critical**, extensions to 1.272 ($1300."
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $388.75** Current: **$388.62** | Strength: 5/5 \u2014 Reason: **0.786 Fibonacci retracement (strong alpha zone from extensio"
     },
     {
-      "ts": "2026-06-17T19:07:36.731000+00:00",
-      "time": "03:07 PM ET",
+      "ts": "2026-06-17T19:26:03.554000+00:00",
+      "time": "03:26 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1089.29** Current: **$1089.99** | Strength: 5/5 60-day and weekly swing high, **critical**, extensions to 1.272 ($1300."
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $332.06** Current: **$332.23** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (281.75\u2192321.30), confluent with natural roun"
     },
     {
-      "ts": "2026-06-17T19:06:33.482000+00:00",
-      "time": "03:06 PM ET",
+      "ts": "2026-06-17T19:26:03.028000+00:00",
+      "time": "03:26 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $295.0** Current: **$295.18** | Strength: 5/5 \u2014 Fibonacci 0.382 ($289.94) + round number confluence; prior swing low s"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $331.99** Current: **$332.23** | Strength: 5/5 Fibonacci 1.272 extension (281.75\u2192321.30 swing); round psychological"
     },
     {
-      "ts": "2026-06-17T19:02:17.744000+00:00",
-      "time": "03:02 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $382.27** Current: **$382.34** | Strength: 5/5 \u2014 1H low today; daily low from 10-bar; psychological $380 round"
-    },
-    {
-      "ts": "2026-06-17T19:01:11.933000+00:00",
-      "time": "03:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $133.18** Current: **$133.40** | Strength: 4/5 \u2014 1H high today / recent consolidation ceiling / micro-resistance"
-    },
-    {
-      "ts": "2026-06-17T19:01:04.481000+00:00",
-      "time": "03:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R3 $730.0** Current: **$730.34** | Strength: 4/5 Yesterday's intraday high; rejection point; prior daily high"
-    },
-    {
-      "ts": "2026-06-17T19:00:06.858000+00:00",
-      "time": "03:00 PM ET",
+      "ts": "2026-06-17T19:24:57.686000+00:00",
+      "time": "03:24 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,500** | P&L: **-19"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $332.06** Current: **$331.93** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (281.75\u2192321.30), confluent with natural roun"
     },
     {
-      "ts": "2026-06-17T18:58:31.499000+00:00",
-      "time": "02:58 PM ET",
+      "ts": "2026-06-17T19:24:57.182000+00:00",
+      "time": "03:24 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $133.18** Current: **$133.11** | Strength: 4/5 \u2014 1H high today / recent consolidation ceiling / micro-resistance"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $331.99** Current: **$331.93** | Strength: 5/5 Fibonacci 1.272 extension (281.75\u2192321.30 swing); round psychological"
+    },
+    {
+      "ts": "2026-06-17T19:22:49.586000+00:00",
+      "time": "03:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $120.44** Current: **$120.47** | Strength: 5/5 Recent daily low (5 days ago); 1H recent swing low cluster; psychologic"
+    },
+    {
+      "ts": "2026-06-17T19:22:48.801000+00:00",
+      "time": "03:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.9** Current: **$132.32** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-17T19:21:44.760000+00:00",
+      "time": "03:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $131.9** Current: **$131.87** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-17T19:21:40.829000+00:00",
+      "time": "03:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $64665.0** Current: **$64743.33** | Strength: 5/5 \u2014 reason: Last confirmed daily swing high + 78.6% Fib retracement ($6"
     }
   ]
 }
