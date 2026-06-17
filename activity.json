@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T19:44:19.360946+00:00",
+  "generated_at": "2026-06-17T19:59:18.426829+00:00",
   "items": [
     {
-      "ts": "2026-06-17T19:43:25.679000+00:00",
-      "time": "03:43 PM ET",
+      "ts": "2026-06-17T19:55:26.781000+00:00",
+      "time": "03:55 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $623.91** Current: **$623.86** | Strength: 5/5 \u2014 Daily close 3 bars ago / key daily lower high"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $130.0** Current: **$130.59** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-17T19:42:21.777000+00:00",
-      "time": "03:42 PM ET",
+      "ts": "2026-06-17T19:55:26.277000+00:00",
+      "time": "03:55 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $86.89** Current: **$86.92** | Strength: 5/5 Prior HL (daily low 4d ago), structure invalidation level"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $130.08** Current: **$130.59** | Strength: 5/5 1H low from recent consolidation; daily low $128.80 just printed; immed"
     },
     {
-      "ts": "2026-06-17T19:42:20.456000+00:00",
-      "time": "03:42 PM ET",
+      "ts": "2026-06-17T19:54:21.907000+00:00",
+      "time": "03:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $624.62** Current: **$624.28** | Strength: 5/5 \u2014 today's 1H high (tested, rejected in last 3 candles); nearest supply"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $130.0** Current: **$129.98** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-17T19:42:19.345000+00:00",
-      "time": "03:42 PM ET",
+      "ts": "2026-06-17T19:54:21.459000+00:00",
+      "time": "03:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S3 $64177.14** Current: **$64162.01** | Strength: 4/5 |"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $130.08** Current: **$129.98** | Strength: 5/5 1H low from recent consolidation; daily low $128.80 just printed; immed"
     },
     {
-      "ts": "2026-06-17T19:42:18.908000+00:00",
-      "time": "03:42 PM ET",
+      "ts": "2026-06-17T19:54:20.046000+00:00",
+      "time": "03:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64177.0** Current: **$64162.01** | Strength: 5/5 \u2014 0.786 Fib retracement + prior 60-day swing high resistance zone"
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $568.43** Current: **$568.20** | Strength: 5/5 \u2014 **Recent swing low** (2 days ago: Friday close). Tested intraday lows"
     },
     {
-      "ts": "2026-06-17T19:41:15.065000+00:00",
-      "time": "03:41 PM ET",
+      "ts": "2026-06-17T19:53:15.576000+00:00",
+      "time": "03:53 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $721.3** Current: **$721.20** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-17T19:52:10.295000+00:00",
+      "time": "03:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $721.35** Current: **$721.30** | Strength: 5/5 MA20 (daily); slope down but tight enough to offer resistance on retest"
+    },
+    {
+      "ts": "2026-06-17T19:51:07.186000+00:00",
+      "time": "03:51 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $117.27** Current: **$117.18** | Strength: 5/5 Today's low; recent 1H cluster (last 20 bars shows low of $117.27); swi"
+    },
+    {
+      "ts": "2026-06-17T19:49:59.718000+00:00",
+      "time": "03:49 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $204.33** Current: **$204.25** | Strength: 5/5 \u2014 Last swing low (9 days ago), below MA50"
+    },
+    {
+      "ts": "2026-06-17T19:48:55.957000+00:00",
+      "time": "03:48 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $625.0** Current: **$625.24** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-06-17T19:40:11.899000+00:00",
-      "time": "03:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $723.03** Current: **$722.00** | Strength: 5/5 Today's intraday high; 1H resistance; psychological test of $724"
-    },
-    {
-      "ts": "2026-06-17T19:40:10.022000+00:00",
-      "time": "03:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $625.0** Current: **$624.92** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-06-17T19:40:09.322000+00:00",
-      "time": "03:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.2** Current: **$203.88** | Strength: 4/5 8 days ago daily low; prior swing low; psychological round"
-    },
-    {
-      "ts": "2026-06-17T19:39:07.135000+00:00",
-      "time": "03:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $130.98** Current: **$130.87** | Strength: 4/5 **Intraday recent low (1H chart, 20 candles ago).** Fresh swing low sup"
+      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE TP1 $87.0** Current: **$87.04** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
