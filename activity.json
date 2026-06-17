@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T18:59:14.789366+00:00",
+  "generated_at": "2026-06-17T19:14:16.672398+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T19:12:58.894000+00:00",
+      "time": "03:12 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $570.6** Current: **$571.01** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
+    },
+    {
+      "ts": "2026-06-17T19:11:54.697000+00:00",
+      "time": "03:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $570.6** Current: **$570.57** | Strength: 5/5 \u2014 **Today's low / Intraday support**"
+    },
+    {
+      "ts": "2026-06-17T19:08:41.226000+00:00",
+      "time": "03:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1089.29** Current: **$1088.63** | Strength: 5/5 60-day and weekly swing high, **critical**, extensions to 1.272 ($1300."
+    },
+    {
+      "ts": "2026-06-17T19:07:36.731000+00:00",
+      "time": "03:07 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1089.29** Current: **$1089.99** | Strength: 5/5 60-day and weekly swing high, **critical**, extensions to 1.272 ($1300."
+    },
+    {
+      "ts": "2026-06-17T19:06:33.482000+00:00",
+      "time": "03:06 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $295.0** Current: **$295.18** | Strength: 5/5 \u2014 Fibonacci 0.382 ($289.94) + round number confluence; prior swing low s"
+    },
+    {
+      "ts": "2026-06-17T19:02:17.744000+00:00",
+      "time": "03:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $382.27** Current: **$382.34** | Strength: 5/5 \u2014 1H low today; daily low from 10-bar; psychological $380 round"
+    },
+    {
+      "ts": "2026-06-17T19:01:11.933000+00:00",
+      "time": "03:01 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $133.18** Current: **$133.40** | Strength: 4/5 \u2014 1H high today / recent consolidation ceiling / micro-resistance"
+    },
+    {
+      "ts": "2026-06-17T19:01:04.481000+00:00",
+      "time": "03:01 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R3 $730.0** Current: **$730.34** | Strength: 4/5 Yesterday's intraday high; rejection point; prior daily high"
+    },
+    {
+      "ts": "2026-06-17T19:00:06.858000+00:00",
+      "time": "03:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,500** | P&L: **-19"
+    },
     {
       "ts": "2026-06-17T18:58:31.499000+00:00",
       "time": "02:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $133.18** Current: **$133.11** | Strength: 4/5 \u2014 1H high today / recent consolidation ceiling / micro-resistance"
-    },
-    {
-      "ts": "2026-06-17T18:58:29.593000+00:00",
-      "time": "02:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $382.27** Current: **$382.04** | Strength: 5/5 \u2014 1H low today; daily low from 10-bar; psychological $380 round"
-    },
-    {
-      "ts": "2026-06-17T18:57:22.672000+00:00",
-      "time": "02:57 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $295.0** Current: **$294.93** | Strength: 5/5 \u2014 Fibonacci 0.382 ($289.94) + round number confluence; prior swing low s"
-    },
-    {
-      "ts": "2026-06-17T18:57:22.048000+00:00",
-      "time": "02:57 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $731.0** Current: **$730.15** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-17T18:57:19.952000+00:00",
-      "time": "02:57 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $637.9** Current: **$636.80** | Strength: 5/5 Last daily HH (3 days ago); psychological pullback target"
-    },
-    {
-      "ts": "2026-06-17T18:56:08.097000+00:00",
-      "time": "02:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $639.25** Current: **$638.63** | Strength: 5/5 \u2014 Today's low / intraday support / recent pivot"
-    },
-    {
-      "ts": "2026-06-17T18:56:07.202000+00:00",
-      "time": "02:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $527.2** Current: **$524.97** | Strength: 5/5 Swing high (60d), lies between current price & ATH; minor inflection"
-    },
-    {
-      "ts": "2026-06-17T18:47:30.630000+00:00",
-      "time": "02:47 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $530.5** Current: **$529.77** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-17T18:47:30.035000+00:00",
-      "time": "02:47 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $530.0** Current: **$529.77** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-17T18:46:25.854000+00:00",
-      "time": "02:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $749.53** Current: **$749.07** | Strength: 5/5 60-day swing high (3 days ago); prior HH confluence"
     }
   ]
 }
