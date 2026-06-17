@@ -3414,7 +3414,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-15",
+    "last_updated": "2026-06-17",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3424,7 +3424,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "20-day VWAP (price was below this for 1H candles); recent pivot/equilibrium",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3434,7 +3434,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Weekly close (strong weekly level); 20-day VWAP approx",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3444,7 +3444,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Today's 1H high AND yesterday's high; local resistance, recent failed breakout attempt",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3454,7 +3454,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "60-day swing high (prior to $642.77); trendline resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3514,7 +3514,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Daily MA20 (slope up); recent support; prior 1H support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3524,7 +3524,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Prior daily close (recent HL); 1.5% above current",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3534,7 +3534,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "Prior weekly close (2 weeks ago); fibonacci 0.236 at $576.00 just above",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3724,7 +3724,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3734,7 +3734,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3744,7 +3744,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3754,7 +3754,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Round psychological level; prior daily high (10d avg)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -3844,7 +3844,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: **Today's intraday low; recent daily support cluster** (within 1\u20132 pip range of multiple 1H lows); breakdown h",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -3914,7 +3914,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -3924,7 +3924,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -3934,7 +3934,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -4513,9 +4513,9 @@
         "price": 648.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high / today's high / *psychological round*",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4563,9 +4563,9 @@
         "price": 580.0,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.236 retracement (golden pocket zone start)",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4606,6 +4606,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 727.95,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 828.08,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 620.51,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 599.97,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
       }
