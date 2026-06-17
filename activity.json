@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-17T21:45:20.006676+00:00",
+  "generated_at": "2026-06-17T21:59:28.583981+00:00",
   "items": [
+    {
+      "ts": "2026-06-17T21:45:46.954000+00:00",
+      "time": "05:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,138** | P&L: **-21"
+    },
     {
       "ts": "2026-06-17T21:15:09.311000+00:00",
       "time": "05:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $130.0** Current: **$129.98** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-17T19:54:21.459000+00:00",
-      "time": "03:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $130.08** Current: **$129.98** | Strength: 5/5 1H low from recent consolidation; daily low $128.80 just printed; immed"
     }
   ]
 }
