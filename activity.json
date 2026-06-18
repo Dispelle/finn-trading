@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-18T14:30:53.342208+00:00",
+  "generated_at": "2026-06-18T14:45:50.343314+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T14:45:06.383000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,789**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-18T14:45:03.399000+00:00",
+      "time": "10:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $59.87** Current: **$59.89** | Strength: 4/5 \u2014 Current daily low (today's L); psychological round number ($60 broken)"
+    },
+    {
+      "ts": "2026-06-18T14:32:13.657000+00:00",
+      "time": "10:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $377.32** Current: **$377.49** | Strength: 5/5 Intraday low TODAY; 1H recent low; volatile base forming"
+    },
     {
       "ts": "2026-06-18T14:30:07.824000+00:00",
       "time": "10:30 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:24 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $738.0** Current: **$738.06** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-18T14:24:39.663000+00:00",
-      "time": "10:24 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $656.0** Current: **$656.57** | Strength: 4/5 Round number + extension confluence (1.272 fib at $719 is too extended fo"
-    },
-    {
-      "ts": "2026-06-18T14:24:38.984000+00:00",
-      "time": "10:24 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $209.5** Current: **$209.81** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T14:23:37.021000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $332.06** Current: **$332.52** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (281.75\u2192321.30), confluent with natural roun"
     }
   ]
 }
