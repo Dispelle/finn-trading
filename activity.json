@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-18T19:02:34.407571+00:00",
+  "generated_at": "2026-06-18T19:17:24.534061+00:00",
   "items": [
     {
-      "ts": "2026-06-18T19:01:40.569000+00:00",
-      "time": "03:01 PM ET",
+      "ts": "2026-06-18T19:15:06.958000+00:00",
+      "time": "03:15 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $59.47** Current: **$59.38** | Strength: 5/5 \u2014 Prior day high (strong intraday rejection"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,567**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-06-18T19:00:08.568000+00:00",
-      "time": "03:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,627** | P&L: **-23"
-    },
-    {
-      "ts": "2026-06-18T18:46:41.614000+00:00",
-      "time": "02:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $530.0** Current: **$530.05** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T18:45:39.147000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE STOP $576.07** Current: **$576.08** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T18:45:36.405000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $530.0** Current: **$529.98** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T18:45:07.050000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,696**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-18T18:42:23.153000+00:00",
-      "time": "02:42 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $746.5** Current: **$746.52** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T18:42:19.135000+00:00",
-      "time": "02:42 PM ET",
+      "ts": "2026-06-18T19:14:37.223000+00:00",
+      "time": "03:14 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $530.5** Current: **$530.82** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $745.62** Current: **$745.69** | Strength: 5/5 \u2014 20-day VWAP; critical technical anchor; moving average resistance zone"
     },
     {
-      "ts": "2026-06-18T18:41:12.394000+00:00",
-      "time": "02:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $530.5** Current: **$530.47** | Strength: 5/5 |"
+      "ts": "2026-06-18T19:14:36.583000+00:00",
+      "time": "03:14 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R3 $745.45** Current: **$745.69** | Strength: 5/5 \u2014 prior daily high; 20-VWAP proximity ($743.56); psychological level."
     },
     {
-      "ts": "2026-06-18T18:36:53.276000+00:00",
-      "time": "02:36 PM ET",
+      "ts": "2026-06-18T19:13:31.387000+00:00",
+      "time": "03:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $59.01** Current: **$59.10** | Strength: 5/5 \u2014 Prior daily close (strong seller level; buyers tested but failed). Recen"
+    },
+    {
+      "ts": "2026-06-18T19:11:24.159000+00:00",
+      "time": "03:11 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1101.62** Current: **$1101.53** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP1 $745.64** Current: **$745.41** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-18T19:11:23.536000+00:00",
+      "time": "03:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $745.62** Current: **$745.41** | Strength: 5/5 \u2014 20-day VWAP; critical technical anchor; moving average resistance zone"
+    },
+    {
+      "ts": "2026-06-18T19:11:23.042000+00:00",
+      "time": "03:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R3 $745.45** Current: **$745.41** | Strength: 5/5 \u2014 prior daily high; 20-VWAP proximity ($743.56); psychological level."
+    },
+    {
+      "ts": "2026-06-18T19:11:22.434000+00:00",
+      "time": "03:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.72** Current: **$745.41** | Strength: 5/5 \u2014 20-day VWAP, confluence with current price zone (within 1.8% below). M"
+    },
+    {
+      "ts": "2026-06-18T19:08:08.921000+00:00",
+      "time": "03:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $59.2** Current: **$59.18** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-18T19:07:04.092000+00:00",
+      "time": "03:07 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $85.58** Current: **$85.62** | Strength: 5/5 \u2014 reason: 20-day VWAP (daily support anchor)"
     }
   ]
 }
