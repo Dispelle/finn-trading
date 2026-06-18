@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-18T15:45:53.355141+00:00",
+  "generated_at": "2026-06-18T16:01:02.625082+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T16:00:07.416000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,274** | P&L: **-23"
+    },
+    {
+      "ts": "2026-06-18T15:57:49.462000+00:00",
+      "time": "11:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $62384.67** Current: **$62330.00** | Strength: 4/5 \u2014 Daily low 3 candles ago, 10-day swing low, prior support"
+    },
     {
       "ts": "2026-06-18T15:45:05.963000+00:00",
       "time": "11:45 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:33 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $388.32** Current: **$388.07** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement"
-    },
-    {
-      "ts": "2026-06-18T15:33:16.864000+00:00",
-      "time": "11:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $388.15** Current: **$388.07** | Strength: 5/5 \u2014 78.6% Fibonacci retracement"
-    },
-    {
-      "ts": "2026-06-18T15:31:08.511000+00:00",
-      "time": "11:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $388.61** Current: **$388.44** | Strength: 5/5 \u2014 0.786 Fib retracement + last daily candle high cluster"
     }
   ]
 }
