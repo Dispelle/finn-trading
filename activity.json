@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-18T22:47:44.203780+00:00",
+  "generated_at": "2026-06-18T23:02:48.456814+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T23:00:09.873000+00:00",
+      "time": "07:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,780** | P&L: **-22"
+    },
     {
       "ts": "2026-06-18T22:45:08.620000+00:00",
       "time": "06:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "04:45 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,064**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-18T20:30:07.799000+00:00",
-      "time": "04:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,029** | P&L: **-22"
     }
   ]
 }
