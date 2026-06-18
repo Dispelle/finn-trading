@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-18T20:48:46.743763+00:00",
+  "generated_at": "2026-06-18T21:02:36.088405+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T21:00:07.196000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,012** | P&L: **-22"
+    },
     {
       "ts": "2026-06-18T20:45:07.416000+00:00",
       "time": "04:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:51 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $399.15** Current: **$398.97** | Strength: 5/5 MA50 ($398.30) + intraday support cluster (1H chart shows 3x bounces 39"
-    },
-    {
-      "ts": "2026-06-18T19:51:36.697000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1132.0** Current: **$1137.50** | Strength: 3/5 \u2014 1.272 Fibonacci extension ($1300.85 target from swing; conservative intermed"
     }
   ]
 }
