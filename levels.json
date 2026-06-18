@@ -11718,7 +11718,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-15",
+    "last_updated": "2026-06-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11757,9 +11757,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "**60d swing high (ATR anchor)**; Fibonacci 1.000 extension; psychological $750 round",
+        "reason": "All-time 60-day high, psychological barrier, 100% of recent range",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11768,7 +11768,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's daily low; recent consolidation floor (1H bounce zone)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -11838,7 +11838,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11877,9 +11877,9 @@
         "price": 695.25,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; intraday support hold on Oct dip",
+        "reason": "60-day swing low (higher low in bullish structure); HL confirmation level",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11898,7 +11898,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11908,7 +11908,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "10-day high / today's high / 20-day VWAP proximity ($720.23)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11918,7 +11918,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11938,7 +11938,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 20-day VWAP; also MA20 daily (722.25) confluence; psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11948,7 +11948,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **Weekly close level + psychological round**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11958,7 +11958,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11968,7 +11968,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -11998,7 +11998,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -12008,7 +12008,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Today's 1H high; recent swing high; psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -12018,7 +12018,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "20-day VWAP (institutional accumulation anchor); MA20 daily $721.30 nearby",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -12048,7 +12048,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -12067,9 +12067,9 @@
         "price": 686.37,
         "type": "S3",
         "strength": 5,
-        "reason": "Prior swing low; 0.382 Fib at $674.90 nearby",
+        "reason": "Prior 60-day swing low; lower low if broken below $695.25",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12187,9 +12187,9 @@
         "price": 720.99,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (717.99); price holding just below",
+        "reason": "Today's daily low, active 4H support, very recent price discovery",
         "status": "active",
-        "source_brief": "2026-06-11",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12306,10 +12306,10 @@
       {
         "price": 745.65,
         "type": "R2",
-        "strength": 4,
-        "reason": "\u2014 Daily high from 2 days ago, minor swing top, supply cluster",
+        "strength": 5,
+        "reason": "60-day swing high, prior 4H resistance, failed breakout zone",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12357,9 +12357,9 @@
         "price": 735.5,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior daily high (745.65, 746.44, 748.65 cluster); psychological round; 1H resistance $724.01 today just broken",
+        "reason": "Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP proximity ($722.27) just below",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12460,6 +12460,16 @@
         "reason": "|",
         "status": "active",
         "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 720.85,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       }
