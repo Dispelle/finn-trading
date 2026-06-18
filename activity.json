@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-18T17:47:30.650075+00:00",
+  "generated_at": "2026-06-18T18:02:17.348139+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T18:01:10.724000+00:00",
+      "time": "02:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $395.32** Current: **$395.16** | Strength: 5/5 0.500 Fibonacci retracement (golden zone start); MA50 $398.30 proximity"
+    },
+    {
+      "ts": "2026-06-18T18:01:09.897000+00:00",
+      "time": "02:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW STOP $576.07** Current: **$575.64** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-18T18:00:08.486000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,544** | P&L: **-23"
+    },
     {
       "ts": "2026-06-18T17:45:05.854000+00:00",
       "time": "01:45 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:28 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62261.91** Current: **$62285.94** | Strength: 4/5 \u2014 1H swing low (last 20 bars); nearest structural support; 67 pips b"
-    },
-    {
-      "ts": "2026-06-18T17:27:37.159000+00:00",
-      "time": "01:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62261.91** Current: **$62178.63** | Strength: 4/5 \u2014 1H swing low (last 20 bars); nearest structural support; 67 pips b"
-    },
-    {
-      "ts": "2026-06-18T17:25:31.146000+00:00",
-      "time": "01:25 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S3 $379.83** Current: **$379.78** | Strength: 5/5 0.786 Fib retracement; extension support"
-    },
-    {
-      "ts": "2026-06-18T17:22:17.551000+00:00",
-      "time": "01:22 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $660.0** Current: **$659.80** | Strength: 4/5 \u2014 Round number + extension zone (approx 1.272 Fib = $726.37, but intermed"
     }
   ]
 }
