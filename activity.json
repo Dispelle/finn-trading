@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-18T21:18:09.898951+00:00",
+  "generated_at": "2026-06-18T21:32:38.389750+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T21:30:06.595000+00:00",
+      "time": "05:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,882** | P&L: **-22"
+    },
     {
       "ts": "2026-06-18T21:15:07.092000+00:00",
       "time": "05:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:52 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $59.47** Current: **$59.50** | Strength: 5/5 \u2014 Prior day high (strong intraday rejection"
-    },
-    {
-      "ts": "2026-06-18T19:51:42.703000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $325.5** Current: **$325.89** | Strength: 4/5 \u2014 **"
     }
   ]
 }
