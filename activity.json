@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-18T19:32:29.877392+00:00",
+  "generated_at": "2026-06-18T19:47:29.906110+00:00",
   "items": [
+    {
+      "ts": "2026-06-18T19:47:14.840000+00:00",
+      "time": "03:47 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $325.5** Current: **$325.39** | Strength: 4/5 \u2014 **"
+    },
+    {
+      "ts": "2026-06-18T19:45:07.511000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,890**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-18T19:45:04.676000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $326.5** Current: **$326.48** | Strength: 4/5 \u2014 Round number + intermediate fib confluence (between 0.786 retracement a"
+    },
+    {
+      "ts": "2026-06-18T19:45:00.837000+00:00",
+      "time": "03:45 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62855.65** Current: **$62884.54** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-18T19:40:42.106000+00:00",
+      "time": "03:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $59.2** Current: **$59.34** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-18T19:38:31.965000+00:00",
+      "time": "03:38 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $397.09** Current: **$397.64** | Strength: 5/5 Prior daily high (4 bars ago); 1H resistance confluence; recent swing p"
+    },
     {
       "ts": "2026-06-18T19:30:07.163000+00:00",
       "time": "03:30 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:19 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $59.01** Current: **$59.01** | Strength: 5/5 \u2014 Prior daily close (strong seller level; buyers tested but failed). Recen"
-    },
-    {
-      "ts": "2026-06-18T19:15:06.958000+00:00",
-      "time": "03:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,567**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-18T19:14:37.223000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $745.62** Current: **$745.69** | Strength: 5/5 \u2014 20-day VWAP; critical technical anchor; moving average resistance zone"
-    },
-    {
-      "ts": "2026-06-18T19:14:36.583000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R3 $745.45** Current: **$745.69** | Strength: 5/5 \u2014 prior daily high; 20-VWAP proximity ($743.56); psychological level."
-    },
-    {
-      "ts": "2026-06-18T19:13:31.387000+00:00",
-      "time": "03:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $59.01** Current: **$59.10** | Strength: 5/5 \u2014 Prior daily close (strong seller level; buyers tested but failed). Recen"
-    },
-    {
-      "ts": "2026-06-18T19:11:24.159000+00:00",
-      "time": "03:11 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP1 $745.64** Current: **$745.41** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-18T19:11:23.536000+00:00",
-      "time": "03:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $745.62** Current: **$745.41** | Strength: 5/5 \u2014 20-day VWAP; critical technical anchor; moving average resistance zone"
     }
   ]
 }
