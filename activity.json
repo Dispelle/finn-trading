@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-18T14:15:59.514881+00:00",
+  "generated_at": "2026-06-18T14:30:53.342208+00:00",
   "items": [
     {
-      "ts": "2026-06-18T14:15:07.281000+00:00",
-      "time": "10:15 AM ET",
+      "ts": "2026-06-18T14:30:07.824000+00:00",
+      "time": "10:30 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,689**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,709** | P&L: **-21"
     },
     {
-      "ts": "2026-06-18T14:10:39.576000+00:00",
-      "time": "10:10 AM ET",
+      "ts": "2026-06-18T14:27:54.784000+00:00",
+      "time": "10:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1101.62** Current: **$1102.88** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1120.0** Current: **$1119.35** | Strength: 3/5 Confluence of psychological + extended range target"
     },
     {
-      "ts": "2026-06-18T14:09:35.212000+00:00",
-      "time": "10:09 AM ET",
+      "ts": "2026-06-18T14:27:54.294000+00:00",
+      "time": "10:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1101.62** Current: **$1100.78** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $1119.5** Current: **$1119.35** | Strength: 4/5 Round number + Fibonacci 1.272 extension ($1300.85 is too far; $1120 is "
     },
     {
-      "ts": "2026-06-18T14:06:20.878000+00:00",
-      "time": "10:06 AM ET",
+      "ts": "2026-06-18T14:27:53.558000+00:00",
+      "time": "10:27 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $209.5** Current: **$209.26** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-18T14:26:49.254000+00:00",
+      "time": "10:26 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $656.0** Current: **$655.55** | Strength: 4/5 Round number + extension confluence (1.272 fib at $719 is too extended fo"
+    },
+    {
+      "ts": "2026-06-18T14:25:45.765000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $738.0** Current: **$737.71** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-18T14:24:41.384000+00:00",
+      "time": "10:24 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $390.33** Current: **$390.50** | Strength: 3/5 Daily high (today); 1H high (recent swing); psychological support flipped res"
+      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $738.0** Current: **$738.06** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-18T14:05:17.251000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $126.0** Current: **$126.15** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T14:05:16.723000+00:00",
-      "time": "10:05 AM ET",
+      "ts": "2026-06-18T14:24:39.663000+00:00",
+      "time": "10:24 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $125.8** Current: **$126.15** | Strength: 4/5 |"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $656.0** Current: **$656.57** | Strength: 4/5 Round number + extension confluence (1.272 fib at $719 is too extended fo"
     },
     {
-      "ts": "2026-06-18T14:03:05.482000+00:00",
-      "time": "10:03 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $60.37** Current: **$60.41** | Strength: 5/5 \u2014 60-day swing low (prior chart support); 1H consolidation floor barely ho"
-    },
-    {
-      "ts": "2026-06-18T14:02:01.117000+00:00",
-      "time": "10:02 AM ET",
+      "ts": "2026-06-18T14:24:38.984000+00:00",
+      "time": "10:24 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $60.37** Current: **$60.30** | Strength: 5/5 \u2014 60-day swing low (prior chart support); 1H consolidation floor barely ho"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $209.5** Current: **$209.81** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-18T14:00:59.281000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-18T14:23:37.021000+00:00",
+      "time": "10:23 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $113.27** Current: **$113.39** | Strength: 5/5 60-day absolute low; critical support; 3% below current price; if broke"
-    },
-    {
-      "ts": "2026-06-18T14:00:57.093000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1105.0** Current: **$1107.38** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $332.06** Current: **$332.52** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (281.75\u2192321.30), confluent with natural roun"
     }
   ]
 }
