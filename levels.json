@@ -13822,7 +13822,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-06-15",
+    "last_updated": "2026-06-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13842,7 +13842,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: **20-day VWAP + MA20 (downslope).** Critical moving average cluster. Bias-flip zone if broken above.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -13862,7 +13862,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 MA200 (long-term moving average) / prior swing low (635.29); would represent complete rejection of downtrend",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -13922,7 +13922,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior lower low / 60-day swing low (established support, now resistance in downtrend); tested yesterday $596.68 on daily",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -13942,7 +13942,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "20-day VWAP; MA20 daily ($610.79) cluster; supply zone confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -13962,7 +13962,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "Round number / psychological (implied from 60d low $520.26)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-08",
         "hit_count": 0,
         "last_hit": null
@@ -13972,7 +13972,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -14002,7 +14002,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 0.618 Fibonacci retracement (golden pocket)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -14033,7 +14033,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14052,7 +14052,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-09",
         "hit_count": 0,
         "last_hit": null
@@ -14082,7 +14082,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Today's high; 4H consolidation cap; psychological barrier",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -14092,7 +14092,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 Current price / 10-day low / fresh support if price bounces",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
@@ -14132,7 +14132,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **Today's low / Intraday support**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-10",
         "hit_count": 0,
         "last_hit": null
