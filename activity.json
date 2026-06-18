@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-18T14:46:12.040204+00:00",
+  "generated_at": "2026-06-18T15:01:00.109088+00:00",
   "items": [
     {
-      "ts": "2026-06-18T14:45:06.383000+00:00",
-      "time": "10:45 AM ET",
+      "ts": "2026-06-18T15:00:08.001000+00:00",
+      "time": "11:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,789**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,705** | P&L: **-21"
     },
     {
-      "ts": "2026-06-18T14:45:03.399000+00:00",
-      "time": "10:45 AM ET",
+      "ts": "2026-06-18T14:55:55.151000+00:00",
+      "time": "10:55 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $59.87** Current: **$59.89** | Strength: 4/5 \u2014 Current daily low (today's L); psychological round number ($60 broken)"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1093.04** Current: **$1093.07** | Strength: 5/5 20-day VWAP; MA20 ($1086.27) just below; confluence = dynamic support"
     },
     {
-      "ts": "2026-06-18T14:32:13.657000+00:00",
-      "time": "10:32 AM ET",
+      "ts": "2026-06-18T14:55:51.348000+00:00",
+      "time": "10:55 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $377.32** Current: **$377.49** | Strength: 5/5 Intraday low TODAY; 1H recent low; volatile base forming"
+      "message": "\ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $63561.05** Current: **$63591.99** | Strength: 3/5 \u2014 Prior daily close (2 candles ago); minor demand zone"
     },
     {
-      "ts": "2026-06-18T14:30:07.824000+00:00",
-      "time": "10:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,709** | P&L: **-21"
-    },
-    {
-      "ts": "2026-06-18T14:27:54.784000+00:00",
-      "time": "10:27 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1120.0** Current: **$1119.35** | Strength: 3/5 Confluence of psychological + extended range target"
-    },
-    {
-      "ts": "2026-06-18T14:27:54.294000+00:00",
-      "time": "10:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $1119.5** Current: **$1119.35** | Strength: 4/5 Round number + Fibonacci 1.272 extension ($1300.85 is too far; $1120 is "
-    },
-    {
-      "ts": "2026-06-18T14:27:53.558000+00:00",
-      "time": "10:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $209.5** Current: **$209.26** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-18T14:26:49.254000+00:00",
-      "time": "10:26 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $656.0** Current: **$655.55** | Strength: 4/5 Round number + extension confluence (1.272 fib at $719 is too extended fo"
-    },
-    {
-      "ts": "2026-06-18T14:25:45.765000+00:00",
-      "time": "10:25 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $738.0** Current: **$737.71** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-18T14:24:41.384000+00:00",
-      "time": "10:24 AM ET",
+      "ts": "2026-06-18T14:54:46.751000+00:00",
+      "time": "10:54 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $738.0** Current: **$738.06** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63543.2** Current: **$63544.13** | Strength: 5/5 \u2014 prior daily low (Dec 1); recent 1H support bounced multiple times"
+    },
+    {
+      "ts": "2026-06-18T14:53:45.405000+00:00",
+      "time": "10:53 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1092.02** Current: **$1092.97** | Strength: 5/5 \u2014 20-day VWAP; psychological round ($1093); key daily support"
+    },
+    {
+      "ts": "2026-06-18T14:53:41.618000+00:00",
+      "time": "10:53 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63561.05** Current: **$63534.06** | Strength: 3/5 \u2014 Prior daily close (2 candles ago); minor demand zone"
+    },
+    {
+      "ts": "2026-06-18T14:53:40.918000+00:00",
+      "time": "10:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63543.2** Current: **$63534.06** | Strength: 5/5 \u2014 prior daily low (Dec 1); recent 1H support bounced multiple times"
+    },
+    {
+      "ts": "2026-06-18T14:50:31.107000+00:00",
+      "time": "10:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $300.43** Current: **$300.26** | Strength: 5/5 0.236 Fib retracement (golden zone); daily support turned resistance"
+    },
+    {
+      "ts": "2026-06-18T14:50:30.246000+00:00",
+      "time": "10:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $738.31** Current: **$738.11** | Strength: 5/5 Mid-range between 748.65 and 721.34; prior daily close cluster"
+    },
+    {
+      "ts": "2026-06-18T14:49:27.196000+00:00",
+      "time": "10:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1093.04** Current: **$1092.62** | Strength: 5/5 20-day VWAP; MA20 ($1086.27) just below; confluence = dynamic support"
     }
   ]
 }
