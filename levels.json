@@ -14052,7 +14052,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14243,7 +14243,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14292,7 +14292,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -14331,9 +14331,9 @@
         "price": 585.68,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fib (Golden Pocket) + prior swing low cluster**",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14351,9 +14351,9 @@
         "price": 520.26,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **52-week low / structural floor**",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14382,7 +14382,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "38.2% Fib retracement + near MA20 weekly ($618.74) + prior minor swing high area",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -14402,7 +14402,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **Golden Pocket (0.618 Fib)**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -14412,7 +14412,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -14431,9 +14431,9 @@
         "price": 560.9,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's daily low (L); 1H low at $558.15 (2 bars ago); tight intraday pivot",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14494,6 +14494,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 601.73,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 622.6,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       }
