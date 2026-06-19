@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-19T15:02:47.142085+00:00",
+  "generated_at": "2026-06-19T15:17:48.963257+00:00",
   "items": [
+    {
+      "ts": "2026-06-19T15:15:07.127000+00:00",
+      "time": "11:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,131**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-19T15:00:08.100000+00:00",
       "time": "11:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:46 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63239.52** Current: **$63256.82** | Strength: 5/5 Recent swing low (8 days ago weekly close); tested twice in last 4 d"
-    },
-    {
-      "ts": "2026-06-19T13:38:54.201000+00:00",
-      "time": "09:38 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62855.65** Current: **$62876.61** | Strength: 5/5 |"
     }
   ]
 }
