@@ -13344,7 +13344,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13494,7 +13494,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **Fibonacci 0.618 (golden pocket)**. This is the critical **elder support**. Intraday low today ($386.37) = **panic fl",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13504,7 +13504,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.650 retracement. **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13654,7 +13654,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Fibonacci 0.650; tight clustering with current price; near-term floor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13724,7 +13724,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior swing low support (broken, now resistance); 1H recent high area",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13734,7 +13734,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13754,7 +13754,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -13803,9 +13803,9 @@
         "price": 356.28,
         "type": "S2",
         "strength": 5,
-        "reason": "52-week low; 60-day swing low; psychological round number",
+        "reason": "\u2014 52-week low (bottom of range); psychological \"capitulation\" level; Fib swing baseline",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13963,9 +13963,9 @@
         "price": 411.3,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib; MA50 ($412.87) proximity; daily moving average zone",
+        "reason": "\u2014 0.500 fib (midpoint); MA20 at $415.23 nearby; daily MA50 at $412.87; strong confluence",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14016,6 +14016,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 381.37,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 today's high; hourly pivot; near 0.786 fib ($379.83); immediate rejection zone",
+        "status": "active",
+        "source_brief": "2026-06-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 394.79,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.650 Fibonacci retracement; psychological round number; tested 5 days ago",
+        "status": "active",
+        "source_brief": "2026-06-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 373.28,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 today's low; fresh breakdown; minor support, likely NOT to hold",
+        "status": "active",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       }
