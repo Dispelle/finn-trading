@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-19T20:33:50.159157+00:00",
+  "generated_at": "2026-06-19T20:48:16.998106+00:00",
   "items": [
+    {
+      "ts": "2026-06-19T20:45:11.453000+00:00",
+      "time": "04:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,038**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-19T20:30:11.283000+00:00",
       "time": "04:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,091** | P&L: **-22"
-    },
-    {
-      "ts": "2026-06-19T18:14:27.363000+00:00",
-      "time": "02:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63090.59** Current: **$63088.34** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
