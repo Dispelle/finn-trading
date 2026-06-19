@@ -3524,7 +3524,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3584,7 +3584,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "0.236 Fibonacci retracement (from $359.86\u2192$642.77 swing); daily close cluster; technical mean",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3594,7 +3594,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "60-day swing low #2; 0.382 fib at $534.70 nearby; critical support for weekly structure",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3674,7 +3674,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fibonacci 0.618 (golden pocket); deeper structural support if trend reversal",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3684,7 +3684,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3784,7 +3784,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's 1H low; 1H VWAP anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3804,7 +3804,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Last higher low (HL); critical daily structure support; **if broken = CHoCH confirmed**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3884,7 +3884,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "20-day VWAP; MA20 $588.44 (just above); confluent pivot; daily support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3934,7 +3934,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "1H high from today; daily consolidation cap",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3944,7 +3944,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Swing high (5 days ago); 1H high confluent; psychological demand",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3974,7 +3974,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "1H low (10 bars back); Fib 0.236 at $576 zone nearby; intermediate support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -3984,7 +3984,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "4-day swing low; exact match from 4 days ago; tested 2x; floor of current consolidation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4084,7 +4084,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 7-day swing high; confluence with recent failed attempt",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4114,7 +4114,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "10-day swing low; Fib 0.236 retracement at $576.00 **not confluent** with S2 (gap); 1H lows cluster here",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4124,7 +4124,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4164,7 +4164,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4204,7 +4204,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4214,7 +4214,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -4323,9 +4323,9 @@
         "price": 614.47,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (60d); now acts as dynamic support on pullback. Loss of this = daily structure CHoCH. **",
+        "reason": "Daily support (prior day low 2 bars ago); MA20 nearby at $602.85",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4535,7 +4535,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4623,9 +4623,9 @@
         "price": 648.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (recent weekly high), prior supply ceiling.",
+        "reason": "Prior daily swing high (4 days ago); resistance cluster; 1H rejected hard from 660\u2013663 zone",
         "status": "active",
-        "source_brief": "2026-06-17",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4663,9 +4663,9 @@
         "price": 590.85,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP",
+        "reason": "0.236 Fib retracement; daily close support (breached intraday today at 648.15 but held weekly)",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4766,6 +4766,36 @@
         "reason": "\u2014 Yesterday's daily low, intraday support. Last higher low if structure holds. **CRITICAL:** Break here = structure brok",
         "status": "active",
         "source_brief": "2026-06-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 663.8,
+        "type": "R2",
+        "strength": 4,
+        "reason": "60-day absolute high; psychological round; 1.272 Fib extension (746.47 is too far)",
+        "status": "active",
+        "source_brief": "2026-06-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 746.47,
+        "type": "R3",
+        "strength": 3,
+        "reason": "1.272 Fib extension from 359.86\u2192663.80 swing; first structural upside target if bull breaks 663.80",
+        "status": "active",
+        "source_brief": "2026-06-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 605.1,
+        "type": "S2",
+        "strength": 5,
+        "reason": "20-day VWAP; institutional volume anchor",
+        "status": "active",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       }
