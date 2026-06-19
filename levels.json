@@ -12676,7 +12676,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12706,7 +12706,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fibonacci 1.272 extension (245.51 \u2192 317.40); bull target beyond prior high",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -12795,9 +12795,9 @@
         "price": 272.97,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.618 (golden pocket start); MA200 $272.20 +0.3%; long-term structural support",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12806,7 +12806,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
@@ -12815,9 +12815,9 @@
         "price": 312.06,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "Weekly close 2 candles ago; recent swing high before breakdown; psychological ($310) nearby",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12925,9 +12925,9 @@
         "price": 281.45,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.500 midpoint. Psychological + structural anchor.",
+        "reason": "Fibonacci 0.500 (midpoint); psychological ($280); defined support from prior rallies",
         "status": "active",
-        "source_brief": "2026-06-14",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13015,9 +13015,9 @@
         "price": 289.94,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.382 retracement (strong Fib zone); daily support cluster (290.55, 291.13, 291.58); MA50 $287.96 +0.3%",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13065,9 +13065,9 @@
         "price": 308.82,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "Weekly close 3 candles ago; intermediate supply zone; Fibonacci 0.382 ($289.94) + 5.2% buffer",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13095,9 +13095,9 @@
         "price": 304.45,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "20-day VWAP (dynamic support turning resistance); prior daily close 305.23; psychological level",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13146,7 +13146,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-11",
         "hit_count": 0,
         "last_hit": null
