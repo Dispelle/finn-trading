@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-22T16:02:02.414087+00:00",
+  "generated_at": "2026-06-22T16:16:11.433964+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T16:06:52.392000+00:00",
+      "time": "12:06 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE TP1 $369.5** Current: **$369.73** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-22T16:04:44.621000+00:00",
+      "time": "12:04 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP1 $369.5** Current: **$369.42** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-22T16:04:43.823000+00:00",
+      "time": "12:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $16.52** Current: **$16.51** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement ($14.64\u2192$23.42); also prior daily high test "
+    },
+    {
+      "ts": "2026-06-22T16:02:36.567000+00:00",
+      "time": "12:02 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP2 $370.0** Current: **$369.93** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-06-22T15:57:15.630000+00:00",
       "time": "11:57 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:35 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $384.21** Current: **$384.15** | Strength: 5/5 \u2014 reason: **Recent swing low cluster + 1H support at $387.08**"
-    },
-    {
-      "ts": "2026-06-22T15:32:07.435000+00:00",
-      "time": "11:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,963** | P&L: **-20"
-    },
-    {
-      "ts": "2026-06-22T15:24:16.793000+00:00",
-      "time": "11:24 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $122.68** Current: **$122.83** | Strength: 5/5 \u2014 **52-week low + 0% Fibonacci (start of swing)**"
-    },
-    {
-      "ts": "2026-06-22T15:22:05.029000+00:00",
-      "time": "11:22 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $59.51** Current: **$59.51** | Strength: 5/5 \u2014 Last 1H close + psychological $59.50 round"
-    },
-    {
-      "ts": "2026-06-22T15:18:55.289000+00:00",
-      "time": "11:18 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $560.9** Current: **$561.03** | Strength: 5/5 \u2014 **"
     }
   ]
 }
