@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-22T15:16:07.414035+00:00",
+  "generated_at": "2026-06-22T15:31:07.933790+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T15:24:16.793000+00:00",
+      "time": "11:24 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $122.68** Current: **$122.83** | Strength: 5/5 \u2014 **52-week low + 0% Fibonacci (start of swing)**"
+    },
+    {
+      "ts": "2026-06-22T15:22:05.029000+00:00",
+      "time": "11:22 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $59.51** Current: **$59.51** | Strength: 5/5 \u2014 Last 1H close + psychological $59.50 round"
+    },
+    {
+      "ts": "2026-06-22T15:18:55.289000+00:00",
+      "time": "11:18 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $560.9** Current: **$561.03** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-06-22T15:17:52.518000+00:00",
+      "time": "11:17 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $113.27** Current: **$113.22** | Strength: 5/5 **60-day extreme low (swing low); hardest support in dataset**"
+    },
+    {
+      "ts": "2026-06-22T15:16:46.961000+00:00",
+      "time": "11:16 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $560.9** Current: **$560.75** | Strength: 5/5 \u2014 **"
+    },
     {
       "ts": "2026-06-22T15:06:08.805000+00:00",
       "time": "11:06 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:45 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $738.0** Current: **$738.21** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-22T14:43:37.265000+00:00",
-      "time": "10:43 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $738.0** Current: **$737.93** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-22T14:39:20.795000+00:00",
-      "time": "10:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $738.31** Current: **$738.26** | Strength: 5/5 Mid-range between 748.65 and 721.34; prior daily close cluster"
-    },
-    {
-      "ts": "2026-06-22T14:39:19.091000+00:00",
-      "time": "10:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $663.8** Current: **$663.70** | Strength: 4/5 60-day absolute high; psychological round; 1.272 Fib extension (746.47 is"
-    },
-    {
-      "ts": "2026-06-22T14:36:09.042000+00:00",
-      "time": "10:36 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.72** Current: **$745.76** | Strength: 5/5 **20-day VWAP** (volume-weighted anchor); MA20 at $747.08 nearby"
-    },
-    {
-      "ts": "2026-06-22T14:35:05.239000+00:00",
-      "time": "10:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $300.43** Current: **$300.42** | Strength: 5/5 0.236 Fib retracement (golden zone); daily support turned resistance"
     }
   ]
 }
