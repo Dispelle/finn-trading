@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T16:46:49.622916+00:00",
+  "generated_at": "2026-06-22T17:01:12.040158+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T16:53:00.796000+00:00",
+      "time": "12:53 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $332.06** Current: **$331.94** | Strength: 5/5 Fibonacci 1.272 extension (281.75\u2192321.30 swing); historically strong res"
+    },
+    {
+      "ts": "2026-06-22T16:49:49.046000+00:00",
+      "time": "12:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $332.06** Current: **$332.08** | Strength: 5/5 Fibonacci 1.272 extension (281.75\u2192321.30 swing); historically strong res"
+    },
     {
       "ts": "2026-06-22T16:21:50.615000+00:00",
       "time": "12:21 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:50 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $735.5** Current: **$736.43** | Strength: 5/5 Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP p"
-    },
-    {
-      "ts": "2026-06-22T15:50:53.190000+00:00",
-      "time": "11:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $59.01** Current: **$59.03** | Strength: 4/5 \u2014 **Recent daily low (2 days ago) + intraday congestion zone**"
-    },
-    {
-      "ts": "2026-06-22T15:49:49.805000+00:00",
-      "time": "11:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $735.5** Current: **$735.38** | Strength: 5/5 Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP p"
     }
   ]
 }
