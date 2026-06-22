@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T17:32:07.937298+00:00",
+  "generated_at": "2026-06-22T17:46:15.037461+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T17:33:30.429000+00:00",
+      "time": "01:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $208.78** Current: **$208.69** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-22T17:32:31.994000+00:00",
+      "time": "01:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,354**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-22T16:53:00.796000+00:00",
       "time": "12:53 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:02 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP2 $370.0** Current: **$369.93** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-22T15:57:15.630000+00:00",
-      "time": "11:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S3 $64731.2** Current: **$64714.72** | Strength: 4/5 20-day VWAP; mean reversion zone"
-    },
-    {
-      "ts": "2026-06-22T15:50:54.527000+00:00",
-      "time": "11:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $735.5** Current: **$736.43** | Strength: 5/5 Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP p"
     }
   ]
 }
