@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-22T15:46:19.229142+00:00",
+  "generated_at": "2026-06-22T16:01:09.594988+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T15:57:15.630000+00:00",
+      "time": "11:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S3 $64731.2** Current: **$64714.72** | Strength: 4/5 20-day VWAP; mean reversion zone"
+    },
+    {
+      "ts": "2026-06-22T15:50:54.527000+00:00",
+      "time": "11:50 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $735.5** Current: **$736.43** | Strength: 5/5 Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP p"
+    },
+    {
+      "ts": "2026-06-22T15:50:53.190000+00:00",
+      "time": "11:50 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $59.01** Current: **$59.03** | Strength: 4/5 \u2014 **Recent daily low (2 days ago) + intraday congestion zone**"
+    },
+    {
+      "ts": "2026-06-22T15:49:49.805000+00:00",
+      "time": "11:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $735.5** Current: **$735.38** | Strength: 5/5 Yesterday's daily high + 1H high cluster (744.76, 744.22, 739.96); VWAP p"
+    },
+    {
+      "ts": "2026-06-22T15:49:48.728000+00:00",
+      "time": "11:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $59.01** Current: **$58.93** | Strength: 4/5 \u2014 **Recent daily low (2 days ago) + intraday congestion zone**"
+    },
     {
       "ts": "2026-06-22T15:35:59.692000+00:00",
       "time": "11:35 AM ET",
@@ -30,36 +60,6 @@
       "time": "11:18 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $560.9** Current: **$561.03** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-06-22T15:17:52.518000+00:00",
-      "time": "11:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $113.27** Current: **$113.22** | Strength: 5/5 **60-day extreme low (swing low); hardest support in dataset**"
-    },
-    {
-      "ts": "2026-06-22T15:16:46.961000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $560.9** Current: **$560.75** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-06-22T15:06:08.805000+00:00",
-      "time": "11:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $122.68** Current: **$122.47** | Strength: 5/5 \u2014 **52-week low + 0% Fibonacci (start of swing)**"
-    },
-    {
-      "ts": "2026-06-22T15:01:46.545000+00:00",
-      "time": "11:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $563.1** Current: **$563.77** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
-    },
-    {
-      "ts": "2026-06-22T14:55:22.454000+00:00",
-      "time": "10:55 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $563.1** Current: **$562.05** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
     }
   ]
 }
