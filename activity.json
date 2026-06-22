@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T19:02:34.527747+00:00",
+  "generated_at": "2026-06-22T19:17:35.893844+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T19:09:21.582000+00:00",
+      "time": "03:09 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1104.33** Current: **$1104.52** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
+    },
+    {
+      "ts": "2026-06-22T19:07:13.004000+00:00",
+      "time": "03:07 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1104.33** Current: **$1104.33** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
+    },
     {
       "ts": "2026-06-22T18:56:13.263000+00:00",
       "time": "02:56 PM ET",
@@ -48,18 +60,6 @@
       "time": "02:03 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $545.6** Current: **$545.10** | Strength: 5/5 \u2014 **Intraday pullback support (1H low from 2 candles ago)**"
-    },
-    {
-      "ts": "2026-06-22T17:56:59.918000+00:00",
-      "time": "01:56 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE TP2 $370.0** Current: **$370.06** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-06-22T17:56:57.922000+00:00",
-      "time": "01:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1200.0** Current: **$1199.20** | Strength: 4/5 Psychological round, 2x Fib extension zone begins"
     }
   ]
 }
