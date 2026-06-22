@@ -14880,7 +14880,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-19",
+    "last_updated": "2026-06-22",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14909,9 +14909,9 @@
         "price": 453.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day absolute high (golden 4-week resistance); psychological round; extension target",
+        "reason": "\u2014 60-day swing high; psychological round; breakout level for bull continuation",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14919,9 +14919,9 @@
         "price": 395.32,
         "type": "S1",
         "strength": 5,
-        "reason": "0.500 Fibonacci retracement (golden zone start); MA50 $398.30 proximity",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint); intraday 1H lows clustering here ($395.19, $395.87, $394.2); first support zone",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14929,9 +14929,9 @@
         "price": 381.61,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.618 (GOLDEN POCKET start) + prior daily HL + psychological round",
+        "reason": "\u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); aligns with recent swing low $380.15 (1.46 pts away); ",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14939,9 +14939,9 @@
         "price": 362.1,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.786 + daily support node from swing lows; deep structural support",
+        "reason": "\u2014 Fibonacci 0.786; extends support into psychological support; weekly HTF relevance",
         "status": "active",
-        "source_brief": "2026-06-15",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15039,9 +15039,9 @@
         "price": 425.99,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement ($337.24 \u2192 $453.40) + prior daily high",
+        "reason": "\u2014 Fibonacci 0.236 retracement; prior swing high proximity ($416.0, $433.6 nearby); previous battle ground",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15140,7 +15140,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Prior swing low (60d), 0.786 Fib approaching ($362.10)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15180,7 +15180,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15260,7 +15260,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "60-day swing low cluster; psychological round $365; invalidates bullish bias entirely",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15370,7 +15370,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15430,7 +15430,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 60-day swing low; golden pocket ($381.61 Fib 0.618) proximity; **hard invalidation if broken**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15440,7 +15440,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-12",
         "hit_count": 0,
         "last_hit": null
@@ -15460,7 +15460,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15470,7 +15470,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement; sits near MA50 $398.30 on daily pull-back; intra-day support zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15480,7 +15480,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15490,7 +15490,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15500,7 +15500,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15510,7 +15510,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-13",
         "hit_count": 0,
         "last_hit": null
@@ -15530,7 +15530,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15540,7 +15540,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-14",
         "hit_count": 0,
         "last_hit": null
@@ -15572,6 +15572,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 412.25,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP; price rejected here intraday; prior support/resistance node",
+        "status": "active",
+        "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
       }
