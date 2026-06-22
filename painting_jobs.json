@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T19:17:41.804077+00:00",
+  "generated_at": "2026-06-22T19:32:42.275875+00:00",
   "source": "airtable_live",
   "summary": {
-    "active": 3,
+    "active": 4,
     "scheduled": 5
   },
   "jobs": [
@@ -101,6 +101,18 @@
       "notes": "Exterior paint ~$10k. June 1st or June 15th \u2014 June 1 entered, confirm with client.",
       "start_date": "2026-06-01T08:00:00.000Z",
       "client_phone": ""
+    },
+    {
+      "id": "recuZyabrYtrQDL4w",
+      "name": "29 Middleton Rd - #96",
+      "address": "29 Middleton Rd, Boxford, MA 01921",
+      "status": "In Progress",
+      "status_label": "In Progress",
+      "job_type": "Residential Exterior",
+      "value": 25440,
+      "notes": "Crew: David & Manny. Scheduled hours: 8:30 AM \u2013 2:30 PM.\n\nData synced from PaintScout on 2026-06-22. Estimate #96, dated Jun 12, 2026. Status in PaintScout: Viewed (estimate sent and viewed by client). Job title: \"Common House with Medium Prep\" (Residential Exterior). Client: Margaret McGovern, 978-852-0283. Total estimate value: $25,440.00.",
+      "start_date": "",
+      "client_phone": "9788520283"
     }
   ]
 }
