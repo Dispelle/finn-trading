@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-22T21:32:53.323218+00:00",
+  "generated_at": "2026-06-22T21:47:49.960422+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T21:33:12.308000+00:00",
+      "time": "05:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,215**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-22T19:58:42.135000+00:00",
       "time": "03:58 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:32 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $663.8** Current: **$664.07** | Strength: 4/5 60-day absolute high; psychological round; 1.272 Fib extension (746.47 is"
-    },
-    {
-      "ts": "2026-06-22T19:09:21.582000+00:00",
-      "time": "03:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1104.33** Current: **$1104.52** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
     }
   ]
 }
