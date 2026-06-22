@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-22T18:32:34.395478+00:00",
+  "generated_at": "2026-06-22T18:47:33.617778+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T18:45:30.428000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $84.83** Current: **$84.75** | Strength: 5/5 \u2014 reason: Fib 0.382 retracement (golden zone start)"
+    },
+    {
+      "ts": "2026-06-22T18:42:09.630000+00:00",
+      "time": "02:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $84.83** Current: **$84.84** | Strength: 5/5 \u2014 reason: Fib 0.382 retracement (golden zone start)"
+    },
+    {
+      "ts": "2026-06-22T18:39:58.610000+00:00",
+      "time": "02:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $663.8** Current: **$663.79** | Strength: 4/5 60-day absolute high; psychological round; 1.272 Fib extension (746.47 is"
+    },
+    {
+      "ts": "2026-06-22T18:34:34.944000+00:00",
+      "time": "02:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $745.25** Current: **$744.97** | Strength: 5/5 MA20 daily (primary moving average, currently above price) + psychologic"
+    },
     {
       "ts": "2026-06-22T18:21:42.997000+00:00",
       "time": "02:21 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1200.0** Current: **$1200.72** | Strength: 4/5 Psychological round, 2x Fib extension zone begins"
-    },
-    {
-      "ts": "2026-06-22T17:54:49.938000+00:00",
-      "time": "01:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $546.44** Current: **$546.47** | Strength: 5/5 | 60-day ATH; psychological round; Fib 1.272 extension = $642.62 (distan"
-    },
-    {
-      "ts": "2026-06-22T17:53:47.171000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $16.52** Current: **$16.52** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement ($14.64\u2192$23.42); also prior daily high test "
-    },
-    {
-      "ts": "2026-06-22T17:53:45.566000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $545.6** Current: **$546.20** | Strength: 5/5 \u2014 **Intraday pullback support (1H low from 2 candles ago)**"
-    },
-    {
-      "ts": "2026-06-22T17:48:29.079000+00:00",
-      "time": "01:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1108.76** Current: **$1108.23** | Strength: 5/5 20-day VWAP; currently 3.2 points above price; dynamic support"
     }
   ]
 }
