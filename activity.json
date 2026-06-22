@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-22T14:31:46.113179+00:00",
+  "generated_at": "2026-06-22T14:46:04.340957+00:00",
   "items": [
     {
-      "ts": "2026-06-22T14:30:43.731000+00:00",
-      "time": "10:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $84.19** Current: **$84.16** | Strength: 5/5 \u2014 Fibonacci 0.382 (retracement of 68.49\u219293.89 move). MA20 $84.80 converge"
-    },
-    {
-      "ts": "2026-06-22T14:27:32.692000+00:00",
-      "time": "10:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $747.5** Current: **$747.21** | Strength: 5/5 Prior daily high (4 days ago); MA20 daily sits here; 1H candle cluster re"
-    },
-    {
-      "ts": "2026-06-22T14:27:31.746000+00:00",
-      "time": "10:27 AM ET",
+      "ts": "2026-06-22T14:45:44.999000+00:00",
+      "time": "10:45 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE TP1 $84.27** Current: **$84.29** | Strength: 3/5 Take profit target from trade plan"
+      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $738.0** Current: **$738.21** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-22T14:23:14.964000+00:00",
-      "time": "10:23 AM ET",
+      "ts": "2026-06-22T14:43:37.265000+00:00",
+      "time": "10:43 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **COPX \u2014 BROKE BELOW TP1 $84.27** Current: **$84.25** | Strength: 3/5 Take profit target from trade plan"
+      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $738.0** Current: **$737.93** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-06-22T14:20:59.757000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-22T14:39:20.795000+00:00",
+      "time": "10:39 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $546.44** Current: **$545.95** | Strength: 5/5 | 60-day ATH; psychological round; Fib 1.272 extension = $642.62 (distan"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $738.31** Current: **$738.26** | Strength: 5/5 Mid-range between 748.65 and 721.34; prior daily close cluster"
     },
     {
-      "ts": "2026-06-22T14:19:50.049000+00:00",
-      "time": "10:19 AM ET",
+      "ts": "2026-06-22T14:39:19.091000+00:00",
+      "time": "10:39 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $59.87** Current: **$59.73** | Strength: 4/5 \u2014 Current daily low (today's L); psychological round number ($60 broken)"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $663.8** Current: **$663.70** | Strength: 4/5 60-day absolute high; psychological round; 1.272 Fib extension (746.47 is"
     },
     {
-      "ts": "2026-06-22T14:16:35.910000+00:00",
-      "time": "10:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $412.25** Current: **$411.78** | Strength: 5/5 \u2014 20-day VWAP; price rejected here intraday; prior support/resistance n"
-    },
-    {
-      "ts": "2026-06-22T14:06:57.353000+00:00",
-      "time": "10:06 AM ET",
+      "ts": "2026-06-22T14:36:09.042000+00:00",
+      "time": "10:36 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $412.25** Current: **$412.28** | Strength: 5/5 \u2014 20-day VWAP; price rejected here intraday; prior support/resistance n"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.72** Current: **$745.76** | Strength: 5/5 **20-day VWAP** (volume-weighted anchor); MA20 at $747.08 nearby"
     },
     {
-      "ts": "2026-06-22T14:05:54.068000+00:00",
-      "time": "10:05 AM ET",
+      "ts": "2026-06-22T14:35:05.239000+00:00",
+      "time": "10:35 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $117.27** Current: **$116.93** | Strength: 5/5 Today's low; recent 1H cluster (last 20 bars shows low of $117.27); swi"
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $300.43** Current: **$300.42** | Strength: 5/5 0.236 Fib retracement (golden zone); daily support turned resistance"
     },
     {
-      "ts": "2026-06-22T14:00:26.731000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-22T14:35:04.510000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R2 $738.31** Current: **$739.00** | Strength: 5/5 Mid-range between 748.65 and 721.34; prior daily close cluster"
+    },
+    {
+      "ts": "2026-06-22T14:35:03.281000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $84.19** Current: **$84.25** | Strength: 5/5 \u2014 Fibonacci 0.382 (retracement of 68.49\u219293.89 move). MA20 $84.80 converge"
+    },
+    {
+      "ts": "2026-06-22T14:33:59.153000+00:00",
+      "time": "10:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $745.25** Current: **$745.30** | Strength: 5/5 MA20 daily (primary moving average, currently above price) + psychologic"
+    },
+    {
+      "ts": "2026-06-22T14:32:54.523000+00:00",
+      "time": "10:32 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $560.0** Current: **$558.33** | Strength: 5/5 \u2014 60-day absolute high; psychological barrier; Fibonacci 1.000 extension "
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $745.25** Current: **$745.22** | Strength: 5/5 MA20 daily (primary moving average, currently above price) + psychologic"
     }
   ]
 }
