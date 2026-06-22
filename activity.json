@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T15:01:31.564331+00:00",
+  "generated_at": "2026-06-22T15:16:07.414035+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T15:06:08.805000+00:00",
+      "time": "11:06 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $122.68** Current: **$122.47** | Strength: 5/5 \u2014 **52-week low + 0% Fibonacci (start of swing)**"
+    },
+    {
+      "ts": "2026-06-22T15:01:46.545000+00:00",
+      "time": "11:01 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $563.1** Current: **$563.77** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
+    },
     {
       "ts": "2026-06-22T14:55:22.454000+00:00",
       "time": "10:55 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:35 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $300.43** Current: **$300.42** | Strength: 5/5 0.236 Fib retracement (golden zone); daily support turned resistance"
-    },
-    {
-      "ts": "2026-06-22T14:35:04.510000+00:00",
-      "time": "10:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R2 $738.31** Current: **$739.00** | Strength: 5/5 Mid-range between 748.65 and 721.34; prior daily close cluster"
-    },
-    {
-      "ts": "2026-06-22T14:35:03.281000+00:00",
-      "time": "10:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $84.19** Current: **$84.25** | Strength: 5/5 \u2014 Fibonacci 0.382 (retracement of 68.49\u219293.89 move). MA20 $84.80 converge"
     }
   ]
 }
