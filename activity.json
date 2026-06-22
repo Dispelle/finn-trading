@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-22T18:03:11.613391+00:00",
+  "generated_at": "2026-06-22T18:17:30.937391+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T18:03:25.445000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $545.6** Current: **$545.10** | Strength: 5/5 \u2014 **Intraday pullback support (1H low from 2 candles ago)**"
+    },
     {
       "ts": "2026-06-22T17:56:59.918000+00:00",
       "time": "01:56 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:47 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $208.78** Current: **$208.81** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-22T17:33:30.429000+00:00",
-      "time": "01:33 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $208.78** Current: **$208.69** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
