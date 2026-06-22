@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-22T19:47:35.429450+00:00",
+  "generated_at": "2026-06-22T20:02:38.041345+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T19:58:42.135000+00:00",
+      "time": "03:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $1203.5** Current: **$1205.51** | Strength: 4/5 \u2014 Fibonacci extension 1.272 at $1377.35 (too wide); using 2% extension f"
+    },
+    {
+      "ts": "2026-06-22T19:52:17.536000+00:00",
+      "time": "03:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S3 $51.96** Current: **$51.95** | Strength: 5/5 \u2014 60-day swing low; MA200 zone ($51.83). Final **hard support**; break bel"
+    },
+    {
+      "ts": "2026-06-22T19:51:13.016000+00:00",
+      "time": "03:51 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S3 $51.96** Current: **$52.00** | Strength: 5/5 \u2014 60-day swing low; MA200 zone ($51.83). Final **hard support**; break bel"
+    },
     {
       "ts": "2026-06-22T19:42:38.053000+00:00",
       "time": "03:42 PM ET",
@@ -42,24 +60,6 @@
       "time": "03:09 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1104.33** Current: **$1104.52** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
-    },
-    {
-      "ts": "2026-06-22T19:07:13.004000+00:00",
-      "time": "03:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1104.33** Current: **$1104.33** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
-    },
-    {
-      "ts": "2026-06-22T18:56:13.263000+00:00",
-      "time": "02:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.66** Current: **$12.65** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-22T18:45:30.428000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $84.83** Current: **$84.75** | Strength: 5/5 \u2014 reason: Fib 0.382 retracement (golden zone start)"
     }
   ]
 }
