@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T14:01:02.023349+00:00",
+  "generated_at": "2026-06-22T14:16:02.530674+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T14:06:57.353000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $412.25** Current: **$412.28** | Strength: 5/5 \u2014 20-day VWAP; price rejected here intraday; prior support/resistance n"
+    },
+    {
+      "ts": "2026-06-22T14:05:54.068000+00:00",
+      "time": "10:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $117.27** Current: **$116.93** | Strength: 5/5 Today's low; recent 1H cluster (last 20 bars shows low of $117.27); swi"
+    },
     {
       "ts": "2026-06-22T14:00:26.731000+00:00",
       "time": "10:00 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:46 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $379.83** Current: **$381.00** | Strength: 5/5 \u2014 **Fibonacci 0.786 retracement** (356.28 \u2192 466.32)"
-    },
-    {
-      "ts": "2026-06-22T13:44:19.196000+00:00",
-      "time": "09:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $127.99** Current: **$128.14** | Strength: 5/5 **CURRENT PRICE** \u2014 Support zone here; coincides with 1H lows clusterin"
-    },
-    {
-      "ts": "2026-06-22T13:44:15.462000+00:00",
-      "time": "09:44 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $212.71** Current: **$212.38** | Strength: 5/5 \u2014 Weekly/Daily MA20; rejected price 3 of last 10 days"
     }
   ]
 }
