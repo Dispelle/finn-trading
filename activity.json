@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-22T14:46:12.996663+00:00",
+  "generated_at": "2026-06-22T15:01:07.203640+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T14:55:22.454000+00:00",
+      "time": "10:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $563.1** Current: **$562.05** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
+    },
+    {
+      "ts": "2026-06-22T14:50:01.602000+00:00",
+      "time": "10:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.18** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+    },
     {
       "ts": "2026-06-22T14:45:44.999000+00:00",
       "time": "10:45 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:35 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $84.19** Current: **$84.25** | Strength: 5/5 \u2014 Fibonacci 0.382 (retracement of 68.49\u219293.89 move). MA20 $84.80 converge"
-    },
-    {
-      "ts": "2026-06-22T14:33:59.153000+00:00",
-      "time": "10:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $745.25** Current: **$745.30** | Strength: 5/5 MA20 daily (primary moving average, currently above price) + psychologic"
-    },
-    {
-      "ts": "2026-06-22T14:32:54.523000+00:00",
-      "time": "10:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $745.25** Current: **$745.22** | Strength: 5/5 MA20 daily (primary moving average, currently above price) + psychologic"
     }
   ]
 }
