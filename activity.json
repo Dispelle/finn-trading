@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-22T18:48:39.505485+00:00",
+  "generated_at": "2026-06-22T19:02:34.527747+00:00",
   "items": [
+    {
+      "ts": "2026-06-22T18:56:13.263000+00:00",
+      "time": "02:56 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.66** Current: **$12.65** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-06-22T18:45:30.428000+00:00",
       "time": "02:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:56 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1200.0** Current: **$1199.20** | Strength: 4/5 Psychological round, 2x Fib extension zone begins"
-    },
-    {
-      "ts": "2026-06-22T17:54:50.830000+00:00",
-      "time": "01:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1200.0** Current: **$1200.72** | Strength: 4/5 Psychological round, 2x Fib extension zone begins"
     }
   ]
 }
