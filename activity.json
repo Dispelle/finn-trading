@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T14:10:02.451931+00:00",
+  "generated_at": "2026-06-23T14:10:46.009472+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T14:10:17.112000+00:00",
+      "time": "10:10 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $738.19** Current: **$738.67** | Strength: 5/5 \u2014 intraday support from daily low candles + confluence with 1H swing low"
+    },
     {
       "ts": "2026-06-23T14:06:01.501000+00:00",
       "time": "10:06 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:52 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1092.79** Current: **$1093.99** | Strength: 5/5 \u2014 Today's daily low; recent intraday support (1H low 1092.79); tested m"
-    },
-    {
-      "ts": "2026-06-23T13:52:56.868000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1089.29** Current: **$1093.99** | Strength: 5/5 60-day swing high (earlier); supply cluster; 4H rejection zone"
     }
   ]
 }
