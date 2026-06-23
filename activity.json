@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T21:11:59.052372+00:00",
+  "generated_at": "2026-06-23T21:26:15.251891+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T21:15:07.203000+00:00",
+      "time": "05:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,431** | P&L: **-23"
+    },
     {
       "ts": "2026-06-23T21:00:05.542000+00:00",
       "time": "05:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:38 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $623.97** Current: **$623.83** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-06-23T19:33:48.545000+00:00",
-      "time": "03:33 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $623.97** Current: **$624.09** | Strength: 5/5"
     }
   ]
 }
