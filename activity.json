@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T21:56:26.320966+00:00",
+  "generated_at": "2026-06-23T22:11:17.972946+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T22:00:06.685000+00:00",
+      "time": "06:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,515** | P&L: **-23"
+    },
     {
       "ts": "2026-06-23T21:30:07.574000+00:00",
       "time": "05:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:43 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $295.62** Current: **$295.60** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
-    },
-    {
-      "ts": "2026-06-23T19:42:28.196000+00:00",
-      "time": "03:42 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $563.1** Current: **$563.83** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
     }
   ]
 }
