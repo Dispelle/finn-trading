@@ -17216,7 +17216,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-06-22",
+    "last_updated": "2026-06-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17226,7 +17226,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17356,7 +17356,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17376,7 +17376,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement (golden pocket edge)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17386,7 +17386,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket start\u2014major support)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17676,7 +17676,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fibonacci 1.272 extension (281.75\u2192321.30 swing); round psychological",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17686,7 +17686,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "52-week high; structural resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17706,7 +17706,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fibonacci 0.236 retracement; recent daily swing low cluster (311.11, 312.7 area)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17716,7 +17716,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Most recent daily swing low; invalidation level for bullish structure; MA50 proximity ($306.59)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17736,7 +17736,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17756,7 +17756,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 1.618 extension (golden extension target)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17766,7 +17766,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's low; intraday support; prior daily high (2 days ago)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17776,7 +17776,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day high; today's high; natural supply zone after 3-week climb",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17786,7 +17786,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17796,7 +17796,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fibonacci 0.382 retracement; MA50 sits at $306.59 (confluence)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17806,7 +17806,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fibonacci 1.272 extension (281.75\u2192321.30 swing); historically strong resistance on expansions",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17826,7 +17826,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17836,7 +17836,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Round number + fib extension zone (above 1.272 at $332.06 but within reasonable scalp target)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -17905,9 +17905,9 @@
         "price": 338.09,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high, today's spike high; confluence with Fib extension 1.272 extension zone ($353.41 is beyond); prior all-tim",
+        "reason": "\u2014 60-day/52-week high, prior swing high, psychological round",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17915,9 +17915,9 @@
         "price": 353.41,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (281.75 \u2192 338.09); psychological round number ($350 round); next institutional target if bre",
+        "reason": "\u2014 Fibonacci 1.272 extension from 281.75\u2192338.09",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17925,9 +17925,9 @@
         "price": 372.91,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.618 extension (281.75 \u2192 338.09); measured move upside; macro resistance level",
+        "reason": "\u2014 Fibonacci 1.618 extension (golden extension)",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17935,9 +17935,9 @@
         "price": 324.79,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (281.75 \u2192 338.09); today's low $324.16 breaks just below this; immediate pullback magnet",
+        "reason": "\u2014 Fibonacci 0.236 retracement",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17945,9 +17945,9 @@
         "price": 316.57,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement; confluence with recent swing lows (295.2\u2013316.08 cluster); MA20d $310.47 nearby; strong ho",
+        "reason": "\u2014 Fibonacci 0.382 retracement (prior swing high cluster)",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17955,9 +17955,9 @@
         "price": 309.92,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint 281.75 \u2192 338.09); MA50 $308.86 directly below; prior swing high $309.14; dual MA + Fib confl",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint) + MA20 daily confluence",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       }
