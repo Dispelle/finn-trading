@@ -11122,7 +11122,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-06-22",
+    "last_updated": "2026-06-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11202,7 +11202,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.786 retracement ($14.64\u2192$23.42); also prior daily high test level from 9 days ago.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11262,7 +11262,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "0.236 Fib retracement; psychological $21 level; 60d swing low $21.06 nearby",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11302,7 +11302,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "0.500 Fibonacci midpoint; daily MA20 ($18.20) nearby; prior support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11312,7 +11312,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high; LLH in progression \u2014 **key psychological resistance**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11362,7 +11362,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "Recent daily low (9-bar low); micro support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11422,7 +11422,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "0.500 Fib retracement; near MA20 ($18.01); previous support became resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11462,7 +11462,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **Daily low from 2 days ago + minor 1H support cluster.** Nearest support.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11542,7 +11542,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **Fibonacci 0.382 retracement + MA20 slope intercept zone.** Historically tested, now overhead.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11642,7 +11642,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's daily low; 1H support cluster (15.71\u201315.83)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11812,7 +11812,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11832,7 +11832,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "**Today's 1H low** \u2014 newly formed structural support; tight consolidation base",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11842,7 +11842,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "0.786 Fib retracement; previous intraday support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11852,7 +11852,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "**20-day VWAP** ($17.55 on larger sample, but daily VWAP proxy = $15.83 from last 10 closes avg); prior daily close; psy",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -11862,7 +11862,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
