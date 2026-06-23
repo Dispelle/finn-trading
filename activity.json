@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-23T13:39:51.669858+00:00",
+  "generated_at": "2026-06-23T13:54:53.527956+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T13:54:05.879000+00:00",
+      "time": "09:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1104.33** Current: **$1105.02** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
+    },
+    {
+      "ts": "2026-06-23T13:53:00.650000+00:00",
+      "time": "09:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1104.33** Current: **$1102.81** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
+    },
+    {
+      "ts": "2026-06-23T13:52:57.554000+00:00",
+      "time": "09:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1092.79** Current: **$1093.99** | Strength: 5/5 \u2014 Today's daily low; recent intraday support (1H low 1092.79); tested m"
+    },
+    {
+      "ts": "2026-06-23T13:52:56.868000+00:00",
+      "time": "09:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $1089.29** Current: **$1093.99** | Strength: 5/5 60-day swing high (earlier); supply cluster; 4H rejection zone"
+    },
+    {
+      "ts": "2026-06-23T13:50:50.077000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$372.91** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+    },
+    {
+      "ts": "2026-06-23T13:49:44.294000+00:00",
+      "time": "09:49 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $203.08** Current: **$203.09** | Strength: 5/5 Recent swing low (60d); **last higher low before structure break**"
+    },
+    {
+      "ts": "2026-06-23T13:48:40.104000+00:00",
+      "time": "09:48 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $718.37** Current: **$718.47** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
+    },
+    {
+      "ts": "2026-06-23T13:44:18.762000+00:00",
+      "time": "09:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S3 $51.96** Current: **$51.95** | Strength: 5/5 \u2014 60-day swing low; MA200 zone ($51.83). Final **hard support**; break bel"
+    },
     {
       "ts": "2026-06-23T13:37:46.962000+00:00",
       "time": "09:37 AM ET",
@@ -12,54 +60,6 @@
       "time": "09:35 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $296.76** Current: **$296.50** | Strength: 4/5 Today's daily low; intraday support; consolidation floor"
-    },
-    {
-      "ts": "2026-06-23T13:35:32.289000+00:00",
-      "time": "09:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $200.4** Current: **$201.77** | Strength: 5/5 0.500 Fib retracement; mid-range, prior low cluster, daily support"
-    },
-    {
-      "ts": "2026-06-23T13:33:18.267000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1108.76** Current: **$1106.28** | Strength: 5/5 20-day VWAP; currently 3.2 points above price; dynamic support"
-    },
-    {
-      "ts": "2026-06-23T13:33:16.614000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $296.76** Current: **$296.95** | Strength: 4/5 Today's daily low; intraday support; consolidation floor"
-    },
-    {
-      "ts": "2026-06-23T13:33:11.836000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $61992.16** Current: **$62356.01** | Strength: 4/5 \u2014 Today's daily low; recent swing low; psychological round at $62k"
-    },
-    {
-      "ts": "2026-06-23T13:33:11.248000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $62201.0** Current: **$62356.01** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-23T13:33:10.663000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62298.16** Current: **$62356.01** | Strength: 4/5 Today's low; intraday support; 1H swing low"
-    },
-    {
-      "ts": "2026-06-23T13:32:08.581000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.5** Current: **$12.32** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-23T13:31:59.949000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1108.76** Current: **$1110.02** | Strength: 5/5 20-day VWAP; currently 3.2 points above price; dynamic support"
     }
   ]
 }
