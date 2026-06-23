@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-23T17:42:16.365884+00:00",
+  "generated_at": "2026-06-23T17:55:58.941849+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T17:55:34.792000+00:00",
+      "time": "01:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62298.16** Current: **$62281.88** | Strength: 4/5 Today's low; intraday support; 1H swing low"
+    },
+    {
+      "ts": "2026-06-23T17:52:25.100000+00:00",
+      "time": "01:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.20** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+    },
+    {
+      "ts": "2026-06-23T17:45:06.393000+00:00",
+      "time": "01:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,434**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-23T17:42:42.671000+00:00",
+      "time": "01:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S3 $718.37** Current: **$718.22** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
+    },
     {
       "ts": "2026-06-23T17:39:28.347000+00:00",
       "time": "01:39 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,680** | P&L: **-23"
-    },
-    {
-      "ts": "2026-06-23T16:01:26.136000+00:00",
-      "time": "12:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $12.27** Current: **$12.29** | Strength: 4/5 60-day support zone; daily swing low (Dec pattern)"
-    },
-    {
-      "ts": "2026-06-23T16:00:10.969000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,400**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-23T15:45:08.597000+00:00",
-      "time": "11:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,211** | P&L: **-23"
-    },
-    {
-      "ts": "2026-06-23T15:35:49.226000+00:00",
-      "time": "11:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $563.1** Current: **$563.40** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
     }
   ]
 }
