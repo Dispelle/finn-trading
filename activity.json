@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T22:11:27.781457+00:00",
+  "generated_at": "2026-06-23T22:26:18.686840+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T22:15:06.422000+00:00",
+      "time": "06:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,662**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-23T22:00:06.685000+00:00",
       "time": "06:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:44 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $295.62** Current: **$295.76** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
-    },
-    {
-      "ts": "2026-06-23T19:43:32.297000+00:00",
-      "time": "03:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $295.62** Current: **$295.60** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
     }
   ]
 }
