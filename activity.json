@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-23T18:11:56.283506+00:00",
+  "generated_at": "2026-06-23T18:26:00.391519+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T18:25:31.350000+00:00",
+      "time": "02:25 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1108.76** Current: **$1108.74** | Strength: 5/5 20-day VWAP; currently 3.2 points above price; dynamic support"
+    },
+    {
+      "ts": "2026-06-23T18:15:05.731000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,281**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-23T18:09:29.399000+00:00",
       "time": "02:09 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:58 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $373.28** Current: **$373.40** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
-    },
-    {
-      "ts": "2026-06-23T17:55:34.792000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62298.16** Current: **$62281.88** | Strength: 4/5 Today's low; intraday support; 1H swing low"
-    },
-    {
-      "ts": "2026-06-23T17:52:25.100000+00:00",
-      "time": "01:52 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.20** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
     }
   ]
 }
