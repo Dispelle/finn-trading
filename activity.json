@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-23T15:10:40.279315+00:00",
+  "generated_at": "2026-06-23T15:25:36.393131+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T15:25:05.403000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $12.24** Current: **$12.22** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-23T15:21:51.339000+00:00",
+      "time": "11:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $563.1** Current: **$562.81** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
+    },
+    {
+      "ts": "2026-06-23T15:15:07.017000+00:00",
+      "time": "11:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,296** | P&L: **-23"
+    },
     {
       "ts": "2026-06-23T15:07:57.843000+00:00",
       "time": "11:07 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:16 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $1110.4** Current: **$1111.50** | Strength: 5/5 60-day swing high; recent double rejection; psychological round; Fib 1.2"
-    },
-    {
-      "ts": "2026-06-23T14:15:07.320000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,615**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-23T14:12:29.051000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $119.2** Current: **$119.31** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-23T14:11:24.200000+00:00",
-      "time": "10:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $119.2** Current: **$119.12** | Strength: 5/5 |"
     }
   ]
 }
