@@ -17252,6 +17252,16 @@
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 151.34,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
@@ -19500,7 +19510,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-06-22",
+    "last_updated": "2026-06-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19519,9 +19529,9 @@
         "price": 14.01,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fib golden pocket zone + psychological/fib cluster",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-19",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19531,7 +19541,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19631,7 +19641,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19641,7 +19651,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19740,7 +19750,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -19750,7 +19760,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 5-day established low, tested twice in last 10 days; bears defending here",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -19781,7 +19791,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19880,7 +19890,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -19990,7 +20000,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -20130,7 +20140,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -20201,7 +20211,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20212,6 +20222,26 @@
         "reason": "|",
         "status": "active",
         "source_brief": "2026-06-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.5,
+        "type": "S1",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 14.65,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       }
