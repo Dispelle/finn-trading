@@ -13546,7 +13546,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-06-22",
+    "last_updated": "2026-06-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13635,9 +13635,9 @@
         "price": 317.4,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day high; swing high; Fibonacci 0.236 retracement ($300.43 nearby)",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13766,7 +13766,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "20-day VWAP (price $13.39 below); key anchoring level for mean reversion",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -13776,7 +13776,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Recent weekly close (7 candles ago); structural swing high",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -13866,7 +13866,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "0.236 Fib retracement (golden zone); daily support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -13876,7 +13876,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Last HH (day 2). Fib 0.382 retracement ($289.94) lies below current price; if taken, $315.20 is next supply.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -13916,7 +13916,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "20-day VWAP; institutional anchor; strong supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14026,7 +14026,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "MA50 (50-day moving average); critical long-term support; strong confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14036,7 +14036,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "MA50; structural support; 60d swing low zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14096,7 +14096,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior swing high (60d); confluence with MA20 (weekly $275 + daily gap); triple test zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14106,7 +14106,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Recent daily high (5 days ago); psychological level; prior support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14136,7 +14136,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "1H swing high (intraday); recent tested resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14166,7 +14166,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Prior weekly close (3 candles ago); failed support now resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14176,7 +14176,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "MA200 (long-term trend anchor). Breach invalidates long-term uptrend entirely.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14186,7 +14186,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "MA20 daily (downtroping); psychological; prior recent close",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14196,7 +14196,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-15",
         "hit_count": 0,
         "last_hit": null
@@ -14217,7 +14217,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14228,6 +14228,56 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 302.42,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Today's daily high; 1H recent high; confluent with near-term 4H resistance",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 303.67,
+        "type": "R2",
+        "strength": 5,
+        "reason": "20-day VWAP; MA20 ($303.00); psychological round level",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 296.76,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's daily low; intraday support; consolidation floor",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 289.47,
+        "type": "S2",
+        "strength": 5,
+        "reason": "MA50; critical moving average; structural support",
+        "status": "active",
+        "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 287.38,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Last 10-day swing low; higher low anchor; invalidation point",
+        "status": "active",
+        "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
       }
