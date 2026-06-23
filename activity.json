@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T14:40:38.449110+00:00",
+  "generated_at": "2026-06-23T14:55:30.754889+00:00",
   "items": [
+    {
+      "ts": "2026-06-23T14:45:05.502000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,448** | P&L: **-23"
+    },
     {
       "ts": "2026-06-23T14:17:46.667000+00:00",
       "time": "10:17 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:01 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $720.99** Current: **$722.12** | Strength: 5/5 Today's daily low, active 4H support, very recent price discovery"
-    },
-    {
-      "ts": "2026-06-23T14:01:35.479000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $737.55** Current: **$737.91** | Strength: 5/5 |"
     }
   ]
 }
