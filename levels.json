@@ -18824,7 +18824,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19023,9 +19023,9 @@
         "price": 977.42,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fib golden pocket; 60-day swing low zone (976.68)",
+        "reason": "**Fib 0.618 (golden pocket); psychological round; major long-term support**",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19113,9 +19113,9 @@
         "price": 1182.73,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day all-time high; psychological round; 1.236 Fib ext zone",
+        "reason": "**60-day swing high (primary); 1.272 fib extension zone begins**",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19453,9 +19453,9 @@
         "price": 1104.33,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (critical support, close to MA20 $1,103.74\u2014CONFLUENCE ZONE)",
+        "reason": "**Fib 0.236 (golden retracement zone start); MA20 = $1,112.85 slope down approaching**",
         "status": "active",
-        "source_brief": "2026-06-19",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19463,9 +19463,9 @@
         "price": 1055.82,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement (50% pullback zone, institutional trader target)",
+        "reason": "**Fib 0.382; psychological round; prior support cluster**",
         "status": "active",
-        "source_brief": "2026-06-19",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19523,9 +19523,29 @@
         "price": 1149.1,
         "type": "R2",
         "strength": 4,
-        "reason": "Swing high 4 days ago; MA20(20d) proximity at $1,115.21 slightly below",
+        "reason": "60-day swing high (minor); psychological round; fib 0.236 = $1,104.33 (near, *not direct confluence*)",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1133.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior higher low (HL); 2-day consolidation top; natural reversion target",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1055.82,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       }
