@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-24T17:02:33.253378+00:00",
+  "generated_at": "2026-06-24T17:17:23.418128+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T17:15:06.548000+00:00",
+      "time": "01:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,753**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T17:07:16.162000+00:00",
+      "time": "01:07 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **TSLA \u2014 BROKE BELOW S3 $377.9** Current: **$377.77** | Strength: 3/5 |"
+    },
     {
       "ts": "2026-06-24T17:00:25.732000+00:00",
       "time": "01:00 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:02 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1104.33** Current: **$1104.06** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
-    },
-    {
-      "ts": "2026-06-24T16:00:07.999000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$60,170** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-24T15:45:06.271000+00:00",
-      "time": "11:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,460**  \u23f0 **YOU "
     }
   ]
 }
