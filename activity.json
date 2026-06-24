@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-24T19:03:18.756741+00:00",
+  "generated_at": "2026-06-24T19:18:09.395348+00:00",
   "items": [
     {
-      "ts": "2026-06-24T19:00:08.058000+00:00",
-      "time": "03:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,539** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-24T18:58:15.569000+00:00",
-      "time": "02:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $507.3** Current: **$506.21** | Strength: 5/5 \u2014 reason: **20-day VWAP**; price respected this yesterday; smart money an"
-    },
-    {
-      "ts": "2026-06-24T18:55:03.898000+00:00",
-      "time": "02:55 PM ET",
+      "ts": "2026-06-24T19:16:23.339000+00:00",
+      "time": "03:16 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $197.22** Current: **$197.42** | Strength: 5/5 60-day swing low, proximity to 0.618 Fib ($191.88)"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $607.61** Current: **$607.78** | Strength: 4/5"
     },
     {
-      "ts": "2026-06-24T18:54:00.173000+00:00",
-      "time": "02:54 PM ET",
+      "ts": "2026-06-24T19:15:18.967000+00:00",
+      "time": "03:15 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $609.21** Current: **$609.48** | Strength: 5/5 \u2014 20-day VWAP"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $995.87** Current: **$996.36** | Strength: 4/5 \u2014 Prior daily support/low, 10 days of history. Aligns with daily EMA20 ($"
     },
     {
-      "ts": "2026-06-24T18:52:57.241000+00:00",
-      "time": "02:52 PM ET",
+      "ts": "2026-06-24T19:15:07.689000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,557**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T19:09:59.890000+00:00",
+      "time": "03:09 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S3 $731.53** Current: **$731.55** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $505.27** Current: **$505.65** | Strength: 4/5 |"
     },
     {
-      "ts": "2026-06-24T18:51:51.494000+00:00",
-      "time": "02:51 PM ET",
+      "ts": "2026-06-24T19:08:56.221000+00:00",
+      "time": "03:08 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $609.21** Current: **$608.77** | Strength: 5/5 \u2014 20-day VWAP"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $505.27** Current: **$505.23** | Strength: 4/5 |"
     },
     {
-      "ts": "2026-06-24T18:50:48.150000+00:00",
-      "time": "02:50 PM ET",
+      "ts": "2026-06-24T19:07:52.554000+00:00",
+      "time": "03:07 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S3 $731.53** Current: **$731.30** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $1000.67** Current: **$995.36** | Strength: 4/5 \u2014 Fibonacci 0.236 retracement / MA20 was $1003.08 (trending up, now like"
     },
     {
-      "ts": "2026-06-24T18:50:44.925000+00:00",
-      "time": "02:50 PM ET",
+      "ts": "2026-06-24T19:07:52.083000+00:00",
+      "time": "03:07 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $197.22** Current: **$197.11** | Strength: 5/5 60-day swing low, proximity to 0.618 Fib ($191.88)"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $995.87** Current: **$995.36** | Strength: 4/5 \u2014 Prior daily support/low, 10 days of history. Aligns with daily EMA20 ($"
     },
     {
-      "ts": "2026-06-24T18:45:08.179000+00:00",
-      "time": "02:45 PM ET",
+      "ts": "2026-06-24T19:07:51.433000+00:00",
+      "time": "03:07 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,444**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $607.61** Current: **$607.40** | Strength: 4/5"
     },
     {
-      "ts": "2026-06-24T18:44:22.696000+00:00",
-      "time": "02:44 PM ET",
+      "ts": "2026-06-24T19:06:46.741000+00:00",
+      "time": "03:06 PM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP1 $369.5** Current: **$369.44** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $507.29** Current: **$506.66** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-24T19:03:34.288000+00:00",
+      "time": "03:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $507.29** Current: **$509.55** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
