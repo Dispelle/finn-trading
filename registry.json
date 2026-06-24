@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:33:42.240411+00:00",
+  "generated_at": "2026-06-24T23:48:42.252813+00:00",
   "overall_status": "green",
   "overdue_count": 0,
   "total_jobs": 0,
@@ -91,11 +91,6 @@
       "active": true
     },
     {
-      "id": "G1wOZMd0",
-      "name": "_Temp Tim Cannata Event Creator",
-      "active": true
-    },
-    {
       "id": "G7oGQSDH",
       "name": "_Backfill 48h - contactapainter@",
       "active": true
@@ -154,11 +149,6 @@
       "id": "RMVHrQXU",
       "name": "Discord \u2014 Market Close EOD",
       "active": false
-    },
-    {
-      "id": "RMe5ezNy",
-      "name": "_Temp Tim Cannata Event Creator v2",
-      "active": true
     },
     {
       "id": "Sv4xkZ5V",
@@ -253,6 +243,16 @@
     {
       "id": "mTujoye1",
       "name": "UPA - Calendar Agent",
+      "active": false
+    },
+    {
+      "id": "mbNODcxO",
+      "name": "PS Quote Sent to Airtable",
+      "active": false
+    },
+    {
+      "id": "n7VptjT5",
+      "name": "UPA - Email Agent",
       "active": false
     }
   ],
