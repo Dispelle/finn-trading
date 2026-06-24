@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-24T18:33:16.262445+00:00",
+  "generated_at": "2026-06-24T18:48:06.452440+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T18:45:08.179000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,444**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T18:44:22.696000+00:00",
+      "time": "02:44 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP1 $369.5** Current: **$369.44** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-24T18:33:44.595000+00:00",
+      "time": "02:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $614.47** Current: **$613.98** | Strength: 5/5 Daily support (prior day low 2 bars ago); MA20 nearby at $602.85"
+    },
     {
       "ts": "2026-06-24T18:30:07.700000+00:00",
       "time": "02:30 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,541**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-24T18:14:26.081000+00:00",
-      "time": "02:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $295.62** Current: **$295.65** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
-    },
-    {
-      "ts": "2026-06-24T18:13:18.591000+00:00",
-      "time": "02:13 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $295.62** Current: **$295.46** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
-    },
-    {
-      "ts": "2026-06-24T18:11:10.218000+00:00",
-      "time": "02:11 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $75.24** Current: **$75.32** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement; structural support if golden pocket breaks"
     }
   ]
 }
