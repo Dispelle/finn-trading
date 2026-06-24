@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-24T14:47:14.053801+00:00",
+  "generated_at": "2026-06-24T14:47:25.442039+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T14:47:16.107000+00:00",
+      "time": "10:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $738.19** Current: **$738.40** | Strength: 5/5 \u2014 intraday support from daily low candles + confluence with 1H swing low"
+    },
     {
       "ts": "2026-06-24T14:45:07.545000+00:00",
       "time": "10:45 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:20 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $711.28** Current: **$711.05** | Strength: 4/5 (round level) / **$707.83** (daily close, 10-bar ago)"
-    },
-    {
-      "ts": "2026-06-24T14:15:06.634000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,130** | P&L: **-24"
     }
   ]
 }
