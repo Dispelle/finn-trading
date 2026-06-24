@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-24T14:32:12.553758+00:00",
+  "generated_at": "2026-06-24T14:47:14.053801+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T14:45:07.545000+00:00",
+      "time": "10:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $737.55** Current: **$737.58** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-24T14:45:06.863000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,068** | P&L: **-25"
+    },
+    {
+      "ts": "2026-06-24T14:32:24.384000+00:00",
+      "time": "10:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $238.85** Current: **$239.03** | Strength: 5/5 0.500 Fib (199.14\u2192278.56); price support/resistance pivot; daily swing "
+    },
     {
       "ts": "2026-06-24T14:30:06.689000+00:00",
       "time": "10:30 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:15 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,130** | P&L: **-24"
-    },
-    {
-      "ts": "2026-06-24T14:14:08.583000+00:00",
-      "time": "10:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $199.34** Current: **$199.37** | Strength: 5/5 Recent 10-day low; established swing low from 60-day structure; **criti"
-    },
-    {
-      "ts": "2026-06-24T14:13:04.150000+00:00",
-      "time": "10:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $199.34** Current: **$199.32** | Strength: 5/5 60d swing low; Fibonacci 0.500 at $200.40 confluent; critical support"
-    },
-    {
-      "ts": "2026-06-24T14:06:39.993000+00:00",
-      "time": "10:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1119.45** Current: **$1119.36** | Strength: 5/5 Today's high; recent 4H/daily resistance; 1.5x tested in last 5 days"
     }
   ]
 }
