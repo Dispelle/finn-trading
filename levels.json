@@ -10544,7 +10544,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11502,10 +11502,10 @@
       {
         "price": 132.22,
         "type": "R3",
-        "strength": 4,
-        "reason": "\u2014 0.5 Fib retracement. **Major rally target if bounce confirmed.**",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fibonacci (midpoint) + **trend invalidation level**",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11513,9 +11513,9 @@
         "price": 110.35,
         "type": "S1",
         "strength": 5,
-        "reason": "**60-day absolute low; structural floor; MA200 proximity ($108.15)**; extreme oversold pivot",
+        "reason": "\u2014 **Today's 1H low** = fresh swing low, just touched",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11576,6 +11576,56 @@
         "reason": "**Fib 0.618 golden pocket** (VWAP confluence territory $129.70); trend invalidation level",
         "status": "active",
         "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 119.48,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fibonacci retracement (golden pocket upper bound)",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 126.88,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fibonacci (golden pocket center)",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 137.26,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fibonacci + 20-day VWAP ($128.62 context)",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 108.48,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 **MA200** (200-period moving average)",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 100.0,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 **Round number + psychological support**",
+        "status": "active",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       }
