@@ -5272,7 +5272,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5711,9 +5711,9 @@
         "price": 854.35,
         "type": "S3",
         "strength": 5,
-        "reason": "10-day swing low; Fib 0.382 retracement ($805.22) nearby; daily support cluster",
+        "reason": "\u2014 Major 60-day swing low / HL from the prior structure. If broken, bearish thesis confirmed.",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6651,9 +6651,9 @@
         "price": 1167.5,
         "type": "R2",
         "strength": 4,
-        "reason": "Fib extension 1.272 ($1377.35 too far); round number $1150+; prior gap level",
+        "reason": "\u2014 60-day swing high (yesterday's low / recent resistance). Confluence: 1H high from 10 candles ago.",
         "status": "active",
-        "source_brief": "2026-06-19",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6771,9 +6771,9 @@
         "price": 981.61,
         "type": "S3",
         "strength": 4,
-        "reason": "20-day VWAP; MA20 $988.04 (nearby); confluence zone",
+        "reason": "\u2014 10-day swing low / former support (print on day 4 of last 10 closes).",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6794,6 +6794,46 @@
         "reason": "Prior swing low (10d ago); critical structural support \u2014 **break invalidates bullish bias**",
         "status": "active",
         "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1125.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Today's high / Last HL test / 20-day VWAP confluence ($993.63 below but trending up). This is the **first line of defe",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1213.56,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 All-time recent high (60-day peak) / Fibonacci 1.272 extension zone ($1458.92 is next structural target if we clear th",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1038.5,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's low / intraday support / immediate floor.",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1000.67,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.236 retracement / MA20 was $1003.08 (trending up, now likely at ~$1010). This is the **golden zone** for m",
+        "status": "active",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       }
