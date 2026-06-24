@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-24T15:32:51.150117+00:00",
+  "generated_at": "2026-06-24T15:47:19.680007+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T15:45:06.271000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,460**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T15:35:32.981000+00:00",
+      "time": "11:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $114.8** Current: **$114.89** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-06-24T15:33:25.268000+00:00",
+      "time": "11:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $114.8** Current: **$114.62** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-06-24T15:30:06.376000+00:00",
       "time": "11:30 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:49 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1108.76** Current: **$1108.45** | Strength: 5/5 20-day VWAP; currently 3.2 points above price; dynamic support"
-    },
-    {
-      "ts": "2026-06-24T14:49:26.651000+00:00",
-      "time": "10:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S3 $718.37** Current: **$718.30** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
-    },
-    {
-      "ts": "2026-06-24T14:48:22.457000+00:00",
-      "time": "10:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $296.76** Current: **$296.95** | Strength: 4/5 Today's daily low; intraday support; consolidation floor"
-    },
-    {
-      "ts": "2026-06-24T14:48:20.907000+00:00",
-      "time": "10:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $718.37** Current: **$719.07** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
     }
   ]
 }
