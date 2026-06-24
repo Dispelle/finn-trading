@@ -16310,7 +16310,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16509,9 +16509,9 @@
         "price": 337.24,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low (potential capitulation zone)",
+        "reason": "52w low; extreme support; Fib origin (1.0)",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17028,10 +17028,10 @@
       {
         "price": 425.99,
         "type": "R3",
-        "strength": 4,
-        "reason": "|",
+        "strength": 5,
+        "reason": "0.236 Fib; 60d swing high ($433.6 zone); prior support turned resistance",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17082,6 +17082,86 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 392.87,
+        "type": "R1",
+        "strength": 3,
+        "reason": "Intraday high TODAY; minor supply; test of lower shadow",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 409.03,
+        "type": "R2",
+        "strength": 5,
+        "reason": "0.382 Fib retracement; MA20 proximity; prior swing",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 377.9,
+        "type": "S1",
+        "strength": 4,
+        "reason": "0.650 Fib retracement; 1H and daily lows cluster",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 362.1,
+        "type": "S2",
+        "strength": 5,
+        "reason": "0.786 Fib; psychological 360 level; 60d swing low support",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 411.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 362.1,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 337.24,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 320.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       }
