@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-24T13:32:53.289346+00:00",
+  "generated_at": "2026-06-24T13:47:10.432529+00:00",
   "items": [
     {
-      "ts": "2026-06-24T13:32:00.015000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-06-24T13:46:15.153000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $563.1** Current: **$562.37** | Strength: 5/5 \u2014 Today's intraday low; 1H recent lows cluster"
+    },
+    {
+      "ts": "2026-06-24T13:46:14.200000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $377.32** Current: **$375.96** | Strength: 5/5 Intraday low TODAY; 1H recent low; volatile base forming"
+    },
+    {
+      "ts": "2026-06-24T13:46:12.297000+00:00",
+      "time": "09:46 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $560.9** Current: **$561.57** | Strength: 5/5 \u2014 reason: **Yesterday's daily low / recent swing low**. 1H low also at 5"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $1043.19** Current: **$1046.43** | Strength: 4/5 4-day-ago close; recent pivot; must hold for uptrend"
     },
     {
-      "ts": "2026-06-24T13:31:59.371000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-06-24T13:46:11.603000+00:00",
+      "time": "09:46 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $373.28** Current: **$373.56** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $616.0** Current: **$616.62** | Strength: 5/5 \u2014 Yesterday's daily low, intraday support. Last higher low if structure h"
     },
     {
-      "ts": "2026-06-24T13:31:57.198000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-06-24T13:46:10.796000+00:00",
+      "time": "09:46 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $200.4** Current: **$201.12** | Strength: 5/5 0.500 Fib retracement; mid-range, prior low cluster, daily support"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $512.48** Current: **$513.93** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
     },
     {
-      "ts": "2026-06-24T13:30:54.628000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-24T13:46:09.642000+00:00",
+      "time": "09:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $12.27** Current: **$12.04** | Strength: 4/5 60-day support zone; daily swing low (Dec pattern)"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $61400.0** Current: **$61316.76** | Strength: 5/5 Round number; 1H lows clustering here (2\u00d7 touch); psychological deman"
     },
     {
-      "ts": "2026-06-24T13:30:53.785000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $116.18** Current: **$114.86** | Strength: 5/5 \u2014 **TODAY'S INTRADAY LOW** (new 60-day low); psychological floor; capit"
-    },
-    {
-      "ts": "2026-06-24T13:30:53.046000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-24T13:45:05.629000+00:00",
+      "time": "09:45 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1119.45** Current: **$1132.64** | Strength: 5/5 Today's high; recent 4H/daily resistance; 1.5x tested in last 5 days"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1038.5** Current: **$1041.02** | Strength: 5/5 \u2014 Today's low / intraday support / immediate floor."
     },
     {
-      "ts": "2026-06-24T13:30:51.627000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $138.5** Current: **$136.89** | Strength: 5/5 \u2014 Daily low TODAY + 1H support cluster"
+      "ts": "2026-06-24T13:45:04.985000+00:00",
+      "time": "09:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $614.47** Current: **$615.85** | Strength: 5/5 Daily support (prior day low 2 bars ago); MA20 nearby at $602.85"
     },
     {
-      "ts": "2026-06-24T13:30:51.151000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-24T13:43:59.943000+00:00",
+      "time": "09:43 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $137.02** Current: **$136.89** | Strength: 4/5 | Today's low, 1H pivot, immediate floor"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $61456.17** Current: **$61417.00** | Strength: 5/5 Prior daily low (10 days ago); support cluster"
     },
     {
-      "ts": "2026-06-24T13:30:49.931000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-06-24T13:42:55.924000+00:00",
+      "time": "09:42 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $560.9** Current: **$558.93** | Strength: 5/5 \u2014 reason: **Yesterday's daily low / recent swing low**. 1H low also at 5"
-    },
-    {
-      "ts": "2026-06-24T13:30:49.073000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$371.61** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1038.5** Current: **$1033.68** | Strength: 5/5 \u2014 Today's low / intraday support / immediate floor."
     }
   ]
 }
