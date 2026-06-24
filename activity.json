@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-24T21:33:19.878668+00:00",
+  "generated_at": "2026-06-24T21:48:19.427627+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T21:45:14.965000+00:00",
+      "time": "05:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,001**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-24T21:30:15.335000+00:00",
       "time": "05:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:59 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $1043.19** Current: **$1045.96** | Strength: 4/5 4-day-ago close; recent pivot; must hold for uptrend"
-    },
-    {
-      "ts": "2026-06-24T19:55:30.290000+00:00",
-      "time": "03:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $367.0** Current: **$366.27** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
