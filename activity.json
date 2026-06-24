@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-24T16:03:24.093234+00:00",
+  "generated_at": "2026-06-24T16:17:20.647407+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T16:15:06.792000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,439**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T16:04:26.316000+00:00",
+      "time": "12:04 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1104.33** Current: **$1105.86** | Strength: 5/5 Yesterday's low; swing low; invalidation level for bullish structure"
+    },
     {
       "ts": "2026-06-24T16:02:16.926000+00:00",
       "time": "12:02 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:25 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $738.19** Current: **$738.17** | Strength: 5/5 \u2014 intraday support from daily low candles + confluence with 1H swing low"
-    },
-    {
-      "ts": "2026-06-24T15:09:57.503000+00:00",
-      "time": "11:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $296.76** Current: **$296.74** | Strength: 4/5 Today's daily low; intraday support; consolidation floor"
-    },
-    {
-      "ts": "2026-06-24T15:00:09.331000+00:00",
-      "time": "11:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,977**  \u23f0 **YOU "
     }
   ]
 }
