@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-24T15:02:24.365841+00:00",
+  "generated_at": "2026-06-24T15:17:17.447983+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T15:09:57.503000+00:00",
+      "time": "11:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $296.76** Current: **$296.74** | Strength: 4/5 Today's daily low; intraday support; consolidation floor"
+    },
     {
       "ts": "2026-06-24T15:00:09.331000+00:00",
       "time": "11:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:45 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,068** | P&L: **-25"
-    },
-    {
-      "ts": "2026-06-24T14:32:24.384000+00:00",
-      "time": "10:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $238.85** Current: **$239.03** | Strength: 5/5 0.500 Fib (199.14\u2192278.56); price support/resistance pivot; daily swing "
     }
   ]
 }
