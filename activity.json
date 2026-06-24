@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-24T19:34:11.332034+00:00",
+  "generated_at": "2026-06-24T19:48:11.620499+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T19:45:07.344000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,734**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-24T19:30:10.040000+00:00",
       "time": "03:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:07 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $995.87** Current: **$995.36** | Strength: 4/5 \u2014 Prior daily support/low, 10 days of history. Aligns with daily EMA20 ($"
-    },
-    {
-      "ts": "2026-06-24T19:07:51.433000+00:00",
-      "time": "03:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $607.61** Current: **$607.40** | Strength: 4/5"
     }
   ]
 }
