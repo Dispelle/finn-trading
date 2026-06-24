@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-24T16:32:33.079336+00:00",
+  "generated_at": "2026-06-24T16:47:20.802314+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T16:45:08.231000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,166**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T16:37:33.775000+00:00",
+      "time": "12:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $737.55** Current: **$736.80** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-06-24T16:30:07.741000+00:00",
       "time": "12:30 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:33 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $114.8** Current: **$114.62** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-24T15:30:06.376000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$60,721** | P&L: **-25"
-    },
-    {
-      "ts": "2026-06-24T15:25:56.558000+00:00",
-      "time": "11:25 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.95** Current: **$11.93** | Strength: 5/5 60-day low + 52-week low confluence + psychological support"
     }
   ]
 }
