@@ -20420,7 +20420,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20439,9 +20439,9 @@
         "price": 14.01,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fib 0.618 (golden pocket) + MA20 proximity ($14.75)",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20449,9 +20449,9 @@
         "price": 15.29,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fib 0.382 + prior swing high cluster + 20-day VWAP ($13.38) breakout target",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20469,9 +20469,9 @@
         "price": 11.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day low / 52-week low / foundational floor**; capitulation candle",
+        "reason": "60-day low + 52-week low confluence + psychological support",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21162,6 +21162,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 13.68,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior daily swing high (7 bars) + psychological round",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.2,
+        "type": "S1",
+        "strength": 3,
+        "reason": "Today's low + recent support test (intraday)",
+        "status": "active",
+        "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.75,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fib 0.786 retracement from swing ($11.95\u2192$17.35)",
+        "status": "active",
+        "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
       }
