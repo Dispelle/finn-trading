@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-24T18:03:50.505163+00:00",
+  "generated_at": "2026-06-24T18:18:04.128599+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T18:17:36.522000+00:00",
+      "time": "02:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $512.48** Current: **$512.45** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
+    },
+    {
+      "ts": "2026-06-24T18:16:32.383000+00:00",
+      "time": "02:16 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $512.48** Current: **$513.00** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
+    },
+    {
+      "ts": "2026-06-24T18:15:06.158000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,541**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T18:14:26.081000+00:00",
+      "time": "02:14 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $295.62** Current: **$295.65** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
+    },
+    {
+      "ts": "2026-06-24T18:13:18.591000+00:00",
+      "time": "02:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $295.62** Current: **$295.46** | Strength: 4/5 Recent daily low (3-day cluster); psychological support"
+    },
+    {
+      "ts": "2026-06-24T18:11:10.218000+00:00",
+      "time": "02:11 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $75.24** Current: **$75.32** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement; structural support if golden pocket breaks"
+    },
     {
       "ts": "2026-06-24T18:00:07.625000+00:00",
       "time": "02:00 PM ET",
@@ -24,42 +60,6 @@
       "time": "01:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1014.14** Current: **$1014.13** | Strength: 5/5 \u2014 TODAY'S low; very recent, printed just now. Psychological line. **"
-    },
-    {
-      "ts": "2026-06-24T17:47:47.534000+00:00",
-      "time": "01:47 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $612.66** Current: **$612.81** | Strength: 3/5 \u2014 MA20 daily (slope up)"
-    },
-    {
-      "ts": "2026-06-24T17:45:07.655000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,224**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-24T17:44:36.673000+00:00",
-      "time": "01:44 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **SLV \u2014 BROKE BELOW S3 $52.0** Current: **$51.99** | Strength: 3/5 1.272 Fib extension downside; ~2% below $55.47; potential capitulation zone if $5"
-    },
-    {
-      "ts": "2026-06-24T17:35:03.805000+00:00",
-      "time": "01:35 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $707.83** Current: **$708.78** | Strength: 4/5 Last 10-day daily swing low; psychological round; recent tested floor"
-    },
-    {
-      "ts": "2026-06-24T17:31:47.587000+00:00",
-      "time": "01:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $707.83** Current: **$707.54** | Strength: 4/5 Last 10-day daily swing low; psychological round; recent tested floor"
-    },
-    {
-      "ts": "2026-06-24T17:30:08.199000+00:00",
-      "time": "01:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,608** | P&L: **-26"
     }
   ]
 }
