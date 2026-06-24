@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-24T17:47:36.987499+00:00",
+  "generated_at": "2026-06-24T18:03:03.370470+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T18:00:07.625000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,363** | P&L: **-27"
+    },
+    {
+      "ts": "2026-06-24T17:59:28.595000+00:00",
+      "time": "01:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1014.14** Current: **$1014.99** | Strength: 5/5 \u2014 TODAY'S low; very recent, printed just now. Psychological line. **"
+    },
+    {
+      "ts": "2026-06-24T17:58:24.584000+00:00",
+      "time": "01:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $75.24** Current: **$75.21** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement; structural support if golden pocket breaks"
+    },
+    {
+      "ts": "2026-06-24T17:58:23.648000+00:00",
+      "time": "01:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1014.14** Current: **$1014.13** | Strength: 5/5 \u2014 TODAY'S low; very recent, printed just now. Psychological line. **"
+    },
+    {
+      "ts": "2026-06-24T17:47:47.534000+00:00",
+      "time": "01:47 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $612.66** Current: **$612.81** | Strength: 3/5 \u2014 MA20 daily (slope up)"
+    },
     {
       "ts": "2026-06-24T17:45:07.655000+00:00",
       "time": "01:45 PM ET",
@@ -30,36 +60,6 @@
       "time": "01:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,608** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-24T17:27:31.182000+00:00",
-      "time": "01:27 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $14.95** Current: **$14.97** | Strength: 5/5 \u2014 **Weekly close from 5 bars ago**; psychological support at round $15.00 "
-    },
-    {
-      "ts": "2026-06-24T17:26:25.637000+00:00",
-      "time": "01:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $1020.76** Current: **$1021.42** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-24T17:26:25.127000+00:00",
-      "time": "01:26 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1020.0** Current: **$1021.42** | Strength: 5/5 Swing low clusters (1H recent lows @ 1020.0 x2, daily low 10d ago); rece"
-    },
-    {
-      "ts": "2026-06-24T17:26:24.423000+00:00",
-      "time": "01:26 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $611.57** Current: **$611.91** | Strength: 5/5 20-day VWAP; **invalidation level for bullish bias**; confluence with da"
-    },
-    {
-      "ts": "2026-06-24T17:25:22.861000+00:00",
-      "time": "01:25 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.75** Current: **$11.73** | Strength: 3/5 Fib 0.786 retracement from swing ($11.95\u2192$17.35)"
     }
   ]
 }
