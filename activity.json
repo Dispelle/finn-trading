@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-24T14:18:59.435669+00:00",
+  "generated_at": "2026-06-24T14:32:12.553758+00:00",
   "items": [
+    {
+      "ts": "2026-06-24T14:30:06.689000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,136**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-24T14:24:54.769000+00:00",
+      "time": "10:24 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $238.85** Current: **$238.71** | Strength: 5/5 0.500 Fib (199.14\u2192278.56); price support/resistance pivot; daily swing "
+    },
+    {
+      "ts": "2026-06-24T14:21:41.225000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $380.15** Current: **$381.01** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-24T14:21:40.050000+00:00",
+      "time": "10:21 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $711.28** Current: **$711.92** | Strength: 4/5 (round level) / **$707.83** (daily close, 10-bar ago)"
+    },
+    {
+      "ts": "2026-06-24T14:20:35.848000+00:00",
+      "time": "10:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $380.15** Current: **$380.05** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-24T14:20:34.739000+00:00",
+      "time": "10:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $711.28** Current: **$711.05** | Strength: 4/5 (round level) / **$707.83** (daily close, 10-bar ago)"
+    },
     {
       "ts": "2026-06-24T14:15:06.634000+00:00",
       "time": "10:15 AM ET",
@@ -24,42 +60,6 @@
       "time": "10:06 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1119.45** Current: **$1119.36** | Strength: 5/5 Today's high; recent 4H/daily resistance; 1.5x tested in last 5 days"
-    },
-    {
-      "ts": "2026-06-24T14:00:06.700000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,180**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-24T13:50:35.803000+00:00",
-      "time": "09:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $381.61** Current: **$384.21** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
-    },
-    {
-      "ts": "2026-06-24T13:50:34.476000+00:00",
-      "time": "09:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $15.64** Current: **$15.68** | Strength: 4/5 \u2014 Today's low (1H low); immediate floor; micro-support"
-    },
-    {
-      "ts": "2026-06-24T13:50:32.340000+00:00",
-      "time": "09:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $61400.0** Current: **$61463.16** | Strength: 5/5 Round number; 1H lows clustering here (2\u00d7 touch); psychological deman"
-    },
-    {
-      "ts": "2026-06-24T13:50:31.911000+00:00",
-      "time": "09:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $61456.17** Current: **$61463.16** | Strength: 5/5 Prior daily low (10 days ago); support cluster"
-    },
-    {
-      "ts": "2026-06-24T13:49:29.908000+00:00",
-      "time": "09:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $381.61** Current: **$381.31** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
     }
   ]
 }
