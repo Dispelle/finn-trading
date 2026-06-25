@@ -3934,7 +3934,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4984,7 +4984,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 20-day VWAP (institutional anchor). Price trading 5.8% above VWAP on low volume = warning sign of mean reversion.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -5044,7 +5044,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 Fibonacci extension 1.272 (from 359.86 \u2192 649.24). Represents +12.4% from current high.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -5134,7 +5134,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -5144,7 +5144,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -5154,7 +5154,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -5174,7 +5174,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Yesterday's daily low, intraday support. Last higher low if structure holds. **CRITICAL:** Break here = structure brok",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
