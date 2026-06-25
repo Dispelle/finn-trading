@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-25T18:17:51.858615+00:00",
+  "generated_at": "2026-06-25T18:32:41.219476+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T18:30:06.482000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,592** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-25T18:21:28.443000+00:00",
+      "time": "02:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S3 $718.37** Current: **$717.47** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
+    },
+    {
+      "ts": "2026-06-25T18:19:13.189000+00:00",
+      "time": "02:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $718.37** Current: **$718.67** | Strength: 4/5 \u2014 **Fibonacci 0.236 retracement (703.09) zone + prior swing low cluster "
+    },
     {
       "ts": "2026-06-25T18:17:06.957000+00:00",
       "time": "02:17 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:03 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $528.49** Current: **$526.59** | Strength: 4/5 \u2014 reason: Today's daily high; double-tested intraday; immediate overhead"
-    },
-    {
-      "ts": "2026-06-25T18:02:03.073000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1117.26** Current: **$1117.08** | Strength: 5/5 \u2014 Weekly MA20 (last higher low, momentum pivot); slope still up"
-    },
-    {
-      "ts": "2026-06-25T18:02:02.575000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1119.45** Current: **$1117.08** | Strength: 5/5 Today's high; recent 4H/daily resistance; 1.5x tested in last 5 days"
-    },
-    {
-      "ts": "2026-06-25T18:00:57.568000+00:00",
-      "time": "02:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1119.68** Current: **$1120.02** | Strength: 5/5 \u2014 20-day VWAP (strong mean-reversion magnet); price resting 0.31% abov"
     }
   ]
 }
