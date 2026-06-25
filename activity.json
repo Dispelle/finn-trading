@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-25T13:35:20.196902+00:00",
+  "generated_at": "2026-06-25T13:49:36.504232+00:00",
   "items": [
     {
-      "ts": "2026-06-25T13:34:52.330000+00:00",
-      "time": "09:34 AM ET",
+      "ts": "2026-06-25T13:49:01.961000+00:00",
+      "time": "09:49 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $373.05** Current: **$372.90** | Strength: 4/5 | -$2.48 (-0.66%) | Today's low / 1H recent low / potential LL |"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $623.97** Current: **$623.58** | Strength: 5/5"
     },
     {
-      "ts": "2026-06-25T13:34:48.757000+00:00",
-      "time": "09:34 AM ET",
+      "ts": "2026-06-25T13:46:55.896000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.75** Current: **$11.72** | Strength: 3/5 Fib 0.786 retracement from swing ($11.95\u2192$17.35)"
+    },
+    {
+      "ts": "2026-06-25T13:46:53.365000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **SLV \u2014 BROKE BELOW S3 $52.0** Current: **$51.98** | Strength: 3/5 1.272 Fib extension downside; ~2% below $55.47; potential capitulation zone if $5"
+    },
+    {
+      "ts": "2026-06-25T13:46:52.495000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $1203.5** Current: **$1193.56** | Strength: 4/5 \u2014 Fibonacci extension 1.272 at $1377.35 (too wide); using 2% extension f"
+    },
+    {
+      "ts": "2026-06-25T13:46:51.984000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $1200.0** Current: **$1193.56** | Strength: 4/5 Psychological round, 2x Fib extension zone begins"
+    },
+    {
+      "ts": "2026-06-25T13:46:50.780000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $528.49** Current: **$521.50** | Strength: 4/5 \u2014 reason: Today's daily high; double-tested intraday; immediate overhead"
+    },
+    {
+      "ts": "2026-06-25T13:45:46.098000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $1213.56** Current: **$1210.22** | Strength: 5/5 Intraday high today; 60d swing high; psychological round (1200s)"
+    },
+    {
+      "ts": "2026-06-25T13:45:45.010000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $530.5** Current: **$529.61** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-25T13:45:44.304000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $532.19** Current: **$529.61** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-25T13:44:41.962000+00:00",
+      "time": "09:44 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $546.44** Current: **$547.32** | Strength: 5/5 \u2014 prior swing high (4 days ago); 1H recent high cluster $548\u2013$551"
-    },
-    {
-      "ts": "2026-06-25T13:33:47.551000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $226.94** Current: **$226.62** | Strength: 4/5 0.650 Fib; psychological round ($227)"
-    },
-    {
-      "ts": "2026-06-25T13:33:44.481000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $723.61** Current: **$723.32** | Strength: 4/5 1H recent high; MA20 daily proximity ($726.87 target); convergence zone"
-    },
-    {
-      "ts": "2026-06-25T13:33:43.991000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $723.89** Current: **$723.32** | Strength: 5/5 20-day VWAP; dynamic moving average (MA20 $728.05 nearby); recent suppor"
-    },
-    {
-      "ts": "2026-06-25T13:32:40.970000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $229.48** Current: **$227.97** | Strength: 5/5 **0.618 Fib (golden pocket)** \u2014 high probability reversal zone; defines"
-    },
-    {
-      "ts": "2026-06-25T13:32:39.870000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.95** Current: **$11.94** | Strength: 5/5 60-day low + 52-week low confluence + psychological support"
-    },
-    {
-      "ts": "2026-06-25T13:32:39.169000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $110.0** Current: **$109.70** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-06-25T13:32:37.271000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **META \u2014 BROKE BELOW S2 $550.0** Current: **$549.22** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-06-25T13:32:36.454000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $287.38** Current: **$285.23** | Strength: 5/5 \u2014 60d swing low; **CRITICAL** \u2014 loss of this = structure broken, weekly"
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $135.85** Current: **$135.88** | Strength: 5/5 |"
     }
   ]
 }
