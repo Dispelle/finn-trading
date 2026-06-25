@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-25T19:49:18.886648+00:00",
+  "generated_at": "2026-06-25T19:49:31.245779+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T19:49:23.703000+00:00",
+      "time": "03:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $731.51** Current: **$731.58** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-25T19:49:23.280000+00:00",
+      "time": "03:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S3 $731.53** Current: **$731.58** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-25T19:49:21.138000+00:00",
+      "time": "03:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $59109.92** Current: **$59111.40** | Strength: 5/5 \u2014 60-day swing low, 99 bps below current price, psychologically crit"
+    },
+    {
+      "ts": "2026-06-25T19:49:20.703000+00:00",
+      "time": "03:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S3 $59108.92** Current: **$59111.40** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-06-25T19:48:19.240000+00:00",
       "time": "03:48 PM ET",
@@ -36,30 +60,6 @@
       "time": "03:48 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S3 $59108.92** Current: **$59099.30** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-25T19:45:07.452000+00:00",
-      "time": "03:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,170** | P&L: **-27"
-    },
-    {
-      "ts": "2026-06-25T19:45:02.620000+00:00",
-      "time": "03:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $137.02** Current: **$137.09** | Strength: 4/5 | Today's low, 1H pivot, immediate floor"
-    },
-    {
-      "ts": "2026-06-25T19:27:47.802000+00:00",
-      "time": "03:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $373.05** Current: **$373.01** | Strength: 4/5 | -$2.48 (-0.66%) | Today's low / 1H recent low / potential LL |"
-    },
-    {
-      "ts": "2026-06-25T19:25:37.947000+00:00",
-      "time": "03:25 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $1203.5** Current: **$1204.39** | Strength: 4/5 \u2014 Fibonacci extension 1.272 at $1377.35 (too wide); using 2% extension f"
     }
   ]
 }
