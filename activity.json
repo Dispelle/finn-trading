@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T22:23:09.493682+00:00",
+  "generated_at": "2026-06-25T22:37:59.800524+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T22:30:06.578000+00:00",
+      "time": "06:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,685** | P&L: **-26"
+    },
     {
       "ts": "2026-06-25T22:00:07.599000+00:00",
       "time": "06:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $530.5** Current: **$531.02** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-25T19:54:46.073000+00:00",
-      "time": "03:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $226.06** Current: **$225.71** | Strength: 5/5 \u2014 TODAY'S intraday low; fresh 60-day low; panic floor in current drawdo"
     }
   ]
 }
