@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-25T19:49:31.245779+00:00",
+  "generated_at": "2026-06-25T20:03:17.905435+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T20:00:27.964000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,263**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-25T19:55:52.115000+00:00",
+      "time": "03:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $226.06** Current: **$226.31** | Strength: 5/5 \u2014 TODAY'S intraday low; fresh 60-day low; panic floor in current drawdo"
+    },
+    {
+      "ts": "2026-06-25T19:55:47.365000+00:00",
+      "time": "03:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $530.5** Current: **$531.02** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-06-25T19:54:46.073000+00:00",
+      "time": "03:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $226.06** Current: **$225.71** | Strength: 5/5 \u2014 TODAY'S intraday low; fresh 60-day low; panic floor in current drawdo"
+    },
+    {
+      "ts": "2026-06-25T19:50:29.513000+00:00",
+      "time": "03:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S2 $226.94** Current: **$227.32** | Strength: 4/5 0.650 Fib; psychological round ($227)"
+    },
     {
       "ts": "2026-06-25T19:49:23.703000+00:00",
       "time": "03:49 PM ET",
@@ -30,36 +60,6 @@
       "time": "03:48 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $226.94** Current: **$226.78** | Strength: 4/5 0.650 Fib; psychological round ($227)"
-    },
-    {
-      "ts": "2026-06-25T19:48:17.892000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $137.02** Current: **$136.93** | Strength: 4/5 | Today's low, 1H pivot, immediate floor"
-    },
-    {
-      "ts": "2026-06-25T19:48:16.652000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $731.51** Current: **$731.44** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-25T19:48:16.203000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S3 $731.53** Current: **$731.44** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-25T19:48:14.042000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $59109.92** Current: **$59099.30** | Strength: 5/5 \u2014 60-day swing low, 99 bps below current price, psychologically crit"
-    },
-    {
-      "ts": "2026-06-25T19:48:13.402000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S3 $59108.92** Current: **$59099.30** | Strength: 5/5 |"
     }
   ]
 }
