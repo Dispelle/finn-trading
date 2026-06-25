@@ -13199,9 +13199,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high, 0% fib extension (swing high baseline) + psychological round",
+        "reason": "60-day high; psychological round; extension pivot",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13790,6 +13790,76 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 744.92,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Daily MA20 (downslope) \u2014 price below = bears in control",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 749.53,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Recent swing high (60d); prior bounce inflection",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 756.68,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Secondary swing high (60d); 20-day VWAP proximity",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 731.51,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fibonacci 0.236 (major confluence); recent swing low cluster",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 722.59,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Swing low (60d); structural support",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 713.64,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.382; MA50 area $733.78 proximity",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 699.19,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.500; MA200 near $701.25",
         "status": "active",
         "source_brief": "2026-06-25",
         "hit_count": 0,
