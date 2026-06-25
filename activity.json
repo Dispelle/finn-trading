@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-25T14:34:39.659618+00:00",
+  "generated_at": "2026-06-25T14:49:40.590869+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T14:45:07.238000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,448**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-25T14:41:52.955000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1133.0** Current: **$1132.86** | Strength: 5/5 Today's 4H high + prior daily high (near-term structural resistance, te"
+    },
+    {
+      "ts": "2026-06-25T14:40:48.901000+00:00",
+      "time": "10:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1133.0** Current: **$1134.60** | Strength: 5/5 Today's 4H high + prior daily high (near-term structural resistance, te"
+    },
+    {
+      "ts": "2026-06-25T14:40:48.111000+00:00",
+      "time": "10:40 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $137.02** Current: **$137.01** | Strength: 4/5 | Today's low, 1H pivot, immediate floor"
+    },
     {
       "ts": "2026-06-25T14:30:07.629000+00:00",
       "time": "10:30 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:04 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $512.48** Current: **$513.87** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
-    },
-    {
-      "ts": "2026-06-25T14:03:14.564000+00:00",
-      "time": "10:03 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S3 $731.53** Current: **$732.71** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-25T14:01:04.783000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S3 $14.64** Current: **$14.72** | Strength: 5/5 \u2014 **60-day absolute low** + Weekly swing bottom. Break below = new bear ph"
-    },
-    {
-      "ts": "2026-06-25T14:01:03.293000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $614.47** Current: **$617.50** | Strength: 5/5 Daily support (prior day low 2 bars ago); MA20 nearby at $602.85"
-    },
-    {
-      "ts": "2026-06-25T14:01:02.347000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $508.84** Current: **$510.68** | Strength: 4/5 20-day VWAP; 1H cluster support (many bounces); first test (breached int"
     }
   ]
 }
