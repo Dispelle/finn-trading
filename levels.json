@@ -13568,7 +13568,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13607,9 +13607,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "All-time 60-day high, psychological barrier, 100% of recent range",
+        "reason": "60-day swing high; psychological round; extension target",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13727,9 +13727,9 @@
         "price": 695.25,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low (higher low in bullish structure); HL confirmation level",
+        "reason": "Last swing low; **KEY INVALIDATION LEVEL** for bull bias",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14490,6 +14490,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 723.61,
+        "type": "R1",
+        "strength": 4,
+        "reason": "1H recent high; MA20 daily proximity ($726.87 target); convergence zone",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 729.86,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Last daily close reversal zone; swing high cluster resistance",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 704.45,
+        "type": "S1",
+        "strength": 3,
+        "reason": "Today's intraday low; recent 1H support",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
