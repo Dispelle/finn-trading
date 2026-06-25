@@ -1288,7 +1288,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -1477,7 +1477,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -2047,7 +2047,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP; critical price-weighted average; weak close below triggers downside re-test",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -2057,7 +2057,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Recent swing low (8 bars ago); invalidates HH/HL structure if broken",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -2587,7 +2587,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Measured move (467.51 \u2192 558.37 = 90.86 pts; +90 from $485 = $575); round number confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-17",
         "hit_count": 0,
         "last_hit": null
@@ -2638,7 +2638,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2736,9 +2736,9 @@
         "price": 546.44,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: Swing high (60d); previous daily high candle 4 days ago; natural pullback resistance",
+        "reason": "Swing high (60d); confluence with recent daily high $547.26; volume-weighted resistance",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2756,9 +2756,9 @@
         "price": 562.99,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 reason: **52-week high** + 60-day high + strongest resistance; all-time recent cycle peak",
+        "reason": "**60-day HIGH** \u2014 All-time context for this move; fib 1.272 extension zone begins here ($663.66)",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2799,6 +2799,46 @@
         "reason": "\u2014 reason: **Fibonacci 0.382 retracement** + MA50 ($422.84); key structural support if correction deepens",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 537.37,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior 8-day high; formed support on 5 recent touches; cluster of swing highs",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 508.84,
+        "type": "S1",
+        "strength": 4,
+        "reason": "20-day VWAP; 1H cluster support (many bounces); first test (breached intraday today)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 503.5,
+        "type": "S2",
+        "strength": 3,
+        "reason": "Today's low; fresh weekly close test; minor swing low confluence",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 486.8,
+        "type": "S3",
+        "strength": 5,
+        "reason": "**4th swing low (60d)** \u2014 Major structural support; break invalidates bullish setup entirely; prior support from Dec-Jan",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
