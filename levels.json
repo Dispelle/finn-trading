@@ -22526,7 +22526,7 @@
     ]
   },
   "AMZN": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -22644,10 +22644,10 @@
       {
         "price": 256.18,
         "type": "R3",
-        "strength": 4,
-        "reason": "First 60-day swing high; distribution resistance zone",
+        "strength": 5,
+        "reason": "60-day swing low (support turned resistance), prior failed support, near 0.236 fib ($260.02)",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22655,9 +22655,9 @@
         "price": 233.59,
         "type": "S1",
         "strength": 5,
-        "reason": "60-day swing low (prior support, tested 2x); price nearing now",
+        "reason": "Today's daily low, recent tested floor (2 days @ $232.79), psychological round, 1H compression base",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22665,9 +22665,9 @@
         "price": 229.48,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.618 golden pocket (strong rejection zone in downtrends)",
+        "reason": "**Golden Pocket (0.618 fib)**, critical Fibonacci support, historic reversal zone",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22698,6 +22698,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 242.42,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior 4H high (today's session high), intraday swing resistance, near 0.500 fib ($239.27) confluence",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 248.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "0.382 retracement (major fib level) + MA20 ($248.33), daily structure resistance, 20-day VWAP confluence",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 216.8,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.786 fib retracement, daily/weekly support, extreme downside confluence with weekly bias",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
