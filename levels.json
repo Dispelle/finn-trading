@@ -5433,9 +5433,9 @@
         "price": 605.1,
         "type": "S2",
         "strength": 5,
-        "reason": "20-day VWAP; institutional volume anchor",
+        "reason": "\u2014 4-day swing low, 1H cluster support",
         "status": "active",
-        "source_brief": "2026-06-19",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5626,6 +5626,66 @@
         "reason": "20-day VWAP; **invalidation level for bullish bias**; confluence with daily structure",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 650.03,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Today's high, 1H swing resistance, round-number psychology ($650)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 671.83,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60-day high, Fibonacci 1.272 extension zone ($754.44), psychological round",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 754.44,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension (from $368.10 \u2192 $671.83 swing)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 617.76,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 MA20 (daily), intraday support from 1H chart",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 555.81,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.382 retracement + near MA50 ($563.23)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 519.97,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci 0.500 (50% retracement)",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
