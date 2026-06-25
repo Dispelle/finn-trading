@@ -16780,7 +16780,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16979,9 +16979,9 @@
         "price": 337.24,
         "type": "S3",
         "strength": 5,
-        "reason": "52w low; extreme support; Fib origin (1.0)",
+        "reason": "| -$38.29 (-10.2%) | 60-day low / range bottom |",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17499,9 +17499,9 @@
         "price": 425.99,
         "type": "R3",
         "strength": 5,
-        "reason": "0.236 Fib; 60d swing high ($433.6 zone); prior support turned resistance",
+        "reason": "| +$50.46 (+13.4%) | Fibonacci 0.236 / prior resistance cluster |",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17579,9 +17579,9 @@
         "price": 377.9,
         "type": "S1",
         "strength": 4,
-        "reason": "0.650 Fib retracement; 1H and daily lows cluster",
+        "reason": "| -$2.37 (-0.63%) | Fibonacci 0.650 retracement / psychological |",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17632,6 +17632,76 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 384.58,
+        "type": "R1",
+        "strength": 4,
+        "reason": "| +$9.05 (+2.4%) | Today's high / last 1H pivot / psychological level |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 395.32,
+        "type": "R2",
+        "strength": 5,
+        "reason": "| +$19.79 (+5.3%) | Fibonacci 0.500 retracement (golden zone start) / MA20 proximity |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 407.09,
+        "type": "R3",
+        "strength": 5,
+        "reason": "| +$31.56 (+8.4%) | 20-day VWAP / MA50 ($404.79) / supply zone |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 416.0,
+        "type": "R3",
+        "strength": 4,
+        "reason": "| +$40.47 (+10.8%) | 60-day swing high / last HH / trend-breaker level |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 373.05,
+        "type": "S2",
+        "strength": 4,
+        "reason": "| -$2.48 (-0.66%) | Today's low / 1H recent low / potential LL |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.17,
+        "type": "S3",
+        "strength": 4,
+        "reason": "| -$7.36 (-1.96%) | 60-day swing low cluster / psychological support |",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 364.02,
+        "type": "S3",
+        "strength": 5,
+        "reason": "| -$11.51 (-3.07%) | Major 60-day swing low (prior capitulation) |",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
