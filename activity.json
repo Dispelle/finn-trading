@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-25T18:03:41.522757+00:00",
+  "generated_at": "2026-06-25T18:17:40.504354+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T18:17:06.957000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.6** Current: **$11.61** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-25T18:13:53.004000+00:00",
+      "time": "02:13 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.6** Current: **$11.58** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-25T18:11:43.690000+00:00",
+      "time": "02:11 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1119.45** Current: **$1119.82** | Strength: 5/5 Today's high; recent 4H/daily resistance; 1.5x tested in last 5 days"
+    },
+    {
+      "ts": "2026-06-25T18:08:31.237000+00:00",
+      "time": "02:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1117.26** Current: **$1117.56** | Strength: 5/5 \u2014 Weekly MA20 (last higher low, momentum pivot); slope still up"
+    },
+    {
+      "ts": "2026-06-25T18:06:21.554000+00:00",
+      "time": "02:06 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $373.05** Current: **$373.09** | Strength: 4/5 | -$2.48 (-0.66%) | Today's low / 1H recent low / potential LL |"
+    },
     {
       "ts": "2026-06-25T18:03:06.720000+00:00",
       "time": "02:03 PM ET",
@@ -30,36 +60,6 @@
       "time": "02:00 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1119.68** Current: **$1120.02** | Strength: 5/5 \u2014 20-day VWAP (strong mean-reversion magnet); price resting 0.31% abov"
-    },
-    {
-      "ts": "2026-06-25T18:00:55.893000+00:00",
-      "time": "02:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $14.95** Current: **$14.96** | Strength: 5/5 \u2014 **Weekly close from 5 bars ago**; psychological support at round $15.00 "
-    },
-    {
-      "ts": "2026-06-25T18:00:10.883000+00:00",
-      "time": "02:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,561**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-25T17:59:52.263000+00:00",
-      "time": "01:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1119.68** Current: **$1119.63** | Strength: 5/5 \u2014 20-day VWAP (strong mean-reversion magnet); price resting 0.31% abov"
-    },
-    {
-      "ts": "2026-06-25T17:46:01.977000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $636.88** Current: **$636.58** | Strength: 4/5 Today's 1H high; recent swing high; forms potential lower high"
-    },
-    {
-      "ts": "2026-06-25T17:45:07.210000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,401** | P&L: **-27"
     }
   ]
 }
