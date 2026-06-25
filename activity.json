@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-25T18:02:49.716600+00:00",
+  "generated_at": "2026-06-25T18:03:09.492560+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T18:03:06.720000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S2 $14.95** Current: **$14.92** | Strength: 5/5 \u2014 **Weekly close from 5 bars ago**; psychological support at round $15.00 "
+    },
+    {
+      "ts": "2026-06-25T18:03:04.883000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $528.49** Current: **$526.59** | Strength: 4/5 \u2014 reason: Today's daily high; double-tested intraday; immediate overhead"
+    },
     {
       "ts": "2026-06-25T18:02:03.073000+00:00",
       "time": "02:02 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:45 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,401** | P&L: **-27"
-    },
-    {
-      "ts": "2026-06-25T17:36:27.842000+00:00",
-      "time": "01:36 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $528.49** Current: **$529.11** | Strength: 4/5 \u2014 reason: Today's daily high; double-tested intraday; immediate overhead"
-    },
-    {
-      "ts": "2026-06-25T17:34:19.595000+00:00",
-      "time": "01:34 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $636.88** Current: **$637.20** | Strength: 4/5 Today's 1H high; recent swing high; forms potential lower high"
     }
   ]
 }
