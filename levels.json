@@ -19444,7 +19444,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19533,9 +19533,9 @@
         "price": 1104.33,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement; today's low already tested; structural support",
+        "reason": "Fibonacci 0.236 retracement (minor support, recent bounce point)",
         "status": "active",
-        "source_brief": "2026-06-18",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19733,9 +19733,9 @@
         "price": 1182.73,
         "type": "R3",
         "strength": 5,
-        "reason": "**60-day swing high (primary); 1.272 fib extension zone begins**",
+        "reason": "60-day ATH, Fibonacci 2.618 extension at $1720.26 (very extended, NOT a trade target yet)",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20142,10 +20142,10 @@
       {
         "price": 1149.1,
         "type": "R2",
-        "strength": 4,
-        "reason": "60-day swing high (minor); psychological round; fib 0.236 = $1,104.33 (near, *not direct confluence*)",
+        "strength": 5,
+        "reason": "60-day swing high, round psychological level",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20153,9 +20153,9 @@
         "price": 1133.0,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior higher low (HL); 2-day consolidation top; natural reversion target",
+        "reason": "Today's 4H high + prior daily high (near-term structural resistance, tested 2x in last 3 days)",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20166,6 +20166,56 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1170.12,
+        "type": "R3",
+        "strength": 4,
+        "reason": "2-day high, resistance cluster (touched twice), Fib 1.272 extension zone ($1273) above",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1119.68,
+        "type": "S1",
+        "strength": 5,
+        "reason": "20-day VWAP (support / fair value anchor, price near it now)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1079.22,
+        "type": "S3",
+        "strength": 5,
+        "reason": "5-day low (next structural level, BOS below = bias flip)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1055.82,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.382 retracement (stronger support if gap down)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1021.14,
+        "type": "S3",
+        "strength": 5,
+        "reason": "MA50 (institutional anchor, strong support zone)",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
