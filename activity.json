@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T22:37:59.800524+00:00",
+  "generated_at": "2026-06-25T22:53:00.410520+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T22:45:05.714000+00:00",
+      "time": "06:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,702**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-25T22:30:06.578000+00:00",
       "time": "06:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $226.06** Current: **$226.31** | Strength: 5/5 \u2014 TODAY'S intraday low; fresh 60-day low; panic floor in current drawdo"
-    },
-    {
-      "ts": "2026-06-25T19:55:47.365000+00:00",
-      "time": "03:55 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $530.5** Current: **$531.02** | Strength: 5/5 |"
     }
   ]
 }
