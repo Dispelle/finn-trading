@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-25T13:34:35.453614+00:00",
+  "generated_at": "2026-06-25T13:35:20.196902+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T13:34:52.330000+00:00",
+      "time": "09:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $373.05** Current: **$372.90** | Strength: 4/5 | -$2.48 (-0.66%) | Today's low / 1H recent low / potential LL |"
+    },
+    {
+      "ts": "2026-06-25T13:34:48.757000+00:00",
+      "time": "09:34 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $546.44** Current: **$547.32** | Strength: 5/5 \u2014 prior swing high (4 days ago); 1H recent high cluster $548\u2013$551"
+    },
     {
       "ts": "2026-06-25T13:33:47.551000+00:00",
       "time": "09:33 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:32 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S2 $287.38** Current: **$285.23** | Strength: 5/5 \u2014 60d swing low; **CRITICAL** \u2014 loss of this = structure broken, weekly"
-    },
-    {
-      "ts": "2026-06-25T13:32:35.552000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $738.19** Current: **$737.51** | Strength: 5/5 \u2014 intraday support from daily low candles + confluence with 1H swing low"
-    },
-    {
-      "ts": "2026-06-25T13:32:35.061000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $737.55** Current: **$737.51** | Strength: 5/5 |"
     }
   ]
 }
