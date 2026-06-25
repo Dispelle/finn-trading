@@ -18586,7 +18586,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19275,9 +19275,9 @@
         "price": 338.09,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day swing high; psychological round; 52-week high; tested 2 bars ago; extension target",
+        "reason": "\u2014 Prior 60-day / 6-day-old swing high, MAJOR supply zone, psychological ATH within move",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19285,9 +19285,9 @@
         "price": 353.41,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (281.75\u2192338.09); natural resistance zone for continuation",
+        "reason": "\u2014 Fibonacci 1.272 extension (282.33\u2192338.09 swing), clean round-number extension level",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19295,9 +19295,9 @@
         "price": 372.91,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.618 extension; long-term structural resistance if breakout confirmed",
+        "reason": "\u2014 Fibonacci 1.618 extension, strong structural target for 2-3 week hold",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19365,9 +19365,9 @@
         "price": 316.57,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 0.382 Fib retracement from 281.75\u2192338.09; also confluence with prior swing high zone ($315.45\u2013$316.42). Confluence zon",
+        "reason": "\u2014 Fibonacci 0.382 retracement, MA20 ($314.62) just below; if broken = structural threat",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19407,7 +19407,37 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 331.5,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Daily support cluster (prior daily lows, 3\u20134 days back), VWAP proximity $315.26 + buffer",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 324.93,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.236 retracement, confluent with prior swing low $320.24 zone",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 326.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
