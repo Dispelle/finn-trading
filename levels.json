@@ -1166,9 +1166,9 @@
         "price": 67398.07,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.650 (golden pocket edge); psychological round ($67.4k); prior swing high 4 days ago",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket), strong psychological resistance, MA50 gap",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1317,6 +1317,56 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63401.17,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 retracement + Daily MA20 ($63,228) confluence + psychological round + prior swing low support-flip",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 73368.07,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement + prior swing low ($72,436) + daily MA50 zone ($70,620 below)",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59109.92,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low, 99 bps below current price, psychologically critical invalidation zone",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 58121.68,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 52-week absolute low, sentiment/leverage flush floor, psychological round number",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 67545.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-25",
         "hit_count": 0,
