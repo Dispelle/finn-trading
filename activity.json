@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-25T19:48:17.178814+00:00",
+  "generated_at": "2026-06-25T19:49:18.886648+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T19:48:19.240000+00:00",
+      "time": "03:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $226.94** Current: **$226.78** | Strength: 4/5 0.650 Fib; psychological round ($227)"
+    },
+    {
+      "ts": "2026-06-25T19:48:17.892000+00:00",
+      "time": "03:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $137.02** Current: **$136.93** | Strength: 4/5 | Today's low, 1H pivot, immediate floor"
+    },
     {
       "ts": "2026-06-25T19:48:16.652000+00:00",
       "time": "03:48 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:25 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $1203.5** Current: **$1204.39** | Strength: 4/5 \u2014 Fibonacci extension 1.272 at $1377.35 (too wide); using 2% extension f"
-    },
-    {
-      "ts": "2026-06-25T19:23:29.513000+00:00",
-      "time": "03:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1197.8** Current: **$1198.79** | Strength: 4/5 Today's intraday low (1H bar); local support"
-    },
-    {
-      "ts": "2026-06-25T19:21:21.416000+00:00",
-      "time": "03:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1197.8** Current: **$1196.59** | Strength: 4/5 Today's intraday low (1H bar); local support"
     }
   ]
 }
