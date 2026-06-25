@@ -12561,9 +12561,9 @@
         "price": 17.99,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci golden pocket; psychological level; prior swing support",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13372,6 +13372,36 @@
         "type": "S3",
         "strength": 3,
         "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 16.45,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 19.56,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 14.56,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-06-25",
         "hit_count": 0,
