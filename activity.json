@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T16:03:10.994034+00:00",
+  "generated_at": "2026-06-25T16:18:00.907825+00:00",
   "items": [
+    {
+      "ts": "2026-06-25T16:16:37.406000+00:00",
+      "time": "12:16 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $77.23** Current: **$77.30** | Strength: 4/5 **0.786 Fib**, 1H/daily overlap zone, prior 1H swing"
+    },
     {
       "ts": "2026-06-25T16:00:09.021000+00:00",
       "time": "12:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:22 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S2 $137.81** Current: **$137.88** | Strength: 5/5 \u2014 Recent swing low + 9-day prior low"
-    },
-    {
-      "ts": "2026-06-25T15:16:45.993000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$58,793**  \u23f0 **YOU "
     }
   ]
 }
