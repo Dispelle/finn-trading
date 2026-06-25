@@ -23155,9 +23155,9 @@
         "price": 246.03,
         "type": "R2",
         "strength": 5,
-        "reason": "Prior weekly close; weekly swing high; confluence with daily support",
+        "reason": "\u2014 20-day VWAP; critical mean-reversion zone; price below for 8 consecutive daily closes.",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23336,6 +23336,56 @@
         "type": "S3",
         "strength": 4,
         "reason": "0.786 fib retracement, daily/weekly support, extreme downside confluence with weekly bias",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 235.91,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 Prior 1H high (intraday resistance from last 20 1H candles); forms microstructure supply.",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 250.13,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.382 retracement (low 204.14 \u2192 high 278.56); confluent with recent swing high (256.18 area); psychological round ",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 226.06,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 TODAY'S intraday low; fresh 60-day low; panic floor in current drawdown.",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.07,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.786 retracement; extended downside target; represents -3.7% from current.",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 204.14,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 60-day absolute low; hard floor; extension lower would invalidate \"reasonable downside\" thesis.",
         "status": "active",
         "source_brief": "2026-06-25",
         "hit_count": 0,
