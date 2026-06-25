@@ -10764,7 +10764,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11793,9 +11793,9 @@
         "price": 127.05,
         "type": "R3",
         "strength": 5,
-        "reason": "**Fib 0.618 golden pocket** (VWAP confluence territory $129.70); trend invalidation level",
+        "reason": "Structural swing low; invalidation zone for bearish bias",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11846,6 +11846,56 @@
         "reason": "\u2014 **Round number + psychological support**",
         "status": "active",
         "source_brief": "2026-06-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 111.26,
+        "type": "R1",
+        "strength": 3,
+        "reason": "Prior daily close (2 candles ago); 1H resistance cluster; minor swing high",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 114.87,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Weekly close from 2 weeks prior; psychological round; tested 3x in last 8 days",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 133.02,
+        "type": "R3",
+        "strength": 5,
+        "reason": "Weekly close from 3 weeks ago; MA50 proximity; strong resistance",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 105.65,
+        "type": "S1",
+        "strength": 5,
+        "reason": "TODAY'S 4H low; 60-day low; structural support (just broken); critical",
+        "status": "active",
+        "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 103.5,
+        "type": "S2",
+        "strength": 3,
+        "reason": "Extrapolated from 60-day swing structure; psychological round number",
+        "status": "active",
+        "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
       }
