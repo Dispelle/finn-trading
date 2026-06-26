@@ -10707,9 +10707,9 @@
         "price": 65.55,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement; prior lower low support zone; MA100 region (not provided but in this zone)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10717,9 +10717,9 @@
         "price": 69.08,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; series of swing highs ($69.65, $69.75, $69.93); bears defending here",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10776,10 +10776,10 @@
       {
         "price": 60.9,
         "type": "R1",
-        "strength": 4,
-        "reason": "0.786 Fib (retrace of $55.47\u2192$80.86 swing); prior swing low rejection zone; 1H session high prior to collapse",
+        "strength": 5,
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10887,9 +10887,9 @@
         "price": 50.31,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low (1-day old); psychological $50 round; extreme oversold anchor",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10940,6 +10940,26 @@
         "reason": "\u2014 52-week low; macro floor; major psychological support",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 52.46,
+        "type": "S1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.85,
+        "type": "S3",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
