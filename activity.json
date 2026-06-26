@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T19:36:23.039051+00:00",
+  "generated_at": "2026-06-26T19:36:47.352856+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T19:36:45.230000+00:00",
+      "time": "03:36 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **META \u2014 BROKE BELOW S2 $550.0** Current: **$549.55** | Strength: 3/5 |"
+    },
     {
       "ts": "2026-06-26T19:30:09.594000+00:00",
       "time": "03:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:05 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $731.51** Current: **$731.49** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (645.11 \u2192 760.40) **EXTREMELY TIGHT \u2014 AT C"
-    },
-    {
-      "ts": "2026-06-26T19:05:49.666000+00:00",
-      "time": "03:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S3 $731.53** Current: **$731.49** | Strength: 5/5 |"
     }
   ]
 }
