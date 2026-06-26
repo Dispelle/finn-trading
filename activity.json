@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T21:06:17.626571+00:00",
+  "generated_at": "2026-06-26T21:21:20.792763+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T21:15:05.132000+00:00",
+      "time": "05:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,669**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-26T21:00:09.861000+00:00",
       "time": "05:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $229.48** Current: **$230.16** | Strength: 5/5 **0.618 Fib (golden pocket)** \u2014 high probability reversal zone; defines"
-    },
-    {
-      "ts": "2026-06-26T19:50:39.304000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $112.25** Current: **$111.61** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
     }
   ]
 }
