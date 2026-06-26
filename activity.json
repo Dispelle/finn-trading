@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-06-26T14:31:24.418492+00:00",
+  "generated_at": "2026-06-26T14:46:15.373335+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T14:45:31.446000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **TSLA \u2014 BROKE BELOW S3 $377.9** Current: **$377.79** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-26T14:45:07.308000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,495**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-26T14:42:19.658000+00:00",
+      "time": "10:42 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $377.9** Current: **$378.57** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-26T14:36:59.788000+00:00",
+      "time": "10:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $112.25** Current: **$112.17** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
+    },
+    {
+      "ts": "2026-06-26T14:35:54.372000+00:00",
+      "time": "10:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $367.0** Current: **$366.07** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-26T14:32:41.076000+00:00",
+      "time": "10:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $374.58** Current: **$374.57** | Strength: 5/5 6-day swing low; **lowest daily close in recent 10-bar set**"
+    },
+    {
+      "ts": "2026-06-26T14:31:38.934000+00:00",
+      "time": "10:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $112.25** Current: **$112.33** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
+    },
     {
       "ts": "2026-06-26T14:30:07.558000+00:00",
       "time": "10:30 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:28 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE STOP $367.0** Current: **$367.53** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-26T14:28:25.007000+00:00",
-      "time": "10:28 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $367.34** Current: **$367.53** | Strength: 5/5 Fresh 10-day swing low (2 days ago) + psychological support"
-    },
-    {
-      "ts": "2026-06-26T14:24:07.506000+00:00",
-      "time": "10:24 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $365.45** Current: **$365.66** | Strength: 4/5 1H hourly close (intraday swing high); psychological round"
-    },
-    {
-      "ts": "2026-06-26T14:20:53.230000+00:00",
-      "time": "10:20 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.40** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
-    },
-    {
-      "ts": "2026-06-26T14:19:48.773000+00:00",
-      "time": "10:19 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $105.0** Current: **$105.02** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
-    },
-    {
-      "ts": "2026-06-26T14:18:45.494000+00:00",
-      "time": "10:18 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **META \u2014 BROKE BELOW S2 $550.0** Current: **$549.38** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-06-26T14:18:44.209000+00:00",
-      "time": "10:18 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW S3 $105.0** Current: **$104.91** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
-    },
-    {
-      "ts": "2026-06-26T14:18:43.008000+00:00",
-      "time": "10:18 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $617.76** Current: **$617.94** | Strength: 5/5 \u2014 MA20 (daily), intraday support from 1H chart"
     }
   ]
 }
