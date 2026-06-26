@@ -16864,7 +16864,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17464,7 +17464,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior weekly higher low; yesterday's open zone; immediate supply",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17494,7 +17494,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Intraday low TODAY; 1H recent low; volatile base forming",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17504,7 +17504,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17514,7 +17514,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17524,7 +17524,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17534,7 +17534,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -17553,9 +17553,9 @@
         "price": 394.79,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.650 retracement + recent swing low ($398.01 proximity) + 20% retrace from swing",
+        "reason": "\u2014 Fibonacci 0.618 golden pocket (exact harmonic confluence); prior swing low confirmation zone; MA20 downtrend crosses t",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17663,9 +17663,9 @@
         "price": 407.75,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 0.500 retracement; psychological round ($407\u2013410)",
+        "reason": "\u2014 Fibonacci 0.500 + 20-day VWAP ($403.56) confluence; invalidation level for bearish thesis; psychological 4xx zone",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17753,9 +17753,39 @@
         "price": 349.2,
         "type": "S1",
         "strength": 5,
-        "reason": "52-week low (CURRENT = today's low); psychological whole number; extended support",
+        "reason": "\u2014 **52-week low; intraday low TODAY**; psychological round number; volume spike exactly here",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 374.26,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.786 (golden pocket upper boundary); recent hourly bounce resistance (touched in 1H around $374-378); psych",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 340.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Round psychological level (estimated, extrapolated from range); likely capitulation zone if breakdown continues",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 320.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 INSUFFICIENT DATA on historical support; outside 60-day range; use $320 as \"panic floor\" only",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
