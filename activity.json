@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-26T14:16:12.688195+00:00",
+  "generated_at": "2026-06-26T14:31:14.845940+00:00",
   "items": [
     {
-      "ts": "2026-06-26T14:15:07.634000+00:00",
-      "time": "10:15 AM ET",
+      "ts": "2026-06-26T14:30:07.558000+00:00",
+      "time": "10:30 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,868**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,907** | P&L: **-26"
     },
     {
-      "ts": "2026-06-26T14:12:20.331000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $711.28** Current: **$711.40** | Strength: 4/5 (round level) / **$707.83** (daily close, 10-bar ago)"
-    },
-    {
-      "ts": "2026-06-26T14:12:15.155000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $374.58** Current: **$374.60** | Strength: 5/5 6-day swing low; **lowest daily close in recent 10-bar set**"
-    },
-    {
-      "ts": "2026-06-26T14:11:05.238000+00:00",
-      "time": "10:11 AM ET",
+      "ts": "2026-06-26T14:29:29.754000+00:00",
+      "time": "10:29 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $519.74** Current: **$517.80** | Strength: 5/5 \u2014 MA20 daily ($512.22) + 1H consolidation band support, 10-candle close "
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $367.34** Current: **$367.16** | Strength: 5/5 Fresh 10-day swing low (2 days ago) + psychological support"
     },
     {
-      "ts": "2026-06-26T14:07:55.532000+00:00",
-      "time": "10:07 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $229.48** Current: **$229.52** | Strength: 5/5 **0.618 Fib (golden pocket)** \u2014 high probability reversal zone; defines"
-    },
-    {
-      "ts": "2026-06-26T14:06:48.526000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $619.96** Current: **$620.78** | Strength: 5/5 Recent swing low (3 days back); MA20 close at $617.85; VWAP $614.39 near"
-    },
-    {
-      "ts": "2026-06-26T14:06:47.780000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $519.74** Current: **$520.53** | Strength: 5/5 \u2014 MA20 daily ($512.22) + 1H consolidation band support, 10-candle close "
-    },
-    {
-      "ts": "2026-06-26T14:05:45.157000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $710.62** Current: **$711.64** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
-    },
-    {
-      "ts": "2026-06-26T14:02:33.994000+00:00",
-      "time": "10:02 AM ET",
+      "ts": "2026-06-26T14:28:25.557000+00:00",
+      "time": "10:28 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.6** Current: **$11.56** | Strength: 3/5 |"
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE STOP $367.0** Current: **$367.53** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-26T14:00:24.479000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-06-26T14:28:25.007000+00:00",
+      "time": "10:28 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.6** Current: **$11.63** | Strength: 3/5 |"
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $367.34** Current: **$367.53** | Strength: 5/5 Fresh 10-day swing low (2 days ago) + psychological support"
+    },
+    {
+      "ts": "2026-06-26T14:24:07.506000+00:00",
+      "time": "10:24 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $365.45** Current: **$365.66** | Strength: 4/5 1H hourly close (intraday swing high); psychological round"
+    },
+    {
+      "ts": "2026-06-26T14:20:53.230000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.40** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
+    },
+    {
+      "ts": "2026-06-26T14:19:48.773000+00:00",
+      "time": "10:19 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $105.0** Current: **$105.02** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
+    },
+    {
+      "ts": "2026-06-26T14:18:45.494000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **META \u2014 BROKE BELOW S2 $550.0** Current: **$549.38** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-06-26T14:18:44.209000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW S3 $105.0** Current: **$104.91** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
+    },
+    {
+      "ts": "2026-06-26T14:18:43.008000+00:00",
+      "time": "10:18 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $617.76** Current: **$617.94** | Strength: 5/5 \u2014 MA20 (daily), intraday support from 1H chart"
     }
   ]
 }
