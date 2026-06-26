@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-26T19:37:12.810941+00:00",
+  "generated_at": "2026-06-26T19:51:13.722848+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T19:50:40.241000+00:00",
+      "time": "03:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $229.48** Current: **$230.16** | Strength: 5/5 **0.618 Fib (golden pocket)** \u2014 high probability reversal zone; defines"
+    },
+    {
+      "ts": "2026-06-26T19:50:39.304000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $112.25** Current: **$111.61** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
+    },
+    {
+      "ts": "2026-06-26T19:50:38.247000+00:00",
+      "time": "03:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $381.61** Current: **$382.74** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
+    },
+    {
+      "ts": "2026-06-26T19:50:37.406000+00:00",
+      "time": "03:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $374.26** Current: **$374.71** | Strength: 5/5 Fib 0.786 retracement (golden pocket zone begins); swing structure"
+    },
+    {
+      "ts": "2026-06-26T19:48:29.102000+00:00",
+      "time": "03:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.21** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+    },
+    {
+      "ts": "2026-06-26T19:47:25.288000+00:00",
+      "time": "03:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $373.28** Current: **$373.84** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
+    },
+    {
+      "ts": "2026-06-26T19:45:10.976000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,788** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-26T19:41:01.010000+00:00",
+      "time": "03:41 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $550.0** Current: **$550.05** | Strength: 3/5 |"
+    },
     {
       "ts": "2026-06-26T19:36:45.230000+00:00",
       "time": "03:36 PM ET",
@@ -12,54 +60,6 @@
       "time": "03:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,814**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-26T19:25:04.984000+00:00",
-      "time": "03:25 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $380.15** Current: **$380.18** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-26T19:20:53.875000+00:00",
-      "time": "03:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,828** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-26T19:12:17.835000+00:00",
-      "time": "03:12 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $380.15** Current: **$379.71** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-26T19:10:06.864000+00:00",
-      "time": "03:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $519.74** Current: **$519.31** | Strength: 5/5 \u2014 MA20 daily ($512.22) + 1H consolidation band support, 10-candle close "
-    },
-    {
-      "ts": "2026-06-26T19:09:02.057000+00:00",
-      "time": "03:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $519.74** Current: **$519.76** | Strength: 5/5 \u2014 MA20 daily ($512.22) + 1H consolidation band support, 10-candle close "
-    },
-    {
-      "ts": "2026-06-26T19:06:55.642000+00:00",
-      "time": "03:06 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $731.51** Current: **$731.76** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (645.11 \u2192 760.40) **EXTREMELY TIGHT \u2014 AT C"
-    },
-    {
-      "ts": "2026-06-26T19:06:55.072000+00:00",
-      "time": "03:06 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S3 $731.53** Current: **$731.76** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-06-26T19:05:50.080000+00:00",
-      "time": "03:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $731.51** Current: **$731.49** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (645.11 \u2192 760.40) **EXTREMELY TIGHT \u2014 AT C"
     }
   ]
 }
