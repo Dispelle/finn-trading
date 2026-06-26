@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T22:22:10.820340+00:00",
+  "generated_at": "2026-06-26T22:36:23.568414+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T22:30:07.198000+00:00",
+      "time": "06:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,780** | P&L: **-26"
+    },
     {
       "ts": "2026-06-26T22:15:06.466000+00:00",
       "time": "06:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "04:00 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,848**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-26T19:59:12.450000+00:00",
-      "time": "03:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $374.26** Current: **$374.25** | Strength: 5/5 Fib 0.786 retracement (golden pocket zone begins); swing structure"
     }
   ]
 }
