@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-26T17:32:17.333570+00:00",
+  "generated_at": "2026-06-26T17:47:18.065230+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T17:45:09.403000+00:00",
+      "time": "01:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,986** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-26T17:40:31.792000+00:00",
+      "time": "01:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1168.57** Current: **$1166.85** | Strength: 5/5 Prior daily support, printed 5 days ago; recent swing low consolidation"
+    },
+    {
+      "ts": "2026-06-26T17:40:30.902000+00:00",
+      "time": "01:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $1167.5** Current: **$1166.85** | Strength: 4/5 \u2014 60-day swing high (yesterday's low / recent resistance). Confluence: 1"
+    },
+    {
+      "ts": "2026-06-26T17:37:19.334000+00:00",
+      "time": "01:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $617.76** Current: **$617.75** | Strength: 5/5 \u2014 MA20 (daily), intraday support from 1H chart"
+    },
+    {
+      "ts": "2026-06-26T17:35:11.231000+00:00",
+      "time": "01:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $618.92** Current: **$618.50** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-06-26T17:31:58.644000+00:00",
       "time": "01:31 PM ET",
@@ -30,36 +60,6 @@
       "time": "01:00 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,920** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-26T16:45:07.429000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,946**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-26T16:34:23.988000+00:00",
-      "time": "12:34 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $384.58** Current: **$384.78** | Strength: 4/5 | +$9.05 (+2.4%) | Today's high / last 1H pivot / psychological level |"
-    },
-    {
-      "ts": "2026-06-26T16:30:08.708000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,979** | P&L: **-26"
-    },
-    {
-      "ts": "2026-06-26T16:21:31.697000+00:00",
-      "time": "12:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1200.55** Current: **$1200.53** | Strength: 5/5 52-week high, intraday ATH today, psychological round, supply zone"
-    },
-    {
-      "ts": "2026-06-26T16:08:45.346000+00:00",
-      "time": "12:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $384.58** Current: **$384.02** | Strength: 4/5 | +$9.05 (+2.4%) | Today's high / last 1H pivot / psychological level |"
     }
   ]
 }
