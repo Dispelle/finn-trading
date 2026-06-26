@@ -14070,7 +14070,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14229,9 +14229,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day/20-day high, fib 1.272 extension target",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14270,7 +14270,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 intraday support from daily low candles + confluence with 1H swing low",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -14740,7 +14740,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 today's hourly high, prior swing high rejection point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -14829,9 +14829,9 @@
         "price": 744.92,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 MA20(daily), slope down, prior support-turned-resistance",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14839,9 +14839,9 @@
         "price": 749.53,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing high (recent), supply cluster",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14859,9 +14859,9 @@
         "price": 731.51,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing low, confluence with fib 0.236 ($731.51)",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14869,9 +14869,9 @@
         "price": 722.59,
         "type": "S2",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 60-day swing low (2nd tier), psychological round",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14879,9 +14879,9 @@
         "price": 713.64,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 Fib 0.382 retracement, medium-term support zone",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
