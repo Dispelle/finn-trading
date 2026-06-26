@@ -15367,7 +15367,7 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day ATH; weekly swing high; Fibonacci 1.272 extension ($798.82) target above this",
+        "reason": "\u2014 60-day swing high, psychological level, Fibonacci 1.272 extension ($796.72) anchor. *Major resistance zone*.",
         "status": "active",
         "source_brief": "2026-06-26",
         "hit_count": 0,
@@ -15387,9 +15387,9 @@
         "price": 704.32,
         "type": "S2",
         "strength": 5,
-        "reason": "0.236 Fibonacci retracement (golden start); prior daily low $704.45 confluence",
+        "reason": "\u2014 Today's low, daily swing low, 1H candle low. *Structural support/invalidation level*.",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15397,9 +15397,9 @@
         "price": 695.25,
         "type": "S3",
         "strength": 5,
-        "reason": "50-period MA, breakpoint of HH/HL pattern, support zone",
+        "reason": "\u2014 60-day swing low, psychological $696 level. *Secondary support*.",
         "status": "active",
-        "source_brief": "2026-06-22",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16256,10 +16256,10 @@
       {
         "price": 723.61,
         "type": "R1",
-        "strength": 4,
-        "reason": "1H recent high; MA20 daily proximity ($726.87 target); convergence zone",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP, also near MA20 daily ($724.94). Acts as *volume anchor & moving average confluence*.",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16296,8 +16296,8 @@
       {
         "price": 738.31,
         "type": "R2",
-        "strength": 4,
-        "reason": "Prior weekly close (Dec 16) + swing high clustering (738\u2013741 zone)",
+        "strength": 5,
+        "reason": "\u2014 Prior daily close (2 bars back), swing point resistance, recent high $738.31 (weekly). *Supply cluster*.",
         "status": "active",
         "source_brief": "2026-06-26",
         "hit_count": 0,
@@ -16370,6 +16370,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 706.94,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement (23.6% pullback from swing). *First technical support*.",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
