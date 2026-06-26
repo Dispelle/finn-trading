@@ -21494,7 +21494,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -21554,7 +21554,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Yesterday's low; swing low; invalidation level for bullish structure",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -21583,9 +21583,9 @@
         "price": 1104.33,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement; prior consolidation base; daily support cluster",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21783,9 +21783,9 @@
         "price": 1182.73,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day high; extension target 1.272 Fib ($1273.09); psychological barrier",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22023,9 +22023,9 @@
         "price": 1160.95,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 2-day high; recent failure point (bulls couldn't hold); strong overnight supply",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22114,7 +22114,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "20-day VWAP; currently 3.2 points above price; dynamic support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -22233,9 +22233,9 @@
         "price": 1119.68,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; bulls defend VWAP in consolidations; confluence with 0.236 Fib ($1104.33 nearby)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22293,9 +22293,9 @@
         "price": 1098.57,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Prior week's close; MA20 weekly support zone; critical pivot",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22313,9 +22313,9 @@
         "price": 1145.43,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Today's high; immediate intraday resistance; last 1H swing high",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
