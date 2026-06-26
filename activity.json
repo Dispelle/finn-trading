@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-26T13:31:35.887033+00:00",
+  "generated_at": "2026-06-26T13:31:49.135023+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T13:31:41.242000+00:00",
+      "time": "09:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $1149.43** Current: **$1153.92** | Strength: 5/5 \u2014 Prior 60-day high (same as today's high); psychological round. Minor "
+    },
+    {
+      "ts": "2026-06-26T13:31:40.384000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $192.13** Current: **$191.82** | Strength: 5/5 Today's intraday low; **structural low on daily** (fresh LL)"
+    },
+    {
+      "ts": "2026-06-26T13:31:39.824000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $191.88** Current: **$191.82** | Strength: 5/5 Fibonacci 0.618 golden pocket (critical support); MA200 nearby ($194.20"
+    },
+    {
+      "ts": "2026-06-26T13:31:39.113000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $512.48** Current: **$511.30** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
+    },
     {
       "ts": "2026-06-26T13:30:37.391000+00:00",
       "time": "09:30 AM ET",
@@ -36,30 +60,6 @@
       "time": "09:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $710.62** Current: **$706.94** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
-    },
-    {
-      "ts": "2026-06-26T13:30:30.506000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $707.83** Current: **$706.94** | Strength: 4/5 Last 10-day daily swing low; psychological round; recent tested floor"
-    },
-    {
-      "ts": "2026-06-26T13:30:29.891000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $711.28** Current: **$706.94** | Strength: 4/5 (round level) / **$707.83** (daily close, 10-bar ago)"
-    },
-    {
-      "ts": "2026-06-26T13:30:28.734000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $731.51** Current: **$728.77** | Strength: 5/5 \u2014 60-day swing low, confluence with fib 0.236 ($731.51)"
-    },
-    {
-      "ts": "2026-06-26T13:30:27.787000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $729.46** Current: **$728.77** | Strength: 5/5 **Today's low; intraday support; 1H fractal**"
     }
   ]
 }
