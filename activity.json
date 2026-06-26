@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-06-26T18:32:36.131393+00:00",
+  "generated_at": "2026-06-26T18:47:35.780495+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T18:45:09.606000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,650** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-26T18:38:11.073000+00:00",
+      "time": "02:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S3 $281.45** Current: **$281.33** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); secondary fib support; psychological roun"
+    },
+    {
+      "ts": "2026-06-26T18:37:07.251000+00:00",
+      "time": "02:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $381.61** Current: **$381.39** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
+    },
+    {
+      "ts": "2026-06-26T18:36:02.768000+00:00",
+      "time": "02:36 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $710.0** Current: **$710.00** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-26T18:33:55.200000+00:00",
+      "time": "02:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $281.45** Current: **$281.51** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); secondary fib support; psychological roun"
+    },
+    {
+      "ts": "2026-06-26T18:33:54.706000+00:00",
+      "time": "02:33 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $710.0** Current: **$710.38** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-06-26T18:32:49.605000+00:00",
+      "time": "02:32 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $612.66** Current: **$613.12** | Strength: 3/5 \u2014 MA20 daily (slope up)"
+    },
     {
       "ts": "2026-06-26T18:30:42.059000+00:00",
       "time": "02:30 PM ET",
@@ -18,48 +60,6 @@
       "time": "02:29 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1208.18** Current: **$1207.57** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-06-26T18:28:34.544000+00:00",
-      "time": "02:28 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $105.0** Current: **$105.08** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
-    },
-    {
-      "ts": "2026-06-26T18:25:23.398000+00:00",
-      "time": "02:25 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S2 $329.64** Current: **$329.71** | Strength: 5/5 \u2014 **Recent daily low (6 days), Fibonacci 0.236 retracement, 20-day VWAP "
-    },
-    {
-      "ts": "2026-06-26T18:25:21.589000+00:00",
-      "time": "02:25 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW S3 $105.0** Current: **$104.98** | Strength: 3/5 Round level; gap fill risk (macro support); Fib extension consideration"
-    },
-    {
-      "ts": "2026-06-26T18:23:15.059000+00:00",
-      "time": "02:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1208.18** Current: **$1208.58** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-06-26T18:23:11.536000+00:00",
-      "time": "02:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.41** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
-    },
-    {
-      "ts": "2026-06-26T18:22:08.858000+00:00",
-      "time": "02:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $710.62** Current: **$710.71** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
-    },
-    {
-      "ts": "2026-06-26T18:22:07.069000+00:00",
-      "time": "02:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $1149.43** Current: **$1150.59** | Strength: 5/5 \u2014 Prior 60-day high (same as today's high); psychological round. Minor "
     }
   ]
 }
