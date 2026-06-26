@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-26T16:30:57.437194+00:00",
+  "generated_at": "2026-06-26T16:45:56.946487+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T16:45:07.429000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,946**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-06-26T16:34:23.988000+00:00",
+      "time": "12:34 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $384.58** Current: **$384.78** | Strength: 4/5 | +$9.05 (+2.4%) | Today's high / last 1H pivot / psychological level |"
+    },
     {
       "ts": "2026-06-26T16:30:08.708000+00:00",
       "time": "12:30 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:38 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.48** Current: **$104.60** | Strength: 5/5 \u2014 *Today's low, 52-week low, psychological round number*"
-    },
-    {
-      "ts": "2026-06-26T15:19:40.994000+00:00",
-      "time": "11:19 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1182.73** Current: **$1182.59** | Strength: 5/5 \u2014 60-day swing high, Fib 0.236 at $1,104.33 (CLOSE\u2014confluence!), Round"
-    },
-    {
-      "ts": "2026-06-26T15:18:35.558000+00:00",
-      "time": "11:18 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $381.61** Current: **$381.94** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
     }
   ]
 }
