@@ -4324,7 +4324,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5123,9 +5123,9 @@
         "price": 614.47,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP; price above but tested intraday (613.93); dynamic support",
+        "reason": "\u2014 20-day VWAP, extremely tight to current price ($636.88), dynamic support",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5553,9 +5553,9 @@
         "price": 599.97,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; prior resistance zone",
+        "reason": "\u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily swings",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5793,9 +5793,9 @@
         "price": 650.03,
         "type": "R1",
         "strength": 4,
-        "reason": "\u2014 **today's intraday high; prior swing high 5 bars ago; intraday structure resistance**",
+        "reason": "\u2014 TODAY'S HIGH, 1H resistance, round number, prior daily swing high",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5803,9 +5803,9 @@
         "price": 671.83,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **60-day peak; upper Bollinger Band proxy; psychological round ($670\u2013$675 zone)**",
+        "reason": "\u2014 60-day absolute high, psychological round ($670), weekly structure anchor",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5813,9 +5813,9 @@
         "price": 754.44,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (368.10 \u2192 671.83); major target if breakout holds",
+        "reason": "\u2014 Fibonacci 1.272 extension (368.10 \u2192 671.83), ultra-long-term target",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5833,9 +5833,9 @@
         "price": 555.81,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement; aligns with recent swing low cluster ($554.66); major support",
+        "reason": "\u2014 Fibonacci 0.382 retracement, MA20 weekly ($503.97 \u2192 $555.81 zone), trend-line anchor",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5865,7 +5865,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5915,7 +5915,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5925,7 +5925,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5935,7 +5935,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
