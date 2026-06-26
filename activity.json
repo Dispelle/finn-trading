@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T20:51:32.606893+00:00",
+  "generated_at": "2026-06-26T21:06:17.626571+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T21:00:09.861000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,603** | P&L: **-26"
+    },
     {
       "ts": "2026-06-26T20:45:09.404000+00:00",
       "time": "04:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $112.25** Current: **$111.61** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
-    },
-    {
-      "ts": "2026-06-26T19:50:38.247000+00:00",
-      "time": "03:50 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $381.61** Current: **$382.74** | Strength: 5/5 \u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); align"
     }
   ]
 }
