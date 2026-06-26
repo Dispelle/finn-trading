@@ -22928,6 +22928,96 @@
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 1200.55,
+        "type": "R1",
+        "strength": 5,
+        "reason": "52-week high, intraday ATH today, psychological round, supply zone",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1295.76,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (850.51 \u2192 1200.55); projection target",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1416.87,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.618 extension; long-term bull-case target if breakout confirmed",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1180.0,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Intraday support near today's close; prior swing high base",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1149.1,
+        "type": "S2",
+        "strength": 5,
+        "reason": "60-day swing high (prior cycle); daily structure lower-timeframe support",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1123.25,
+        "type": "S3",
+        "strength": 5,
+        "reason": "20-day VWAP; MA20 = $1120.79 (tight cluster) \u2014 major technical floor",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1117.94,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fibonacci 0.236 retracement (golden retracement zone start)",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1066.83,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fibonacci 0.382 retracement; secondary support if deeper pullback",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1128.8,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
