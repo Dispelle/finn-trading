@@ -18500,7 +18500,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -18699,9 +18699,9 @@
         "price": 337.24,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **60-day absolute low + swing point**",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18950,7 +18950,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "60-day swing high (weekly structure), major volume node",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -19030,7 +19030,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "4H swing high (last 10 days), prior pivot resistance, daily confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -19170,7 +19170,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "10-day swing low, critical structure point (if broken = lower low confirmed)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -19180,7 +19180,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "60-day swing low (secondary support), prior support bounce point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -19190,7 +19190,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -19309,9 +19309,9 @@
         "price": 362.1,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **Fibonacci 0.786 extension + swing low vicinity**",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19369,9 +19369,9 @@
         "price": 395.32,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **Fibonacci 0.500 (midpoint) + dynamic support-turned-resistance**",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19429,9 +19429,9 @@
         "price": 381.61,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket) + prior swing low confluence**",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19462,6 +19462,26 @@
         "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 409.03,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **Fibonacci 0.382 + prior swing low cluster + 20-day VWAP $404.43 zone**",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 371.22,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **Today's 1H low + 10-day support cluster**",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
