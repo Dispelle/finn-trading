@@ -5942,7 +5942,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5972,7 +5972,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high (earlier); supply cluster; 4H rejection zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -7222,7 +7222,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day swing high; recent double rejection; psychological round; Fib 1.272 extension zone entry",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -7272,7 +7272,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Fibonacci 1.272 extension (from $311.49\u2192$1110.40 swing); next algorithmic target",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -7292,7 +7292,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP; MA20 ($945.48) confluence; psychological $940 round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -7302,7 +7302,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -7561,9 +7561,9 @@
         "price": 1255.0,
         "type": "R1",
         "strength": 5,
-        "reason": "Today's HOD, new 60-day and likely YTD ATH; intraday support/resistance flip",
+        "reason": "Today's high; 60-day swing high; psychological round number (ATH territory)",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7571,9 +7571,9 @@
         "price": 1136.31,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low; recent HL (higher low marker); BOS threshold",
+        "reason": "Today's low; intraday support; minor swing low",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7691,9 +7691,9 @@
         "price": 1021.5,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (critical mean reversion level; break below = loss of short-term institutional support)",
+        "reason": "20-day VWAP; MA20 level ($1024.97 \u2248 same); major mean reversion anchor",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7711,9 +7711,9 @@
         "price": 1511.63,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 1.272 Fibonacci extension (311.49 \u2192 1,255.00 swing)",
+        "reason": "Fibonacci 1.272 extension (311.49 \u2192 1255.00); confluence with VWAP extension zone",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7721,9 +7721,9 @@
         "price": 1838.09,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 1.618 Fibonacci extension (long-term upside target if breakout confirmed)",
+        "reason": "Fibonacci 1.618 extension; long-term resistance target if breakout holds",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7754,6 +7754,16 @@
         "reason": "\u2014 Last 60-day swing low; **INVALIDATION LEVEL** for bullish thesis.",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1048.51,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Yesterday's close; prior swing low; key decision point for reversal validity",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
