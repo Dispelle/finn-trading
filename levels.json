@@ -7770,7 +7770,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -8309,9 +8309,9 @@
         "price": 371.5,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low / cycle bottom",
+        "reason": "\u2014 **Swing low (10 days ago) + lower low in structure**",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8490,7 +8490,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: **Recent swing low cluster + 1H support at $387.08**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -9049,9 +9049,9 @@
         "price": 363.32,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **60-day low + swing low confluance**",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9151,7 +9151,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9212,6 +9212,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 395.94,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 **Golden pocket (0.618 Fib retracement 363.32\u2192448.70) + MA20 ($393.56) nearby**",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 416.08,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 **0.382 Fib retracement + recent lower high congestion zone**",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 428.55,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 **0.236 Fib + recent swing high resistance**",
+        "status": "active",
+        "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 381.59,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 **0.786 Fib retracement**",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
