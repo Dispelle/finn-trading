@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T22:06:33.927745+00:00",
+  "generated_at": "2026-06-26T22:21:21.288364+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T22:15:06.466000+00:00",
+      "time": "06:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,815**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-26T22:00:07.044000+00:00",
       "time": "06:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:59 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $374.26** Current: **$374.25** | Strength: 5/5 Fib 0.786 retracement (golden pocket zone begins); swing structure"
-    },
-    {
-      "ts": "2026-06-26T19:54:55.498000+00:00",
-      "time": "03:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $1136.31** Current: **$1132.97** | Strength: 5/5 Today's daily low; intraday swing point; potential support if today's s"
     }
   ]
 }
