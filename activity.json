@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T20:21:48.572400+00:00",
+  "generated_at": "2026-06-26T20:36:20.095741+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T20:30:09.760000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,655** | P&L: **-26"
+    },
     {
       "ts": "2026-06-26T20:00:31.488000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $374.26** Current: **$374.71** | Strength: 5/5 Fib 0.786 retracement (golden pocket zone begins); swing structure"
-    },
-    {
-      "ts": "2026-06-26T19:48:29.102000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.21** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
     }
   ]
 }
