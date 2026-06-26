@@ -22362,7 +22362,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -22432,7 +22432,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "0.382 Fibonacci retracement; prior swing high",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -22532,7 +22532,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "0.236 Fibonacci retracement; last swing high before recent decline",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -22582,7 +22582,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "60d swing low; double-bottom proximity",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -22782,7 +22782,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's low; tight daily pivot; 1H recent support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -22832,7 +22832,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -23072,7 +23072,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Today's high; prior daily close (135.53); 1H resistance cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -23082,7 +23082,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "60d swing low; prior support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-18",
         "hit_count": 0,
         "last_hit": null
@@ -23364,6 +23364,16 @@
         "reason": "52-week low extrapolation; round number psychological support",
         "status": "active",
         "source_brief": "2026-06-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 131.63,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
       }
