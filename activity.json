@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T21:36:56.806640+00:00",
+  "generated_at": "2026-06-26T21:51:21.146924+00:00",
   "items": [
+    {
+      "ts": "2026-06-26T21:45:05.159000+00:00",
+      "time": "05:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,942**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-06-26T21:30:05.670000+00:00",
       "time": "05:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $193.54** Current: **$193.51** | Strength: 5/5 **0.618 Fib (golden pocket)** \u2014 major support zone; psychological round"
-    },
-    {
-      "ts": "2026-06-26T19:51:44.858000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $112.25** Current: **$112.42** | Strength: 5/5 \u2014 reason: 52-week absolute low + 60-day low"
     }
   ]
 }
