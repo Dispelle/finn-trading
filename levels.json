@@ -23044,7 +23044,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23174,7 +23174,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 60-day swing high, Fib 0.236 at $1,104.33 (CLOSE\u2014confluence!), Round-number psychological barrier",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -23314,7 +23314,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior daily close (9 candles ago, significant support now flipped to resistance) | High volume touch",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
