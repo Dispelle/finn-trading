@@ -9928,7 +9928,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10278,7 +10278,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 60-day low, major swing point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -10908,7 +10908,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.618 Fibonacci \"golden pocket\"",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -10968,7 +10968,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 20-day MA (downsloping) + psychological level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -10978,7 +10978,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 Last lower high (swing)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -10988,7 +10988,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Last 1H close + psychological $59.50 round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
