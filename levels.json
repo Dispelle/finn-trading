@@ -19890,7 +19890,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19949,9 +19949,9 @@
         "price": 362.1,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement; psychological $360 round; major support line",
+        "reason": "\u2014 Fibonacci 0.786 (deep retracement); psychological $360 round number; 52-week low $337.24 remains below (gap of ~$25 / ",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20410,7 +20410,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -20609,9 +20609,9 @@
         "price": 425.99,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fib retracement; early resistance if trend reverses",
+        "reason": "\u2014 Fibonacci 0.236; prior swing high cluster ($414\u2013$416); represents \"recovery to break even\" after deeper selloff.",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20679,9 +20679,9 @@
         "price": 409.03,
         "type": "R2",
         "strength": 5,
-        "reason": "0.382 Fib retracement; MA20 proximity; prior swing",
+        "reason": "\u2014 Fibonacci 0.382 retracement; last swing high bounce level before structure broke lower; 2-day consolidation zone.",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20689,9 +20689,9 @@
         "price": 377.9,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.650 Fibonacci (golden pocket edge); today's intraday range floor; psychological $378 round",
+        "reason": "\u2014 Fibonacci 0.650 retracement; **current price $379.71 trades in immediate proximity** \u2014 this is \"hot money\" zone, thin ",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20879,9 +20879,9 @@
         "price": 395.32,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement; daily moving average clustering zone; last rejection point",
+        "reason": "\u2014 Fibonacci 0.500 (50% retracement of $337.24\u2192$453.40 swing); daily MA20 proximity ($401.55 \u2248 $395); psychological midpo",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20909,9 +20909,29 @@
         "price": 368.17,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Last swing low (60d); today's L $368.60 tested this; critical fracture point",
+        "reason": "\u2014 1H low from today's candle; aligns with 60-day swing low $368.17; structural support tier 2.",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 384.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.6,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       }
