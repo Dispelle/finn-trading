@@ -4634,7 +4634,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5644,7 +5644,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -5734,7 +5734,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior daily swing high (4 days ago); resistance cluster; 1H rejected hard from 660\u2013663 zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -5884,7 +5884,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "60-day absolute high; psychological round; 1.272 Fib extension (746.47 is too far)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -6083,9 +6083,9 @@
         "price": 671.83,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **60-day HIGH / 52-week range peak (91%)** \u2014 Structural resistance; psychological round number; fib extension target",
+        "reason": "60-day peak; weekly swing high; psychological resistance (80% fib of range)",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6253,9 +6253,9 @@
         "price": 621.67,
         "type": "R1",
         "strength": 4,
-        "reason": "Today's 1H high + 20-day VWAP junction ($614.95 + 1.2%)",
+        "reason": "1H local resistance (cluster of 1H highs at 620\u2013621 range); 20-day VWAP proximity ($614.93)",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6263,9 +6263,9 @@
         "price": 638.49,
         "type": "R2",
         "strength": 5,
-        "reason": "Last higher high (2d ago) + prior swing support",
+        "reason": "Last swing higher low (HL); Daily MA20 = $618.44 \u2192 price needs to reclaim this to restore uptrend structure",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6273,9 +6273,9 @@
         "price": 650.03,
         "type": "R3",
         "strength": 4,
-        "reason": "60-day swing high (secondary peak, 8d ago)",
+        "reason": "60-day swing high (just below prior $671.83); Fib 1.272 extension zone ($751.75) NOT yet active",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6293,9 +6293,9 @@
         "price": 602.49,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.236 retracement** from swing ($378 \u2192 $671.83); confluence with zone",
+        "reason": "Fib 0.236 retracement (from $378\u2192$671.83) \u2014 **zone of first buyers**",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6343,9 +6343,9 @@
         "price": 606.23,
         "type": "S1",
         "strength": 5,
-        "reason": "Last lower low (prior swing trough, 4d ago)",
+        "reason": "60-day swing low (critical support); 1H lows cluster around 606\u2013609",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6353,9 +6353,9 @@
         "price": 559.59,
         "type": "S3",
         "strength": 4,
-        "reason": "**Fibonacci 0.382 retracement** (secondary reversal zone)",
+        "reason": "Fib 0.382 retracement; Weekly MA50 = $566.44 nearby \u2014 **intermediate demand zone**",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       }
