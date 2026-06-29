@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-29T15:35:38.003968+00:00",
+  "generated_at": "2026-06-29T15:50:38.387010+00:00",
   "items": [
+    {
+      "ts": "2026-06-29T15:45:06.817000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,694** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-29T15:40:46.703000+00:00",
+      "time": "11:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $621.67** Current: **$622.03** | Strength: 4/5 1H local resistance (cluster of 1H highs at 620\u2013621 range); 20-day VWAP "
+    },
+    {
+      "ts": "2026-06-29T15:39:42.083000+00:00",
+      "time": "11:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $621.67** Current: **$621.57** | Strength: 4/5 1H local resistance (cluster of 1H highs at 620\u2013621 range); 20-day VWAP "
+    },
     {
       "ts": "2026-06-29T15:35:24.783000+00:00",
       "time": "11:35 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:05 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1208.18** Current: **$1208.87** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-06-29T15:03:28.183000+00:00",
-      "time": "11:03 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1208.18** Current: **$1208.00** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-06-29T15:00:06.643000+00:00",
-      "time": "11:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -27.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,327**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-29T14:57:00.260000+00:00",
-      "time": "10:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $373.28** Current: **$373.10** | Strength: 4/5 \u2014 **Today's daily low** + intraday test floor"
     }
   ]
 }
