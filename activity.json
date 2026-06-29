@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-29T14:35:34.204324+00:00",
+  "generated_at": "2026-06-29T14:50:34.092880+00:00",
   "items": [
+    {
+      "ts": "2026-06-29T14:45:05.897000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,199** | P&L: **-27"
+    },
+    {
+      "ts": "2026-06-29T14:39:53.525000+00:00",
+      "time": "10:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $244.03** Current: **$244.00** | Strength: 5/5 \u2014 **MA20 (weekly)** with downslope; key moving average; acts as supply "
+    },
+    {
+      "ts": "2026-06-29T14:38:48.729000+00:00",
+      "time": "10:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $395.32** Current: **$394.84** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); intraday 1H lows clustering here ($395.19"
+    },
+    {
+      "ts": "2026-06-29T14:35:37.294000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $331.5** Current: **$331.80** | Strength: 5/5 \u2014 Daily support cluster (prior daily lows, 3\u20134 days back), VWAP proximity"
+    },
     {
       "ts": "2026-06-29T14:34:32.850000+00:00",
       "time": "10:34 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:32 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.23** | Strength: 5/5 \u2014 **MA20 (weekly)** with downslope; key moving average; acts as supply "
-    },
-    {
-      "ts": "2026-06-29T14:32:21.082000+00:00",
-      "time": "10:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $507.0** Current: **$509.31** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-06-29T14:32:20.632000+00:00",
-      "time": "10:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $507.29** Current: **$509.31** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-06-29T14:32:20.070000+00:00",
-      "time": "10:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $507.3** Current: **$509.31** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
-    },
-    {
-      "ts": "2026-06-29T14:29:09.619000+00:00",
-      "time": "10:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $395.32** Current: **$396.26** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); intraday 1H lows clustering here ($395.19"
     }
   ]
 }
