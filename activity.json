@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-29T14:20:36.541665+00:00",
+  "generated_at": "2026-06-29T14:35:34.204324+00:00",
   "items": [
     {
-      "ts": "2026-06-29T14:20:26.401000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:34:32.850000+00:00",
+      "time": "10:34 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $706.94** Current: **$707.73** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (23.6% pullback from swing). *First techni"
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $281.45** Current: **$281.58** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); secondary fib support; psychological roun"
     },
     {
-      "ts": "2026-06-29T14:20:24.694000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:34:31.950000+00:00",
+      "time": "10:34 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $1037.71** Current: **$1038.49** | Strength: 5/5 20-day VWAP; MA20 at $1035.41; fib 0.236 at $1039.11 (confluence)"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $14.95** Current: **$14.98** | Strength: 5/5 \u2014 **Weekly close from 5 bars ago**; psychological support at round $15.00 "
     },
     {
-      "ts": "2026-06-29T14:20:24.119000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:34:29.860000+00:00",
+      "time": "10:34 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $1033.82** Current: **$1038.49** | Strength: 5/5 \u2014 20-day VWAP; critical mean reversion zone; 7% below current price"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $510.65** Current: **$510.94** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-06-29T14:20:23.557000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:33:26.392000+00:00",
+      "time": "10:33 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $1032.33** Current: **$1038.49** | Strength: 5/5 \u2014 20-day VWAP; MA20 at $1,036.43 (convergence); critical average suppor"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $611.57** Current: **$611.73** | Strength: 5/5 20-day VWAP; **invalidation level for bullish bias**; confluence with da"
     },
     {
-      "ts": "2026-06-29T14:20:23.084000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:33:25.489000+00:00",
+      "time": "10:33 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1031.09** Current: **$1038.49** | Strength: 3/5 \u2014 1H recent close (pivot from lower timeframe chop). Minor support."
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.25** | Strength: 5/5 \u2014 20-day VWAP, confluence with multiple daily lows ($507.29, $512.48)"
     },
     {
-      "ts": "2026-06-29T14:20:22.480000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:32:24.464000+00:00",
+      "time": "10:32 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $599.97** Current: **$601.35** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.23** | Strength: 5/5 \u2014 **MA20 (weekly)** with downslope; key moving average; acts as supply "
     },
     {
-      "ts": "2026-06-29T14:20:21.554000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:32:21.082000+00:00",
+      "time": "10:32 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $502.61** Current: **$502.81** | Strength: 4/5 |"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $507.0** Current: **$509.31** | Strength: 4/5 |"
     },
     {
-      "ts": "2026-06-29T14:20:20.809000+00:00",
-      "time": "10:20 AM ET",
+      "ts": "2026-06-29T14:32:20.632000+00:00",
+      "time": "10:32 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $501.0** Current: **$502.81** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $507.29** Current: **$509.31** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-06-29T14:19:19.611000+00:00",
-      "time": "10:19 AM ET",
+      "ts": "2026-06-29T14:32:20.070000+00:00",
+      "time": "10:32 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $244.39** Current: **$244.41** | Strength: 5/5 \u2014 Last weekly pivot high + Daily MA20 proximity + Psychological 244.00"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $507.3** Current: **$509.31** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
     },
     {
-      "ts": "2026-06-29T14:15:32.795000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $706.94** Current: **$705.52** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (23.6% pullback from swing). *First techni"
+      "ts": "2026-06-29T14:29:09.619000+00:00",
+      "time": "10:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $395.32** Current: **$396.26** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); intraday 1H lows clustering here ($395.19"
     }
   ]
 }
