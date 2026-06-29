@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-29T16:20:40.516597+00:00",
+  "generated_at": "2026-06-29T16:35:43.067752+00:00",
   "items": [
+    {
+      "ts": "2026-06-29T16:30:07.757000+00:00",
+      "time": "12:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,506** | P&L: **-26"
+    },
+    {
+      "ts": "2026-06-29T16:22:34.018000+00:00",
+      "time": "12:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R2 $402.52** Current: **$403.13** | Strength: 5/5 \u2014 MA20 $401.57 + round number; last swing high low-wick; volume pivot"
+    },
     {
       "ts": "2026-06-29T16:03:24.479000+00:00",
       "time": "12:03 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:40 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $621.67** Current: **$622.03** | Strength: 4/5 1H local resistance (cluster of 1H highs at 620\u2013621 range); 20-day VWAP "
-    },
-    {
-      "ts": "2026-06-29T15:39:42.083000+00:00",
-      "time": "11:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $621.67** Current: **$621.57** | Strength: 4/5 1H local resistance (cluster of 1H highs at 620\u2013621 range); 20-day VWAP "
-    },
-    {
-      "ts": "2026-06-29T15:35:24.783000+00:00",
-      "time": "11:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $619.96** Current: **$619.95** | Strength: 5/5 Recent swing low (3 days back); MA20 close at $617.85; VWAP $614.39 near"
     }
   ]
 }
