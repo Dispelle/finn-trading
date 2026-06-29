@@ -8370,7 +8370,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9180,7 +9180,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "10-day intraday high; MA20 confluence ($402.87 nearby)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -9370,7 +9370,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Last swing high (2 days ago); daily resistance cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -9540,7 +9540,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "1-hour recent swing low; 0.786 Fib ($388.32) nearby; intraday support cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -9550,7 +9550,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "Today's low; psychological round number; 1H swing low",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -9560,7 +9560,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "6-day swing low; **lowest daily close in recent 10-bar set**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
