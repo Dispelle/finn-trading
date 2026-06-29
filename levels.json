@@ -25150,7 +25150,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -25160,7 +25160,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "0.650 Fib (golden pocket start) + daily MA20 ($13.83) confluence \u2014 micro-resistance zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -25790,7 +25790,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "0.786 Fib (touching current 1H lows); micro-support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -25800,7 +25800,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Weekly MA50 \u2014 barrier to trend reversal",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -25810,7 +25810,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Recent weekly close; 60-day swing low; tested multiple times",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -25820,7 +25820,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "60-day support zone; daily swing low (Dec pattern)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
