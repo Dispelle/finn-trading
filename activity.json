@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-29T14:05:49.999664+00:00",
+  "generated_at": "2026-06-29T14:20:36.541665+00:00",
   "items": [
     {
-      "ts": "2026-06-29T14:05:34.344000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $607.61** Current: **$606.90** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-06-29T14:03:25.589000+00:00",
-      "time": "10:03 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.46** Current: **$52.38** | Strength: 5/5 \u2014 Today's daily low, 1H intraday support (tested 3x in last 20 1H bars)"
-    },
-    {
-      "ts": "2026-06-29T14:03:24.618000+00:00",
-      "time": "10:03 AM ET",
+      "ts": "2026-06-29T14:20:26.401000+00:00",
+      "time": "10:20 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $609.2** Current: **$609.63** | Strength: 4/5 \u2014 Today's low; strong short-term support (hourly level)"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $706.94** Current: **$707.73** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (23.6% pullback from swing). *First techni"
     },
     {
-      "ts": "2026-06-29T14:03:24.073000+00:00",
-      "time": "10:03 AM ET",
+      "ts": "2026-06-29T14:20:24.694000+00:00",
+      "time": "10:20 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $609.21** Current: **$609.63** | Strength: 5/5 \u2014 20-day VWAP"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $1037.71** Current: **$1038.49** | Strength: 5/5 20-day VWAP; MA20 at $1035.41; fib 0.236 at $1039.11 (confluence)"
     },
     {
-      "ts": "2026-06-29T14:03:22.969000+00:00",
-      "time": "10:03 AM ET",
+      "ts": "2026-06-29T14:20:24.119000+00:00",
+      "time": "10:20 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $512.48** Current: **$513.55** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $1033.82** Current: **$1038.49** | Strength: 5/5 \u2014 20-day VWAP; critical mean reversion zone; 7% below current price"
     },
     {
-      "ts": "2026-06-29T14:02:18.627000+00:00",
-      "time": "10:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $609.2** Current: **$608.43** | Strength: 4/5 \u2014 Today's low; strong short-term support (hourly level)"
-    },
-    {
-      "ts": "2026-06-29T14:02:18.078000+00:00",
-      "time": "10:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $609.21** Current: **$608.43** | Strength: 5/5 \u2014 20-day VWAP"
-    },
-    {
-      "ts": "2026-06-29T14:02:17.278000+00:00",
-      "time": "10:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $512.48** Current: **$510.77** | Strength: 4/5 \u2014 reason: Recent daily close (2 days ago); minor swing point; psychologi"
-    },
-    {
-      "ts": "2026-06-29T14:00:14.716000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,412** | P&L: **-27"
-    },
-    {
-      "ts": "2026-06-29T13:57:58.955000+00:00",
-      "time": "09:57 AM ET",
+      "ts": "2026-06-29T14:20:23.557000+00:00",
+      "time": "10:20 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $75.12** Current: **$75.19** | Strength: 4/5 Prior daily swing low (2 days ago); 1H confluent low cluster (75.07\u201375.12"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $1032.33** Current: **$1038.49** | Strength: 5/5 \u2014 20-day VWAP; MA20 at $1,036.43 (convergence); critical average suppor"
+    },
+    {
+      "ts": "2026-06-29T14:20:23.084000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1031.09** Current: **$1038.49** | Strength: 3/5 \u2014 1H recent close (pivot from lower timeframe chop). Minor support."
+    },
+    {
+      "ts": "2026-06-29T14:20:22.480000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $599.97** Current: **$601.35** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
+    },
+    {
+      "ts": "2026-06-29T14:20:21.554000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $502.61** Current: **$502.81** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-06-29T14:20:20.809000+00:00",
+      "time": "10:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $501.0** Current: **$502.81** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-06-29T14:19:19.611000+00:00",
+      "time": "10:19 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $244.39** Current: **$244.41** | Strength: 5/5 \u2014 Last weekly pivot high + Daily MA20 proximity + Psychological 244.00"
+    },
+    {
+      "ts": "2026-06-29T14:15:32.795000+00:00",
+      "time": "10:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $706.94** Current: **$705.52** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (23.6% pullback from swing). *First techni"
     }
   ]
 }
