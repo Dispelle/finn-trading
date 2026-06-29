@@ -19162,7 +19162,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19251,9 +19251,9 @@
         "price": 520.26,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 52-week low (bottom of range), psychological major support",
+        "reason": "\u2014 **52-week absolute low**",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19352,7 +19352,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -19612,7 +19612,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -19622,7 +19622,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-19",
         "hit_count": 0,
         "last_hit": null
@@ -19751,9 +19751,9 @@
         "price": 597.64,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket start) + cluster of swing lows ($598.10, $596.68)",
+        "reason": "\u2014 **Golden Pocket (0.618 Fib)** + prior swing low ($598.10 exact match)",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19791,9 +19791,9 @@
         "price": 528.54,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **60-day absolute low + 52-week swing point + Fib base (1.000)**",
+        "reason": "\u2014 Psychological round number + 15-20% retrace of 52-week range",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19811,9 +19811,9 @@
         "price": 572.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement + psychological level + recent swing high cluster",
+        "reason": "\u2014 0.786 Fibonacci retracement + recent 1H cluster high",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19821,9 +19821,9 @@
         "price": 615.86,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci midpoint + psychological 50% of swing + Weekly invalidation level",
+        "reason": "\u2014 0.500 Fibonacci (midpoint) + MA20 downslope target",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19851,9 +19851,9 @@
         "price": 540.21,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's daily low = **immediate support / 60-day low**",
+        "reason": "\u2014 **60-day absolute low** + Fibonacci extension floor",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
       },
