@@ -26448,7 +26448,7 @@
     ]
   },
   "MSTR": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -27080,6 +27080,16 @@
         "reason": "\u2014 **52-week low, intraday low TODAY, Fibonacci base point (0.000).**",
         "status": "active",
         "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 125.81,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
