@@ -6402,7 +6402,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -7772,7 +7772,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior 60-day high (same as today's high); psychological round. Minor overhead resistance if price pulls back.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -7802,7 +7802,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 Fibonacci extension 1.272 at $1377.35 (too wide); using 2% extension from swing = $1173 zone. Minor resistance.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -7812,7 +7812,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 1.272 extension (311.49 \u2192 1149.43). Major structural target if bullish thesis extends; represents 22.5% gain",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -7822,7 +7822,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low; recent intraday support (1H low 1092.79); tested multiple times in last hour.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -7832,7 +7832,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Prior day's close (strong support tested 11 days ago at $1020.45 on 1H). Psychological round; Fib 0.236 at $951.68 nea",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -7842,7 +7842,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 20-day VWAP; MA20 at $965.58. Critical pivot. Loss of this level (weekly close below) = structural break.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -8021,9 +8021,9 @@
         "price": 1255.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high / daily swing high / psychological round + confluence with 1H high",
+        "reason": "\u2014 Prior swing high (8d ago), 60-day high, psychological round number",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8364,6 +8364,56 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1503.83,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension (340.20 \u2192 1,255.00), breakout extension level",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1820.35,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.618 extension, major harmonic resistance",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Swing low 60d range, confluence with daily structure turn",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1039.11,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.236 retracement, early support zone",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 905.55,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement, strong fib level + swing low $818.67 nearby",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
