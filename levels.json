@@ -24442,7 +24442,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -24602,7 +24602,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.500 Fib (midpoint); 20-day VWAP at $139.92 (near R2); psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -24632,7 +24632,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **52-WEEK LOW / 60-DAY FLOOR**; defined bottom of current range; loss of this level signals structural breakdown",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -24762,7 +24762,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **GOLDEN POCKET** (0.618 Fib); MA20 currently at $138.02 (confluent); historically strong reversal zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -24842,7 +24842,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 0.786 Fibonacci retracement (122.68 \u2192 163.70); recent daily high cluster (last 2 days); tight psychological resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -24922,7 +24922,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 60-day swing low (Feb formation); prior bounce point; minor support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -25192,7 +25192,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -25381,9 +25381,9 @@
         "price": 118.64,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fib retrace (golden zone floor); prior 60-day swing low cluster",
+        "reason": "\u2014 reason: 0.786 Fibonacci retracement (golden zone floor) + 1H recent high ($119.08, very recent). Acts as micro-resista",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -25501,9 +25501,9 @@
         "price": 106.37,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day absolute low; 52-week range floor; multiple 1H touches \u2192 strong buyer magnet",
+        "reason": "\u2014 reason: 60-day absolute low, psychological floor, swing low anchor from early downtrend. This is the **range bottom.**",
         "status": "active",
-        "source_brief": "2026-06-29",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -25534,6 +25534,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 112.93,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 reason: Most recent weekly close (2 bars ago) + swing low test. **THIS IS THE CRITICAL INVALIDATION LEVEL.** Break bel",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 179.29,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
