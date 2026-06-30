@@ -20160,7 +20160,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20189,9 +20189,9 @@
         "price": 453.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day swing high + 1.000 retracement of the $337.24\u2013$453.40 swing",
+        "reason": "\u2014 60-day high; psychological round; Fib 1.272 extension zone begins ($485); major supply",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20200,7 +20200,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 (midpoint); intraday 1H lows clustering here ($395.19, $395.87, $394.2); first support zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -20210,7 +20210,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 **\"golden pocket\"** (golden ratio convergence); aligns with recent swing low $380.15 (1.46 pts away); ",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -20889,9 +20889,9 @@
         "price": 400.49,
         "type": "S1",
         "strength": 5,
-        "reason": "Prior 8-week close, daily MA50 proximity ($403.68), psychological round number",
+        "reason": "\u2014 20-day VWAP; MA20 ($400.36 nearby); mean-reversion anchor",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20899,9 +20899,9 @@
         "price": 395.32,
         "type": "S2",
         "strength": 5,
-        "reason": "0.500 Fibonacci retracement (golden middle of $337.24\u2013$453.40) + MA50 ($403.68) nearby",
+        "reason": "\u2014 Fibonacci 0.500 (50% pullback); psychological support; confluence with recent daily tests",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20909,9 +20909,9 @@
         "price": 381.61,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fibonacci (golden pocket) + prior 10-day swing low ($380.15) \u2014 **major demand zone**",
+        "reason": "\u2014 **GOLDEN POCKET** (Fib 0.618); prior daily low swing; major support if R1/S1 breaks",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21202,6 +21202,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 425.99,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement (23.6% = shallow pullback target); 60-day resistance zone",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 433.6,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Swing high from 60-day chart; daily confluence with recent swing highs",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
