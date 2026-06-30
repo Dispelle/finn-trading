@@ -23374,7 +23374,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -24376,6 +24376,66 @@
         "reason": "\u2014 Fibonacci 0.382 retracement; deeper structural support if pullback extends",
         "status": "active",
         "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1238.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Fresh 60-day high; today's high; psychological round (1240 zone); Fibonacci 1.272 extension at $1343.40 above",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1343.4,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (from 850.51\u21921238.00 swing); measured move extension",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1203.14,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's intraday low; recent swing low; strong rejection of lower prices today",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1134.99,
+        "type": "S2",
+        "strength": 5,
+        "reason": "20-day VWAP; also MA20 daily at $1128.03 (confluence); key structure support",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.98,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fibonacci 0.382 retracement (golden zone start); prior swing high zone (1149.10 above, 1089.98 below = balance point)",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1203.14,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
