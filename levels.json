@@ -16348,7 +16348,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17128,7 +17128,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Fibonacci 1.272 extension (555.60\u2192748.65), measured move target, prior supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -17138,7 +17138,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fibonacci 1.618 extension, long-term technical projection",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -17158,7 +17158,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -17168,7 +17168,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -17178,7 +17178,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -17188,7 +17188,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
