@@ -4674,7 +4674,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5814,7 +5814,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -5934,7 +5934,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -5954,7 +5954,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -5964,7 +5964,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -5974,7 +5974,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -5984,7 +5984,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
