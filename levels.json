@@ -22236,7 +22236,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23015,9 +23015,9 @@
         "price": 316.57,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.500 midpoint; MA50 near $311.15 (strong structural support); 20-day VWAP at $318.66 above this",
+        "reason": "Fibonacci 0.500 (midpoint); MA20 ($319.53) = nearby confluence; daily support cluster",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23035,9 +23035,9 @@
         "price": 327.21,
         "type": "S1",
         "strength": 5,
-        "reason": "Yesterday's daily low; recent intraday support (1H structure); MA20 proximity",
+        "reason": "Today's intraday low; Fibonacci 0.236 at $330.53 proximity; micro-structure support",
         "status": "active",
-        "source_brief": "2026-06-24",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23305,9 +23305,9 @@
         "price": 322.54,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement; prior daily low cluster around $324\u2013$326 (March structure); MA20 confluence",
+        "reason": "Fibonacci 0.382 (golden zone entry); recent daily low (5d ago); tested as floor 2x",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23338,6 +23338,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 332.39,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Today's 4H high; immediate intraday resistance; 1H recent congestion top",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 338.09,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Recent swing high (4d ago); failed breakout above $343.45; clear rejection zone",
+        "status": "active",
+        "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 343.45,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day and 52-week high; psychological round number; Fibonacci 1.272 extension confluence",
+        "status": "active",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       }
