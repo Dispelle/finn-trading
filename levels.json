@@ -1508,7 +1508,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -2827,7 +2827,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-22",
         "hit_count": 0,
         "last_hit": null
@@ -2876,9 +2876,9 @@
         "price": 562.99,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day all-time high (supply zone), failed breakout 5 days running",
         "status": "active",
-        "source_brief": "2026-06-23",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3056,9 +3056,9 @@
         "price": 486.8,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 4-day swing low, prior support zone. Fib 0.236 ($477.47) nearby = **confluence zone**. **",
+        "reason": "Recent swing low (primary structure support, if breaks = CHoCH)",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3118,7 +3118,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3126,9 +3126,9 @@
         "price": 509.83,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP, confluence with multiple daily lows ($507.29, $512.48)",
+        "reason": "20-day VWAP \u2014 historically strong support",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3186,9 +3186,9 @@
         "price": 661.55,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.618 extension (from $200.62 \u2192 $562.99 swing)",
+        "reason": "1.272 Fibonacci extension from $200.62\u2192$562.99 swing",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
       },
