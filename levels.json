@@ -26828,7 +26828,7 @@
     ]
   },
   "MSTR": {
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -27417,9 +27417,9 @@
         "price": 106.46,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.786 Fib retracement (81.81 \u2192 197.00) + 60-day structural support zone + daily MA20 (~$119 is above this but 0.786 ",
+        "reason": "\u2014 Fibonacci 0.786 retracement of $81.81\u2192$197 swing + prior swing low cluster",
         "status": "active",
-        "source_brief": "2026-06-29",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27437,9 +27437,9 @@
         "price": 125.81,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.618 Golden Pocket Fibonacci level (classic reversal zone). Also sits near prior swing low at $125.04 (60d).**",
+        "reason": "\u2014 Fibonacci 0.618 golden pocket (start of retrace zone)",
         "status": "active",
-        "source_brief": "2026-06-29",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27470,6 +27470,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.27,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Prior swing low (50-60 day range); **structure invalidation level**",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 83.42,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's daily low; 1H chart low cluster from last 20 candles",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 81.81,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 60-day low; swing low from prior structure; support floor",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82.31,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Prior swing low from this week; 60-day range bottom cluster",
+        "status": "active",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       }
