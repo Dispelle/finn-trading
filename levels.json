@@ -11566,7 +11566,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11766,7 +11766,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high; psychological 94 level; prior resistance = future support in uptrend",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -12566,7 +12566,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "0.618 Fib (golden pocket); confluence with 60-day low trend; major structural support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -12616,7 +12616,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "20-day VWAP + prior 1H high cluster; moving average anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -12626,7 +12626,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "0.236 Fib retracement (minor but confluent with recent daily support)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -12636,7 +12636,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "MA50 (primary moving average anchor); bounce here yesterday ($85.34 low)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -12646,7 +12646,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "0.500 Fib (midpoint 70.16\u219293.89); psychological 82 round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
