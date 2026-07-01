@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-01T17:20:45.535201+00:00",
+  "generated_at": "2026-07-01T17:21:04.542838+00:00",
   "items": [
+    {
+      "ts": "2026-07-01T17:20:51.851000+00:00",
+      "time": "01:20 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $244.39** Current: **$244.56** | Strength: 5/5 Prior daily pivot & HL; tested 5x over 10 days"
+    },
     {
       "ts": "2026-07-01T17:16:31.162000+00:00",
       "time": "01:16 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:05 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $334.76** Current: **$334.81** | Strength: 5/5 \u2014 **Today's intraday low, active 1H swing low, immediate support**"
-    },
-    {
-      "ts": "2026-07-01T16:04:20.213000+00:00",
-      "time": "12:04 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $1048.51** Current: **$1048.50** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
