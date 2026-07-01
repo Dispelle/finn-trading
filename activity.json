@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-01T11:17:48.795258+00:00",
+  "generated_at": "2026-07-01T13:20:14.524697+00:00",
   "items": [
+    {
+      "ts": "2026-07-01T12:00:02.456000+00:00",
+      "time": "08:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Wed, Jul 1 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $58,532 \u25bc-0.93% | MCap $1174B \ud83d\udd37 ETH $1,567.87 \u25bc-0.47%  **Indices** \ud83d\udcca SPY $746.77 \u25b2+0.78% "
+    },
     {
       "ts": "2026-07-01T08:00:02.685000+00:00",
       "time": "04:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "07:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -28.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$58,512**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-06-30T23:00:10.791000+00:00",
-      "time": "07:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$58,530** | P&L: **-28"
     }
   ]
 }
