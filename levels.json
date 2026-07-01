@@ -19632,7 +19632,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19852,7 +19852,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 reason: **0.786 Fibonacci retracement** (late-stage pullback zone). Clean level. **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -20012,7 +20012,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: **Yesterday's daily low / recent swing low**. 1H low also at 559.81. Immediate support. **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -20142,7 +20142,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -20182,7 +20182,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -20192,7 +20192,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -20201,9 +20201,9 @@
         "price": 556.91,
         "type": "S1",
         "strength": 5,
-        "reason": "Swing low (60d) + 1H low cluster $558\u2013$560; immediate floor",
+        "reason": "\u2014 reason: Recent swing low (5 days ago) + intraday support forming \u2014 **",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20221,9 +20221,9 @@
         "price": 597.64,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Golden Pocket (0.618 Fib)** + prior swing low ($598.10 exact match)",
+        "reason": "\u2014 reason: **0.618 Fibonacci golden pocket** + prior swing low ($596.68) + macro structure pivot \u2014 **",
         "status": "active",
-        "source_brief": "2026-06-29",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20291,9 +20291,9 @@
         "price": 615.86,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib + near MA20 ($608.76); break here = weekly uptrend resumption signal",
+        "reason": "\u2014 reason: **0.500 Fibonacci midpoint** + MA50 ($608.11) proximity \u2014 **",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20361,9 +20361,9 @@
         "price": 540.18,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low; **major support**. Break here = target $520 (52w low)",
+        "reason": "\u2014 reason: **60-day absolute low** + extended retracement floor \u2014 **",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20374,6 +20374,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 580.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 reason: 20-day VWAP ($581.27) + prior daily support cluster \u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 572.57,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 reason: **0.786 Fibonacci level** (aggressive retracement) + prior support zone \u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       }
