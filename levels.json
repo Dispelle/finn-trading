@@ -14462,7 +14462,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14591,9 +14591,9 @@
         "price": 20.06,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.382 Fib retracement + recent swing high confluence**",
+        "reason": "0.382 Fibonacci retracement + MA50 proximity ($19.11) + 20-day VWAP ($16.03) intermediate target",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15252,7 +15252,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -15371,9 +15371,9 @@
         "price": 16.45,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement + last daily low that held (confluence); psychological round; tested intraday",
+        "reason": "0.786 Fibonacci retracement + last daily swing high confluence + psychological breakout level",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15421,9 +15421,9 @@
         "price": 17.92,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.618 fib (golden pocket start); natural supply zone from daily structure",
+        "reason": "0.618 Fibonacci golden pocket start + prior daily support (day 3 close)",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15501,9 +15501,9 @@
         "price": 14.53,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **52-week low = structural support floor**",
+        "reason": "60-day swing low + absolute recent floor + psychological round number",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15584,6 +15584,26 @@
         "reason": "\u2014 Yesterday's daily low; intraday pivot in current session",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 14.72,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's low + recent swing low cluster (14.53\u201314.72 zone) + daily demand",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.85,
+        "type": "S3",
+        "strength": 3,
+        "reason": "**INSUFFICIENT DATA** \u2014 Outside provided range; inferred from 52-week low $14.53 context. Extension zone.",
+        "status": "active",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       }
