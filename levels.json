@@ -24772,7 +24772,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -25532,7 +25532,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25542,7 +25542,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket center) + daily VWAP anchor ($138.82 sits just above). Weekly MA20 at $139.62 creates a",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25552,7 +25552,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement + prior swing high ($149.64). Break above this signals **CHoCH back to bullish structure**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25562,7 +25562,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25572,7 +25572,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25582,7 +25582,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25592,7 +25592,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25602,7 +25602,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-23",
         "hit_count": 0,
         "last_hit": null
@@ -25791,9 +25791,9 @@
         "price": 128.27,
         "type": "R1",
         "strength": 5,
-        "reason": "Fibonacci 0.618 (golden pocket); also equals recent swing low $128.75; psychological consolidation zone",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + prior weekly swing low ($128.75 nearby) + MA20 zone ($127.94)",
         "status": "active",
-        "source_brief": "2026-06-29",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -25884,6 +25884,56 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 135.03,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 + MA50 proximity ($135.32) + round number resistance",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 150.17,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.236 + prior swing high ($149.64)",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 114.57,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's intraday low + prior daily lows ($113.50, $112.93) cluster + psychological round",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 112.25,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Prior daily low from 8 days ago; swing low zone",
+        "status": "active",
+        "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 106.37,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day low / swing low (LL confirmed)",
+        "status": "active",
+        "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
       }
