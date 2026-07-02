@@ -13234,7 +13234,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14194,7 +14194,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.500 Fibonacci (midpoint) + **trend invalidation level**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -14204,7 +14204,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **Today's 1H low** = fresh swing low, just touched",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -14274,7 +14274,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 0.786 Fibonacci retracement (golden pocket upper bound)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -14284,7 +14284,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 0.618 Fibonacci (golden pocket center)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -14294,7 +14294,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 0.382 Fibonacci + 20-day VWAP ($128.62 context)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -14304,7 +14304,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **MA200** (200-period moving average)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
