@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-02T17:40:39.295939+00:00",
+  "generated_at": "2026-07-02T17:55:46.233979+00:00",
   "items": [
     {
-      "ts": "2026-07-02T17:38:34.732000+00:00",
-      "time": "01:38 PM ET",
+      "ts": "2026-07-02T17:54:42.492000+00:00",
+      "time": "01:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $192.53** Current: **$192.44** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $708.47** Current: **$709.11** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-02T17:37:29.810000+00:00",
-      "time": "01:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $75.7** Current: **$75.69** | Strength: 5/5 \u2014 Prior day's close; 1H recent support cluster; 20-period 1H floor"
-    },
-    {
-      "ts": "2026-07-02T17:30:08.370000+00:00",
-      "time": "01:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,790**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-02T17:17:09.039000+00:00",
-      "time": "01:17 PM ET",
+      "ts": "2026-07-02T17:54:38.954000+00:00",
+      "time": "01:54 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $742.03** Current: **$742.09** | Strength: 5/5 \u2014 20-day VWAP + MA20 ($741.55 close)."
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.41** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
     },
     {
-      "ts": "2026-07-02T17:06:26.349000+00:00",
-      "time": "01:06 PM ET",
+      "ts": "2026-07-02T17:52:28.756000+00:00",
+      "time": "01:52 PM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $710.0** Current: **$710.39** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $508.84** Current: **$508.87** | Strength: 5/5 \u2014 20-day VWAP; price currently $520.38, only $10 away. **"
     },
     {
-      "ts": "2026-07-02T17:03:13.773000+00:00",
-      "time": "01:03 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $710.0** Current: **$709.65** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-02T17:02:08.231000+00:00",
-      "time": "01:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $510.65** Current: **$510.31** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-02T17:01:04.647000+00:00",
-      "time": "01:01 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $742.03** Current: **$741.94** | Strength: 5/5 \u2014 20-day VWAP + MA20 ($741.55 close)."
-    },
-    {
-      "ts": "2026-07-02T16:57:52.729000+00:00",
-      "time": "12:57 PM ET",
+      "ts": "2026-07-02T17:51:26.922000+00:00",
+      "time": "01:51 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $710.62** Current: **$710.68** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.25** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
     },
     {
-      "ts": "2026-07-02T16:56:47.990000+00:00",
-      "time": "12:56 PM ET",
+      "ts": "2026-07-02T17:51:23.129000+00:00",
+      "time": "01:51 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $710.62** Current: **$710.31** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $508.84** Current: **$508.46** | Strength: 5/5 \u2014 20-day VWAP; price currently $520.38, only $10 away. **"
+    },
+    {
+      "ts": "2026-07-02T17:48:12.442000+00:00",
+      "time": "01:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $708.47** Current: **$707.92** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-02T17:48:10.394000+00:00",
+      "time": "01:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $509.83** Current: **$509.47** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
+    },
+    {
+      "ts": "2026-07-02T17:42:54.867000+00:00",
+      "time": "01:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $244.03** Current: **$243.98** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
+    },
+    {
+      "ts": "2026-07-02T17:41:47.785000+00:00",
+      "time": "01:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $192.53** Current: **$192.93** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-02T17:40:43.139000+00:00",
+      "time": "01:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $510.65** Current: **$510.88** | Strength: 5/5 |"
     }
   ]
 }
