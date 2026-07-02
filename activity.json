@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T23:27:16.992704+00:00",
+  "generated_at": "2026-07-02T23:40:56.797442+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T23:30:19.257000+00:00",
+      "time": "07:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,423** | P&L: **-24"
+    },
     {
       "ts": "2026-07-02T21:30:18.134000+00:00",
       "time": "05:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.57** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
-    },
-    {
-      "ts": "2026-07-02T19:46:23.188000+00:00",
-      "time": "03:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$390.09** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
     }
   ]
 }
