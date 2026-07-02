@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T16:40:44.654907+00:00",
+  "generated_at": "2026-07-02T16:55:36.890116+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T16:40:47.149000+00:00",
+      "time": "12:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $193.54** Current: **$193.69** | Strength: 5/5 10-bar daily low (today's low); short-term support"
+    },
     {
       "ts": "2026-07-02T16:35:25.996000+00:00",
       "time": "12:35 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:07 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R2 $585.68** Current: **$585.48** | Strength: 5/5 20-day VWAP \u2014 price has rejected this 6+ times in last 10 days; psychol"
-    },
-    {
-      "ts": "2026-07-02T16:00:02.249000+00:00",
-      "time": "12:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $61,522 \u25b2+2.38% | MCap $1234B \ud83d\udd37 ETH $1,695.54 \u25b2+4.74%  **Indices** \ud83d\udcca SPY $744.65 \u25bc-0.15% "
     }
   ]
 }
