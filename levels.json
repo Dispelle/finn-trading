@@ -21958,7 +21958,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -22668,7 +22668,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 0.618 Fibonacci (Golden Pocket) + Prior Swing High",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -22738,7 +22738,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -22748,7 +22748,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.500 Fibonacci (50% retracement) + Recent swing high $155.69",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -22758,7 +22758,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Daily low TODAY + 1H support cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -22768,7 +22768,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Recent swing low + 9-day prior low",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -22877,9 +22877,9 @@
         "price": 134.95,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low, swing low (60d)",
+        "reason": "\u2014 **60-day swing low + 0.000 swing anchor**",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22917,9 +22917,9 @@
         "price": 142.02,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement + 1H recent high cluster + psychological round ($141\u2013$142 zone where 4/10 recent daily clo",
+        "reason": "\u2014 **0.786 Fibonacci retracement**",
         "status": "active",
-        "source_brief": "2026-07-01",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22967,9 +22967,39 @@
         "price": 134.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **CRITICAL** \u2014 60-day low; Fibonacci extension base; psychological round; high-volume spike today near this level sugg",
+        "reason": "\u2014 **1H recent low (multiple touches over last 20 candles)**",
         "status": "active",
-        "source_brief": "2026-07-01",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 145.9,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **0.650 Fibonacci + prior swing low support flipped resistance**",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 150.6,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **0.500 Fibonacci retracement + MA50 bounce zone**",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 130.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 **Round number / extension target (1.272 extension = $174.75 down from current structure)**",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
