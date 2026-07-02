@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-02T18:56:10.707341+00:00",
+  "generated_at": "2026-07-02T19:25:44.452385+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T19:22:45.646000+00:00",
+      "time": "03:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $507.0** Current: **$506.90** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-07-02T19:21:41.630000+00:00",
+      "time": "03:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $507.3** Current: **$507.19** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
+    },
+    {
+      "ts": "2026-07-02T19:05:43.229000+00:00",
+      "time": "03:05 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $390.19** Current: **$390.65** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
+    },
     {
       "ts": "2026-07-02T18:55:01.179000+00:00",
       "time": "02:55 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:59 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1208.18** Current: **$1208.67** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-07-02T17:54:42.492000+00:00",
-      "time": "01:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $708.47** Current: **$709.11** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-02T17:54:38.954000+00:00",
-      "time": "01:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.41** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
-    },
-    {
-      "ts": "2026-07-02T17:52:28.756000+00:00",
-      "time": "01:52 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $508.84** Current: **$508.87** | Strength: 5/5 \u2014 20-day VWAP; price currently $520.38, only $10 away. **"
     }
   ]
 }
