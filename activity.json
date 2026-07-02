@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-02T19:40:45.277211+00:00",
+  "generated_at": "2026-07-02T19:55:46.135193+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T19:54:55.094000+00:00",
+      "time": "03:54 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.57** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
+    },
+    {
+      "ts": "2026-07-02T19:46:23.188000+00:00",
+      "time": "03:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$390.09** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
+    },
     {
       "ts": "2026-07-02T19:30:13.528000+00:00",
       "time": "03:30 PM ET",
@@ -48,18 +60,6 @@
       "time": "02:17 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.07** Current: **$104.14** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
-    },
-    {
-      "ts": "2026-07-02T18:09:54.419000+00:00",
-      "time": "02:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $131.63** Current: **$131.39** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-02T18:07:42.648000+00:00",
-      "time": "02:07 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $75.7** Current: **$75.78** | Strength: 5/5 \u2014 Prior day's close; 1H recent support cluster; 20-period 1H floor"
     }
   ]
 }
