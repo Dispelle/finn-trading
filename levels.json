@@ -1528,7 +1528,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -2967,7 +2967,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "\u2014 reason: Today's daily high; double-tested intraday; immediate overhead",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -2987,7 +2987,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 reason: Swing high from 10 days ago; prior breakout catalyst; psychological strength",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -3007,7 +3007,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 reason: **Last higher low (weekly)**; invalidation point; previous consolidation base",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -3017,7 +3017,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 reason: Recent daily close (2 days ago); minor swing point; psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -3037,7 +3037,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 reason: **Fibonacci 0.382 retracement** + MA50 ($422.84); key structural support if correction deepens",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
