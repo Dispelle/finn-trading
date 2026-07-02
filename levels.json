@@ -4794,7 +4794,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5944,7 +5944,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "10-day low; daily support from trend; MA20 proximity concern",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -6174,7 +6174,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fibonacci 0.382 retracement; MA50 ($556.06) proximity; **golden pocket buffer**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -6234,7 +6234,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "1-day prior close; 10-day high; psychological level; **previous local peak before pullback**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -6254,7 +6254,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "20-day VWAP; **invalidation level for bullish bias**; confluence with daily structure",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
