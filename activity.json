@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-02T15:40:30.900875+00:00",
+  "generated_at": "2026-07-02T15:55:30.766223+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T15:54:46.918000+00:00",
+      "time": "11:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.39** Current: **$194.40** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
+    },
+    {
+      "ts": "2026-07-02T15:52:37.809000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $194.39** Current: **$194.31** | Strength: 5/5 MA200 (long-term anchor, still intact above price) \u2014 major reversal can"
+    },
+    {
+      "ts": "2026-07-02T15:42:00.049000+00:00",
+      "time": "11:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $400.49** Current: **$400.55** | Strength: 5/5 \u2014 20-day VWAP; MA20 ($400.36 nearby); mean-reversion anchor"
+    },
     {
       "ts": "2026-07-02T15:30:06.065000+00:00",
       "time": "11:30 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:11 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $602.49** Current: **$603.19** | Strength: 5/5 Fib 0.236 retracement (from $378\u2192$671.83) \u2014 **zone of first buyers**"
-    },
-    {
-      "ts": "2026-07-02T15:08:46.866000+00:00",
-      "time": "11:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $744.92** Current: **$745.07** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
-    },
-    {
-      "ts": "2026-07-02T15:08:45.326000+00:00",
-      "time": "11:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $599.97** Current: **$600.97** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
-    },
-    {
-      "ts": "2026-07-02T15:07:42.646000+00:00",
-      "time": "11:07 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$396.06** | Strength: 5/5 \u2014 Fibonacci 0.500 (50% pullback); psychological support; confluence wit"
     }
   ]
 }
