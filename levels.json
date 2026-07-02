@@ -28056,7 +28056,7 @@
     ]
   },
   "AMZN": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -28156,7 +28156,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Fib 0.382 retracement (199.14\u2192278.56); prior daily close; MA20 proximity",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -28166,7 +28166,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "20-day VWAP; psychological round number; MA20 ($249.88) just above",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -28206,7 +28206,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "Fib 0.650 extension; psychological support below MA200",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -28216,7 +28216,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -28226,7 +28226,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
