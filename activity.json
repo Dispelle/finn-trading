@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T17:11:13.803722+00:00",
+  "generated_at": "2026-07-02T17:25:37.605898+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T17:17:09.039000+00:00",
+      "time": "01:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $742.03** Current: **$742.09** | Strength: 5/5 \u2014 20-day VWAP + MA20 ($741.55 close)."
+    },
     {
       "ts": "2026-07-02T17:06:26.349000+00:00",
       "time": "01:06 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:23 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $246.03** Current: **$246.01** | Strength: 5/5 \u2014 20-day VWAP; critical mean-reversion zone; price below for 8 consecut"
-    },
-    {
-      "ts": "2026-07-02T16:21:35.226000+00:00",
-      "time": "12:21 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW S2 $103.5** Current: **$103.47** | Strength: 3/5 Extrapolated from 60-day swing structure; psychological round number"
     }
   ]
 }
