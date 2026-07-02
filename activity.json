@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-02T19:25:44.452385+00:00",
+  "generated_at": "2026-07-02T19:40:45.277211+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T19:30:13.528000+00:00",
+      "time": "03:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,558** | P&L: **-24"
+    },
+    {
+      "ts": "2026-07-02T19:28:05.443000+00:00",
+      "time": "03:28 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $507.3** Current: **$507.79** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
+    },
+    {
+      "ts": "2026-07-02T19:27:01.137000+00:00",
+      "time": "03:27 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $507.0** Current: **$507.07** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-02T19:22:45.646000+00:00",
       "time": "03:22 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:07 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $75.7** Current: **$75.78** | Strength: 5/5 \u2014 Prior day's close; 1H recent support cluster; 20-period 1H floor"
-    },
-    {
-      "ts": "2026-07-02T18:06:40.302000+00:00",
-      "time": "02:06 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.63** Current: **$131.93** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-02T18:06:39.422000+00:00",
-      "time": "02:06 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $131.9** Current: **$131.93** | Strength: 5/5 \u2014 reason: 0.618 Fibonacci golden pocket + swing high"
-    },
-    {
-      "ts": "2026-07-02T17:59:05.731000+00:00",
-      "time": "01:59 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1208.18** Current: **$1208.67** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
     }
   ]
 }
