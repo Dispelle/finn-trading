@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -1489,6 +1489,16 @@
         "reason": "1H session low (20 candles back); prior intraday support; psychological $57.7k",
         "status": "active",
         "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82792.21,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
