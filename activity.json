@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-02T15:25:29.541082+00:00",
+  "generated_at": "2026-07-02T15:40:30.900875+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T15:30:06.065000+00:00",
+      "time": "11:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,652** | P&L: **-24"
+    },
+    {
+      "ts": "2026-07-02T15:28:01.213000+00:00",
+      "time": "11:28 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $1004.52** Current: **$1004.59** | Strength: 5/5 \u2014 **20-day VWAP** (price is 4.3% above). Major confluence: VWAP rejecti"
+    },
+    {
+      "ts": "2026-07-02T15:26:56.510000+00:00",
+      "time": "11:26 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $194.62** Current: **$194.88** | Strength: 5/5 \u2014 MA200; psychological support; intraday low $189.80 (1H) shows convict"
+    },
+    {
+      "ts": "2026-07-02T15:25:52.160000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $194.62** Current: **$194.50** | Strength: 5/5 \u2014 MA200; psychological support; intraday low $189.80 (1H) shows convict"
+    },
     {
       "ts": "2026-07-02T15:16:18.871000+00:00",
       "time": "11:16 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:07 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$396.06** | Strength: 5/5 \u2014 Fibonacci 0.500 (50% pullback); psychological support; confluence wit"
-    },
-    {
-      "ts": "2026-07-02T15:07:41.558000+00:00",
-      "time": "11:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $744.92** Current: **$744.36** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
-    },
-    {
-      "ts": "2026-07-02T15:07:39.803000+00:00",
-      "time": "11:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $599.97** Current: **$599.09** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
-    },
-    {
-      "ts": "2026-07-02T15:06:36.392000+00:00",
-      "time": "11:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$389.14** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
-    },
-    {
-      "ts": "2026-07-02T15:06:34.417000+00:00",
-      "time": "11:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $602.49** Current: **$600.21** | Strength: 5/5 Fib 0.236 retracement (from $378\u2192$671.83) \u2014 **zone of first buyers**"
     }
   ]
 }
