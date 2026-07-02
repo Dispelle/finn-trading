@@ -20790,7 +20790,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20819,9 +20819,9 @@
         "price": 453.4,
         "type": "R3",
         "strength": 5,
-        "reason": "**60-day absolute high; bull market resistance**; prior seller concentration zone",
+        "reason": "\u2014 60d absolute high; Fib 1.272 extension base ($485.00) target initiator; critical resistance for breakout confirmation;",
         "status": "active",
-        "source_brief": "2026-07-01",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21570,7 +21570,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "Intraday high TODAY; minor supply; test of lower shadow",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -21610,7 +21610,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -21620,7 +21620,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -21630,7 +21630,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -21640,7 +21640,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -21912,6 +21912,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 433.6,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Prior 60d swing high (filled today's intraday); confluence with recent daily volatility high; **",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 445.6,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60d intermediate swing high; psychological round number (445); tested twice in 60d; **",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 420.32,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 Recent daily open + 1H consolidation low support; acted as floor yesterday (low $420.30); **",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 411.84,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Daily close 2 days ago; also near daily MA20 trajectory; secondary structural support; **",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
