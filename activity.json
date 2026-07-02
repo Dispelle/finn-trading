@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T18:11:05.378725+00:00",
+  "generated_at": "2026-07-02T18:25:42.097289+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T18:17:31.227000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.07** Current: **$104.14** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
+    },
     {
       "ts": "2026-07-02T18:09:54.419000+00:00",
       "time": "02:09 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:51 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.25** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
-    },
-    {
-      "ts": "2026-07-02T17:51:23.129000+00:00",
-      "time": "01:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $508.84** Current: **$508.46** | Strength: 5/5 \u2014 20-day VWAP; price currently $520.38, only $10 away. **"
     }
   ]
 }
