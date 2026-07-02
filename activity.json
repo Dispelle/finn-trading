@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T16:10:31.810466+00:00",
+  "generated_at": "2026-07-02T16:10:55.283005+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T16:10:53.955000+00:00",
+      "time": "12:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1208.18** Current: **$1207.19** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
+    },
     {
       "ts": "2026-07-02T16:07:41.411000+00:00",
       "time": "12:07 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:25 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $194.62** Current: **$194.50** | Strength: 5/5 \u2014 MA200; psychological support; intraday low $189.80 (1H) shows convict"
-    },
-    {
-      "ts": "2026-07-02T15:16:18.871000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $395.32** Current: **$395.15** | Strength: 5/5 \u2014 Fibonacci 0.500 (50% pullback); psychological support; confluence wit"
     }
   ]
 }
