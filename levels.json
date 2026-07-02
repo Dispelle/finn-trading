@@ -6572,7 +6572,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -7012,7 +7012,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 Major 60-day swing low / HL from the prior structure. If broken, bearish thesis confirmed.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -7952,7 +7952,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 60-day swing high (yesterday's low / recent resistance). Confluence: 1H high from 10 candles ago.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -8072,7 +8072,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 10-day swing low / former support (print on day 4 of last 10 closes).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -8102,7 +8102,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Today's high / Last HL test / 20-day VWAP confluence ($993.63 below but trending up). This is the **first line of defe",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -8111,9 +8111,9 @@
         "price": 1213.56,
         "type": "R3",
         "strength": 5,
-        "reason": "Prior swing high (10 days ago); secondary resistance if $1,255 rejected",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8122,7 +8122,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's low / intraday support / immediate floor.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -8132,7 +8132,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 Fibonacci 0.236 retracement / MA20 was $1003.08 (trending up, now likely at ~$1010). This is the **golden zone** for m",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -8584,6 +8584,56 @@
         "reason": "\u2014 Fibonacci 0.382 retracement, strong fib level + swing low $818.67 nearby",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1051.77,
+        "type": "R1",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "R2",
+        "strength": 4,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1014.14,
+        "type": "S1",
+        "strength": 4,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 991.1,
+        "type": "S2",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 914.68,
+        "type": "S3",
+        "strength": 3,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
