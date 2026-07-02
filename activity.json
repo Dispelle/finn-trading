@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-02T13:20:51.728905+00:00",
+  "generated_at": "2026-07-02T15:10:29.582269+00:00",
   "items": [
     {
-      "ts": "2026-07-02T12:00:02.249000+00:00",
-      "time": "08:00 AM ET",
+      "ts": "2026-07-02T15:08:46.866000+00:00",
+      "time": "11:08 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $61,220 \u25b2+4.57% | MCap $1227B \ud83d\udd37 ETH $1,646.91 \u25b2+5.04%  **Indices** \ud83d\udcca SPY $745.76 \u25bc-0.14% "
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $744.92** Current: **$745.07** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
     },
     {
-      "ts": "2026-07-02T08:00:02.420000+00:00",
-      "time": "04:00 AM ET",
+      "ts": "2026-07-02T15:08:45.326000+00:00",
+      "time": "11:08 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 04:00 AM ET  **Crypto** \ud83d\udfe0 BTC $60,049 \u25b2+2.33% | MCap $1204B \ud83d\udd37 ETH $1,613.12 \u25b2+2.34%  **Indices** \ud83d\udcca SPY $745.76 \u25bc-0.14% "
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $599.97** Current: **$600.97** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
     },
     {
-      "ts": "2026-07-02T04:00:02.121000+00:00",
-      "time": "12:00 AM ET",
+      "ts": "2026-07-02T15:07:42.646000+00:00",
+      "time": "11:07 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $60,966 \u25b2+3.18% | MCap $1222B \ud83d\udd37 ETH $1,637.68 \u25b2+2.85%  **Indices** \ud83d\udcca SPY $745.76 \u25bc-0.14% "
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$396.06** | Strength: 5/5 \u2014 Fibonacci 0.500 (50% pullback); psychological support; confluence wit"
     },
     {
-      "ts": "2026-07-02T00:45:10.434000+00:00",
-      "time": "08:45 PM ET",
+      "ts": "2026-07-02T15:07:41.558000+00:00",
+      "time": "11:07 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,593** | P&L: **-26"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $744.92** Current: **$744.36** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
     },
     {
-      "ts": "2026-07-02T00:15:15.254000+00:00",
-      "time": "08:15 PM ET",
+      "ts": "2026-07-02T15:07:39.803000+00:00",
+      "time": "11:07 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$59,885**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $599.97** Current: **$599.09** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, round number, confluence with prior daily"
     },
     {
-      "ts": "2026-07-02T00:00:10.091000+00:00",
-      "time": "08:00 PM ET",
+      "ts": "2026-07-02T15:06:36.392000+00:00",
+      "time": "11:06 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$59,950** | P&L: **-26"
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$389.14** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
     },
     {
-      "ts": "2026-07-02T00:00:02.620000+00:00",
-      "time": "08:00 PM ET",
+      "ts": "2026-07-02T15:06:34.417000+00:00",
+      "time": "11:06 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $602.49** Current: **$600.21** | Strength: 5/5 Fib 0.236 retracement (from $378\u2192$671.83) \u2014 **zone of first buyers**"
+    },
+    {
+      "ts": "2026-07-02T15:01:49.503000+00:00",
+      "time": "11:01 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Wed, Jul 1 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $59,999 \u25b2+2.46% | MCap $1203B \ud83d\udd37 ETH $1,608.76 \u25b2+2.47%  **Indices** \ud83d\udcca SPY $745.76 \u25bc-0.14% "
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $390.19** Current: **$390.41** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
     },
     {
-      "ts": "2026-07-01T23:45:07.253000+00:00",
-      "time": "07:45 PM ET",
+      "ts": "2026-07-02T15:00:12.709000+00:00",
+      "time": "11:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -26.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,088**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,620** | P&L: **-24"
     },
     {
-      "ts": "2026-07-01T23:30:07.387000+00:00",
-      "time": "07:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$60,144** | P&L: **-26"
-    },
-    {
-      "ts": "2026-07-01T23:00:10.676000+00:00",
-      "time": "07:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -25.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$60,388**  \u23f0 **YOU "
+      "ts": "2026-07-02T14:59:39.743000+00:00",
+      "time": "10:59 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $519.74** Current: **$520.04** | Strength: 5/5 \u2014 MA20 daily ($512.22) + 1H consolidation band support, 10-candle close "
     }
   ]
 }
