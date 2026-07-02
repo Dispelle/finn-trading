@@ -14622,7 +14622,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -15422,7 +15422,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP; rejected at/near here on daily basis; confluence of demand anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -15432,7 +15432,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.500 Fibonacci midpoint of 60-day swing ($14.64 \u2192 $23.42); volume cluster zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -15442,7 +15442,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 Today's low (1H low); immediate floor; micro-support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -15462,7 +15462,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 **Estimated** 1.272 Fibonacci extension below $14.64 base (approximate); panic-sell target",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -15573,7 +15573,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
