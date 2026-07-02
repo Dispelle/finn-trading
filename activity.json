@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-02T19:55:46.135193+00:00",
+  "generated_at": "2026-07-02T20:10:47.329423+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T20:00:13.174000+00:00",
+      "time": "04:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $61,475 \u25b2+2.53% | MCap $1233B \ud83d\udd37 ETH $1,701.26 \u25b2+5.37%  **Indices** \ud83d\udcca SPY $745.54 \u25bc-0.03% "
+    },
+    {
+      "ts": "2026-07-02T19:59:31.836000+00:00",
+      "time": "03:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $308.82** Current: **$308.81** | Strength: 5/5 \u2014 weekly close 2 weeks ago; **daily psychological / supply zone**; MA20"
+    },
+    {
+      "ts": "2026-07-02T19:58:11.086000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R3 $309.0** Current: **$308.87** | Strength: 5/5 \u2014 Psychological + midpoint of 287-331 range; 20-day VWAP ($300.98) nearb"
+    },
+    {
+      "ts": "2026-07-02T19:58:10.287000+00:00",
+      "time": "03:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $744.92** Current: **$745.06** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
+    },
+    {
+      "ts": "2026-07-02T19:56:02.160000+00:00",
+      "time": "03:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R3 $309.0** Current: **$309.21** | Strength: 5/5 \u2014 Psychological + midpoint of 287-331 range; 20-day VWAP ($300.98) nearb"
+    },
+    {
+      "ts": "2026-07-02T19:56:01.633000+00:00",
+      "time": "03:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $308.82** Current: **$309.21** | Strength: 5/5 \u2014 weekly close 2 weeks ago; **daily psychological / supply zone**; MA20"
+    },
+    {
+      "ts": "2026-07-02T19:55:59.195000+00:00",
+      "time": "03:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $194.62** Current: **$194.72** | Strength: 5/5 \u2014 MA200; psychological support; intraday low $189.80 (1H) shows convict"
+    },
     {
       "ts": "2026-07-02T19:54:55.094000+00:00",
       "time": "03:54 PM ET",
@@ -18,48 +60,6 @@
       "time": "03:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,558** | P&L: **-24"
-    },
-    {
-      "ts": "2026-07-02T19:28:05.443000+00:00",
-      "time": "03:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $507.3** Current: **$507.79** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
-    },
-    {
-      "ts": "2026-07-02T19:27:01.137000+00:00",
-      "time": "03:27 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $507.0** Current: **$507.07** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-02T19:22:45.646000+00:00",
-      "time": "03:22 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $507.0** Current: **$506.90** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-02T19:21:41.630000+00:00",
-      "time": "03:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $507.3** Current: **$507.19** | Strength: 5/5 Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507."
-    },
-    {
-      "ts": "2026-07-02T19:05:43.229000+00:00",
-      "time": "03:05 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $390.19** Current: **$390.65** | Strength: 5/5 \u2014 reason: **0.650 Fibonacci + 20-VWAP ($390.75 zone)**"
-    },
-    {
-      "ts": "2026-07-02T18:55:01.179000+00:00",
-      "time": "02:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $104.07** Current: **$104.01** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
-    },
-    {
-      "ts": "2026-07-02T18:17:31.227000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.07** Current: **$104.14** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
     }
   ]
 }
