@@ -26460,7 +26460,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -26480,7 +26480,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fib 0.618 (golden pocket) + MA20 proximity ($14.75)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -26490,7 +26490,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fib 0.382 + prior swing high cluster + 20-day VWAP ($13.38) breakout target",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -26510,7 +26510,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "60-day low + 52-week low confluence + psychological support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -27210,7 +27210,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Prior daily swing high (7 bars) + psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -27220,7 +27220,7 @@
         "type": "S1",
         "strength": 3,
         "reason": "Today's low + recent support test (intraday)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -27230,7 +27230,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Fib 0.786 retracement from swing ($11.95\u2192$17.35)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -27249,9 +27249,9 @@
         "price": 12.6,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (golden zone boundary) + confluence with 60-day swing low cluster. Recent daily high resis",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27259,9 +27259,9 @@
         "price": 13.62,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket start) + 50% of daily range from recent lows; psychological level; prior swing high sup",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27318,10 +27318,10 @@
       {
         "price": 15.04,
         "type": "R3",
-        "strength": 3,
-        "reason": "0.382 Fib retracement",
+        "strength": 4,
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-25",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27339,9 +27339,29 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low; psychological round number; tested but held \u2014 strong institutional support.",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.58,
+        "type": "S1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.71,
+        "type": "S3",
+        "strength": 3,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
