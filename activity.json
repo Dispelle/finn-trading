@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-02T16:56:25.357904+00:00",
+  "generated_at": "2026-07-02T17:10:37.489335+00:00",
   "items": [
+    {
+      "ts": "2026-07-02T17:06:26.349000+00:00",
+      "time": "01:06 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $710.0** Current: **$710.39** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-02T17:03:13.773000+00:00",
+      "time": "01:03 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $710.0** Current: **$709.65** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-02T17:02:08.231000+00:00",
+      "time": "01:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $510.65** Current: **$510.31** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-02T17:01:04.647000+00:00",
+      "time": "01:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $742.03** Current: **$741.94** | Strength: 5/5 \u2014 20-day VWAP + MA20 ($741.55 close)."
+    },
+    {
+      "ts": "2026-07-02T16:57:52.729000+00:00",
+      "time": "12:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $710.62** Current: **$710.68** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
+    },
+    {
+      "ts": "2026-07-02T16:56:47.990000+00:00",
+      "time": "12:56 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $710.62** Current: **$710.31** | Strength: 4/5 50-day low (prior swing low); 1H consolidation base"
+    },
     {
       "ts": "2026-07-02T16:40:47.149000+00:00",
       "time": "12:40 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:21 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **USO \u2014 BROKE BELOW S2 $103.5** Current: **$103.47** | Strength: 3/5 Extrapolated from 60-day swing structure; psychological round number"
-    },
-    {
-      "ts": "2026-07-02T16:20:31.509000+00:00",
-      "time": "12:20 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $103.5** Current: **$103.56** | Strength: 3/5 Extrapolated from 60-day swing structure; psychological round number"
-    },
-    {
-      "ts": "2026-07-02T16:20:30.299000+00:00",
-      "time": "12:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $594.0** Current: **$592.97** | Strength: 4/5 **MA20 slope (currently $618.59, declining)** \u2014 projected lower if trend "
-    },
-    {
-      "ts": "2026-07-02T16:15:11.665000+00:00",
-      "time": "12:15 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $246.03** Current: **$246.10** | Strength: 5/5 \u2014 20-day VWAP; critical mean-reversion zone; price below for 8 consecut"
-    },
-    {
-      "ts": "2026-07-02T16:13:01.153000+00:00",
-      "time": "12:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R2 $585.68** Current: **$585.75** | Strength: 5/5 20-day VWAP \u2014 price has rejected this 6+ times in last 10 days; psychol"
-    },
-    {
-      "ts": "2026-07-02T16:10:53.955000+00:00",
-      "time": "12:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1208.18** Current: **$1207.19** | Strength: 5/5 \u2014 Prior 60-day AND swing high (just touched today); extension target 1"
-    },
-    {
-      "ts": "2026-07-02T16:07:41.411000+00:00",
-      "time": "12:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R2 $585.68** Current: **$585.48** | Strength: 5/5 20-day VWAP \u2014 price has rejected this 6+ times in last 10 days; psychol"
     }
   ]
 }
