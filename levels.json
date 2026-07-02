@@ -23006,7 +23006,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23736,7 +23736,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fibonacci 0.382 retracement; prior swing high; confluence with daily pullback zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -23746,7 +23746,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fibonacci 0.500 (golden pocket start); near daily MA50 $309.77; **invalidation level for bullish bias**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -23816,7 +23816,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-24",
         "hit_count": 0,
         "last_hit": null
@@ -24138,6 +24138,16 @@
         "reason": "60-day and 52-week high; psychological round number; Fibonacci 1.272 extension confluence",
         "status": "active",
         "source_brief": "2026-06-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 320.72,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
       }
