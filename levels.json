@@ -10508,7 +10508,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11727,9 +11727,9 @@
         "price": 56.85,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fibonacci retracement (50.31\u219280.86); confluent with prior daily support cluster (56.51\u201357.3); psychological resist",
+        "reason": "0.786 Fibonacci (golden zone friction); 60d swing high overlap; 1H recent highs cluster here",
         "status": "active",
-        "source_brief": "2026-07-01",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11748,7 +11748,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "Today's daily low (OHLC); recent 1H support base",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -11768,7 +11768,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Psychological round below recent lows; gap down target if panic sells through $50",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -11779,7 +11779,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11788,7 +11788,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 0.618 Fibonacci retracement (golden pocket); psychological round, prior swing low support (HL breakpoint)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -11798,7 +11798,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "\u2014 **INSUFFICIENT DATA** on structure here; but psychological level (round number); 47% down from $80.86 peak",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -11808,7 +11808,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 52-week low; macro floor; major psychological support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
