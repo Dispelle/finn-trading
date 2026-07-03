@@ -1538,7 +1538,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -2847,7 +2847,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's low; recent swing low (3x in last 10 days: $507.25, $507.3, $507.0); HL (higher low) = daily structure anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -2887,7 +2887,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -2927,7 +2927,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fibonacci 1.272 extension (from 196.41\u2192562.99 swing); psychological round; target if breakout confirmed",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -3037,7 +3037,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "**Fib 0.236 retracement**, psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -3086,9 +3086,9 @@
         "price": 486.8,
         "type": "S3",
         "strength": 5,
-        "reason": "Recent swing low (primary structure support, if breaks = CHoCH)",
+        "reason": "60-day swing low; psychological round; gap to Fibonacci 0.382 at $448.11 (major support)",
         "status": "active",
-        "source_brief": "2026-06-30",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3106,9 +3106,9 @@
         "price": 562.99,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day high; Fibonacci 1.272 extension cluster zone; highest conviction resistance; break here = bullish continuation",
+        "reason": "2-day prior daily high; break above here = new HH confirmation",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3117,7 +3117,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "\u2014 reason: Fibonacci 1.272 extension ($662.70 is too far; using nearest high extension cluster) INSUFFICIENT DATA on dail",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -3167,7 +3167,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Prior 60-day swing high; cluster of daily closes ($519.74\u2013$532.57); daily MA20 orbit",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -3177,7 +3177,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Round number + psychological barrier (prior earnings resistance zone)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -3319,6 +3319,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 547.65,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Today's daily high; 2-day prior high $550.88; cluster of swing highs",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 584.73,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day ATH; Fibonacci 1.272 extension = $682.01 (next major resistance if broken)",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 506.0,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's daily low; intraday support; break = BOS SHORT",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 495.35,
+        "type": "S2",
+        "strength": 4,
+        "reason": "5-day swing low; Fibonacci 0.236 retracement zone at $500.33 nearby",
+        "status": "active",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       }
