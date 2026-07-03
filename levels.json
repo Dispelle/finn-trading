@@ -13544,7 +13544,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14574,7 +14574,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Structural swing low; invalidation zone for bearish bias",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14634,7 +14634,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "Prior daily close (2 candles ago); 1H resistance cluster; minor swing high",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14654,7 +14654,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Weekly close from 3 weeks ago; MA50 proximity; strong resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14664,7 +14664,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **RECENT PIVOT LOW** (4 days old, last 1H low)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14674,7 +14674,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "Extrapolated from 60-day swing structure; psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14694,7 +14694,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **GOLDEN POCKET** (0.618 Fibonacci) + Daily MA50 proximity ($132.75) gravity pull",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14704,7 +14704,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 (50% retracement, major round-number confluence) + prior support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14724,7 +14724,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 Fibonacci 1.000 extension below swing low; 52-week range floor approach",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14734,7 +14734,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 Round number; technical floor (50% of 52-week range from low)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -14926,6 +14926,76 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.48,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 retracement + prior 60d swing low confluence",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.5,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.650 retracement + MA20($122.44) proximate",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 128.25,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 (midpoint) + psychological breakeven zone",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 102.42,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 60-day low, 3-touch test (102.42 L in last 20 1H candles)",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 101.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Round number psychological level + Fibonacci extension space",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 99.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci extended retrace; 52-week low proximity ($65.99 too far for current momentum)",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 133.02,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       }
