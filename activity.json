@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-03T15:00:48.881398+00:00",
+  "generated_at": "2026-07-03T15:15:48.615348+00:00",
   "items": [
+    {
+      "ts": "2026-07-03T15:13:51.658000+00:00",
+      "time": "11:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $62201.14** Current: **$62176.15** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
+    },
+    {
+      "ts": "2026-07-03T15:07:28.677000+00:00",
+      "time": "11:07 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $62201.14** Current: **$62257.21** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
+    },
     {
       "ts": "2026-07-03T13:31:29.953000+00:00",
       "time": "09:31 AM ET",
@@ -48,18 +60,6 @@
       "time": "07:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,423** | P&L: **-24"
-    },
-    {
-      "ts": "2026-07-02T21:30:18.134000+00:00",
-      "time": "05:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,462**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-02T20:00:13.174000+00:00",
-      "time": "04:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Thu, Jul 2 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $61,475 \u25b2+2.53% | MCap $1233B \ud83d\udd37 ETH $1,701.26 \u25b2+5.37%  **Indices** \ud83d\udcca SPY $745.54 \u25bc-0.03% "
     }
   ]
 }
