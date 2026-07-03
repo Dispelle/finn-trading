@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T03:56:16.192615+00:00",
+  "generated_at": "2026-07-03T04:11:18.275750+00:00",
   "items": [
+    {
+      "ts": "2026-07-03T04:00:02.052000+00:00",
+      "time": "12:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Fri, Jul 3 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $61,338 \u25b2+0.63% | MCap $1230B \ud83d\udd37 ETH $1,704.58 \u25b2+4.11%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
+    },
     {
       "ts": "2026-07-03T00:00:02.086000+00:00",
       "time": "08:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:56 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $308.82** Current: **$309.21** | Strength: 5/5 \u2014 weekly close 2 weeks ago; **daily psychological / supply zone**; MA20"
-    },
-    {
-      "ts": "2026-07-02T19:55:59.195000+00:00",
-      "time": "03:55 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $194.62** Current: **$194.72** | Strength: 5/5 \u2014 MA200; psychological support; intraday low $189.80 (1H) shows convict"
     }
   ]
 }
