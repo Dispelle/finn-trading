@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T11:26:57.077137+00:00",
+  "generated_at": "2026-07-03T11:41:47.871410+00:00",
   "items": [
+    {
+      "ts": "2026-07-03T11:30:45.828000+00:00",
+      "time": "07:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,888**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-03T08:00:02.683000+00:00",
       "time": "04:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $744.92** Current: **$745.06** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
-    },
-    {
-      "ts": "2026-07-02T19:56:02.160000+00:00",
-      "time": "03:56 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R3 $309.0** Current: **$309.21** | Strength: 5/5 \u2014 Psychological + midpoint of 287-331 range; 20-day VWAP ($300.98) nearb"
     }
   ]
 }
