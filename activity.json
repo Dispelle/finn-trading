@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T11:57:12.228255+00:00",
+  "generated_at": "2026-07-03T12:11:50.933882+00:00",
   "items": [
+    {
+      "ts": "2026-07-03T12:00:02.532000+00:00",
+      "time": "08:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Fri, Jul 3 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $61,946 \u25b2+1.18% | MCap $1242B \ud83d\udd37 ETH $1,740.46 \u25b2+5.68%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
+    },
     {
       "ts": "2026-07-03T11:30:45.828000+00:00",
       "time": "07:30 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R3 $309.0** Current: **$308.87** | Strength: 5/5 \u2014 Psychological + midpoint of 287-331 range; 20-day VWAP ($300.98) nearb"
-    },
-    {
-      "ts": "2026-07-02T19:58:10.287000+00:00",
-      "time": "03:58 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $744.92** Current: **$745.06** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
     }
   ]
 }
