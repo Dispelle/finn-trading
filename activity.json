@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T13:15:41.233687+00:00",
+  "generated_at": "2026-07-03T13:30:43.073153+00:00",
   "items": [
+    {
+      "ts": "2026-07-03T13:30:40.436000+00:00",
+      "time": "09:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $744.92** Current: **$744.78** | Strength: 5/5 \u2014 20-day VWAP (price just broke below; acts as first resistance on bounc"
+    },
     {
       "ts": "2026-07-03T12:00:02.532000+00:00",
       "time": "08:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:59 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $308.82** Current: **$308.81** | Strength: 5/5 \u2014 weekly close 2 weeks ago; **daily psychological / supply zone**; MA20"
-    },
-    {
-      "ts": "2026-07-02T19:58:11.086000+00:00",
-      "time": "03:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R3 $309.0** Current: **$308.87** | Strength: 5/5 \u2014 Psychological + midpoint of 287-331 range; 20-day VWAP ($300.98) nearb"
     }
   ]
 }
