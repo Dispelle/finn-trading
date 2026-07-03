@@ -16190,7 +16190,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16299,9 +16299,9 @@
         "price": 729.46,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low (recent support 1-2 days ago)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-06-26",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16870,7 +16870,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -16940,7 +16940,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -17010,7 +17010,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "**0.500 Fibonacci (mid-point)**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-25",
         "hit_count": 0,
         "last_hit": null
@@ -17119,9 +17119,9 @@
         "price": 742.03,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP + MA20 ($741.55 close).",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-02",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17152,6 +17152,46 @@
         "reason": "\u2014 60-day swing high (4 bars ago); prior day high was $749.44.",
         "status": "active",
         "source_brief": "2026-07-02",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 756.68,
+        "type": "R1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.4,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 784.59,
+        "type": "R3",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 726.42,
+        "type": "S3",
+        "strength": 3,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-03",
         "hit_count": 0,
         "last_hit": null
       }
