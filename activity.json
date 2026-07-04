@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-04T11:33:04.994807+00:00",
+  "generated_at": "2026-07-04T11:48:06.965352+00:00",
   "items": [
+    {
+      "ts": "2026-07-04T11:33:29.910000+00:00",
+      "time": "07:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,461** | P&L: **-23"
+    },
     {
       "ts": "2026-07-04T08:00:02.170000+00:00",
       "time": "04:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:16 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $62201.14** Current: **$62212.92** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
-    },
-    {
-      "ts": "2026-07-03T17:31:35.219000+00:00",
-      "time": "01:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,124** | P&L: **-23"
     }
   ]
 }
