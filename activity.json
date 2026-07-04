@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T23:46:34.742887+00:00",
+  "generated_at": "2026-07-04T00:01:47.777047+00:00",
   "items": [
+    {
+      "ts": "2026-07-04T00:00:02.426000+00:00",
+      "time": "08:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Fri, Jul 3 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $62,553 \u25b2+1.73% | MCap $1254B \ud83d\udd37 ETH $1,756.82 \u25b2+3.44%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
+    },
     {
       "ts": "2026-07-03T23:32:53.025000+00:00",
       "time": "07:32 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:31 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,000**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-03T15:13:51.658000+00:00",
-      "time": "11:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $62201.14** Current: **$62176.15** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
     }
   ]
 }
