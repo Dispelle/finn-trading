@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-04T23:35:35.542267+00:00",
+  "generated_at": "2026-07-04T23:50:27.170239+00:00",
   "items": [
+    {
+      "ts": "2026-07-04T23:36:34.360000+00:00",
+      "time": "07:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,085** | P&L: **-22"
+    },
     {
       "ts": "2026-07-04T21:36:31.812000+00:00",
       "time": "05:36 PM ET",
@@ -54,12 +60,6 @@
       "time": "04:00 AM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sat, Jul 4 04:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,530 \u25b2+1.35% | MCap $1254B \ud83d\udd37 ETH $1,756.68 \u25b2+2.30%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
-    },
-    {
-      "ts": "2026-07-04T04:00:02.094000+00:00",
-      "time": "12:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sat, Jul 4 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,583 \u25b2+2.00% | MCap $1255B \ud83d\udd37 ETH $1,752.16 \u25b2+2.79%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
     }
   ]
 }
