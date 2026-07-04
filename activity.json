@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-04T11:48:06.965352+00:00",
+  "generated_at": "2026-07-04T12:03:14.298731+00:00",
   "items": [
+    {
+      "ts": "2026-07-04T12:00:02.485000+00:00",
+      "time": "08:00 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sat, Jul 4 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,456 \u25b2+0.81% | MCap $1252B \ud83d\udd37 ETH $1,757.16 \u25b2+0.95%  **Indices** \ud83d\udcca SPY $744.78 \u25bc-0.13% "
+    },
     {
       "ts": "2026-07-04T11:33:29.910000+00:00",
       "time": "07:33 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:22 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $62201.14** Current: **$62187.99** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
-    },
-    {
-      "ts": "2026-07-03T19:16:48.558000+00:00",
-      "time": "03:16 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $62201.14** Current: **$62212.92** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
     }
   ]
 }
