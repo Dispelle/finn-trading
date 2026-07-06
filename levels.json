@@ -3386,7 +3386,7 @@
     "ticker_source": "watchlist"
   },
   "NVDA": {
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3896,7 +3896,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fib 0.236 retracement + prior swing high cluster (216.83, 213.99) + 20-day VWAP ($209.87) extended",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4496,7 +4496,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fib 0.650 + lower bound of golden pocket + prior daily low cluster ($192.13 today)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4516,7 +4516,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Prior daily swing high (10 days ago); psychological round; acts as first re-entry barrier",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4556,7 +4556,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fib 0.786 retracement + psychological level + support if cascade continues",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4626,7 +4626,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "**Golden Pocket** (Fib 0.618, $191.31\u2013$193.54 zone) \u2014 most reliable reversal zone from swings 166.96\u2192236.54",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4646,7 +4646,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "MA200 (long-term anchor, still intact above price) \u2014 major reversal candidate",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4656,7 +4656,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "MA20 (daily); prior close base; psychological 20-day avg",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4666,7 +4666,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fib 0.382 retracement; recent swing high cluster (212.71 close, 213.99 high)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4686,7 +4686,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 TODAY's intraday low. 0.650 Fibonacci level ($194.18 adjacent). Short-term panic floor.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4696,7 +4696,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 0.786 Fibonacci retracement. 52-week range lower bound. 4% below current price; final structural support before capitu",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4706,7 +4706,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 60-day low / range floor. Only tested once; theoretical capitulation target if macro breaks.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4716,7 +4716,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4726,7 +4726,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "MA20 (weekly); slope still downward but psychological inflection; volume resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4736,7 +4736,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 38.2% Fibonacci retracement + prior daily swing high support turned resistance. Sits near MA20 daily ($207.86).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4766,7 +4766,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -4865,9 +4865,9 @@
         "price": 215.06,
         "type": "R3",
         "strength": 4,
-        "reason": "0.382 Fib + prior swing high on 60d chart",
+        "reason": "\u2014 **Fibonacci 0.382 retracement** \u2014 Prior swing high rejection zone.",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4875,9 +4875,9 @@
         "price": 192.34,
         "type": "S1",
         "strength": 5,
-        "reason": "0.786 Fib (deep retracement) = very tight to current price",
+        "reason": "\u2014 **Fibonacci 0.786 (swing from 180.30 \u2192 236.54)** \u2014 Coincides almost exactly with today's 1H low ($192.35). This is a *",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4885,9 +4885,9 @@
         "price": 189.8,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low (Nov/early Dec) = structural support",
+        "reason": "\u2014 **60-day swing low** \u2014 Prior lower low from the first downleg. Psychological round-number support.",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4895,9 +4895,49 @@
         "price": 180.3,
         "type": "S3",
         "strength": 4,
-        "reason": "60-day range low / strong psychological round",
+        "reason": "\u2014 **60-day range bottom** \u2014 Fibs originate from this level. Extreme support; capitulation target.",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 201.78,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)** \u2014 From 180.30 \u2192 236.54 retracement. Coincides with prior daily low reversal zones.",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 203.48,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **20-day MA (daily)** \u2014 Dynamic resistance, slope downward. Price needs to recapture this to invalidate short thesis.",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 208.42,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **Fibonacci 0.500 midpoint** \u2014 Psychological retest level; prior swing support.",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 223.27,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 **Fibonacci 0.236 retracement + 50-day MA ($209.80 heading toward $223 resistance zone)** \u2014",
+        "status": "active",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       }
