@@ -18676,7 +18676,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19446,7 +19446,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 20-day VWAP (primary liquidity anchor; sellers congregate here)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19466,7 +19466,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **0.618 Fibonacci (golden pocket) + MA200 ($273.01) confluence**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19476,7 +19476,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.650 + psychological round level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19486,7 +19486,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.786 (extended downside, macro support)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19566,7 +19566,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 **0.382 Fibonacci retracement + MA50 confluence**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19576,7 +19576,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Swing high from 60-day window (recent supply, failed breakout)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19586,7 +19586,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19596,7 +19596,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 **52-week low, 60-day range low, structural bottom**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -19685,9 +19685,9 @@
         "price": 317.4,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **60-day swing high / recent resistance, tested twice in last 8 weeks, acts as hard ceiling**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19715,9 +19715,9 @@
         "price": 302.93,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.236 retracement; acted as micro-support during last week's consolidation**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19725,9 +19725,9 @@
         "price": 293.97,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.382 retracement; confluent with MA20 zone ($294.80) and 20-day VWAP ($292.78); major support band**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19738,6 +19738,26 @@
         "reason": "\u2014 **Fibonacci 0.618 \"golden pocket\" retracement; previous swing low support, psychological round number**",
         "status": "active",
         "source_brief": "2026-07-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 334.08,
+        "type": "R3",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 286.74,
+        "type": "S3",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
       }
