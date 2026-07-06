@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-06T16:03:03.745887+00:00",
+  "generated_at": "2026-07-06T16:18:06.098608+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T16:09:24.949000+00:00",
+      "time": "12:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $134.0** Current: **$133.93** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-06T16:04:03.689000+00:00",
+      "time": "12:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63500.0** Current: **$63412.46** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-06T16:02:59.446000+00:00",
       "time": "12:02 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:45 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,857** | P&L: **-22"
-    },
-    {
-      "ts": "2026-07-06T15:32:14.939000+00:00",
-      "time": "11:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $411.84** Current: **$412.58** | Strength: 4/5 \u2014 Daily close 2 days ago; also near daily MA20 trajectory; secondary st"
-    },
-    {
-      "ts": "2026-07-06T15:26:55.002000+00:00",
-      "time": "11:26 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $132.91** Current: **$132.87** | Strength: 5/5 20-day VWAP; MA20 at $132.18 (tight cluster); key invalidation level fo"
     }
   ]
 }
