@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-06T14:03:52.604802+00:00",
+  "generated_at": "2026-07-06T14:04:02.505176+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T14:03:57.180000+00:00",
+      "time": "10:03 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $562.99** Current: **$563.33** | Strength: 5/5 2-day lower high; psychological break point; convergence zone"
+    },
     {
       "ts": "2026-07-06T14:00:08.772000+00:00",
       "time": "10:00 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:46 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $400.49** Current: **$400.62** | Strength: 5/5 \u2014 20-day VWAP; MA20 ($400.36 nearby); mean-reversion anchor"
-    },
-    {
-      "ts": "2026-07-06T13:45:55.173000+00:00",
-      "time": "09:45 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $241.54** Current: **$242.10** | Strength: 4/5 Prior 1H/daily high (yesterday + intraday); psychological 240 proximity"
     }
   ]
 }
