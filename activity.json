@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-06T22:38:45.810433+00:00",
+  "generated_at": "2026-07-06T22:53:25.118647+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T22:45:09.741000+00:00",
+      "time": "06:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,158**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-06T22:30:10.559000+00:00",
       "time": "06:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1203.14** Current: **$1203.03** | Strength: 5/5 Today's intraday low; recent swing low; strong rejection of lower pric"
-    },
-    {
-      "ts": "2026-07-06T19:56:21.662000+00:00",
-      "time": "03:56 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $195.67** Current: **$195.69** | Strength: 5/5 0.650 Fib + MA200 ($194.65) cluster"
     }
   ]
 }
