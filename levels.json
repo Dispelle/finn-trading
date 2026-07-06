@@ -24126,7 +24126,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -24896,7 +24896,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -24986,7 +24986,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior 60-day high (swing high from 9d ago); tested 3x in last 5 days; volume declining into test = warning",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -24996,7 +24996,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 1.272 extension (288.72 \u2192 343.45); psychological level; requires break above $343 first",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25006,7 +25006,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25096,7 +25096,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fibonacci 1.272 extension from swing $288.72\u2192$343.45; projection of bullish move if weekly bias holds",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25106,7 +25106,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's 1H low; recent micro-support; just below Fib 0.236 ($330.53)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25146,7 +25146,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25156,7 +25156,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25166,7 +25166,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25176,7 +25176,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25186,7 +25186,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "\u2014 Fibonacci 1.618 extension; longer-term target if $343.45 breaks decisively on volume",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25206,7 +25206,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Today's 1H high; prior daily resistance cluster around $335\u2013$337 (confluence of multiple 1H highs)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -25226,7 +25226,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
