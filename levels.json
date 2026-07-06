@@ -12632,6 +12632,36 @@
         "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 58.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP, recent micro-resistance, confluence with trend pivot",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 55.61,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 today's low, intraday support, immediate floor",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 53.58,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 8-day swing low, tested 3x in last week, psychological $53\u2013$54 zone",
+        "status": "active",
+        "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
