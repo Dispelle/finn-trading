@@ -10688,7 +10688,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11758,7 +11758,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -11768,7 +11768,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.382 Fibonacci, prior swing high ($69.75 nearby)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -11828,7 +11828,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -12008,7 +12008,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "(working lower) \u2014 Extension would target $45\u2013$47 if 0.786 Fib level breaks on close. No prior structure there = gap risk",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -12018,7 +12018,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 MA20 (weekly anchor, significant moving average), also near 0.650 Fib ($61.00)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -12038,7 +12038,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 60d high, supply cap, psychological zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
@@ -12048,7 +12048,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 20% below current (psychological), next fib extension would be further down",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-26",
         "hit_count": 0,
         "last_hit": null
