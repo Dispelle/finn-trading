@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-06T18:02:55.940777+00:00",
+  "generated_at": "2026-07-06T18:17:47.760067+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T18:15:33.302000+00:00",
+      "time": "02:15 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $78.29** Current: **$78.31** | Strength: 5/5 0.786 Fib retracement (golden zone edge); 60d swing high rejection point;"
+    },
+    {
+      "ts": "2026-07-06T18:08:09.643000+00:00",
+      "time": "02:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.63** Current: **$131.74** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-06T18:08:07.988000+00:00",
+      "time": "02:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $722.68** Current: **$722.78** | Strength: 4/5 MA20 (daily); price currently $2.49 above; critical short-term anchor"
+    },
+    {
+      "ts": "2026-07-06T18:08:06.723000+00:00",
+      "time": "02:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $991.1** Current: **$991.70** | Strength: 5/5"
+    },
     {
       "ts": "2026-07-06T18:00:08.172000+00:00",
       "time": "02:00 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:44 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.07** Current: **$104.10** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
-    },
-    {
-      "ts": "2026-07-06T17:38:25.426000+00:00",
-      "time": "01:38 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $606.23** Current: **$606.29** | Strength: 5/5 60-day swing low (critical support); 1H lows cluster around 606\u2013609"
-    },
-    {
-      "ts": "2026-07-06T17:36:17.971000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $381.59** Current: **$381.47** | Strength: 5/5 0.786 Fibonacci retracement + 60-day recent swing low cluster ($371.88);"
-    },
-    {
-      "ts": "2026-07-06T17:36:17.007000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $606.23** Current: **$605.98** | Strength: 5/5 60-day swing low (critical support); 1H lows cluster around 606\u2013609"
-    },
-    {
-      "ts": "2026-07-06T17:35:13.589000+00:00",
-      "time": "01:35 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $381.59** Current: **$381.60** | Strength: 5/5 0.786 Fibonacci retracement + 60-day recent swing low cluster ($371.88);"
     }
   ]
 }
