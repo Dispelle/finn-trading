@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-06T18:17:47.760067+00:00",
+  "generated_at": "2026-07-06T18:32:50.834087+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T18:30:07.340000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,689** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-06T18:21:56.140000+00:00",
+      "time": "02:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $597.99** Current: **$599.85** | Strength: 5/5 \u2014 reason: *Fibonacci 0.618 \"golden pocket\" / mean reversion target / 20"
+    },
+    {
+      "ts": "2026-07-06T18:21:55.676000+00:00",
+      "time": "02:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R3 $599.14** Current: **$599.85** | Strength: 5/5 0.618 Fib (true golden pocket) + prior swing low $596.68; rejected 10 d"
+    },
     {
       "ts": "2026-07-06T18:15:33.302000+00:00",
       "time": "02:15 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $593.15** Current: **$593.23** | Strength: 5/5 \u2014 65% Fibonacci (sweet spot for retracement confluence); near current p"
-    },
-    {
-      "ts": "2026-07-06T17:49:02.677000+00:00",
-      "time": "01:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $593.15** Current: **$592.90** | Strength: 5/5 \u2014 65% Fibonacci (sweet spot for retracement confluence); near current p"
-    },
-    {
-      "ts": "2026-07-06T17:45:06.916000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,627** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-06T17:44:47.934000+00:00",
-      "time": "01:44 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $104.07** Current: **$104.10** | Strength: 5/5 \u2014 60-day low (breached today L: $105.12); extreme capitulation zone; **c"
     }
   ]
 }
