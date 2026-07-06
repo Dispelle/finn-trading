@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-06T22:53:25.118647+00:00",
+  "generated_at": "2026-07-06T23:23:16.868900+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T23:23:04.290000+00:00",
+      "time": "07:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,082**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-06T23:00:14.943000+00:00",
+      "time": "07:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,209** | P&L: **-21"
+    },
     {
       "ts": "2026-07-06T22:45:09.741000+00:00",
       "time": "06:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "04:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,717** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-06T20:00:27.145000+00:00",
-      "time": "04:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,664**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-06T19:58:34.094000+00:00",
-      "time": "03:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1203.14** Current: **$1203.03** | Strength: 5/5 Today's intraday low; recent swing low; strong rejection of lower pric"
     }
   ]
 }
