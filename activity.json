@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-06T14:04:13.815178+00:00",
+  "generated_at": "2026-07-06T14:18:53.619839+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T14:18:52.677000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $77.42** Current: **$77.41** | Strength: 4/5 (swing low from recent structure; 5-day resistance-turned-support) \u2014 Psyc"
+    },
+    {
+      "ts": "2026-07-06T14:18:51.777000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1014.14** Current: **$1013.68** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-07-06T14:18:51.045000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $617.21** Current: **$617.16** | Strength: 5/5 \u2014 20-day VWAP"
+    },
+    {
+      "ts": "2026-07-06T14:16:43.002000+00:00",
+      "time": "10:16 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $617.21** Current: **$617.80** | Strength: 5/5 \u2014 20-day VWAP"
+    },
+    {
+      "ts": "2026-07-06T14:15:39.324000+00:00",
+      "time": "10:15 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1014.14** Current: **$1014.93** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-07-06T14:08:16.923000+00:00",
+      "time": "10:08 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $242.42** Current: **$243.24** | Strength: 5/5 \u2014 **Fibonacci 0.500 retracement** (204.90\u2192278.56 swing) + **20-day VWAP"
+    },
+    {
+      "ts": "2026-07-06T14:05:02.656000+00:00",
+      "time": "10:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $77.57** Current: **$77.54** | Strength: 4/5 60d swing low turned local resistance; tested 3 times in last 5 days; psy"
+    },
+    {
+      "ts": "2026-07-06T14:05:00.867000+00:00",
+      "time": "10:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $562.99** Current: **$562.45** | Strength: 5/5 60-day all-time high (supply zone), failed breakout 5 days running"
+    },
     {
       "ts": "2026-07-06T14:03:57.180000+00:00",
       "time": "10:03 AM ET",
@@ -12,54 +60,6 @@
       "time": "10:00 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,680**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-06T13:57:37.042000+00:00",
-      "time": "09:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1189.28** Current: **$1189.68** | Strength: 5/5 \u2014 **Today's intraday low; 1H swing low**"
-    },
-    {
-      "ts": "2026-07-06T13:55:27.503000+00:00",
-      "time": "09:55 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $195.67** Current: **$196.18** | Strength: 5/5 0.650 Fib + MA200 ($194.65) cluster"
-    },
-    {
-      "ts": "2026-07-06T13:53:21.541000+00:00",
-      "time": "09:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $722.68** Current: **$722.35** | Strength: 4/5 MA20 (daily); price currently $2.49 above; critical short-term anchor"
-    },
-    {
-      "ts": "2026-07-06T13:51:14.338000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $722.68** Current: **$723.37** | Strength: 4/5 MA20 (daily); price currently $2.49 above; critical short-term anchor"
-    },
-    {
-      "ts": "2026-07-06T13:48:03.429000+00:00",
-      "time": "09:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $400.49** Current: **$400.19** | Strength: 5/5 \u2014 20-day VWAP; MA20 ($400.36 nearby); mean-reversion anchor"
-    },
-    {
-      "ts": "2026-07-06T13:46:59.480000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $399.49** Current: **$400.62** | Strength: 5/5 20-day VWAP + MA20 ($399.16) = cluster of moving averages; price closed"
-    },
-    {
-      "ts": "2026-07-06T13:46:58.918000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $399.96** Current: **$400.62** | Strength: 5/5 20-day VWAP; MA20 ($400.59); dynamic support + statistical mean"
-    },
-    {
-      "ts": "2026-07-06T13:46:58.368000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $400.49** Current: **$400.62** | Strength: 5/5 \u2014 20-day VWAP; MA20 ($400.36 nearby); mean-reversion anchor"
     }
   ]
 }
