@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-06T14:34:05.106591+00:00",
+  "generated_at": "2026-07-06T14:48:56.137791+00:00",
   "items": [
+    {
+      "ts": "2026-07-06T14:45:06.558000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,983**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-06T14:39:13.361000+00:00",
+      "time": "10:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $749.53** Current: **$749.48** | Strength: 5/5 \u2014 Prior daily high (749.53 swing high + intraday pin); 0.236 Fib ($733.1"
+    },
     {
       "ts": "2026-07-06T14:30:06.592000+00:00",
       "time": "10:30 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:08 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $242.42** Current: **$243.24** | Strength: 5/5 \u2014 **Fibonacci 0.500 retracement** (204.90\u2192278.56 swing) + **20-day VWAP"
-    },
-    {
-      "ts": "2026-07-06T14:05:02.656000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $77.57** Current: **$77.54** | Strength: 4/5 60d swing low turned local resistance; tested 3 times in last 5 days; psy"
-    },
-    {
-      "ts": "2026-07-06T14:05:00.867000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $562.99** Current: **$562.45** | Strength: 5/5 60-day all-time high (supply zone), failed breakout 5 days running"
     }
   ]
 }
