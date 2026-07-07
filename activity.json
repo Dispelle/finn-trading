@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T14:36:47.469203+00:00",
+  "generated_at": "2026-07-07T14:37:03.061436+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T14:36:58.950000+00:00",
+      "time": "10:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62767.97** Current: **$62657.51** | Strength: 4/5 Today's daily low; micro-support from 1H lows; 0.786 fib ($63,029.80"
+    },
     {
       "ts": "2026-07-07T14:35:58.089000+00:00",
       "time": "10:35 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:28 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.81** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
-    },
-    {
-      "ts": "2026-07-07T14:25:11.395000+00:00",
-      "time": "10:25 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $706.52** Current: **$706.30** | Strength: 5/5 \u2014 **"
     }
   ]
 }
