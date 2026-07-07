@@ -5505,7 +5505,7 @@
         "price": 202.77,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP (price currently $6.89 below); critical mean reversion level; confluence with 0.618 Fib at $201.98 \u2190 *golden",
+        "reason": "\u2014 Fib 0.650 retrace + MA20 weekly ($196.82) cluster zone, prior swing low $203.08 just above",
         "status": "active",
         "source_brief": "2026-07-07",
         "hit_count": 0,
@@ -5648,6 +5648,46 @@
         "reason": "1H low today (194.00); 1H chart support cluster; very short-term floor",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 210.42,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.500 (midpoint of $184.30\u2013$236.54) + psychological round number",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 216.58,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.382 retrace + prior swing high from 60d range",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 191.15,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's daily low (L$191.15); intraday floor",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 184.3,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 60-day absolute low; fib 0.000 origin",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
