@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-07T15:29:38.383065+00:00",
+  "generated_at": "2026-07-07T15:44:23.218944+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T15:39:56.576000+00:00",
+      "time": "11:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $63841.71** Current: **$63806.13** | Strength: 4/5 Today's daily high; 1H recent high; failed breakout resistance"
+    },
+    {
+      "ts": "2026-07-07T15:37:48.987000+00:00",
+      "time": "11:37 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R1 $63841.71** Current: **$63852.01** | Strength: 4/5 Today's daily high; 1H recent high; failed breakout resistance"
+    },
+    {
+      "ts": "2026-07-07T15:36:47.523000+00:00",
+      "time": "11:36 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $12.6** Current: **$12.64** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-07T15:21:52.326000+00:00",
       "time": "11:21 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:05 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.23** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
-    },
-    {
-      "ts": "2026-07-07T15:05:54.203000+00:00",
-      "time": "11:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $135.03** Current: **$135.16** | Strength: 5/5 \u2014 Fibonacci 0.500 + 60-day midpoint"
-    },
-    {
-      "ts": "2026-07-07T15:04:50.451000+00:00",
-      "time": "11:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $244.03** Current: **$243.97** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
-    },
-    {
-      "ts": "2026-07-07T15:02:35.814000+00:00",
-      "time": "11:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63500.0** Current: **$63514.16** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
