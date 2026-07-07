@@ -27684,7 +27684,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -28473,9 +28473,9 @@
         "price": 1273.09,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 **Fibonacci 1.272 extension (850.51 \u2192 1,238 swing)**",
+        "reason": "Fib 1.272 extension (850.51\u21921238), natural extension target",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28693,9 +28693,9 @@
         "price": 1238.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "60-day high, recent swing high, breakout peak \u2014 double-tested",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28703,9 +28703,9 @@
         "price": 1343.4,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.272 extension (850.51\u21921238.00); round confluence psychological",
+        "reason": "Fib 1.618 extension, psychological round number nest",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28853,9 +28853,9 @@
         "price": 1147.03,
         "type": "S3",
         "strength": 4,
-        "reason": "0.236 Fibonacci retracement; psychological round",
+        "reason": "Fib 0.236 retracement, confluence with MA20 area ($1150.76)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28913,9 +28913,9 @@
         "price": 1153.68,
         "type": "S2",
         "strength": 5,
-        "reason": "20-day VWAP; price currently $45.94 above = buffer zone; MA20 proximity",
+        "reason": "20-day VWAP \u2014 critical moving average support",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28923,9 +28923,9 @@
         "price": 1183.57,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "Today's low, recent daily support, Fib 0.236 at $1146.55 just below",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28986,6 +28986,26 @@
         "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1172.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
