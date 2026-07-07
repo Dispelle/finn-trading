@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-07T19:19:51.389097+00:00",
+  "generated_at": "2026-07-07T19:20:15.165479+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T19:19:57.536000+00:00",
+      "time": "03:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $16.91** Current: **$16.93** | Strength: 5/5 \u2014 **Prior 2-day high (16.91 from 2 days ago) + test of recent range top**"
+    },
+    {
+      "ts": "2026-07-07T19:19:56.026000+00:00",
+      "time": "03:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.38** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
+    },
     {
       "ts": "2026-07-07T19:19:10.138000+00:00",
       "time": "03:19 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:17 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $376.29** Current: **$376.51** | Strength: 5/5 \u2014 Today's daily low + daily low from 2 days prior ($377.17); creates mic"
-    },
-    {
-      "ts": "2026-07-07T19:16:40.254000+00:00",
-      "time": "03:16 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $746.5** Current: **$746.50** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-07T19:16:39.368000+00:00",
-      "time": "03:16 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $109.38** Current: **$109.50** | Strength: 5/5 \u2014 MA200 (200-day moving average)"
     }
   ]
 }
