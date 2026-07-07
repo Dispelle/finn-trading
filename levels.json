@@ -18040,7 +18040,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -18800,7 +18800,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP (price just broke below; acts as first resistance on bounce)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -18810,7 +18810,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Prior daily high (749.53 swing high + intraday pin); 0.236 Fib ($733.19) sits below; confluence zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -18910,7 +18910,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 60-day swing low (2nd most recent support cluster)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -18920,7 +18920,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 0.500 Fib retracement (midpoint of 645.11\u2013760.40 swing); confluence with MA200 area ($701.56)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -18930,7 +18930,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 **0.618 Fib (golden pocket)**; this is the line that separates \"corrective pullback\" from \"trend failure\"; critical ho",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -19132,6 +19132,66 @@
         "reason": "Fibonacci 0.618 golden pocket (major Fib support); MA200 $704.09 confluence",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 739.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.4,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 770.0,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 783.96,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 770.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 783.96,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
