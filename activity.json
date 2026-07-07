@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T14:21:57.186226+00:00",
+  "generated_at": "2026-07-07T14:22:09.810445+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T14:21:58.211000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.46** Current: **$12.46** | Strength: 5/5 \u2014 **20-day VWAP + MA20 proximity ($12.52)**"
+    },
     {
       "ts": "2026-07-07T14:19:48.978000+00:00",
       "time": "10:19 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:14 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $708.47** Current: **$708.31** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-07T14:14:18.335000+00:00",
-      "time": "10:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $509.83** Current: **$508.85** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
     }
   ]
 }
