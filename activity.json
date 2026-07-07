@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T21:53:38.756875+00:00",
+  "generated_at": "2026-07-07T22:08:40.351722+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T22:00:11.851000+00:00",
+      "time": "06:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,350**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-07T21:45:11.786000+00:00",
       "time": "05:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $708.47** Current: **$708.74** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-07T19:50:06.338000+00:00",
-      "time": "03:50 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $927.79** Current: **$929.39** | Strength: 5/5 \u2014 Fib 0.382 retracement (398.44\u21921255); prior mid-swing zone"
     }
   ]
 }
