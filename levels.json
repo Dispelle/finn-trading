@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -1576,9 +1576,9 @@
         "price": 57747.77,
         "type": "S3",
         "strength": 5,
-        "reason": "**60-day low / 52-week low** \u2014 absolute capitulation point. If breached on **weekly close**, confirm lower-low structure",
+        "reason": "**60-day low; 52-week low; 0.000 fib baseline**; psychological support; invalidates bearish structure if broken below",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1729,6 +1729,56 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64597.57,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Yesterday's daily high; 1H resistance cluster; 0.236 fib ($76,605) is far away but psychological round",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 65544.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Swing high from 60-day range; sits between 0.236 ($76,605) and 0.382 ($73,001); prior consolidation top",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 67176.44,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**0.618 Fibonacci (golden pocket START)**; swing high at $67,248 nearby; MA50 zone ($66,210)",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62767.97,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's daily low; micro-support from 1H lows; 0.786 fib ($63,029.80) is 262 pips above",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62201.14,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior swing low (10\u201312 days); tested but not broken until LL at $57,747",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
