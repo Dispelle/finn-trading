@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T20:19:50.500378+00:00",
+  "generated_at": "2026-07-07T20:34:29.682507+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T20:30:07.724000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,695** | P&L: **-21"
+    },
     {
       "ts": "2026-07-07T20:00:27.107000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $195.67** Current: **$195.63** | Strength: 5/5 0.650 Fib + MA200 ($194.65) cluster"
-    },
-    {
-      "ts": "2026-07-07T19:38:28.330000+00:00",
-      "time": "03:38 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $615.85** Current: **$615.75** | Strength: 5/5 \u2014 **"
     }
   ]
 }
