@@ -13407,9 +13407,9 @@
         "price": 50.31,
         "type": "S2",
         "strength": 5,
-        "reason": "**60-day swing low** (multi-test zone); capitulation low; if broken decisively, next target is Fib 2.618 extension down ",
+        "reason": "\u2014 60-day low; major swing point; psychological/technical support",
         "status": "active",
-        "source_brief": "2026-07-01",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13537,9 +13537,9 @@
         "price": 61.98,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fib (golden pocket), prior swing low support, Fib confluence",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket start, 50.31\u219280.86); confluent with 0.650 at $61.00; major fib structure",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13637,9 +13637,9 @@
         "price": 69.19,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement + MA20 gravity zone",
+        "reason": "\u2014 Fibonacci 0.382 retracement; sits near prior swing lows ($64.13, $65.61); supply zone",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13647,9 +13647,9 @@
         "price": 54.57,
         "type": "S1",
         "strength": 4,
-        "reason": "\u2014 **",
+        "reason": "\u2014 Today's low; 1H recent low; short-term floor",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13757,9 +13757,9 @@
         "price": 57.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 MA20 weekly + 20-day VWAP zone ($57.99), psychological inflection",
+        "reason": "\u2014 20-day VWAP; acts as dynamic resistance; price recently tested and rejected",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13770,6 +13770,26 @@
         "reason": "\u2014 10-day MA of hourly closes, micro-trend support",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 80.86,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 60-day high; invalidation of bearish bias",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 33.1,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 52-week low; structural support for worst case",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
