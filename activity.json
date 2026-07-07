@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T20:49:43.833466+00:00",
+  "generated_at": "2026-07-07T21:08:33.681327+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T21:00:07.586000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,659** | P&L: **-21"
+    },
     {
       "ts": "2026-07-07T20:45:06.965000+00:00",
       "time": "04:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:43 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $135.03** Current: **$135.01** | Strength: 5/5 \u2014 Fibonacci 0.500 + 60-day midpoint"
-    },
-    {
-      "ts": "2026-07-07T19:43:43.499000+00:00",
-      "time": "03:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $141.4** Current: **$141.34** | Strength: 5/5 |"
     }
   ]
 }
