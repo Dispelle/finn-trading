@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-07T19:34:26.496898+00:00",
+  "generated_at": "2026-07-07T19:49:26.940230+00:00",
   "items": [
+    {
+      "ts": "2026-07-07T19:45:10.318000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,757** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-07T19:43:44.641000+00:00",
+      "time": "03:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $135.03** Current: **$135.01** | Strength: 5/5 \u2014 Fibonacci 0.500 + 60-day midpoint"
+    },
+    {
+      "ts": "2026-07-07T19:43:43.499000+00:00",
+      "time": "03:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $141.4** Current: **$141.34** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-07T19:40:34.988000+00:00",
+      "time": "03:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $195.67** Current: **$195.63** | Strength: 5/5 0.650 Fib + MA200 ($194.65) cluster"
+    },
+    {
+      "ts": "2026-07-07T19:38:28.330000+00:00",
+      "time": "03:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $615.85** Current: **$615.75** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-07T19:38:26.329000+00:00",
+      "time": "03:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R3 $615.86** Current: **$615.75** | Strength: 5/5 \u2014 reason: **0.500 Fibonacci midpoint** + MA50 ($608.11) proximity \u2014 **"
+    },
     {
       "ts": "2026-07-07T19:30:22.256000+00:00",
       "time": "03:30 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:19 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $509.83** Current: **$510.38** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
-    },
-    {
-      "ts": "2026-07-07T19:19:10.138000+00:00",
-      "time": "03:19 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,391** | P&L: **-22"
-    },
-    {
-      "ts": "2026-07-07T19:18:54.552000+00:00",
-      "time": "03:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.46** Current: **$12.44** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
-    },
-    {
-      "ts": "2026-07-07T19:18:52.448000+00:00",
-      "time": "03:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $16.91** Current: **$16.90** | Strength: 5/5 \u2014 **Prior 2-day high (16.91 from 2 days ago) + test of recent range top**"
-    },
-    {
-      "ts": "2026-07-07T19:18:51.048000+00:00",
-      "time": "03:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $573.72** Current: **$573.63** | Strength: 5/5 Fibonacci 0.382 retracement (key mean reversion zone)"
-    },
-    {
-      "ts": "2026-07-07T19:18:50.240000+00:00",
-      "time": "03:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $509.83** Current: **$509.68** | Strength: 5/5 20-day VWAP \u2014 historically strong support"
-    },
-    {
-      "ts": "2026-07-07T19:17:48.031000+00:00",
-      "time": "03:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $141.4** Current: **$141.47** | Strength: 5/5 |"
     }
   ]
 }
