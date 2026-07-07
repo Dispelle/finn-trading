@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-07T13:51:46.109100+00:00",
+  "generated_at": "2026-07-07T14:06:46.551691+00:00",
   "items": [
     {
-      "ts": "2026-07-07T13:50:46.374000+00:00",
-      "time": "09:50 AM ET",
+      "ts": "2026-07-07T14:04:43.137000+00:00",
+      "time": "10:04 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1243.5** Current: **$1241.48** | Strength: 4/5 Implied 2% above HH; extension zone where rejection typically hardens"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $106.44** Current: **$106.73** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-07T13:49:42.085000+00:00",
-      "time": "09:49 AM ET",
+      "ts": "2026-07-07T14:01:29.608000+00:00",
+      "time": "10:01 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1243.5** Current: **$1245.85** | Strength: 4/5 Implied 2% above HH; extension zone where rejection typically hardens"
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $381.59** Current: **$381.91** | Strength: 5/5 0.786 Fibonacci retracement + 60-day recent swing low cluster ($371.88);"
     },
     {
-      "ts": "2026-07-07T13:48:35.765000+00:00",
-      "time": "09:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $16.91** Current: **$16.93** | Strength: 5/5 \u2014 **Prior 2-day high (16.91 from 2 days ago) + test of recent range top**"
-    },
-    {
-      "ts": "2026-07-07T13:47:32.527000+00:00",
-      "time": "09:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1238.0** Current: **$1240.72** | Strength: 5/5 60-day high, recent swing high, breakout peak \u2014 double-tested"
-    },
-    {
-      "ts": "2026-07-07T13:43:15.231000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-07T14:00:09.203000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$388.58** | Strength: 5/5 0.650 Fib (golden pocket) + prior 3-day swing high ($389.15) + psycholo"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,924** | P&L: **-22"
     },
     {
-      "ts": "2026-07-07T13:43:13.804000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-07T13:59:22.262000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $76.53** Current: **$76.56** | Strength: 5/5 Recent swing low (intraday anchor from 9 days ago); psychological 76\u201377 z"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $411.84** Current: **$413.19** | Strength: 4/5 \u2014 Daily close 2 days ago; also near daily MA20 trajectory; secondary st"
     },
     {
-      "ts": "2026-07-07T13:43:12.812000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-07T13:59:21.160000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $927.79** Current: **$928.70** | Strength: 5/5 \u2014 Fib 0.382 retracement (398.44\u21921255); prior mid-swing zone"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $710.5** Current: **$711.11** | Strength: 4/5 \u2014 MA50 (50-day moving average); price above; structural support line"
     },
     {
-      "ts": "2026-07-07T13:43:11.741000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-07T13:59:20.647000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $515.45** Current: **$517.40** | Strength: 5/5 20-day VWAP (current anchor); MA20 at $516.84 (nearby); demand/price equ"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $710.53** Current: **$711.11** | Strength: 4/5 MA50 (intermediate trend anchor); psychological support; daily close has"
     },
     {
-      "ts": "2026-07-07T13:42:09.250000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-07T13:59:18.672000+00:00",
+      "time": "09:59 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $576.64** Current: **$577.26** | Strength: 5/5 \u2014 0.382 Fibonacci retrace from the $422.63 \u2192 $671.83 swing. **"
+    },
+    {
+      "ts": "2026-07-07T13:58:14.889000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $392.2** Current: **$391.08** | Strength: 5/5 Prior daily high (last 10 bars); swing high; 60d swing high confluence"
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $381.59** Current: **$381.49** | Strength: 5/5 0.786 Fibonacci retracement + 60-day recent swing low cluster ($371.88);"
     },
     {
-      "ts": "2026-07-07T13:42:08.014000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-07T13:57:10.673000+00:00",
+      "time": "09:57 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $105.8** Current: **$105.81** | Strength: 3/5 Prior 1H swing high cluster; daily chart resistance at yesterday's high + 0.5% "
+      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $914.68** Current: **$915.85** | Strength: 3/5"
+    },
+    {
+      "ts": "2026-07-07T13:56:08.138000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $411.84** Current: **$411.11** | Strength: 4/5 \u2014 Daily close 2 days ago; also near daily MA20 trajectory; secondary st"
     }
   ]
 }
