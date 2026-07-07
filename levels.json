@@ -30390,7 +30390,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -31249,9 +31249,9 @@
         "price": 15.04,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.382 Fib + prior swing low (15.06 approx)**",
+        "reason": "\u2014 Fibonacci 0.382 + prior swing low (60d) at $15.06",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31319,9 +31319,9 @@
         "price": 11.31,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **60-day low / Swing low (structural support)**",
+        "reason": "\u2014 60-day absolute low + 52-week low",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31359,9 +31359,9 @@
         "price": 13.62,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fib (golden pocket) + confluence zone**",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + confluence with 60-day swing low at $15.47 (intermediate resistance)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31369,9 +31369,9 @@
         "price": 14.33,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fib + structural turning point**",
+        "reason": "\u2014 Fibonacci 0.500 retracement + daily/weekly inflection",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31388,10 +31388,10 @@
       {
         "price": 11.95,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 **60-day swing low + prior LL attempt**",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low (secondary) + psychological support",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31402,6 +31402,16 @@
         "reason": "\u2014 **Prior week close + horizontal support**",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.6,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 + recent 1H/daily support cluster",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
