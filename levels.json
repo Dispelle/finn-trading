@@ -20476,7 +20476,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -21545,9 +21545,9 @@
         "price": 334.08,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (golden ratio projection from $256.07 \u2192 $317.40 swing)",
+        "reason": "\u2014 Fibonacci 1.272 extension (from 256.07 \u2192 317.40 swing)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21585,9 +21585,9 @@
         "price": 307.01,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 Today's daily low + 1H recent low (tight cluster)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21595,9 +21595,9 @@
         "price": 302.93,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; daily MA20 zone ($294.87 nearby); prior daily high from swing",
+        "reason": "\u2014 Fibonacci 0.236 retracement (from 256.07 \u2192 317.40)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21618,6 +21618,36 @@
         "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-07-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 314.2,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Daily high TODAY + 1H high (recent), strong intraday peak",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 317.4,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60-day high = 52-week high, Fib 1.0 extension from 256.07 base",
+        "status": "active",
+        "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 293.97,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement + MA20 ($294.87) cluster",
+        "status": "active",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       }
