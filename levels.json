@@ -7652,7 +7652,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9292,7 +9292,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "60-day swing low; BOS invalidation point; key structure anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9512,7 +9512,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Recent swing high (4 bars ago); prior resistance; supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9562,7 +9562,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior daily high (2 bars ago); 1H swing high cluster; psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9571,9 +9571,9 @@
         "price": 1255.0,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute high; bull-case target if CHoCH reverses",
+        "reason": "\u2014 60-day major high; Fib extension 1.618 near $1,487; psychological round",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9582,7 +9582,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's low; recent swing low; 1H support cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9592,7 +9592,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "20-day VWAP; MA20 at $1035.41; fib 0.236 at $1039.11 (confluence)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9602,7 +9602,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9612,7 +9612,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -9681,9 +9681,9 @@
         "price": 1089.29,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Prior swing high** (60-day structure pivot)",
+        "reason": "\u2014 60-day swing high; round number ($1,090 psych level); prior swing",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9771,9 +9771,9 @@
         "price": 927.79,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.382 retracement** (398.44 \u2192 1255.00)",
+        "reason": "\u2014 Fib 0.382 retracement (398.44\u21921255); prior mid-swing zone",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9791,9 +9791,9 @@
         "price": 725.65,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Golden pocket (0.618 Fib); last-resort support if liquidation",
+        "reason": "\u2014 Fib 0.618 (golden pocket); round number psychology",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9871,9 +9871,9 @@
         "price": 980.85,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's low; hourly support cluster (1H low repeated)",
+        "reason": "\u2014 Today's low; 1H micro support; immediate floor",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9911,9 +9911,9 @@
         "price": 1046.68,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (price currently $2.93 below; acts as dynamic demand ceiling)",
+        "reason": "\u2014 20-day VWAP; MA20 daily nearby at $1,042.71; confluence zone",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
       },
