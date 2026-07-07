@@ -16762,7 +16762,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17832,7 +17832,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "\u2014 Prior 1-day high (today's swing high); 1H wick resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -17842,7 +17842,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 0.786 Fibonacci retracement + Daily MA20 proximity",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -17852,7 +17852,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 0.618 Fibonacci (golden pocket center)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
@@ -17862,7 +17862,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "\u2014 Psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-29",
         "hit_count": 0,
         "last_hit": null
