@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-08T17:34:00.623213+00:00",
+  "generated_at": "2026-07-08T17:34:28.078292+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T17:34:15.816000+00:00",
+      "time": "01:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.76** Current: **$745.75** | Strength: 5/5 \u2014 Last swing low (6 days), confirmed by 1H low confluences, daily close "
+    },
     {
       "ts": "2026-07-08T17:33:11.755000+00:00",
       "time": "01:33 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:28 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $62201.14** Current: **$62228.05** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
-    },
-    {
-      "ts": "2026-07-08T17:26:42.892000+00:00",
-      "time": "01:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $710.5** Current: **$710.21** | Strength: 4/5 \u2014 MA50 (50-day moving average); price above; structural support line"
     }
   ]
 }
