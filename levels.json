@@ -24052,7 +24052,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -24572,7 +24572,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "20-day VWAP \u2014 price has rejected this 6+ times in last 10 days; psychological pivot",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -24582,7 +24582,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "0.618 Fib (true golden pocket) + prior swing low $596.68; rejected 10 days ago",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -24632,7 +24632,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "Prior weekly close $550.25 + 1H recent low $542.87 region; psychological support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -24702,7 +24702,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "0.786 Fib retracement (golden zone boundary) + 1H recent high cluster $569\u2013$571",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -24722,7 +24722,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "0.382 Fib + prior swing high $632.51; acts as secondary resistance cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -24792,7 +24792,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
