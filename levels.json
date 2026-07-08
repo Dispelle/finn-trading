@@ -22815,9 +22815,9 @@
         "price": 334.08,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (from 256.07 \u2192 317.40 swing)",
+        "reason": "Fib 1.272 extension (measured move); next significant technical target if breakout confirmed",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22875,9 +22875,9 @@
         "price": 294.9,
         "type": "S3",
         "strength": 5,
-        "reason": "Swing low (recent); daily MA20 ($294.87) sits here; **CRITICAL** \u2014 loss of this breaks structure",
+        "reason": "Fib 0.382 retracement; MA20 daily; confluence with prior daily close and resistance-turned-support",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22905,9 +22905,9 @@
         "price": 317.4,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day high (technical ceiling); 4.7% above current price; Fibonacci extension zone (1.272 start at $333.92 nearby)",
+        "reason": "60-day high / 52-week high; Fib 1.000 (swing top); round number psychological resistance",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22935,9 +22935,9 @@
         "price": 315.48,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior daily high (yesterday, 1H high); 60-day swing high confluence; recent resistance zone",
+        "reason": "1H high (today's intraday swing high + daily high from 2 candles ago; multiple tests at $314.2\u2013$315.48 zone)",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22958,6 +22958,36 @@
         "reason": "20-day VWAP (major support); MA20 weekly ($283.44) below but macro support",
         "status": "active",
         "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 310.15,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's daily low; 1H support; tight HL; institutional accumulation zone",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 307.0,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Daily low (2 candles ago); psychological round; break here = structure broken",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 307.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
