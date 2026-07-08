@@ -15785,7 +15785,7 @@
         "price": 84.02,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 (midpoint of swing) + MA50 ($82.88)",
+        "reason": "Fib 0.500 (midpoint of $74.04\u2192$93.89 swing), MA50 ($82.88) \u2014 confluence",
         "status": "active",
         "source_brief": "2026-07-08",
         "hit_count": 0,
@@ -15925,7 +15925,7 @@
         "price": 74.04,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 60-day swing low (NEW LOW, established ~12/20)",
+        "reason": "60-day low, prior swing low, round-number psychology, base of Fib ladder",
         "status": "active",
         "source_brief": "2026-07-08",
         "hit_count": 0,
@@ -16114,10 +16114,10 @@
       {
         "price": 93.89,
         "type": "R3",
-        "strength": 3,
-        "reason": "60-day high / psychological resistance",
+        "strength": 4,
+        "reason": "60-day high, swing high, extension target",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16138,6 +16138,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76.53,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Swing low (60d), prior demand zone, very close overhead",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 78.29,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Fib 0.786 retracement (78.29) \u2014 Golden pocket boundary, pullback target",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 73.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Psychological round number, extension support",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 71.94,
+        "type": "S3",
+        "strength": 3,
+        "reason": "1.272 Fib extension (from $74.04\u2192$93.89 swing) = $74.04 \u2212 (1.272 \u00d7 $19.85) = $71.90",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
