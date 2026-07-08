@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-08T16:36:20.457513+00:00",
+  "generated_at": "2026-07-08T16:51:19.159649+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T16:45:08.493000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,000** | P&L: **-23"
+    },
+    {
+      "ts": "2026-07-08T16:42:52.109000+00:00",
+      "time": "12:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $140.6** Current: **$140.62** | Strength: 5/5 \u2014 **MA20 daily (20-period moving average)**"
+    },
+    {
+      "ts": "2026-07-08T16:42:51.635000+00:00",
+      "time": "12:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $140.59** Current: **$140.62** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-08T16:42:49.461000+00:00",
+      "time": "12:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $371.5** Current: **$371.56** | Strength: 5/5 \u2014 **Recent swing low** (5\u20137 days ago); local structure; 2\u20133% below curren"
+    },
+    {
+      "ts": "2026-07-08T16:40:39.456000+00:00",
+      "time": "12:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $140.6** Current: **$140.55** | Strength: 5/5 \u2014 **MA20 daily (20-period moving average)**"
+    },
+    {
+      "ts": "2026-07-08T16:40:38.883000+00:00",
+      "time": "12:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $140.59** Current: **$140.55** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-08T16:31:02.983000+00:00",
       "time": "12:31 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,767** | P&L: **-24"
-    },
-    {
-      "ts": "2026-07-08T16:10:48.665000+00:00",
-      "time": "12:10 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $506.0** Current: **$506.27** | Strength: 5/5 Today's daily low; intraday support; break = BOS SHORT"
-    },
-    {
-      "ts": "2026-07-08T16:06:31.481000+00:00",
-      "time": "12:06 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $12.0** Current: **$12.03** | Strength: 4/5 **Prior daily close / psychological round** \u2014 Recent swing low boundary (9 "
-    },
-    {
-      "ts": "2026-07-08T16:00:07.362000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,644**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-08T15:51:31.992000+00:00",
-      "time": "11:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $114.87** Current: **$114.95** | Strength: 5/5 \u2014 Prior daily swing high (4 weeks ago); aligns with daily MA20 slope res"
-    },
-    {
-      "ts": "2026-07-08T15:45:07.658000+00:00",
-      "time": "11:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,530** | P&L: **-24"
-    },
-    {
-      "ts": "2026-07-08T15:36:38.315000+00:00",
-      "time": "11:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $505.0** Current: **$505.79** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
