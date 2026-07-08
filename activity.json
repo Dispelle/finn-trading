@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-08T16:06:26.994269+00:00",
+  "generated_at": "2026-07-08T16:06:38.377875+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T16:06:31.481000+00:00",
+      "time": "12:06 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $12.0** Current: **$12.03** | Strength: 4/5 **Prior daily close / psychological round** \u2014 Recent swing low boundary (9 "
+    },
     {
       "ts": "2026-07-08T16:00:07.362000+00:00",
       "time": "12:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:29 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $196.61** Current: **$196.71** | Strength: 5/5 Fibonacci 0.786 (confluence with trend invalidation)"
-    },
-    {
-      "ts": "2026-07-08T15:29:08.510000+00:00",
-      "time": "11:29 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP2 $501.23** Current: **$501.29** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
