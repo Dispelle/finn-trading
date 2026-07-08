@@ -17963,7 +17963,7 @@
         "price": 102.15,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day low (9 days ago); **hard floor** for this move. Break below = new lows and potential capitulation. Volume would",
+        "reason": "| 60-day low (absolute floor of bounce range); breaks here = new downleg",
         "status": "active",
         "source_brief": "2026-07-08",
         "hit_count": 0,
@@ -18341,6 +18341,46 @@
       },
       {
         "price": 110.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 116.9,
+        "type": "R1",
+        "strength": 5,
+        "reason": "| 20-day VWAP (volume-weighted anchor; price slightly below)",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.48,
+        "type": "S1",
+        "strength": 5,
+        "reason": "| 0.786 fib (lower retracement); prior 1H support; MA200 nearby at $111.21",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 110.35,
+        "type": "S2",
+        "strength": 5,
+        "reason": "| 60-day swing low (prior support, broke and reclaimed); intraday support",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 124.3,
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
