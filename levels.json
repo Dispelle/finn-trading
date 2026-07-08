@@ -26378,7 +26378,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -27378,7 +27378,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 0.786 Fibonacci retracement (strong support cluster)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -27536,10 +27536,10 @@
       {
         "price": 156.9,
         "type": "R3",
-        "strength": 3,
-        "reason": "0.236 Fib (shallow retracement); last swing high before $163.68 peak",
+        "strength": 4,
+        "reason": "\u2014",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27627,9 +27627,9 @@
         "price": 140.6,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP; immediate technical pivot; current price just above",
+        "reason": "\u2014",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27647,9 +27647,9 @@
         "price": 134.95,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low; 0.000 Fib base; critical invalidation point for bearish thesis",
+        "reason": "\u2014",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27697,9 +27697,39 @@
         "price": 137.72,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; HL in downtrend; prior consolidation base",
+        "reason": "\u2014",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 149.31,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 152.71,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 163.68,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
