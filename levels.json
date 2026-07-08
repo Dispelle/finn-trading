@@ -1526,9 +1526,9 @@
         "price": 63841.71,
         "type": "R1",
         "strength": 4,
-        "reason": "Today's daily high; 1H recent high; failed breakout resistance",
+        "reason": "\u2014 Recent swing high (7 days ago); 1H rejection zone visible; small confluence with 0.786 Fib zone ($63,029.80). **",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1756,9 +1756,9 @@
         "price": 67176.44,
         "type": "R3",
         "strength": 5,
-        "reason": "**0.618 Fibonacci (golden pocket START)**; swing high at $67,248 nearby; MA50 zone ($66,210)",
+        "reason": "\u2014 0.618 golden pocket (Fibonacci retracement from $57,747 to $82,430); psychological + Fib confluence. Aligns with 60-da",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1826,9 +1826,9 @@
         "price": 62201.14,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 60-day swing low; established support, tested recently. **Currently 1.2% below price.** Acts as immediate floor.",
+        "reason": "\u2014 60-day swing low (4 weeks ago); micro support zone where 1H lows recently tested ($62,500.40). **",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1844,6 +1844,46 @@
       },
       {
         "price": 82005.96,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64597.57,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 10-day daily swing high; critical failure point if broken again. Represents upper bound of current range. **",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61176.72,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Daily low from 9 days ago; aligns near 20-day VWAP ($61,566.53). Psychological confluence. **",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 59532.34,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 5-week swing low; tested multiple times; represents \"capitulation\" support before 60-day lows. **",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 69773.97,
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
