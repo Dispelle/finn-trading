@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-08T18:18:33.521791+00:00",
+  "generated_at": "2026-07-08T18:33:25.383101+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T18:30:15.662000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,112**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-08T18:24:50.353000+00:00",
+      "time": "02:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $141.1** Current: **$140.91** | Strength: 5/5 Fib 0.786 retracement; confluence with daily swing low ($141.97 nearby); "
+    },
     {
       "ts": "2026-07-08T18:17:22.477000+00:00",
       "time": "02:17 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:52 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $935.51** Current: **$935.79** | Strength: 4/5 Today's high; recent 1H pivot; Fib 0.382 ($931.64) confluence"
-    },
-    {
-      "ts": "2026-07-08T17:51:30.574000+00:00",
-      "time": "01:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $511.26** Current: **$511.77** | Strength: 5/5 \u2014 Daily low from 3 bars ago; prior hourly swing low; tight support."
-    },
-    {
-      "ts": "2026-07-08T17:48:18.971000+00:00",
-      "time": "01:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $935.51** Current: **$934.00** | Strength: 4/5 Today's high; recent 1H pivot; Fib 0.382 ($931.64) confluence"
     }
   ]
 }
