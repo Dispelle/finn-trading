@@ -1868,7 +1868,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -3237,7 +3237,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day all-time high (supply zone), failed breakout 5 days running",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -3477,7 +3477,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -3487,7 +3487,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP \u2014 historically strong support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -3547,7 +3547,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "1.272 Fibonacci extension from $200.62\u2192$562.99 swing",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -3666,9 +3666,9 @@
         "price": 584.73,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute high; Fibonacci extension zone (1.272 at $678.78 beyond); psychological round number",
+        "reason": "\u2014 60-day swing high; psychological all-time recent peak; extension target 1.272 Fib = $678.78",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3685,10 +3685,10 @@
       {
         "price": 495.35,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 10-day low; prior swing low from recent pullback",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low; last tested 5 days ago; major structural support",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3995,10 +3995,10 @@
       {
         "price": 524.97,
         "type": "R1",
-        "strength": 4,
-        "reason": "\u2014 Today's intraday high (1H recent high); nearest point of resistance",
+        "strength": 5,
+        "reason": "\u2014 Today's daily high; immediate intraday resistance; confluent with 1H cluster highs",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4006,19 +4006,19 @@
         "price": 545.57,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Recent swing high from daily pull-back; convergence with prior support-turned-resistance",
+        "reason": "\u2014 60-day swing low-to-high reversal zone; break above invalidates bear structure",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 503.11,
         "type": "S1",
-        "strength": 4,
-        "reason": "\u2014 Today's daily low; psychological support around $500\u2013$505 zone",
+        "strength": 5,
+        "reason": "\u2014 Today's low; yesterday's $506.0 low; 0.236 Fib retracement from $238.96\u2192$584.73 = $503.13 (CONFLUENCE)",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4026,9 +4026,19 @@
         "price": 452.65,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement level ($238.96\u2192$584.73); MA20 weekly confluence zone",
+        "reason": "\u2014 0.382 Fib retracement; MA20 weekly was at $386.21, so $452.65 is halfway between price and MA20",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 678.78,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
