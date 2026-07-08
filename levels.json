@@ -12428,7 +12428,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13658,7 +13658,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "60-day low; 1.272 fib extension origin (recent swing); tested 8 times",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -13677,9 +13677,9 @@
         "price": 50.31,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day low, critical support (prior capitulation)",
+        "reason": "\u2014 60-day swing low; recent capitulation point; psychological round number; **lowest point in current downtrend**",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13767,9 +13767,9 @@
         "price": 65.59,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.500 fib retracement (midpoint), MA50 at $64.45 nearby",
+        "reason": "\u2014 Fibonacci 0.500 midpoint; MA50 $64.45 (very close); major structural resistance from prior swing high zone ($64.13 swi",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13798,7 +13798,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "20-day VWAP; major recent support turned resistance; psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -13807,9 +13807,9 @@
         "price": 61.98,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket start, 50.31\u219280.86); confluent with 0.650 at $61.00; major fib structure",
+        "reason": "\u2014 Fibonacci 0.618 golden pocket (from $50.31 \u2192 $80.86 swing); psychological supply; confluent with fib 0.650 at $61.00",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13818,7 +13818,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "Fibonacci 0.786 retrace ($56.85 is above price); extension target 1.618 = $99.74 (too far); **$48.50 is psychological ro",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -13828,7 +13828,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Psychological round; untested in recent data; extrapolated support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -13838,7 +13838,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -14027,9 +14027,9 @@
         "price": 57.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; acts as dynamic resistance; price recently tested and rejected",
+        "reason": "\u2014 20-day VWAP (dynamic support-turned-resistance on upside test); recent price retest zone; MA20 basis",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14107,9 +14107,19 @@
         "price": 53.74,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low, intraday support (1H chart shows consolidation floor)",
+        "reason": "\u2014 Today's intraday low (1H low, daily low); fresh pivot point; tight recent range floor",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.85,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci 0.786 retracement; minor support in uptrend recovery attempt; secondary floor if $53.74 breaks",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
