@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-08T16:51:54.532702+00:00",
+  "generated_at": "2026-07-08T17:18:18.127705+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T17:18:05.191000+00:00",
+      "time": "01:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,013** | P&L: **-23"
+    },
+    {
+      "ts": "2026-07-08T17:15:55.146000+00:00",
+      "time": "01:15 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.46** Current: **$52.47** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-08T17:08:28.908000+00:00",
+      "time": "01:08 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $72.6** Current: **$72.74** | Strength: 3/5 Extension zone (1.272 fib projects to $99.29 on upswing; inverse = ~$72 downside"
+    },
+    {
+      "ts": "2026-07-08T17:00:59.491000+00:00",
+      "time": "01:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,037**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-08T16:52:23.449000+00:00",
+      "time": "12:52 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $200.19** Current: **$200.35** | Strength: 5/5 0.650 Fib (golden pocket lower bound); prior swing low support $199.34\u2013"
+    },
     {
       "ts": "2026-07-08T16:45:08.493000+00:00",
       "time": "12:45 PM ET",
@@ -30,36 +60,6 @@
       "time": "12:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $140.6** Current: **$140.55** | Strength: 5/5 \u2014 **MA20 daily (20-period moving average)**"
-    },
-    {
-      "ts": "2026-07-08T16:40:38.883000+00:00",
-      "time": "12:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $140.59** Current: **$140.55** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-08T16:31:02.983000+00:00",
-      "time": "12:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $113.48** Current: **$113.40** | Strength: 5/5 0.786 Fib retracement (102.42\u2192154.08); prior swing low support; psycholo"
-    },
-    {
-      "ts": "2026-07-08T16:31:02.376000+00:00",
-      "time": "12:31 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $71.94** Current: **$71.99** | Strength: 3/5 1.272 Fib extension (from $74.04\u2192$93.89 swing) = $74.04 \u2212 (1.272 \u00d7 $19.85) = $7"
-    },
-    {
-      "ts": "2026-07-08T16:30:06.620000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,835**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-08T16:15:07.815000+00:00",
-      "time": "12:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,767** | P&L: **-24"
     }
   ]
 }
