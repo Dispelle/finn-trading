@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-08T15:51:17.798113+00:00",
+  "generated_at": "2026-07-08T16:06:17.261333+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T16:00:07.362000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -24.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,644**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-08T15:51:31.992000+00:00",
+      "time": "11:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $114.87** Current: **$114.95** | Strength: 5/5 \u2014 Prior daily swing high (4 weeks ago); aligns with daily MA20 slope res"
+    },
     {
       "ts": "2026-07-08T15:45:07.658000+00:00",
       "time": "11:45 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:29 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP2 $501.23** Current: **$501.29** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-08T15:24:53.984000+00:00",
-      "time": "11:24 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $914.68** Current: **$915.58** | Strength: 3/5"
-    },
-    {
-      "ts": "2026-07-08T15:24:53.083000+00:00",
-      "time": "11:24 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $196.61** Current: **$196.52** | Strength: 5/5 Fibonacci 0.786 (confluence with trend invalidation)"
     }
   ]
 }
