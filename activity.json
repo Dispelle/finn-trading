@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-08T17:34:28.078292+00:00",
+  "generated_at": "2026-07-08T17:48:22.097861+00:00",
   "items": [
     {
-      "ts": "2026-07-08T17:34:15.816000+00:00",
-      "time": "01:34 PM ET",
+      "ts": "2026-07-08T17:48:18.971000+00:00",
+      "time": "01:48 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.76** Current: **$745.75** | Strength: 5/5 \u2014 Last swing low (6 days), confirmed by 1H low confluences, daily close "
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $935.51** Current: **$934.00** | Strength: 4/5 Today's high; recent 1H pivot; Fib 0.382 ($931.64) confluence"
     },
     {
-      "ts": "2026-07-08T17:33:11.755000+00:00",
-      "time": "01:33 PM ET",
+      "ts": "2026-07-08T17:48:17.996000+00:00",
+      "time": "01:48 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $314.2** Current: **$314.17** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $511.26** Current: **$510.83** | Strength: 5/5 \u2014 Daily low from 3 bars ago; prior hourly swing low; tight support."
     },
     {
-      "ts": "2026-07-08T17:32:07.267000+00:00",
-      "time": "01:32 PM ET",
+      "ts": "2026-07-08T17:47:15.747000+00:00",
+      "time": "01:47 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $314.2** Current: **$314.20** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1223.0** Current: **$1223.43** | Strength: 5/5 Prior daily close (3 bars ago); intraday support from yesterday's low ("
     },
     {
-      "ts": "2026-07-08T17:32:04.274000+00:00",
-      "time": "01:32 PM ET",
+      "ts": "2026-07-08T17:46:11.002000+00:00",
+      "time": "01:46 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $203.08** Current: **$203.03** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1222.5** Current: **$1222.72** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-08T17:31:01.124000+00:00",
-      "time": "01:31 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.76** Current: **$745.92** | Strength: 5/5 \u2014 Last swing low (6 days), confirmed by 1H low confluences, daily close "
-    },
-    {
-      "ts": "2026-07-08T17:30:08.704000+00:00",
-      "time": "01:30 PM ET",
+      "ts": "2026-07-08T17:45:09.464000+00:00",
+      "time": "01:45 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,255**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,215** | P&L: **-23"
     },
     {
-      "ts": "2026-07-08T17:29:56.115000+00:00",
-      "time": "01:29 PM ET",
+      "ts": "2026-07-08T17:42:53.520000+00:00",
+      "time": "01:42 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $203.08** Current: **$203.09** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $202.77** Current: **$202.69** | Strength: 5/5 \u2014 0.650 Fib retracement + MA20 confluence"
     },
     {
-      "ts": "2026-07-08T17:28:52.861000+00:00",
-      "time": "01:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $710.53** Current: **$710.59** | Strength: 4/5 MA50 (intermediate trend anchor); psychological support; daily close has"
+      "ts": "2026-07-08T17:42:52.558000+00:00",
+      "time": "01:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $62201.14** Current: **$62196.09** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
     },
     {
-      "ts": "2026-07-08T17:28:50.954000+00:00",
-      "time": "01:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $202.77** Current: **$202.83** | Strength: 5/5 \u2014 0.650 Fib retracement + MA20 confluence"
+      "ts": "2026-07-08T17:41:48.553000+00:00",
+      "time": "01:41 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW R1 $939.99** Current: **$938.40** | Strength: 3/5 Today's daily high; 1H recent high (small range seller)"
     },
     {
-      "ts": "2026-07-08T17:28:49.896000+00:00",
-      "time": "01:28 PM ET",
+      "ts": "2026-07-08T17:38:32.035000+00:00",
+      "time": "01:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $203.48** Current: **$203.43** | Strength: 5/5 \u2014 **20-day MA (daily)** \u2014 Dynamic resistance, slope downward. Price nee"
+    },
+    {
+      "ts": "2026-07-08T17:36:23.763000+00:00",
+      "time": "01:36 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R2 $62201.14** Current: **$62228.05** | Strength: 5/5 60-day swing low (structure flip point); confluence with 20-bar dail"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $203.48** Current: **$203.50** | Strength: 5/5 \u2014 **20-day MA (daily)** \u2014 Dynamic resistance, slope downward. Price nee"
     }
   ]
 }
