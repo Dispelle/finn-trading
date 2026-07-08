@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-08T16:07:01.604364+00:00",
+  "generated_at": "2026-07-08T16:21:18.562289+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T16:15:07.815000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,767** | P&L: **-24"
+    },
+    {
+      "ts": "2026-07-08T16:10:48.665000+00:00",
+      "time": "12:10 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $506.0** Current: **$506.27** | Strength: 5/5 Today's daily low; intraday support; break = BOS SHORT"
+    },
     {
       "ts": "2026-07-08T16:06:31.481000+00:00",
       "time": "12:06 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:33 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $502.61** Current: **$503.58** | Strength: 4/5 Fibonacci 0.236 retracement; recent daily low cluster; volume support"
-    },
-    {
-      "ts": "2026-07-08T15:31:20.677000+00:00",
-      "time": "11:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $240.88** Current: **$240.67** | Strength: 5/5 Today's daily low; last hour's low; breaks here invalidates intraday st"
-    },
-    {
-      "ts": "2026-07-08T15:29:09.180000+00:00",
-      "time": "11:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $196.61** Current: **$196.71** | Strength: 5/5 Fibonacci 0.786 (confluence with trend invalidation)"
     }
   ]
 }
