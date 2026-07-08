@@ -6220,6 +6220,86 @@
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 213.99,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Last confirmed swing high (60-day structure), prior support, strong reversal point",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 217.13,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement (185.74\u2192236.54), zone of supply",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 224.55,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement (technical exhaustion zone), prior swing high",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 203.08,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Yesterday's 1H swing low AND Fibonacci 0.650 zone ($203.52 adjacent)",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 201.64,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (support magnet for mean reversion)",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 196.61,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 retracement (deeply bullish zone), MA200 at $194.96 just below",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 201.2,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 211.14,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
