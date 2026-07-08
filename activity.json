@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-08T20:53:25.067732+00:00",
+  "generated_at": "2026-07-08T21:18:59.290265+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T21:18:46.131000+00:00",
+      "time": "05:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$61,954**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-08T21:00:18.854000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,060** | P&L: **-23"
+    },
     {
       "ts": "2026-07-08T20:45:18.766000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:56 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $244.1** Current: **$244.19** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-08T19:56:58.265000+00:00",
-      "time": "03:56 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.19** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
-    },
-    {
-      "ts": "2026-07-08T19:55:52.335000+00:00",
-      "time": "03:55 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $603.66** Current: **$604.15** | Strength: 5/5 Today's intraday low; immediate floor; strong support touch"
     }
   ]
 }
