@@ -17392,10 +17392,10 @@
       {
         "price": 128.25,
         "type": "R3",
-        "strength": 4,
-        "reason": "Fib 0.500; mid-range reversal target; prior swing low support (now resistance)",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fibonacci retracement (midpoint 102.42\u2192154.08), psychological 128 round",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17483,9 +17483,9 @@
         "price": 104.07,
         "type": "S2",
         "strength": 5,
-        "reason": "Swing low 3 days ago; prior daily support",
+        "reason": "\u2014 Recent swing low (Feb/early Mar), holds structure",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17493,9 +17493,9 @@
         "price": 102.15,
         "type": "S3",
         "strength": 5,
-        "reason": "**60-day low; 2-month demand zone; break here would target extension lows**",
+        "reason": "\u2014 60-day absolute low, capitulation point 7 days ago, strong floor",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17563,9 +17563,9 @@
         "price": 134.35,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.382 Fibonacci (secondary supply zone)",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17723,9 +17723,9 @@
         "price": 105.49,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Yesterday's daily low + intraday support from 1H chart (repeated touches)",
+        "reason": "\u2014 Yesterday's low (1H), daily support cluster, intra-day reversal point",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17766,6 +17766,46 @@
         "reason": "\u2014 Secondary 60d swing low (prior support cluster)",
         "status": "active",
         "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 117.86,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP + daily equilibrium, confluent with technical mean",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 124.04,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 MA20(weekly), trend line inflection, primary invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.48,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 0.786 Fibonacci retracement (demand pocket if re-tested)",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 128.25,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
