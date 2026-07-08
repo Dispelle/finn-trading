@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-08T15:36:40.979699+00:00",
+  "generated_at": "2026-07-08T15:51:17.798113+00:00",
   "items": [
+    {
+      "ts": "2026-07-08T15:45:07.658000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,530** | P&L: **-24"
+    },
     {
       "ts": "2026-07-08T15:36:38.315000+00:00",
       "time": "11:36 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:24 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $196.61** Current: **$196.52** | Strength: 5/5 Fibonacci 0.786 (confluence with trend invalidation)"
-    },
-    {
-      "ts": "2026-07-08T15:24:52.531000+00:00",
-      "time": "11:24 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $500.33** Current: **$500.45** | Strength: 4/5 Fib 0.236 retracement; recent swing low cluster ($495.35); demand zone"
     }
   ]
 }
