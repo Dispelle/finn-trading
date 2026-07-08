@@ -17692,7 +17692,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -18592,7 +18592,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 Extrapolated from 52-week low context; INSUFFICIENT DATA for precise level, but represents ~12% below current support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -18622,7 +18622,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **60-day low + 1.618 fib extension bottom + swing low anchor**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -18802,7 +18802,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 0.500 fib; halfway retracement; MA20 inflection zone; strong confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -18812,7 +18812,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 Yesterday's daily low; intraday pivot in current session",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -18871,9 +18871,9 @@
         "price": 14.53,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day swing low; support extreme; invalidation level for bounce thesis",
+        "reason": "\u2014 **Golden support**: 60-day absolute low; recent bounce origin; round number",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18931,9 +18931,9 @@
         "price": 16.43,
         "type": "S1",
         "strength": 5,
-        "reason": "0.786 Fibonacci retracement (aggressive pullback zone); near 20-day VWAP ($15.92); daily bounce foundation",
+        "reason": "\u2014 0.786 Fibonacci retracement (late-stage support in retrace); 1H lows consolidating just above this",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18971,9 +18971,9 @@
         "price": 18.97,
         "type": "R1",
         "strength": 5,
-        "reason": "0.500 Fibonacci retracement (golden midpoint); prior swing resistance; confluence zone",
+        "reason": "\u2014 50% Fibonacci retracement ($14.53\u2192$23.42); weekly MA20 $18.99 (confluence); psychological round",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18981,9 +18981,9 @@
         "price": 20.02,
         "type": "R2",
         "strength": 5,
-        "reason": "0.382 Fibonacci + psychological; near MA50 ($18.65 extended); 60-day swing high cluster begins",
+        "reason": "\u2014 0.382 Fib retracement; near prior swing high $19.72; zone of weakness in last 60d",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19034,6 +19034,26 @@
         "reason": "0.236 Fib + recent swing high ($21.06 low break); first true test of downtrend reversal",
         "status": "active",
         "source_brief": "2026-07-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 22.93,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 60-day swing high (series); MA50 nearby $18.65 but this is prior intermediate resistance",
+        "status": "active",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 14.96,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low cluster ($14.53, $14.64, $14.96); prior weekly close (3 weeks ago)",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
