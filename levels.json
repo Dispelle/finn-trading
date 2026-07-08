@@ -19060,7 +19060,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19169,9 +19169,9 @@
         "price": 729.46,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: **60-day swing low, loss of \"higher low\" = structure break if breached** | critical structural support, define",
         "status": "active",
-        "source_brief": "2026-07-03",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19219,9 +19219,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day high, 52-week near-high, 1.272 Fib extension confluence.",
+        "reason": "\u2014 reason: **60-day high, 52-week near-high, psychological round (760), Fib 1.272 extension = $783.20 is target ABOVE THI",
         "status": "active",
-        "source_brief": "2026-07-02",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19969,9 +19969,9 @@
         "price": 756.68,
         "type": "R2",
         "strength": 5,
-        "reason": "Recent swing high (60d); supply cluster",
+        "reason": "\u2014 reason: **Recent swing high (60-day), prior resistance** | structural confluency, 1H pullback magnet",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19989,9 +19989,9 @@
         "price": 742.03,
         "type": "S1",
         "strength": 5,
-        "reason": "MA20 (weekly), current price testing, slope down but holding",
+        "reason": "\u2014 reason: **Most recent daily swing low (within last 5 days), coincides with 20-day VWAP ($740.91)** | mean reversion + ",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20010,7 +20010,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-06-30",
         "hit_count": 0,
         "last_hit": null
@@ -20019,9 +20019,9 @@
         "price": 749.53,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (4 bars ago); prior day high was $749.44.",
+        "reason": "\u2014 reason: **Today's intraday high + yesterday's swing high rejection** | intraday supply, price failed to hold",
         "status": "active",
-        "source_brief": "2026-07-02",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20148,10 +20148,10 @@
       {
         "price": 706.86,
         "type": "S3",
-        "strength": 3,
-        "reason": "Fibonacci 0.618 golden pocket (major Fib support); MA200 $704.09 confluence",
+        "strength": 4,
+        "reason": "\u2014 reason: **Fib 0.618 (golden pocket), also near 60-day swing low cluster ($702\u2013$708)** | deep demand zone, psychologica",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
