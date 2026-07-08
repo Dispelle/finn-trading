@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-08T13:38:09.513876+00:00",
+  "generated_at": "2026-07-08T13:53:00.114139+00:00",
   "items": [
     {
-      "ts": "2026-07-08T13:37:50.344000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-08T13:52:57.974000+00:00",
+      "time": "09:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $395.32** Current: **$394.52** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
+    },
+    {
+      "ts": "2026-07-08T13:51:53.652000+00:00",
+      "time": "09:51 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S2 $242.7** Current: **$242.88** | Strength: 4/5 |"
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $12.12** Current: **$12.14** | Strength: 4/5 Recent daily close; 7-day swing low support"
     },
     {
-      "ts": "2026-07-08T13:37:49.827000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-08T13:50:47.166000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $945.0** Current: **$941.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-08T13:48:40.867000+00:00",
+      "time": "09:48 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $242.62** Current: **$242.88** | Strength: 5/5 Today's daily low + 1H support cluster (tight)"
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $141.1** Current: **$141.24** | Strength: 5/5 Fib 0.786 retracement; confluence with daily swing low ($141.97 nearby); "
     },
     {
-      "ts": "2026-07-08T13:37:46.433000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-08T13:48:37.766000+00:00",
+      "time": "09:48 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW R1 $939.99** Current: **$939.95** | Strength: 3/5 Today's daily high; 1H recent high (small range seller)"
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $520.0** Current: **$519.09** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-08T13:36:44.360000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $127.85** Current: **$127.83** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-08T13:36:43.744000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $128.27** Current: **$127.83** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket + yesterday's high zone"
-    },
-    {
-      "ts": "2026-07-08T13:36:42.794000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $142.02** Current: **$141.59** | Strength: 5/5 \u2014 **0.786 Fibonacci retracement**"
-    },
-    {
-      "ts": "2026-07-08T13:36:41.022000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-08T13:47:33.656000+00:00",
+      "time": "09:47 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $73.0** Current: **$73.18** | Strength: 4/5 Psychological round number, extension support"
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $520.0** Current: **$520.48** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-08T13:36:39.668000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-08T13:46:30.301000+00:00",
+      "time": "09:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $516.41** Current: **$514.04** | Strength: 5/5 20-day VWAP; MA20 nearby at $518.28 (combined zone)"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $73.2** Current: **$73.28** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-08T13:36:39.237000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $516.13** Current: **$514.04** | Strength: 4/5 \u2014 20-day VWAP, MA20 ($519.11) nearby, psychological round; golden pocket"
+      "ts": "2026-07-08T13:46:28.741000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $517.82** Current: **$519.00** | Strength: 5/5 Key higher low, 8-day swing low, **invalidation level for bullish bias**"
     },
     {
-      "ts": "2026-07-08T13:35:37.144000+00:00",
-      "time": "09:35 AM ET",
+      "ts": "2026-07-08T13:45:27.296000+00:00",
+      "time": "09:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $244.03** Current: **$244.07** | Strength: 5/5 Recent swing high (8-week structure); daily close resistance; marks HL "
+    },
+    {
+      "ts": "2026-07-08T13:45:25.832000+00:00",
+      "time": "09:45 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $142.5** Current: **$142.47** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $141.4** Current: **$141.00** | Strength: 5/5 |"
     }
   ]
 }
