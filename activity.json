@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-08T14:38:12.652620+00:00",
+  "generated_at": "2026-07-08T14:53:02.991312+00:00",
   "items": [
     {
-      "ts": "2026-07-08T14:37:49.118000+00:00",
-      "time": "10:37 AM ET",
+      "ts": "2026-07-08T14:52:48.639000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $508.86** Current: **$509.55** | Strength: 4/5 Recent 1H swing low (intraday support); inside bar anchor"
+    },
+    {
+      "ts": "2026-07-08T14:51:44.932000+00:00",
+      "time": "10:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $331.7** Current: **$332.12** | Strength: 5/5 \u2014 0.236 fib retracement / recent intraday low cluster (331.77\u2013333 range) "
+    },
+    {
+      "ts": "2026-07-08T14:51:43.512000+00:00",
+      "time": "10:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $704.45** Current: **$704.58** | Strength: 5/5 Recent daily low (2 days ago) + Fib 0.382 ($694.96 nearby)"
+    },
+    {
+      "ts": "2026-07-08T14:50:40.521000+00:00",
+      "time": "10:50 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.5** Current: **$371.31** | Strength: 5/5 \u2014 **Recent swing low** (5\u20137 days ago); local structure; 2\u20133% below curren"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S2 $331.7** Current: **$331.68** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement + confluence with MA20 slope region; loss w"
     },
     {
-      "ts": "2026-07-08T14:36:45.071000+00:00",
-      "time": "10:36 AM ET",
+      "ts": "2026-07-08T14:50:38.980000+00:00",
+      "time": "10:50 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.46** Current: **$52.41** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $704.45** Current: **$704.03** | Strength: 5/5 Recent daily low (2 days ago) + Fib 0.382 ($694.96 nearby)"
     },
     {
-      "ts": "2026-07-08T14:30:07.851000+00:00",
-      "time": "10:30 AM ET",
+      "ts": "2026-07-08T14:50:37.083000+00:00",
+      "time": "10:50 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$61,919** | P&L: **-23"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $580.83** Current: **$580.46** | Strength: 5/5 0.382 Fib retracement; extreme micro-support (1H lows cluster)"
     },
     {
-      "ts": "2026-07-08T14:27:10.757000+00:00",
-      "time": "10:27 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $113.48** Current: **$114.04** | Strength: 5/5 0.786 Fib retracement (102.42\u2192154.08); prior swing low support; psycholo"
+      "ts": "2026-07-08T14:49:34.913000+00:00",
+      "time": "10:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1238.0** Current: **$1237.20** | Strength: 5/5 60-day high, recent swing high, breakout peak \u2014 double-tested"
     },
     {
-      "ts": "2026-07-08T14:26:07.870000+00:00",
-      "time": "10:26 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1232.0** Current: **$1232.73** | Strength: 5/5 Last swing high (2 bars ago); daily reversal point; ***"
+      "ts": "2026-07-08T14:47:24.853000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $582.6** Current: **$582.27** | Strength: 4/5 10-day low, MA50 nearby ($582.12), daily trend support"
     },
     {
-      "ts": "2026-07-08T14:22:54.374000+00:00",
-      "time": "10:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $72.54** Current: **$72.55** | Strength: 4/5 \u2014 Round number + 1.272 Fibonacci extension ($99.29 swing) extrapolated do"
+      "ts": "2026-07-08T14:46:21.726000+00:00",
+      "time": "10:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $742.03** Current: **$742.00** | Strength: 5/5 \u2014 20-day VWAP (below price, actively providing support)"
     },
     {
-      "ts": "2026-07-08T14:21:50.468000+00:00",
-      "time": "10:21 AM ET",
+      "ts": "2026-07-08T14:45:18.160000+00:00",
+      "time": "10:45 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $16.45** Current: **$16.54** | Strength: 5/5 0.786 Fibonacci retracement + last daily swing high confluence + psycholog"
-    },
-    {
-      "ts": "2026-07-08T14:20:46.759000+00:00",
-      "time": "10:20 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $382.27** Current: **$382.84** | Strength: 3/5 Prior 60d swing low (pre-breakdown)"
-    },
-    {
-      "ts": "2026-07-08T14:19:41.912000+00:00",
-      "time": "10:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $16.43** Current: **$16.44** | Strength: 5/5 0.786 Fib (deeper retracement); 1H recent lows cluster"
-    },
-    {
-      "ts": "2026-07-08T14:18:38.353000+00:00",
-      "time": "10:18 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $381.84** Current: **$381.89** | Strength: 5/5 Recent 4H low (yesterday candle) + 1H structural support, tested 2x"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1238.0** Current: **$1238.18** | Strength: 5/5 60-day high, recent swing high, breakout peak \u2014 double-tested"
     }
   ]
 }
