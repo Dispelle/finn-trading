@@ -20238,7 +20238,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20277,9 +20277,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day all-time high; extension target 1.272 confluence ($788.26); psychological/technical ceiling",
+        "reason": "60-day peak / extended resistance",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20397,9 +20397,9 @@
         "price": 695.25,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; Fibonacci 0.382 retracement at $694.96 (confluence!)",
+        "reason": "Swing low (60d), major support in consolidation band",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21187,9 +21187,9 @@
         "price": 704.45,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Daily swing low (HL); closes 3 bars ago",
+        "reason": "Today's daily low, 1H support confluence, psychological round",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21527,9 +21527,9 @@
         "price": 720.39,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20 daily; 20-day VWAP $719.22; prior daily close cluster",
+        "reason": "Daily MA20 + prior 4H resistance zone (multiple touches last 10 bars)",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21537,9 +21537,9 @@
         "price": 725.17,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high (prior support/resistance reversal)",
+        "reason": "Swing high (60d), prior daily close rejection point",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21547,9 +21547,9 @@
         "price": 737.62,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high + recent structure peak",
+        "reason": "Swing high (secondary peak, 60d), confluence with daily supply",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21557,9 +21557,19 @@
         "price": 678.38,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 (mid-range retracement) + psychological level",
+        "reason": "Fibonacci 0.500 (50% retracement), key reversal zone",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 686.37,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Swing low (structural support), invalidation of uptrend",
+        "status": "active",
+        "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
       }
