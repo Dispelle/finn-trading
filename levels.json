@@ -6484,7 +6484,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -7804,7 +7804,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 60-day high / swing high cluster / psychological round / recent failure point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8214,7 +8214,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 1.272 extension from 389.64\u2192671.83 swing",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8224,7 +8224,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 1.618 extension (golden ratio)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8234,7 +8234,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's intraday low + MA20 proximity ($622.50)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8244,7 +8244,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 20-day VWAP",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8254,7 +8254,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 60-day swing low, Fib 0.236 retracement (605.23)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -8533,9 +8533,9 @@
         "price": 659.74,
         "type": "R3",
         "strength": 5,
-        "reason": "Last higher high (5 days back); psychological / technical supply zone",
+        "reason": "Most recent 60-day swing high (2\u20133 bars ago); supply zone from retracement exhaustion",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8583,9 +8583,9 @@
         "price": 552.72,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 (midpoint); also aligns with prior swing low Day 4 ($554.66); critical consolidation base",
+        "reason": "Fib 0.500 retracement; psychological midpoint of 60d range",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8593,9 +8593,9 @@
         "price": 524.6,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket start); psychological/technical support",
+        "reason": "Fib 0.618 golden pocket start; confluent with 0.650 at $516.98 \u2014 major structural support if weekly breaks",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8623,9 +8623,9 @@
         "price": 616.88,
         "type": "R1",
         "strength": 5,
-        "reason": "0.236 Fib retracement; 20-day VWAP at $615.56; prior HL swing",
+        "reason": "Fib 0.236 retracement (433.60\u2192671.83); prior daily close resistance; confluent with 20-day VWAP anchor",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8683,9 +8683,9 @@
         "price": 580.83,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement | Daily structure support **",
+        "reason": "Fib 0.382 retracement; 1H micro-support (appears in 3 of last 10 1H lows); MA50 nearby at $585.78",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8805,7 +8805,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
