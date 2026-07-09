@@ -37026,7 +37026,7 @@
     ]
   },
   "AMZN": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -37386,7 +37386,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Recent swing high (8-week structure); daily close resistance; marks HL violation point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -37406,7 +37406,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "Prior 1H/daily high (yesterday + intraday); psychological 240 proximity; short-term swing high",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -37426,7 +37426,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "0.618 Fib retracement (GOLDEN POCKET CENTER); MA200 proximity ($235.72); psychological support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -37436,7 +37436,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "0.650 Fib; recent swing low ($232.79 daily); cluster of prior support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -37827,7 +37827,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
