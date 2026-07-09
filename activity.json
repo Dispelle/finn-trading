@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-09T13:42:12.517167+00:00",
+  "generated_at": "2026-07-09T13:56:29.592634+00:00",
   "items": [
     {
-      "ts": "2026-07-09T13:42:00.105000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-09T13:56:05.046000+00:00",
+      "time": "09:56 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $94.63** Current: **$95.43** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $242.62** Current: **$242.69** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-07-09T13:41:56.817000+00:00",
-      "time": "09:41 AM ET",
+      "ts": "2026-07-09T13:54:56.739000+00:00",
+      "time": "09:54 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $615.56** Current: **$615.36** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "\ud83d\udd34 **BTC \u2014 BROKE BELOW TP1 $63029.8** Current: **$62996.00** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-09T13:41:56.021000+00:00",
-      "time": "09:41 AM ET",
+      "ts": "2026-07-09T13:53:55.265000+00:00",
+      "time": "09:53 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $201.98** Current: **$201.92** | Strength: 5/5 \u2014 Fib 0.650 + psychological round level + 20-day VWAP anchor"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $127.85** Current: **$127.92** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-09T13:40:53.936000+00:00",
-      "time": "09:40 AM ET",
+      "ts": "2026-07-09T13:53:52.745000+00:00",
+      "time": "09:53 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1223.0** Current: **$1220.99** | Strength: 5/5 Prior daily close (3 bars ago); intraday support from yesterday's low ("
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $74.88** Current: **$74.74** | Strength: 5/5 \u2014 0.786 Fib retracement ($75.94 nearby) + prior swing low cluster"
     },
     {
-      "ts": "2026-07-09T13:40:53.330000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1222.5** Current: **$1220.99** | Strength: 5/5 Trade plan stop / invalidation level"
+      "ts": "2026-07-09T13:53:51.088000+00:00",
+      "time": "09:53 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **BTC \u2014 BROKE ABOVE TP1 $63029.8** Current: **$63061.88** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-09T13:40:51.843000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $720.39** Current: **$720.35** | Strength: 5/5 MA20 weekly (acting as dynamic resistance, slope down); also daily open "
+      "ts": "2026-07-09T13:52:47.786000+00:00",
+      "time": "09:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $74.88** Current: **$74.90** | Strength: 5/5 \u2014 0.786 Fib retracement ($75.94 nearby) + prior swing low cluster"
     },
     {
-      "ts": "2026-07-09T13:40:51.265000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $720.75** Current: **$720.35** | Strength: 4/5 20-day VWAP; psychological confluence"
+      "ts": "2026-07-09T13:52:46.800000+00:00",
+      "time": "09:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $1023.65** Current: **$1023.89** | Strength: 5/5 Swing low/pivot point 3 bars ago; MA20 daily anchors near $1046; struct"
     },
     {
-      "ts": "2026-07-09T13:40:49.621000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $1019.0** Current: **$1015.79** | Strength: 5/5 Trade plan stop / invalidation level"
+      "ts": "2026-07-09T13:51:41.972000+00:00",
+      "time": "09:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $550.88** Current: **$551.42** | Strength: 5/5 \u2014 Recent daily swing high (10 bars ago), consolidation anchor"
     },
     {
-      "ts": "2026-07-09T13:40:48.936000+00:00",
-      "time": "09:40 AM ET",
+      "ts": "2026-07-09T13:48:30.459000+00:00",
+      "time": "09:48 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $616.08** Current: **$615.95** | Strength: 5/5 \u2014 20-day VWAP; loss of this level confirms downtrend continuation"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $74.58** Current: **$74.56** | Strength: 5/5 \u2014 Today's low; 60-day low at $74.04 = 54 pips below; **current support zo"
     },
     {
-      "ts": "2026-07-09T13:40:48.446000+00:00",
-      "time": "09:40 AM ET",
+      "ts": "2026-07-09T13:48:29.394000+00:00",
+      "time": "09:48 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $616.88** Current: **$615.95** | Strength: 5/5 0.236 Fib retracement + MA20 slope target + prior daily support turn res"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1014.14** Current: **$1013.70** | Strength: 4/5"
     }
   ]
 }
