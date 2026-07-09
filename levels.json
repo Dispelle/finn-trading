@@ -26152,7 +26152,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -26722,7 +26722,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: Recent swing low (5 days ago) + intraday support forming \u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -26742,7 +26742,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: **0.618 Fibonacci golden pocket** + prior swing low ($596.68) + macro structure pivot \u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -26812,7 +26812,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 reason: **0.500 Fibonacci midpoint** + MA50 ($608.11) proximity \u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -26881,9 +26881,9 @@
         "price": 540.18,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low; psychological support; swing low confluenca",
+        "reason": "\u2014 reason: **60-day absolute low** + **Round number cluster**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26902,7 +26902,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 reason: 20-day VWAP ($581.27) + prior daily support cluster \u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -26911,9 +26911,9 @@
         "price": 572.57,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement + MA20 slope target + prior weekly close ($577.22) nearby",
+        "reason": "\u2014 reason: **0.786 Fibonacci** + **Psychological round**",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26941,9 +26941,9 @@
         "price": 691.52,
         "type": "R3",
         "strength": 5,
-        "reason": "| 60-day major swing high; extension target; overbought zone",
+        "reason": "\u2014 reason: **60-day absolute high** + **Key psychological round**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26981,9 +26981,9 @@
         "price": 615.85,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint of $540.18\u2192$691.52 swing), aligns with daily intraday highs, psychological round number",
+        "reason": "\u2014 reason: **0.500 Fibonacci (exact midpoint)** + **Daily pivot point** + **Prior 4H rejection level**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26991,9 +26991,9 @@
         "price": 633.71,
         "type": "R2",
         "strength": 5,
-        "reason": "0.382 Fib retracement (540.18\u2192691.52); partial profit zone; aligns with recent swing structure",
+        "reason": "\u2014 reason: **0.382 Fibonacci retracement** + **Prior swing high (642.4, 643.0 nearby)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -27031,9 +27031,9 @@
         "price": 597.99,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **GOLDEN POCKET** (0.618 Fib + 0.650 at $593.15 nearby); price currently $603.12 = testing entry zone",
+        "reason": "\u2014 reason: **0.618 Fibonacci (golden pocket)** + **20-day VWAP at $580.95 nearby** + **Intraday 1H support**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
