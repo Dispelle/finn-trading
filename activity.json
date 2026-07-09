@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-09T14:12:29.136891+00:00",
+  "generated_at": "2026-07-09T14:26:32.856695+00:00",
   "items": [
     {
-      "ts": "2026-07-09T14:12:12.875000+00:00",
-      "time": "10:12 AM ET",
+      "ts": "2026-07-09T14:23:59.504000+00:00",
+      "time": "10:23 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $334.11** Current: **$334.14** | Strength: 5/5 Swing low from 2 sessions ago; daily close support; recent consolidation"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $199.34** Current: **$199.41** | Strength: 5/5 Recent 60d swing low; consolidation floor"
     },
     {
-      "ts": "2026-07-09T14:11:06.765000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $200.19** Current: **$200.22** | Strength: 5/5 0.650 Fib (golden pocket lower bound); prior swing low support $199.34\u2013"
-    },
-    {
-      "ts": "2026-07-09T14:10:01.951000+00:00",
-      "time": "10:10 AM ET",
+      "ts": "2026-07-09T14:22:55.109000+00:00",
+      "time": "10:22 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $200.19** Current: **$200.04** | Strength: 5/5 0.650 Fib (golden pocket lower bound); prior swing low support $199.34\u2013"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $199.2** Current: **$199.21** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-09T14:06:52.574000+00:00",
-      "time": "10:06 AM ET",
+      "ts": "2026-07-09T14:21:50.828000+00:00",
+      "time": "10:21 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.25** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $1010.0** Current: **$1004.40** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-09T14:04:44.894000+00:00",
-      "time": "10:04 AM ET",
+      "ts": "2026-07-09T14:21:49.869000+00:00",
+      "time": "10:21 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $96.5** Current: **$96.70** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $199.2** Current: **$199.06** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-09T14:04:41.721000+00:00",
-      "time": "10:04 AM ET",
+      "ts": "2026-07-09T14:20:48.257000+00:00",
+      "time": "10:20 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $201.2** Current: **$201.19** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $125.62** Current: **$125.36** | Strength: 5/5 \u2014 20-day VWAP"
     },
     {
-      "ts": "2026-07-09T14:02:35.218000+00:00",
-      "time": "10:02 AM ET",
+      "ts": "2026-07-09T14:20:45.358000+00:00",
+      "time": "10:20 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE STOP $596.68** Current: **$598.10** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $199.34** Current: **$199.31** | Strength: 5/5 Recent 60d swing low; consolidation floor"
     },
     {
-      "ts": "2026-07-09T14:02:34.672000+00:00",
-      "time": "10:02 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $597.99** Current: **$598.10** | Strength: 5/5 **0.618 Fib (golden pocket); psychological level; 20-day VWAP at $580.3"
-    },
-    {
-      "ts": "2026-07-09T14:02:33.363000+00:00",
-      "time": "10:02 AM ET",
+      "ts": "2026-07-09T14:19:44.222000+00:00",
+      "time": "10:19 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $110.0** Current: **$110.18** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $239.8** Current: **$240.03** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-09T14:02:32.485000+00:00",
-      "time": "10:02 AM ET",
+      "ts": "2026-07-09T14:18:40.068000+00:00",
+      "time": "10:18 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $54.57** Current: **$54.55** | Strength: 4/5 \u2014 Today's low; 1H recent low; short-term floor"
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $239.8** Current: **$239.37** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-09T14:18:36.306000+00:00",
+      "time": "10:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $550.88** Current: **$550.81** | Strength: 5/5 \u2014 Recent daily swing high (10 bars ago), consolidation anchor"
+    },
+    {
+      "ts": "2026-07-09T14:16:31.635000+00:00",
+      "time": "10:16 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $94.63** Current: **$94.58** | Strength: 5/5 |"
     }
   ]
 }
