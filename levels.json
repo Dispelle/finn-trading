@@ -35998,7 +35998,7 @@
     ]
   },
   "MSTR": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -36658,7 +36658,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low; 1H chart low cluster from last 20 candles",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
