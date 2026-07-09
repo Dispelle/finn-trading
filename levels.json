@@ -4356,7 +4356,7 @@
     "ticker_source": "watchlist"
   },
   "NVDA": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5756,7 +5756,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 0.382 Fib; swing high from daily structure 5\u20137 days ago; key inflection for daily trend resumption",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -5786,7 +5786,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 0.786 Fib; break of MA200 \u2192 potential test here; represents further capitulation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -5796,7 +5796,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -6275,9 +6275,9 @@
         "price": 217.13,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement (185.74\u2192236.54), zone of supply",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6345,9 +6345,9 @@
         "price": 201.64,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (price currently at $204.12, above VWAP by +$2.48). Critical dynamic support.",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6428,6 +6428,56 @@
         "reason": "Prior weekly close; 8-candle MA close level",
         "status": "active",
         "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 210.69,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 227.4,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 197.22,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 192.53,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 **",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 192.53,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
