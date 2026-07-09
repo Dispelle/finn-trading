@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-09T13:41:41.663609+00:00",
+  "generated_at": "2026-07-09T13:42:12.517167+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T13:42:00.105000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $94.63** Current: **$95.43** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-09T13:41:56.817000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $615.56** Current: **$615.36** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-09T13:41:56.021000+00:00",
+      "time": "09:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $201.98** Current: **$201.92** | Strength: 5/5 \u2014 Fib 0.650 + psychological round level + 20-day VWAP anchor"
+    },
     {
       "ts": "2026-07-09T13:40:53.936000+00:00",
       "time": "09:40 AM ET",
@@ -42,24 +60,6 @@
       "time": "09:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $616.88** Current: **$615.95** | Strength: 5/5 0.236 Fib retracement + MA20 slope target + prior daily support turn res"
-    },
-    {
-      "ts": "2026-07-09T13:40:47.812000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $616.92** Current: **$615.95** | Strength: 5/5 Fib 0.236 retracement; psychological 61 zone"
-    },
-    {
-      "ts": "2026-07-09T13:39:43.435000+00:00",
-      "time": "09:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $202.77** Current: **$202.25** | Strength: 5/5 \u2014 0.650 Fib retracement + MA20 confluence"
-    },
-    {
-      "ts": "2026-07-09T13:39:42.507000+00:00",
-      "time": "09:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $62767.0** Current: **$62640.34** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
