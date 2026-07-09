@@ -30077,9 +30077,9 @@
         "price": 152.71,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.382 retracement + supply cluster from prior swing highs ($153.81, $154.91)",
+        "reason": "\u2014 **0.382 Fib retracement (134.95\u2192163.68) + Approaching MA50 ($147.30, downsloping)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30157,9 +30157,9 @@
         "price": 145.92,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fib 0.618 (golden pocket) + psychological resistance, prior swing high test zone",
+        "reason": "\u2014 **Golden Pocket (0.618 Fib retracement, 134.95\u2192163.68)** + just above recent swing highs (~$143.99 today)",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30167,9 +30167,9 @@
         "price": 149.31,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 retracement (50% of $134.95\u2013$163.68 swing) + daily MA20 sits near here in trend",
+        "reason": "\u2014 **0.500 Fib retracement (134.95\u2192163.68) + Very close to MA20 ($140.45, upsloping after decline)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30177,9 +30177,9 @@
         "price": 140.6,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **MA20 daily (20-period moving average)**",
+        "reason": "\u2014 **20-day VWAP (volume-weighted average price)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30197,9 +30197,9 @@
         "price": 134.95,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day low; major structural support; break invalidates downtrend",
+        "reason": "\u2014 **60-day absolute low + 0.786 Fib retracement (134.95\u2192163.68)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30247,9 +30247,9 @@
         "price": 137.72,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Recent swing low (10+ days); psychological round level",
+        "reason": "\u2014 **Recent swing low (60d) confirmed by daily lows ($136.01\u2013$137.49 range last 10 days)**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30350,6 +30350,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 163.68,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
