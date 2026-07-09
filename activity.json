@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T17:08:59.233941+00:00",
+  "generated_at": "2026-07-09T17:09:29.690980+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T17:09:18.457000+00:00",
+      "time": "01:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S2 $137.72** Current: **$137.72** | Strength: 5/5 **Prior weekly close 3 weeks ago** + **Daily support zone**"
+    },
     {
       "ts": "2026-07-09T17:07:08.279000+00:00",
       "time": "01:07 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:24 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $75.46** Current: **$75.43** | Strength: 5/5 1H intraday support cluster (recent spike low $75.23\u2013$75.46); daily low b"
-    },
-    {
-      "ts": "2026-07-09T16:21:16.063000+00:00",
-      "time": "12:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $314.2** Current: **$314.16** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
     }
   ]
 }
