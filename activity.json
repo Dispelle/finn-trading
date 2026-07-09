@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-09T18:40:03.442899+00:00",
+  "generated_at": "2026-07-09T18:54:06.224489+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T18:45:11.083000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,273** | P&L: **-22"
+    },
+    {
+      "ts": "2026-07-09T18:42:31.984000+00:00",
+      "time": "02:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $1014.14** Current: **$1016.49** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-07-09T18:40:23.529000+00:00",
+      "time": "02:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $203.95** Current: **$203.71** | Strength: 5/5 \u2014 0.618 Fib (golden pocket); prior 60-day swing low support now resista"
+    },
     {
       "ts": "2026-07-09T18:39:19.482000+00:00",
       "time": "02:39 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:27 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $407.07** Current: **$407.38** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-09T18:27:35.360000+00:00",
-      "time": "02:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $615.85** Current: **$615.16** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint of 60d swing 540.18\u2192691.52) + recent daily "
-    },
-    {
-      "ts": "2026-07-09T18:27:32.961000+00:00",
-      "time": "02:27 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $545.57** Current: **$545.99** | Strength: 5/5 \u2014 prior swing high (4 days ago)"
-    },
-    {
-      "ts": "2026-07-09T18:25:25.219000+00:00",
-      "time": "02:25 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $545.57** Current: **$545.09** | Strength: 5/5 \u2014 prior swing high (4 days ago)"
     }
   ]
 }
