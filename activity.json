@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T14:11:31.430138+00:00",
+  "generated_at": "2026-07-09T14:12:17.950361+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T14:12:12.875000+00:00",
+      "time": "10:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $334.11** Current: **$334.14** | Strength: 5/5 Swing low from 2 sessions ago; daily close support; recent consolidation"
+    },
     {
       "ts": "2026-07-09T14:11:06.765000+00:00",
       "time": "10:11 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:02 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $54.57** Current: **$54.55** | Strength: 4/5 \u2014 Today's low; 1H recent low; short-term floor"
-    },
-    {
-      "ts": "2026-07-09T14:02:31.779000+00:00",
-      "time": "10:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $378.85** Current: **$378.82** | Strength: 5/5 \u2014 Today's daily low; recent 1H support cluster; tight to current price."
     }
   ]
 }
