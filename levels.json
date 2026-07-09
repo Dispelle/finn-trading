@@ -37665,9 +37665,9 @@
         "price": 249.09,
         "type": "R2",
         "strength": 5,
-        "reason": "10-day swing high; HH attempt failed here 2x; psychological $249",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37687,7 +37687,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37727,7 +37727,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37735,9 +37735,9 @@
         "price": 242.62,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Last swing low (4 bars in daily); confluence with MA20 slope touch; held twice in last 5 days**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37785,9 +37785,9 @@
         "price": 240.88,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Today's low, 1H cluster support, critical invalidation level; break below = structure failure**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37905,9 +37905,9 @@
         "price": 236.89,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.786 (deep retrace); MA200 $235.96 very close; 60d support cluster",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37945,9 +37945,9 @@
         "price": 235.98,
         "type": "S3",
         "strength": 5,
-        "reason": "**MA200 (200-period moving average)**; long-term trend line; daily support foundation",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37995,9 +37995,9 @@
         "price": 245.8,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fib (golden pocket), confluence with prior 1H highs ($246.04, $246.75), round-number support now resistance**",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -38028,6 +38028,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 256.18,
+        "type": "R3",
+        "strength": 4,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
