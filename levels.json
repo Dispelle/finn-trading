@@ -36797,9 +36797,9 @@
         "price": 125.81,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **Golden pocket (0.618 Fib)**. Key mean-reversion target if reversal confirmed. Also confluence with prior swing struc",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36807,9 +36807,9 @@
         "price": 139.4,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.500 Fib midpoint; MA50 at $140.37 (major structural resistance)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36857,9 +36857,9 @@
         "price": 81.81,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **52-week absolute low** (also 60-day low). Psychological/volatility anchor. **",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37167,9 +37167,9 @@
         "price": 91.78,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's intraday low; daily low of the most recent bar. **",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37197,9 +37197,9 @@
         "price": 153.0,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.382 retracement; acts as intermediate resistance before re-test of $169.82 (0.236). **",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37210,6 +37210,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 101.89,
+        "type": "R1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 105.02,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 197.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
