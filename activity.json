@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-09T16:51:06.178555+00:00",
+  "generated_at": "2026-07-09T17:08:47.883711+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T17:07:08.279000+00:00",
+      "time": "01:07 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $722.68** Current: **$722.93** | Strength: 4/5 MA20 (daily); price currently $2.49 above; critical short-term anchor"
+    },
+    {
+      "ts": "2026-07-09T17:01:08.409000+00:00",
+      "time": "01:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,701**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-09T16:58:29.824000+00:00",
+      "time": "12:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $108.92** Current: **$108.94** | Strength: 5/5 \u2014 Prior daily close (strong level, tested 2x in last 5 days)"
+    },
+    {
+      "ts": "2026-07-09T16:55:17.437000+00:00",
+      "time": "12:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $108.92** Current: **$108.80** | Strength: 5/5 \u2014 Prior daily close (strong level, tested 2x in last 5 days)"
+    },
     {
       "ts": "2026-07-09T16:51:02.434000+00:00",
       "time": "12:51 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:21 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $314.2** Current: **$314.16** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
-    },
-    {
-      "ts": "2026-07-09T16:15:10.570000+00:00",
-      "time": "12:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,786** | P&L: **-22"
-    },
-    {
-      "ts": "2026-07-09T16:14:53.018000+00:00",
-      "time": "12:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $400.49** Current: **$400.93** | Strength: 5/5 20-day VWAP; price currently **$0.37 above** VWAP; mean reversion magne"
-    },
-    {
-      "ts": "2026-07-09T16:07:26.975000+00:00",
-      "time": "12:07 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1204.16** Current: **$1205.10** | Strength: 5/5 **Today's intraday low; 9-day swing low; psychological 1200 zone**; in"
-    },
-    {
-      "ts": "2026-07-09T16:02:06.703000+00:00",
-      "time": "12:02 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $75.46** Current: **$75.50** | Strength: 5/5 1H intraday support cluster (recent spike low $75.23\u2013$75.46); daily low b"
     }
   ]
 }
