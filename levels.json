@@ -24615,7 +24615,7 @@
         "price": 317.4,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **60-day swing high, 52-week range boundary, psychological barrier**",
+        "reason": "\u2014 60-day high / recent swing high / psychological round level",
         "status": "active",
         "source_brief": "2026-07-09",
         "hit_count": 0,
@@ -24665,7 +24665,7 @@
         "price": 279.5,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket) + weekly MA20 $283.62 proximity**",
+        "reason": "\u2014 Fibonacci 0.618 retracement (\"golden pocket\" start)",
         "status": "active",
         "source_brief": "2026-07-09",
         "hit_count": 0,
@@ -24675,9 +24675,9 @@
         "price": 334.08,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (256.66 base to 317.40), strong supply cluster likely",
+        "reason": "\u2014 Fibonacci 1.272 extension (256.66\u2192317.40)",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24694,10 +24694,10 @@
       {
         "price": 320.0,
         "type": "R2",
-        "strength": 4,
-        "reason": "Round number + psychological level, proximity to 1.272 Fib extension ($333.92 is next tier)",
+        "strength": 5,
+        "reason": "\u2014 Round number / psychological level / gap to extension zone",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24825,9 +24825,9 @@
         "price": 310.15,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Daily low from 2 days ago; establishes higher low in current swing",
+        "reason": "\u2014 Daily swing low (10 candles back) / confluence point",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24928,6 +24928,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 287.03,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 retracement (256.66\u2192317.40)",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
