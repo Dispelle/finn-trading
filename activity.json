@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-09T17:09:59.473456+00:00",
+  "generated_at": "2026-07-09T17:23:53.488425+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T17:22:08.756000+00:00",
+      "time": "01:22 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **TSLA \u2014 BROKE BELOW TP1 $405.0** Current: **$404.81** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-09T17:19:58.524000+00:00",
+      "time": "01:19 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE TP1 $405.0** Current: **$405.06** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-09T17:18:53.530000+00:00",
+      "time": "01:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $404.45** Current: **$404.68** | Strength: 4/5 Today's daily low, 1H support from intraday action"
+    },
+    {
+      "ts": "2026-07-09T17:10:22.625000+00:00",
+      "time": "01:10 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S2 $137.72** Current: **$137.74** | Strength: 5/5 **Prior weekly close 3 weeks ago** + **Daily support zone**"
+    },
     {
       "ts": "2026-07-09T17:09:18.457000+00:00",
       "time": "01:09 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:51 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1208.12** Current: **$1208.76** | Strength: 4/5 Prior swing high (4 days ago); convergence of prior daily high and 1H "
-    },
-    {
-      "ts": "2026-07-09T16:45:11.162000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,669** | P&L: **-23"
-    },
-    {
-      "ts": "2026-07-09T16:30:07.283000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,640**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-09T16:24:28.854000+00:00",
-      "time": "12:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $400.49** Current: **$400.13** | Strength: 5/5 20-day VWAP; price currently **$0.37 above** VWAP; mean reversion magne"
-    },
-    {
-      "ts": "2026-07-09T16:24:26.988000+00:00",
-      "time": "12:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $75.46** Current: **$75.43** | Strength: 5/5 1H intraday support cluster (recent spike low $75.23\u2013$75.46); daily low b"
     }
   ]
 }
