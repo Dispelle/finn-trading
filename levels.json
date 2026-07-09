@@ -31724,7 +31724,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -32774,7 +32774,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 **Fibonacci 0.382 retracement; swing low support zone**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -32883,9 +32883,9 @@
         "price": 1180.3,
         "type": "S2",
         "strength": 5,
-        "reason": "Most recent daily swing low (2d ago); HL structure line; fibonacci 0.236 at $1155.30 nearby",
+        "reason": "\u2014 Prior swing low (9 days), critical higher-low anchor, **BOS trigger if broken**",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33053,9 +33053,9 @@
         "price": 1249.45,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high (recent swing high, 9 bars ago); prior resistance zone",
+        "reason": "\u2014 60-day high, prior swing high, psychological round (attempt failed today)",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33113,9 +33113,9 @@
         "price": 1357.96,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fib 1.272 extension (50.51 \u2192 1,249.45); represents measured move; psychological round area",
+        "reason": "\u2014 Fibonacci 1.272 extension from $850.51\u2192$1249.45 swing; represents institutional target if uptrend resumes",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33123,9 +33123,9 @@
         "price": 1495.99,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fib 1.618 extension; secondary target IF $1,249.45 breaks decisively on volume",
+        "reason": "\u2014 Fibonacci 1.618 extension; long-term trend target if bullish breakout confirmed",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33243,9 +33243,9 @@
         "price": 1204.16,
         "type": "S1",
         "strength": 5,
-        "reason": "TODAY'S LOW; daily support zone; recent swing low",
+        "reason": "\u2014 Today's daily low; immediate floor, 0.236 fib retracement ($1155.30) nearby",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33273,9 +33273,9 @@
         "price": 1160.84,
         "type": "S3",
         "strength": 5,
-        "reason": "20-day VWAP (buying pressure zone); MA20 ($1159.31) within 2 points",
+        "reason": "\u2014 20-day VWAP, also near 0.236 fib at $1155.30; zone of mean reversion",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
