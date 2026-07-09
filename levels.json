@@ -11740,7 +11740,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12989,9 +12989,9 @@
         "price": 381.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement from 363.32\u2192448.70; also near prior daily lows/consolidation zone **",
+        "reason": "0.786 Fib retracement (golden pocket start); prior 1H/intraday consolidation high",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12999,9 +12999,9 @@
         "price": 395.94,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)**; psychological confluence with demand after breakdown **",
+        "reason": "0.618 Fib (golden pocket); confluence with daily prior swing high zone",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13009,9 +13009,9 @@
         "price": 416.08,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382; also MA20 weekly ($414.35) nearby; prior swing high resistance **",
+        "reason": "0.382 Fib; daily MA20 now at $379.94 (rising) would reach here; weekly resistance cluster",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13060,7 +13060,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "60-day swing low cluster; repeated 1H lows; recent bounce point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -13279,9 +13279,9 @@
         "price": 363.32,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **60-day absolute low / Fibonacci 0.000** (retracement origin); psychological floor; capitulation zone; break = macro ",
+        "reason": "60-day swing low (major); Fib extension base (0.0 on current retracement)",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13310,7 +13310,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -13449,9 +13449,9 @@
         "price": 428.55,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 **",
+        "reason": "0.236 Fib; weekly MA20 ($414.19) target if weekly RSI confirms; 60-day structure resistance",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13529,9 +13529,29 @@
         "price": 371.88,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 60-day swing low (2nd support cluster); daily low 5 bars ago; near psychological $372 round number",
+        "reason": "60-day swing low (recent); prior daily consolidation support",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 448.7,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day high (swing high top); weekly resistance ceiling",
+        "status": "active",
+        "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.58,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Daily close support (3 days ago, prior swing low); intraday volatility floor",
+        "status": "active",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
