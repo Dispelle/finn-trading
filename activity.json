@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T18:39:01.558229+00:00",
+  "generated_at": "2026-07-09T18:40:03.442899+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T18:39:19.482000+00:00",
+      "time": "02:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $1014.14** Current: **$1013.51** | Strength: 4/5"
+    },
     {
       "ts": "2026-07-09T18:38:14.844000+00:00",
       "time": "02:38 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:25 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $545.57** Current: **$545.09** | Strength: 5/5 \u2014 prior swing high (4 days ago)"
-    },
-    {
-      "ts": "2026-07-09T18:24:22.897000+00:00",
-      "time": "02:24 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $615.85** Current: **$616.04** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint of 60d swing 540.18\u2192691.52) + recent daily "
     }
   ]
 }
