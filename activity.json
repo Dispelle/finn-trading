@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T16:21:12.483186+00:00",
+  "generated_at": "2026-07-09T16:21:20.333309+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T16:21:16.063000+00:00",
+      "time": "12:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $314.2** Current: **$314.16** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
+    },
     {
       "ts": "2026-07-09T16:15:10.570000+00:00",
       "time": "12:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:53 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $399.96** Current: **$400.39** | Strength: 5/5 20-day VWAP (dynamic support), MA20 at $400.09 just above"
-    },
-    {
-      "ts": "2026-07-09T15:52:31.735000+00:00",
-      "time": "11:52 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1204.16** Current: **$1202.98** | Strength: 5/5 **Today's intraday low; 9-day swing low; psychological 1200 zone**; in"
     }
   ]
 }
