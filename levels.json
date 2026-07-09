@@ -30186,7 +30186,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -31186,7 +31186,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-01",
         "hit_count": 0,
         "last_hit": null
@@ -31365,9 +31365,9 @@
         "price": 325.01,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: **Fibonacci 0.382 retracement** (324.43); recent daily swings bounced near here (day -6: 327.33 close)",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31375,9 +31375,9 @@
         "price": 318.56,
         "type": "S3",
         "strength": 4,
-        "reason": "Fibonacci 0.500 (mid-retracement), 50-day MA at $314.10 nearby, psychological round level",
+        "reason": "\u2014 reason: **Fibonacci 0.500 (midpoint)** of 293.67\u2192343.45 swing; MA50 at $314.10 just below; psychological round ($320 a",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31517,7 +31517,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31665,9 +31665,9 @@
         "price": 340.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 2-bar prior daily high; swing high from 8 days ago; previous HL resistance",
+        "reason": "\u2014 reason: Yesterday's daily close & swing high; 1H pivot resistance; represents recent ceiling",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31685,9 +31685,9 @@
         "price": 336.53,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: Today's open & intraday high; recent swing high (day -2: 337.72); **supply cluster**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31705,9 +31705,9 @@
         "price": 343.45,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: **60-day & 8-week swing high** (tested 2 days ago); extension target 1.272 Fib at $356.99 lies here; psycholog",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31715,9 +31715,9 @@
         "price": 328.73,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: **20-day VWAP** (institutional anchor); also Fib 0.236 at $331.70 proximity; **confluence zone**",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
       }
