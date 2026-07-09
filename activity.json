@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-09T18:24:07.915596+00:00",
+  "generated_at": "2026-07-09T18:39:01.558229+00:00",
   "items": [
     {
-      "ts": "2026-07-09T18:22:14.612000+00:00",
-      "time": "02:22 PM ET",
+      "ts": "2026-07-09T18:38:14.844000+00:00",
+      "time": "02:38 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R2 $406.43** Current: **$406.56** | Strength: 5/5 Daily MA20 + psychological round; confluence zone"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $203.95** Current: **$204.02** | Strength: 5/5 \u2014 0.618 Fib (golden pocket); prior 60-day swing low support now resista"
     },
     {
-      "ts": "2026-07-09T18:19:01.023000+00:00",
-      "time": "02:19 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $1019.0** Current: **$1019.85** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-09T18:15:11.788000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,337** | P&L: **-22"
-    },
-    {
-      "ts": "2026-07-09T18:14:45.339000+00:00",
-      "time": "02:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $1019.0** Current: **$1018.82** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-09T18:12:37.566000+00:00",
-      "time": "02:12 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $203.08** Current: **$203.06** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-09T18:11:33.743000+00:00",
-      "time": "02:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $378.85** Current: **$378.63** | Strength: 5/5 \u2014 Today's daily low; recent 1H support cluster; tight to current price."
-    },
-    {
-      "ts": "2026-07-09T18:06:13.848000+00:00",
-      "time": "02:06 PM ET",
+      "ts": "2026-07-09T18:34:01.149000+00:00",
+      "time": "02:34 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $546.44** Current: **$546.83** | Strength: 5/5 60-day swing high; reclaim = trend resumption signal; prior 2-week suppo"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $128.27** Current: **$128.35** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket + yesterday's high zone"
     },
     {
-      "ts": "2026-07-09T18:03:03.231000+00:00",
-      "time": "02:03 PM ET",
+      "ts": "2026-07-09T18:33:59.989000+00:00",
+      "time": "02:33 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $54.57** Current: **$54.52** | Strength: 4/5 \u2014 Today's low; 1H recent low; short-term floor"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $407.07** Current: **$406.87** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-07-09T18:03:01.947000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $546.44** Current: **$546.37** | Strength: 5/5 60-day swing high; reclaim = trend resumption signal; prior 2-week suppo"
+      "ts": "2026-07-09T18:30:45.597000+00:00",
+      "time": "02:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $203.48** Current: **$203.66** | Strength: 5/5 \u2014 **20-day MA (daily)** \u2014 Dynamic resistance, slope downward. Price nee"
     },
     {
-      "ts": "2026-07-09T17:59:48.063000+00:00",
-      "time": "01:59 PM ET",
+      "ts": "2026-07-09T18:30:07.473000+00:00",
+      "time": "02:30 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $127.85** Current: **$127.92** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,316**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-09T18:27:36.250000+00:00",
+      "time": "02:27 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $407.07** Current: **$407.38** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-09T18:27:35.360000+00:00",
+      "time": "02:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $615.85** Current: **$615.16** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint of 60d swing 540.18\u2192691.52) + recent daily "
+    },
+    {
+      "ts": "2026-07-09T18:27:32.961000+00:00",
+      "time": "02:27 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $545.57** Current: **$545.99** | Strength: 5/5 \u2014 prior swing high (4 days ago)"
+    },
+    {
+      "ts": "2026-07-09T18:25:25.219000+00:00",
+      "time": "02:25 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $545.57** Current: **$545.09** | Strength: 5/5 \u2014 prior swing high (4 days ago)"
+    },
+    {
+      "ts": "2026-07-09T18:24:22.897000+00:00",
+      "time": "02:24 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $615.85** Current: **$616.04** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint of 60d swing 540.18\u2192691.52) + recent daily "
     }
   ]
 }
