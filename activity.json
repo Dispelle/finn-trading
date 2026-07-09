@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T15:22:01.522628+00:00",
+  "generated_at": "2026-07-09T15:36:01.590981+00:00",
   "items": [
+    {
+      "ts": "2026-07-09T15:24:47.889000+00:00",
+      "time": "11:24 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $314.2** Current: **$314.21** | Strength: 5/5 \u2014 Daily high TODAY + 1H high (recent), strong intraday peak"
+    },
     {
       "ts": "2026-07-09T15:20:43.709000+00:00",
       "time": "11:20 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:00 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,983** | P&L: **-22"
-    },
-    {
-      "ts": "2026-07-09T14:59:11.028000+00:00",
-      "time": "10:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $109.49** Current: **$109.61** | Strength: 4/5 \u2014 1H recent high/support intersection"
     }
   ]
 }
