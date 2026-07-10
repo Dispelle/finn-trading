@@ -9402,7 +9402,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11442,7 +11442,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -11452,7 +11452,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -11462,7 +11462,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
