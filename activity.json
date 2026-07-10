@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-10T00:21:57.140362+00:00",
+  "generated_at": "2026-07-10T00:36:58.164705+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T00:30:11.735000+00:00",
+      "time": "08:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,037** | P&L: **-22"
+    },
     {
       "ts": "2026-07-09T22:30:09.002000+00:00",
       "time": "06:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $246.72** Current: **$246.95** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
-    },
-    {
-      "ts": "2026-07-09T19:54:19.057000+00:00",
-      "time": "03:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $94.63** Current: **$94.59** | Strength: 5/5 |"
     }
   ]
 }
