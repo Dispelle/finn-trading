@@ -18204,7 +18204,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19593,9 +19593,9 @@
         "price": 113.48,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **Fib 0.786 retracement (102.42\u2192154.08) + 1H recent high touch**",
+        "reason": "\u2014 reason: 0.786 Fibonacci retracement (golden zone upper bound) + coincides with recent 1H high clustering",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19603,9 +19603,9 @@
         "price": 120.5,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Confluence: 0.650 Fib retracement + prior daily swing high + golden zone start",
+        "reason": "\u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + psychological round number",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19703,9 +19703,9 @@
         "price": 104.07,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 reason: Recent swing low (10 days), prior support zone, psychological round",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19713,9 +19713,9 @@
         "price": 102.15,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day low; absolute support from last 10 sessions; invalidation of base if broken",
+        "reason": "\u2014 reason: 60-day absolute low (capitulation), extent of down move, psychological support at $102 handle",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19853,9 +19853,9 @@
         "price": 122.15,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Golden Pocket (0.618 Fib) + major structural resistance from 2-week consolidation",
+        "reason": "\u2014 reason: 0.618 Golden Pocket (Fibonacci sacred level) + confluence with MA20 theoretical target",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20316,6 +20316,16 @@
         "reason": "\u2014 20-day VWAP; prior micro-high from 1H data ($115.0); volume-weighted anchor",
         "status": "active",
         "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 108.38,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micro-structure hold point",
+        "status": "active",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       }
