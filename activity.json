@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-10T14:37:57.725306+00:00",
+  "generated_at": "2026-07-10T14:52:58.122027+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T14:38:19.012000+00:00",
+      "time": "10:38 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $126.44** Current: **$126.50** | Strength: 4/5 60-day swing low; 20-day VWAP ($124.25) below; prior daily low support"
+    },
     {
       "ts": "2026-07-10T14:37:13.527000+00:00",
       "time": "10:37 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:22 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $63995.0** Current: **$63967.30** | Strength: 5/5 Yesterday's intraday high (daily LH before today's LL). Psychological"
-    },
-    {
-      "ts": "2026-07-10T14:20:08.810000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.43** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
