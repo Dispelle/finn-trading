@@ -34752,7 +34752,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -35741,9 +35741,9 @@
         "price": 141.8,
         "type": "R3",
         "strength": 5,
-        "reason": "| +7.28% | 0.382 Fib retracement; MA50 nearby ($133.82 moving up); psychological barrier |",
+        "reason": "\u2014 Fibonacci 0.382 retracement. Confluence with 60-day highs cluster. Breaking here opens path to MA50 ($133.54) on pullb",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -35772,7 +35772,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 golden pocket + yesterday's high zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -35872,7 +35872,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 + 60-day midpoint",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -35922,7 +35922,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -35961,9 +35961,9 @@
         "price": 135.03,
         "type": "R1",
         "strength": 5,
-        "reason": "| +2.11% | 0.500 Fib (golden zone start); confluence with 1H swing high cluster (135.32, 135.95) |",
+        "reason": "\u2014 Fibonacci 0.500 retracement (106.37 \u2192 163.70). Mid-point of 60-day range. Psychological round-number confluence.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -35981,9 +35981,9 @@
         "price": 128.27,
         "type": "S1",
         "strength": 5,
-        "reason": "| -2.98% | **0.618 Fib (golden pocket / Fibonacci sweet spot)**; intraday swing low cluster (128.43, 128.59) |",
+        "reason": "\u2014 **Fibonacci golden pocket (0.618 retracement).** Price currently trading 0.77% above this level. Strong institutional ",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36001,9 +36001,9 @@
         "price": 118.64,
         "type": "S3",
         "strength": 5,
-        "reason": "| -10.21% | 0.786 Fib; 60-day swing low $118.64; major psychological support |",
+        "reason": "\u2014 Fibonacci 0.786 retracement. Weekly support zone. Break here targets $106.37 (60-day low) and 52-week lows.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36031,9 +36031,9 @@
         "price": 139.02,
         "type": "R2",
         "strength": 5,
-        "reason": "| +5.07% | **Swing high (1H, 60d high-order)**; prior HH; double-top neckline potential |",
+        "reason": "\u2014 Prior swing high (lower high in downtrend). Last significant rejection point. Critical daily resistance.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36251,9 +36251,9 @@
         "price": 126.44,
         "type": "S2",
         "strength": 5,
-        "reason": "0.650 Fibonacci; 20-day VWAP $124.41 nearby; support cluster",
+        "reason": "\u2014 Fibonacci 0.650 level. Secondary golden zone. Confluence with recent hourly lows ($126.22\u2013$126.89).",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
