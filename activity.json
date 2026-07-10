@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-10T15:07:59.286843+00:00",
+  "generated_at": "2026-07-10T15:23:01.176967+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T15:21:59.129000+00:00",
+      "time": "11:21 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $108.38** Current: **$108.47** | Strength: 5/5 \u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micr"
+    },
+    {
+      "ts": "2026-07-10T15:17:42.914000+00:00",
+      "time": "11:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $108.15** Current: **$108.24** | Strength: 4/5 Prior 4-day daily high (Aug cycle); consolidation top within current ran"
+    },
+    {
+      "ts": "2026-07-10T15:16:38.940000+00:00",
+      "time": "11:16 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $108.15** Current: **$108.13** | Strength: 4/5 Prior 4-day daily high (Aug cycle); consolidation top within current ran"
+    },
+    {
+      "ts": "2026-07-10T15:11:19.199000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $108.38** Current: **$108.32** | Strength: 5/5 \u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micr"
+    },
     {
       "ts": "2026-07-10T15:06:00.516000+00:00",
       "time": "11:06 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:57 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $720.39** Current: **$720.62** | Strength: 5/5 MA20 weekly (acting as dynamic resistance, slope down); also daily open "
-    },
-    {
-      "ts": "2026-07-10T14:38:19.012000+00:00",
-      "time": "10:38 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $126.44** Current: **$126.50** | Strength: 4/5 60-day swing low; 20-day VWAP ($124.25) below; prior daily low support"
-    },
-    {
-      "ts": "2026-07-10T14:37:13.527000+00:00",
-      "time": "10:37 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $382.27** Current: **$382.56** | Strength: 3/5 Prior 60d swing low (pre-breakdown)"
-    },
-    {
-      "ts": "2026-07-10T14:36:10.222000+00:00",
-      "time": "10:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $126.44** Current: **$126.16** | Strength: 4/5 60-day swing low; 20-day VWAP ($124.25) below; prior daily low support"
-    },
-    {
-      "ts": "2026-07-10T14:35:04.083000+00:00",
-      "time": "10:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S2 $109.49** Current: **$109.26** | Strength: 4/5 \u2014 1H recent high/support intersection"
     }
   ]
 }
