@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-10T14:22:58.943529+00:00",
+  "generated_at": "2026-07-10T14:37:57.725306+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T14:37:13.527000+00:00",
+      "time": "10:37 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S3 $382.27** Current: **$382.56** | Strength: 3/5 Prior 60d swing low (pre-breakdown)"
+    },
+    {
+      "ts": "2026-07-10T14:36:10.222000+00:00",
+      "time": "10:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $126.44** Current: **$126.16** | Strength: 4/5 60-day swing low; 20-day VWAP ($124.25) below; prior daily low support"
+    },
+    {
+      "ts": "2026-07-10T14:35:04.083000+00:00",
+      "time": "10:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S2 $109.49** Current: **$109.26** | Strength: 4/5 \u2014 1H recent high/support intersection"
+    },
+    {
+      "ts": "2026-07-10T14:33:59.324000+00:00",
+      "time": "10:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $109.49** Current: **$109.53** | Strength: 4/5 \u2014 1H recent high/support intersection"
+    },
+    {
+      "ts": "2026-07-10T14:30:48.958000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $338.09** Current: **$337.73** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-10T14:30:34.695000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,082**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-10T14:29:44.077000+00:00",
+      "time": "10:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $338.09** Current: **$338.18** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-10T14:22:13.993000+00:00",
       "time": "10:22 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:20 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.43** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-10T14:17:58.421000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $76.18** Current: **$76.09** | Strength: 5/5 \u2014 3 days ago's low, also Friday's close; shown twice in data (swing low $"
-    },
-    {
-      "ts": "2026-07-10T14:16:53.862000+00:00",
-      "time": "10:16 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $76.18** Current: **$76.19** | Strength: 5/5 \u2014 3 days ago's low, also Friday's close; shown twice in data (swing low $"
-    },
-    {
-      "ts": "2026-07-10T14:14:48.398000+00:00",
-      "time": "10:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $245.98** Current: **$246.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-10T14:13:41.961000+00:00",
-      "time": "10:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $108.92** Current: **$108.94** | Strength: 5/5 \u2014 Prior daily close (strong level, tested 2x in last 5 days)"
-    },
-    {
-      "ts": "2026-07-10T14:12:39.511000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $128.27** Current: **$128.30** | Strength: 5/5 \u2014 **Fibonacci golden pocket (0.618 retracement).** Price currently trad"
-    },
-    {
-      "ts": "2026-07-10T14:11:35.606000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $245.8** Current: **$245.84** | Strength: 5/5 Fibonacci 0.618 (golden pocket), prior 1H high clustering"
-    },
-    {
-      "ts": "2026-07-10T14:06:12.064000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $980.85** Current: **$981.51** | Strength: 5/5 \u2014 1H recent low (consolidation support). 1-hour structure anchor."
     }
   ]
 }
