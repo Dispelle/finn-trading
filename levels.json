@@ -30018,7 +30018,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -30978,7 +30978,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 **0.786 Fibonacci retracement**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -31027,9 +31027,9 @@
         "price": 134.95,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing low; tested multiple times (structure support)",
         "status": "active",
-        "source_brief": "2026-07-07",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31048,7 +31048,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 **0.500 Fibonacci retracement + MA50 bounce zone**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -31097,9 +31097,9 @@
         "price": 149.31,
         "type": "R3",
         "strength": 5,
-        "reason": "Weekly MA20 (dynamic resistance); swing high $153.81 above",
+        "reason": "\u2014 0.500 Fib retracement; MA20 weekly nearby ($149.26) **= MAJOR CONFLUENCE**",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31107,9 +31107,9 @@
         "price": 136.28,
         "type": "S1",
         "strength": 4,
-        "reason": "Last 10-day low cluster; 1H support tested multiple times; recent daily low",
+        "reason": "\u2014 10-day prior close; recent swing low from 5 days ago",
         "status": "active",
-        "source_brief": "2026-07-06",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31167,9 +31167,9 @@
         "price": 152.71,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 0.382; prior swing high ($153.81 nearby); gravity toward 60-day midpoint ($149.31)",
+        "reason": "\u2014 0.382 Fib; prior swing high from 6 weeks ago",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31287,9 +31287,9 @@
         "price": 134.95,
         "type": "S3",
         "strength": 5,
-        "reason": "**60-day swing low (LL)** + **Fibonacci 1.000 extension reversal point**",
+        "reason": "\u2014 **60-day absolute low**; printed in last 24h = **CRITICAL FLOOR**",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31500,6 +31500,36 @@
         "reason": "MA50 (slope still down but flattening); Fib 0.500 at $149.31 just above; upper bound of recent weekly consolidation",
         "status": "active",
         "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 140.05,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 Last daily high + minor 1H swing high | Intraday bounce target",
+        "status": "active",
+        "source_brief": "2026-07-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 141.69,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 10-day moving average of daily closes; prior swing high from 5 days ago",
+        "status": "active",
+        "source_brief": "2026-07-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 155.69,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       }
