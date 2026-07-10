@@ -4636,7 +4636,7 @@
     "ticker_source": "watchlist"
   },
   "NVDA": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5826,7 +5826,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "10-bar daily low (today's low); short-term support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -5926,7 +5926,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Daily 0.236 Fib (Fibonacci cluster resistance)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -6046,7 +6046,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "**0.618 Fib (golden pocket)** \u2014 price *at* this level now",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -6096,7 +6096,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Daily 0.382 Fib; prior swing high 8 days ago",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -6106,7 +6106,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "0.650 Fib + MA200 ($194.65) cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -6395,9 +6395,9 @@
         "price": 195.48,
         "type": "S3",
         "strength": 5,
-        "reason": "MA200 (long-term trend line); breakout support",
+        "reason": "\u2014 MA200 (long-term support, psychological round + 200-period EMA)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6585,9 +6585,9 @@
         "price": 201.64,
         "type": "S2",
         "strength": 5,
-        "reason": "20-day VWAP; fair value anchor; daily MA close",
+        "reason": "\u2014 20-day VWAP (established anchor, below current price but tight)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6855,9 +6855,9 @@
         "price": 207.65,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket) from swing 189.80\u2192236.54** + confluence with 0.650 at $206.16 (tight cluster)",
+        "reason": "\u2014 Fibonacci 0.618 golden pocket (197.22\u2013236.54 swing), prior micro-resistance, confluent with daily structure",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6865,9 +6865,9 @@
         "price": 213.17,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.500 (midpoint)** + prior swing high nearby",
+        "reason": "\u2014 Fibonacci 0.500 midpoint (197.22\u2013236.54), psychological, prior swing high at $213.99 near",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6885,9 +6885,9 @@
         "price": 199.8,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.786 (key pullback level)** + aligns with recent swing low $199.34, psychological round number",
+        "reason": "\u2014 Fibonacci 0.786 retracement, confluent with recent swing low at $199.34, key inflection",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6910,11 +6910,21 @@
         "source_brief": "2026-07-09",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 218.69,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 (197.22\u2013236.54), aligns with swing high cluster ($216.83, $227.40)",
+        "status": "active",
+        "source_brief": "2026-07-10",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
   "SMH": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
