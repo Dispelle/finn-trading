@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-10T13:38:40.254771+00:00",
+  "generated_at": "2026-07-10T13:52:55.127570+00:00",
   "items": [
     {
-      "ts": "2026-07-10T13:37:56.719000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-10T13:51:03.264000+00:00",
+      "time": "09:51 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $203.95** Current: **$204.63** | Strength: 5/5 \u2014 0.618 Fib (golden pocket); prior 60-day swing low support now resista"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $246.72** Current: **$246.83** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
     },
     {
-      "ts": "2026-07-10T13:36:54.753000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-10T13:49:55.827000+00:00",
+      "time": "09:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $605.0** Current: **$606.51** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-10T13:49:55.145000+00:00",
+      "time": "09:49 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1183.57** Current: **$1186.29** | Strength: 5/5 Today's low, recent daily support, Fib 0.236 at $1146.55 just below"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $604.3** Current: **$606.51** | Strength: 5/5 Last daily close (6 days ago); first level to reclaim trend"
     },
     {
-      "ts": "2026-07-10T13:36:54.240000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-10T13:49:54.547000+00:00",
+      "time": "09:49 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1180.3** Current: **$1186.29** | Strength: 5/5 \u2014 reason: Swing high 60d (key structure point); 0.618 Fib golden pocket"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $604.05** Current: **$606.51** | Strength: 5/5 \u2014 **Today's intraday low / daily structure support**"
     },
     {
-      "ts": "2026-07-10T13:36:51.270000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $137.9** Current: **$138.44** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-10T13:36:50.334000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-10T13:48:52.684000+00:00",
+      "time": "09:48 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $390.19** Current: **$390.66** | Strength: 5/5 0.650 Fib retracement (upper golden pocket zone); prior swing high from"
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.4** Current: **$12.41** | Strength: 5/5 Today's low; 1H lows cluster; immediate support"
     },
     {
-      "ts": "2026-07-10T13:36:44.599000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-07-10T13:48:49.463000+00:00",
+      "time": "09:48 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $204.26** Current: **$203.85** | Strength: 5/5 **Fibonacci 0.618 \"golden pocket\"** + confluence with 0.650 ($202.58); "
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $205.5** Current: **$205.86** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-10T13:36:43.745000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $550.88** Current: **$550.65** | Strength: 5/5 Recent daily high (5 days ago); LH in deteriorating structure; early rej"
+      "ts": "2026-07-10T13:47:47.516000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1191.74** Current: **$1193.26** | Strength: 4/5 Daily close 4 days ago; tighter intraday support cluster"
     },
     {
-      "ts": "2026-07-10T13:35:34.372000+00:00",
-      "time": "09:35 AM ET",
+      "ts": "2026-07-10T13:47:46.917000+00:00",
+      "time": "09:47 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $248.91** Current: **$248.81** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $337.09** Current: **$336.91** | Strength: 5/5 \u2014 Today's daily low / last hourly low; immediate support & higher low an"
     },
     {
-      "ts": "2026-07-10T13:35:33.745000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $249.09** Current: **$248.81** | Strength: 5/5 |"
+      "ts": "2026-07-10T13:47:42.913000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE TP1 $205.15** Current: **$205.30** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-10T13:35:32.731000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1183.57** Current: **$1179.81** | Strength: 5/5 Today's low, recent daily support, Fib 0.236 at $1146.55 just below"
+      "ts": "2026-07-10T13:47:42.385000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $205.1** Current: **$205.30** | Strength: 5/5 Prior 10-day high; daily swing ceiling; 1H recent high"
     }
   ]
 }
