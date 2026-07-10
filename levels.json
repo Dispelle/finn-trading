@@ -14228,7 +14228,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -15447,9 +15447,9 @@
         "price": 56.85,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fib retracement (critical upper band of Fib pyramid) + MA20 $56.56 confluence; psychological 56 round",
+        "reason": "0.786 Fibonacci retracement (golden zone entry); coincides with 20-day VWAP $56.79. Strong confluence.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15477,9 +15477,9 @@
         "price": 50.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day low / Recent major swing low**",
+        "reason": "60-day swing low, 2-month capitulation floor. Critical break point = structural invalidation downside.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15567,9 +15567,9 @@
         "price": 65.59,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib (50% retrace of 50.31\u219280.86 swing); daily pivot; invalidation of short bias",
+        "reason": "0.500 Fibonacci midpoint of $50.31\u2013$80.86 swing. MA50 initially at $63.85 (converging). Major supply zone.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15607,9 +15607,9 @@
         "price": 61.98,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci \"golden pocket\"** + psychological clustering ($60\u2013$62 prior support)",
+        "reason": "0.618 Fibonacci (golden pocket); prior swing low turned resistance $57.30 + zone above. Psychological round.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15947,9 +15947,9 @@
         "price": 53.19,
         "type": "S1",
         "strength": 5,
-        "reason": "Recent daily low (3 candles back); psychological $53 level",
+        "reason": "Prior daily low (10-day data), recent swing support 2 candles ago. Psychological round $53.00.",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16120,6 +16120,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 51.72,
+        "type": "S3",
+        "strength": 3,
+        "reason": "10-day low from intraday (1H data); acts as micro-support before S2.",
+        "status": "active",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       }
