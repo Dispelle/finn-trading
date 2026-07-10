@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-10T15:38:02.704404+00:00",
+  "generated_at": "2026-07-10T15:53:05.080368+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T15:44:23.941000+00:00",
+      "time": "11:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $959.0** Current: **$960.81** | Strength: 5/5 Prior daily high, 1H recent high \u2014 immediate overhead from today's candle;"
+    },
+    {
+      "ts": "2026-07-10T15:43:19.594000+00:00",
+      "time": "11:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $959.0** Current: **$955.12** | Strength: 5/5 Prior daily high, 1H recent high \u2014 immediate overhead from today's candle;"
+    },
+    {
+      "ts": "2026-07-10T15:43:18.777000+00:00",
+      "time": "11:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R3 $208.42** Current: **$207.73** | Strength: 5/5 0.500 Fib retracement; daily MA50 approaches this zone"
+    },
+    {
+      "ts": "2026-07-10T15:42:14.675000+00:00",
+      "time": "11:42 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $208.81** Current: **$208.50** | Strength: 5/5 0.500 Fib retracement (180.62\u2192236.54); psychological midpoint; above da"
+    },
     {
       "ts": "2026-07-10T15:37:58.934000+00:00",
       "time": "11:37 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:27 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R3 $208.42** Current: **$208.57** | Strength: 5/5 0.500 Fib retracement; daily MA50 approaches this zone"
-    },
-    {
-      "ts": "2026-07-10T15:21:59.129000+00:00",
-      "time": "11:21 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $108.38** Current: **$108.47** | Strength: 5/5 \u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micr"
-    },
-    {
-      "ts": "2026-07-10T15:17:42.914000+00:00",
-      "time": "11:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $108.15** Current: **$108.24** | Strength: 4/5 Prior 4-day daily high (Aug cycle); consolidation top within current ran"
-    },
-    {
-      "ts": "2026-07-10T15:16:38.940000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $108.15** Current: **$108.13** | Strength: 4/5 Prior 4-day daily high (Aug cycle); consolidation top within current ran"
-    },
-    {
-      "ts": "2026-07-10T15:11:19.199000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $108.38** Current: **$108.32** | Strength: 5/5 \u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micr"
     }
   ]
 }
