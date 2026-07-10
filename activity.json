@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-10T13:37:52.964325+00:00",
+  "generated_at": "2026-07-10T13:38:02.911010+00:00",
   "items": [
+    {
+      "ts": "2026-07-10T13:37:56.719000+00:00",
+      "time": "09:37 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $203.95** Current: **$204.63** | Strength: 5/5 \u2014 0.618 Fib (golden pocket); prior 60-day swing low support now resista"
+    },
     {
       "ts": "2026-07-10T13:36:54.753000+00:00",
       "time": "09:36 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:35 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1183.57** Current: **$1179.81** | Strength: 5/5 Today's low, recent daily support, Fib 0.236 at $1146.55 just below"
-    },
-    {
-      "ts": "2026-07-10T13:35:32.234000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1180.3** Current: **$1179.81** | Strength: 5/5 \u2014 reason: Swing high 60d (key structure point); 0.618 Fib golden pocket"
     }
   ]
 }
