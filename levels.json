@@ -16136,7 +16136,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17586,7 +17586,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "60d swing low (very fresh, 4\u20135 weeks); psychological support; prior LL",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -17666,7 +17666,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "20-day VWAP (daily anchor); MA20 weekly at $81.05 nearby; critical trend reversal level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-02",
         "hit_count": 0,
         "last_hit": null
@@ -17695,9 +17695,9 @@
         "price": 74.04,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement ($75.94 close to recent lows); prior daily low",
+        "reason": "60d recent swing low; 1H chart support cluster; daily low 10 bars ago",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17895,9 +17895,9 @@
         "price": 72.54,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 Round number + 1.272 Fibonacci extension ($99.29 swing) extrapolated downward; psychological",
+        "reason": "1H low (intraday cluster); psychological round; interim demand zone",
         "status": "active",
-        "source_brief": "2026-07-08",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18025,9 +18025,9 @@
         "price": 79.77,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket anchor) + convergence with MA20 $79.98",
+        "reason": "0.618 Fib (golden pocket); MA20 proximity; psychological pivot",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18035,9 +18035,9 @@
         "price": 82.47,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 + MA50 ($82.57 proximate) + psychological round. Represents 50% retracement of 71.05 \u2192 93.89 decline. ",
+        "reason": "0.500 Fib retracement; weekly midpoint; confluence with MA50 zone",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18045,9 +18045,9 @@
         "price": 85.17,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.382 + prior swing low support $85.97 (2 weeks back). Represents early-stage recovery attempt. **",
+        "reason": "0.382 Fib; recent swing high structure ($85.48, $85.97 weekly closes)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18077,7 +18077,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18188,6 +18188,16 @@
         "reason": "\u2014 Projected extension below panic low (20-day VWAP $80.35 - 60d range width); INSUFFICIENT DATA for precise calculation",
         "status": "active",
         "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 71.05,
+        "type": "S3",
+        "strength": 5,
+        "reason": "**60d low / confirmed floor**; Fib 0.786; extended liquidation level",
+        "status": "active",
+        "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
       }
