@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-15T13:21:17.437502+00:00",
+  "generated_at": "2026-07-15T13:36:08.488445+00:00",
   "items": [
     {
-      "ts": "2026-07-15T12:33:38.506000+00:00",
-      "time": "08:33 AM ET",
+      "ts": "2026-07-15T13:35:34.779000+00:00",
+      "time": "09:35 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,792**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $135.8** Current: **$135.70** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-15T10:33:36.765000+00:00",
-      "time": "06:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,581** | P&L: **-20"
-    },
-    {
-      "ts": "2026-07-14T19:58:34.470000+00:00",
-      "time": "03:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.47** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
-    },
-    {
-      "ts": "2026-07-14T19:57:29.594000+00:00",
-      "time": "03:57 PM ET",
+      "ts": "2026-07-15T13:35:33.475000+00:00",
+      "time": "09:35 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $97.57** Current: **$97.62** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE TP1 $405.0** Current: **$405.05** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-07-14T19:56:22.770000+00:00",
-      "time": "03:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $53.19** Current: **$53.18** | Strength: 5/5 Prior daily low (10-day data), recent swing support 2 candles ago. Psychol"
-    },
-    {
-      "ts": "2026-07-14T19:51:03.258000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $720.39** Current: **$720.24** | Strength: 5/5 MA20 weekly (acting as dynamic resistance, slope down); also daily open "
-    },
-    {
-      "ts": "2026-07-14T19:40:26.004000+00:00",
-      "time": "03:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $96.5** Current: **$96.58** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-14T19:39:21.992000+00:00",
-      "time": "03:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.41** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-14T19:31:51.693000+00:00",
-      "time": "03:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $598.5** Current: **$599.42** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-14T19:31:50.799000+00:00",
-      "time": "03:31 PM ET",
+      "ts": "2026-07-15T13:35:32.848000+00:00",
+      "time": "09:35 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $547.65** Current: **$548.10** | Strength: 5/5 \u2014 60-day swing high; prior local resistance; multiple touches; supplies "
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $404.45** Current: **$405.05** | Strength: 4/5 Today's daily low, 1H support from intraday action"
+    },
+    {
+      "ts": "2026-07-15T13:35:30.698000+00:00",
+      "time": "09:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $52.83** Current: **$52.79** | Strength: 5/5 Recent swing low (Nov 5 bar); support cluster with $51.72\u2013$52.46 zone"
+    },
+    {
+      "ts": "2026-07-15T13:34:27.379000+00:00",
+      "time": "09:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $136.1** Current: **$135.86** | Strength: 5/5 60d swing high; daily structure; prior failed breakout zone"
+    },
+    {
+      "ts": "2026-07-15T13:34:26.537000+00:00",
+      "time": "09:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $350.0** Current: **$349.53** | Strength: 4/5 Round number + estimated supply cluster (0.5\u20131% above prior highs)"
+    },
+    {
+      "ts": "2026-07-15T13:34:25.701000+00:00",
+      "time": "09:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $404.45** Current: **$404.05** | Strength: 4/5 Today's daily low, 1H support from intraday action"
+    },
+    {
+      "ts": "2026-07-15T13:33:20.937000+00:00",
+      "time": "09:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $348.5** Current: **$350.27** | Strength: 4/5 \u2014 Psychological round + Fibonacci extension zone (1.272 = $356.99 is slig"
+    },
+    {
+      "ts": "2026-07-15T13:33:20.306000+00:00",
+      "time": "09:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $350.0** Current: **$350.27** | Strength: 4/5 Round number + estimated supply cluster (0.5\u20131% above prior highs)"
+    },
+    {
+      "ts": "2026-07-15T13:33:17.038000+00:00",
+      "time": "09:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $52.83** Current: **$52.88** | Strength: 5/5 Recent swing low (Nov 5 bar); support cluster with $51.72\u2013$52.46 zone"
     }
   ]
 }
