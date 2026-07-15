@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-15T19:21:30.079858+00:00",
+  "generated_at": "2026-07-15T19:21:56.261709+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T19:21:37.725000+00:00",
+      "time": "03:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $143.99** Current: **$144.08** | Strength: 4/5 Daily high today + recent 1H peak; micro-supply"
+    },
+    {
+      "ts": "2026-07-15T19:21:37.214000+00:00",
+      "time": "03:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $144.0** Current: **$144.08** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-15T19:20:30.561000+00:00",
       "time": "03:20 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:06 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $395.57** Current: **$395.33** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
-    },
-    {
-      "ts": "2026-07-15T19:04:28.983000+00:00",
-      "time": "03:04 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R3 $211.14** Current: **$211.44** | Strength: 5/5 Fibonacci 0.500 (midpoint of 60d swing); weekly close resistance"
-    },
-    {
-      "ts": "2026-07-15T19:03:26.613000+00:00",
-      "time": "03:03 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$395.83** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
     }
   ]
 }
