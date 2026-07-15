@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-15T18:21:25.554837+00:00",
+  "generated_at": "2026-07-15T18:36:25.985777+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:33:48.439000+00:00",
+      "time": "02:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,044** | P&L: **-20"
+    },
+    {
+      "ts": "2026-07-15T18:32:09.700000+00:00",
+      "time": "02:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $120.5** Current: **$120.47** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
+    },
+    {
+      "ts": "2026-07-15T18:31:04.479000+00:00",
+      "time": "02:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $120.5** Current: **$120.50** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
+    },
+    {
+      "ts": "2026-07-15T18:29:57.372000+00:00",
+      "time": "02:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $532.0** Current: **$531.55** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-15T18:18:12.923000+00:00",
       "time": "02:18 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:02 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $399.08** Current: **$398.91** | Strength: 5/5 \u2014 **20-day VWAP** (anchor of recent trading). Price respects this daily"
-    },
-    {
-      "ts": "2026-07-15T17:58:56.943000+00:00",
-      "time": "01:58 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $399.08** Current: **$399.16** | Strength: 5/5 \u2014 **20-day VWAP** (anchor of recent trading). Price respects this daily"
-    },
-    {
-      "ts": "2026-07-15T17:53:34.264000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $754.0** Current: **$754.31** | Strength: 5/5 Prior 60d swing high; daily chart HH; tested multiple times (1H, daily); "
-    },
-    {
-      "ts": "2026-07-15T17:51:24.760000+00:00",
-      "time": "01:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $754.0** Current: **$753.94** | Strength: 5/5 Prior 60d swing high; daily chart HH; tested multiple times (1H, daily); "
-    },
-    {
-      "ts": "2026-07-15T17:40:43.405000+00:00",
-      "time": "01:40 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.47** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
     }
   ]
 }
