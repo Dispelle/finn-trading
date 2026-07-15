@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-15T18:06:23.465765+00:00",
+  "generated_at": "2026-07-15T18:21:25.554837+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:18:12.923000+00:00",
+      "time": "02:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $346.5** Current: **$346.01** | Strength: 4/5 Psychological round + gap to next weekly close cluster; 1H resistance for"
+    },
+    {
+      "ts": "2026-07-15T18:17:08.541000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1153.68** Current: **$1154.56** | Strength: 5/5 \u2014 Fib 0.236 retracement; 20-day VWAP at $1,160.47 (confluent, very str"
+    },
+    {
+      "ts": "2026-07-15T18:17:08.038000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1153.42** Current: **$1154.56** | Strength: 4/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-15T18:14:59.290000+00:00",
+      "time": "02:14 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $398.07** Current: **$397.95** | Strength: 5/5 Fib 0.500 golden midpoint (342.74\u2192453.40); MA20 nearby ($399.82)"
+    },
+    {
+      "ts": "2026-07-15T18:10:42.109000+00:00",
+      "time": "02:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $532.0** Current: **$532.09** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-15T18:02:11.362000+00:00",
       "time": "02:02 PM ET",
@@ -30,36 +60,6 @@
       "time": "01:40 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.47** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
-    },
-    {
-      "ts": "2026-07-15T17:37:30.804000+00:00",
-      "time": "01:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1147.03** Current: **$1146.81** | Strength: 4/5 \u2014 Swing low 60 days ago; second-order support"
-    },
-    {
-      "ts": "2026-07-15T17:37:29.970000+00:00",
-      "time": "01:37 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $398.07** Current: **$398.49** | Strength: 5/5 Fib 0.500 golden midpoint (342.74\u2192453.40); MA20 nearby ($399.82)"
-    },
-    {
-      "ts": "2026-07-15T17:35:22.203000+00:00",
-      "time": "01:35 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1149.1** Current: **$1147.11** | Strength: 5/5 MA20 (weekly/daily), slope up; key structural support"
-    },
-    {
-      "ts": "2026-07-15T17:34:14.298000+00:00",
-      "time": "01:34 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $371.88** Current: **$371.96** | Strength: 5/5 \u2014 60-day swing low (secondary low). Intermediate support if $363.32 brea"
-    },
-    {
-      "ts": "2026-07-15T17:33:11.719000+00:00",
-      "time": "01:33 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1149.1** Current: **$1149.45** | Strength: 5/5 MA20 (weekly/daily), slope up; key structural support"
     }
   ]
 }
