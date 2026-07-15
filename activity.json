@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-15T19:22:07.739419+00:00",
+  "generated_at": "2026-07-15T19:36:31.421010+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T19:34:25.605000+00:00",
+      "time": "03:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.16** Current: **$52.14** | Strength: 5/5 \u2014 Recent daily low (Dec data); prior 1H support cluster; tested multiple t"
+    },
+    {
+      "ts": "2026-07-15T19:29:07.882000+00:00",
+      "time": "03:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $96.5** Current: **$96.63** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T19:28:01.190000+00:00",
+      "time": "03:28 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $900.42** Current: **$900.81** | Strength: 3/5 \u2014 today's intraday low; recent swing low (3 candles)"
+    },
+    {
+      "ts": "2026-07-15T19:24:48.719000+00:00",
+      "time": "03:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $371.88** Current: **$371.84** | Strength: 5/5 \u2014 60-day swing low (secondary low). Intermediate support if $363.32 brea"
+    },
+    {
+      "ts": "2026-07-15T19:22:39.943000+00:00",
+      "time": "03:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $210.69** Current: **$210.46** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement (185.74\u2192236.54) + prior weekly close doub"
+    },
     {
       "ts": "2026-07-15T19:21:37.725000+00:00",
       "time": "03:21 PM ET",
@@ -30,36 +60,6 @@
       "time": "03:19 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW S1 $900.42** Current: **$898.85** | Strength: 3/5 \u2014 today's intraday low; recent swing low (3 candles)"
-    },
-    {
-      "ts": "2026-07-15T19:11:59.193000+00:00",
-      "time": "03:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.46** Current: **$52.45** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-15T19:09:51.726000+00:00",
-      "time": "03:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $395.57** Current: **$395.77** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
-    },
-    {
-      "ts": "2026-07-15T19:09:50.440000+00:00",
-      "time": "03:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.42** Current: **$77.42** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
-    },
-    {
-      "ts": "2026-07-15T19:06:40.061000+00:00",
-      "time": "03:06 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1157.12** Current: **$1155.38** | Strength: 5/5 **20-day VWAP** (strong volume-weighted anchor); daily MA20 at $1159.8"
-    },
-    {
-      "ts": "2026-07-15T19:06:38.933000+00:00",
-      "time": "03:06 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $395.57** Current: **$395.33** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
     }
   ]
 }
