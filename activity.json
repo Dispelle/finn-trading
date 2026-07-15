@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-15T14:37:25.677466+00:00",
+  "generated_at": "2026-07-15T14:51:12.880032+00:00",
   "items": [
     {
-      "ts": "2026-07-15T14:37:08.564000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $585.78** Current: **$585.11** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
-    },
-    {
-      "ts": "2026-07-15T14:37:07.650000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $524.43** Current: **$523.00** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-15T14:37:07.210000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $524.42** Current: **$523.00** | Strength: 5/5 20-day VWAP, MA20 at $526.12 (confluence), recent daily pivot"
-    },
-    {
-      "ts": "2026-07-15T14:37:06.621000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $524.97** Current: **$523.00** | Strength: 5/5 1H swing high (today); recent resistance cluster"
-    },
-    {
-      "ts": "2026-07-15T14:36:02.823000+00:00",
-      "time": "10:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $916.74** Current: **$914.85** | Strength: 4/5 \u2014 MA50; recent swing low cluster ($891.66 + $900.41); if lost = trend rev"
-    },
-    {
-      "ts": "2026-07-15T14:33:54.659000+00:00",
-      "time": "10:33 AM ET",
+      "ts": "2026-07-15T14:50:02.471000+00:00",
+      "time": "10:50 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $916.74** Current: **$919.50** | Strength: 4/5 \u2014 MA50; recent swing low cluster ($891.66 + $900.41); if lost = trend rev"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $77.57** Current: **$77.64** | Strength: 5/5 Prior swing low (4 days ago); recent support broken decisively; daily hig"
     },
     {
-      "ts": "2026-07-15T14:33:43.540000+00:00",
-      "time": "10:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,379** | P&L: **-19"
+      "ts": "2026-07-15T14:50:00.873000+00:00",
+      "time": "10:50 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $522.98** Current: **$523.38** | Strength: 5/5 60-day swing high; today's session high; 1.09% above price; acts as imme"
     },
     {
-      "ts": "2026-07-15T14:31:45.639000+00:00",
-      "time": "10:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $920.0** Current: **$919.06** | Strength: 5/5 \u2014 Psychological round number + recent intraday support"
+      "ts": "2026-07-15T14:47:53.642000+00:00",
+      "time": "10:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.46** Current: **$52.47** | Strength: 5/5 \u2014 **"
     },
     {
-      "ts": "2026-07-15T14:29:38.764000+00:00",
-      "time": "10:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $143.99** Current: **$143.94** | Strength: 4/5 Daily high today + recent 1H peak; micro-supply"
+      "ts": "2026-07-15T14:47:52.605000+00:00",
+      "time": "10:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $585.78** Current: **$586.38** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
     },
     {
-      "ts": "2026-07-15T14:29:38.329000+00:00",
-      "time": "10:29 AM ET",
+      "ts": "2026-07-15T14:47:51.608000+00:00",
+      "time": "10:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $520.76** Current: **$521.35** | Strength: 5/5 \u2014 20-day VWAP, price currently above but tightly; acts as dynamic suppor"
+    },
+    {
+      "ts": "2026-07-15T14:46:47.777000+00:00",
+      "time": "10:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $144.0** Current: **$143.94** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.75** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T14:46:47+00:00",
+      "time": "10:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $520.0** Current: **$520.01** | Strength: 4/5 Prior swing low cluster ($517.82, $516.11); psychological round; 50-day M"
+    },
+    {
+      "ts": "2026-07-15T14:41:28.268000+00:00",
+      "time": "10:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.42** Current: **$77.53** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
+    },
+    {
+      "ts": "2026-07-15T14:40:23.939000+00:00",
+      "time": "10:40 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $77.42** Current: **$77.39** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
+    },
+    {
+      "ts": "2026-07-15T14:39:18.644000+00:00",
+      "time": "10:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $520.0** Current: **$519.28** | Strength: 4/5 Prior swing low cluster ($517.82, $516.11); psychological round; 50-day M"
     }
   ]
 }
