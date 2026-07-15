@@ -6405,9 +6405,9 @@
         "price": 195.48,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 MA200 (long-term support, psychological round + 200-period EMA)",
+        "reason": "\u2014 200-day MA; long-term floor",
         "status": "active",
-        "source_brief": "2026-07-10",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6785,9 +6785,9 @@
         "price": 199.34,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.786 (retracement zone); recent swing low zone $199.34 proximity",
+        "reason": "\u2014 Recent swing low; critical pivotal level; structure invalidator if broken",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6928,6 +6928,76 @@
         "reason": "\u2014 Fibonacci 0.382 (197.22\u2013236.54), aligns with swing high cluster ($216.83, $227.40)",
         "status": "active",
         "source_brief": "2026-07-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 225.51,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fibonacci retracement (189.80\u2192236.54); confluent with mid-range prior resistance",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 236.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high (psychological, tested recently, 1.000 extension of base)",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 249.25,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 1.272 Fibonacci extension (189.80\u2192236.54); measured move target; round level",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 265.43,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 1.618 Fibonacci extension; major upside extension (lower probability near-term)",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 207.65,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fibonacci retracement (golden pocket); daily MA50 confluence ($209.33 nearby)",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 206.16,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range",
+        "status": "active",
+        "source_brief": "2026-07-15",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 201.91,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 20-day VWAP; supply/demand fairness level",
+        "status": "active",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       }
