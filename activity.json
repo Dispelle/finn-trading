@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-15T19:06:32.223729+00:00",
+  "generated_at": "2026-07-15T19:06:48.207802+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T19:06:40.061000+00:00",
+      "time": "03:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1157.12** Current: **$1155.38** | Strength: 5/5 **20-day VWAP** (strong volume-weighted anchor); daily MA20 at $1159.8"
+    },
+    {
+      "ts": "2026-07-15T19:06:38.933000+00:00",
+      "time": "03:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $395.57** Current: **$395.33** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
+    },
     {
       "ts": "2026-07-15T19:04:28.983000+00:00",
       "time": "03:04 PM ET",
@@ -48,18 +60,6 @@
       "time": "02:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $346.5** Current: **$346.50** | Strength: 4/5 Psychological round + gap to next weekly close cluster; 1H resistance for"
-    },
-    {
-      "ts": "2026-07-15T18:54:48.448000+00:00",
-      "time": "02:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $585.78** Current: **$586.06** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
-    },
-    {
-      "ts": "2026-07-15T18:53:46.849000+00:00",
-      "time": "02:53 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $97.36** Current: **$97.39** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
     }
   ]
 }
