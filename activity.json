@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-15T17:21:25.495179+00:00",
+  "generated_at": "2026-07-15T17:36:21.508526+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T17:35:22.203000+00:00",
+      "time": "01:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1149.1** Current: **$1147.11** | Strength: 5/5 MA20 (weekly/daily), slope up; key structural support"
+    },
+    {
+      "ts": "2026-07-15T17:34:14.298000+00:00",
+      "time": "01:34 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $371.88** Current: **$371.96** | Strength: 5/5 \u2014 60-day swing low (secondary low). Intermediate support if $363.32 brea"
+    },
+    {
+      "ts": "2026-07-15T17:33:11.719000+00:00",
+      "time": "01:33 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1149.1** Current: **$1149.45** | Strength: 5/5 MA20 (weekly/daily), slope up; key structural support"
+    },
+    {
+      "ts": "2026-07-15T17:29:55.447000+00:00",
+      "time": "01:29 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $51.72** Current: **$51.80** | Strength: 5/5 60d low on intraday basis (today's low). Immediate support; 1H support. Re"
+    },
+    {
+      "ts": "2026-07-15T17:22:25.645000+00:00",
+      "time": "01:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $524.43** Current: **$525.15** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-15T17:22:25.164000+00:00",
+      "time": "01:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $524.42** Current: **$525.15** | Strength: 5/5 20-day VWAP, MA20 at $526.12 (confluence), recent daily pivot"
+    },
+    {
+      "ts": "2026-07-15T17:22:24.517000+00:00",
+      "time": "01:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $524.97** Current: **$525.15** | Strength: 5/5 1H swing high (today); recent resistance cluster"
+    },
     {
       "ts": "2026-07-15T17:04:05.907000+00:00",
       "time": "01:04 PM ET",
@@ -18,48 +60,6 @@
       "time": "01:01 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $580.0** Current: **$580.51** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-15T16:51:08.145000+00:00",
-      "time": "12:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $76.53** Current: **$76.61** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-07-15T16:46:51.257000+00:00",
-      "time": "12:46 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $891.66** Current: **$892.15** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-15T16:44:41.772000+00:00",
-      "time": "12:44 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $76.3** Current: **$76.33** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-15T16:42:34.778000+00:00",
-      "time": "12:42 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.4** Current: **$12.42** | Strength: 5/5 Today's low; 1H lows cluster; immediate support"
-    },
-    {
-      "ts": "2026-07-15T16:41:28.019000+00:00",
-      "time": "12:41 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $511.26** Current: **$511.83** | Strength: 5/5 Recent 1H support cluster ($510.5, $510.25); intraday floor"
-    },
-    {
-      "ts": "2026-07-15T16:40:23.538000+00:00",
-      "time": "12:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $511.26** Current: **$510.98** | Strength: 5/5 Recent 1H support cluster ($510.5, $510.25); intraday floor"
-    },
-    {
-      "ts": "2026-07-15T16:38:14.915000+00:00",
-      "time": "12:38 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.4** Current: **$12.39** | Strength: 5/5 Today's low; 1H lows cluster; immediate support"
     }
   ]
 }
