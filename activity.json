@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-15T12:30:52.148764+00:00",
+  "generated_at": "2026-07-15T12:45:41.150310+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T12:33:38.506000+00:00",
+      "time": "08:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,792**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-15T10:33:36.765000+00:00",
       "time": "06:33 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:31 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $547.65** Current: **$548.10** | Strength: 5/5 \u2014 60-day swing high; prior local resistance; multiple touches; supplies "
-    },
-    {
-      "ts": "2026-07-14T19:30:48.902000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $342.0** Current: **$342.13** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
