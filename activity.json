@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-15T15:06:22.785439+00:00",
+  "generated_at": "2026-07-15T15:21:13.710288+00:00",
   "items": [
     {
-      "ts": "2026-07-15T15:06:01.783000+00:00",
-      "time": "11:06 AM ET",
+      "ts": "2026-07-15T15:18:54.095000+00:00",
+      "time": "11:18 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.16** Current: **$52.19** | Strength: 5/5 \u2014 Recent daily low (Dec data); prior 1H support cluster; tested multiple t"
+    },
+    {
+      "ts": "2026-07-15T15:18:53.185000+00:00",
+      "time": "11:18 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $900.42** Current: **$903.44** | Strength: 3/5 \u2014 today's intraday low; recent swing low (3 candles)"
+    },
+    {
+      "ts": "2026-07-15T15:17:50.168000+00:00",
+      "time": "11:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $714.28** Current: **$714.43** | Strength: 5/5 Daily close cluster (2d, 6d ago); MA20 $720.94 proximity; psychological "
+    },
+    {
+      "ts": "2026-07-15T15:17:48.040000+00:00",
+      "time": "11:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $582.6** Current: **$582.65** | Strength: 5/5 Prior HL (9 days), structure anchor, loss of this = BOS"
+    },
+    {
+      "ts": "2026-07-15T15:16:44.862000+00:00",
+      "time": "11:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.46** Current: **$52.42** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $714.28** Current: **$714.16** | Strength: 5/5 Daily close cluster (2d, 6d ago); MA20 $720.94 proximity; psychological "
     },
     {
-      "ts": "2026-07-15T15:06:00.742000+00:00",
-      "time": "11:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $209.52** Current: **$209.71** | Strength: 4/5 **MA50 (major moving average)** \u2014 Price currently below; psychological "
-    },
-    {
-      "ts": "2026-07-15T15:04:56.356000+00:00",
-      "time": "11:04 AM ET",
+      "ts": "2026-07-15T15:16:43.285000+00:00",
+      "time": "11:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $209.52** Current: **$209.45** | Strength: 4/5 **MA50 (major moving average)** \u2014 Price currently below; psychological "
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW S1 $900.42** Current: **$898.52** | Strength: 3/5 \u2014 today's intraday low; recent swing low (3 candles)"
     },
     {
-      "ts": "2026-07-15T14:50:02.471000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $77.57** Current: **$77.64** | Strength: 5/5 Prior swing low (4 days ago); recent support broken decisively; daily hig"
-    },
-    {
-      "ts": "2026-07-15T14:50:00.873000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $522.98** Current: **$523.38** | Strength: 5/5 60-day swing high; today's session high; 1.09% above price; acts as imme"
-    },
-    {
-      "ts": "2026-07-15T14:47:53.642000+00:00",
-      "time": "10:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.46** Current: **$52.47** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-15T14:47:52.605000+00:00",
-      "time": "10:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $585.78** Current: **$586.38** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
-    },
-    {
-      "ts": "2026-07-15T14:47:51.608000+00:00",
-      "time": "10:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $520.76** Current: **$521.35** | Strength: 5/5 \u2014 20-day VWAP, price currently above but tightly; acts as dynamic suppor"
-    },
-    {
-      "ts": "2026-07-15T14:46:47.777000+00:00",
-      "time": "10:46 AM ET",
+      "ts": "2026-07-15T15:16:42.643000+00:00",
+      "time": "11:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.75** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $582.6** Current: **$582.24** | Strength: 5/5 Prior HL (9 days), structure anchor, loss of this = BOS"
     },
     {
-      "ts": "2026-07-15T14:46:47+00:00",
-      "time": "10:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $520.0** Current: **$520.01** | Strength: 4/5 Prior swing low cluster ($517.82, $516.11); psychological round; 50-day M"
+      "ts": "2026-07-15T15:14:34.713000+00:00",
+      "time": "11:14 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.16** Current: **$52.14** | Strength: 5/5 \u2014 Recent daily low (Dec data); prior 1H support cluster; tested multiple t"
+    },
+    {
+      "ts": "2026-07-15T15:13:29.965000+00:00",
+      "time": "11:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.5** Current: **$371.37** | Strength: 5/5 60-day swing low; key support in range"
+    },
+    {
+      "ts": "2026-07-15T15:11:21.469000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $371.88** Current: **$371.88** | Strength: 5/5 \u2014 60-day swing low (secondary low). Intermediate support if $363.32 brea"
     }
   ]
 }
