@@ -12770,7 +12770,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-07-10",
+    "last_updated": "2026-07-15",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14019,9 +14019,9 @@
         "price": 381.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fib (recent 1H high touched this; local pivot)",
+        "reason": "\u2014 Fibonacci 0.786 retracement (golden pocket upper bound)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14029,9 +14029,9 @@
         "price": 395.94,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fib golden pocket; major confluence zone",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket center, \"golden ratio\")",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14099,9 +14099,9 @@
         "price": 363.32,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day low / 1.0 Fibonacci swing origin**. Major structural support; tested 3 weeks ago. Only 4% below current price",
+        "reason": "\u2014 60-day absolute low (swing low floor)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14380,7 +14380,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
@@ -14390,7 +14390,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Fibonacci 0.650; mid-zone between R1 and S1",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
@@ -14400,7 +14400,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
@@ -14410,7 +14410,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
@@ -14420,7 +14420,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
@@ -14430,7 +14430,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low; recent 1H support cluster; tight to current price.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-07",
         "hit_count": 0,
         "last_hit": null
@@ -14440,7 +14440,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-06",
         "hit_count": 0,
         "last_hit": null
@@ -14519,9 +14519,9 @@
         "price": 300.96,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 52-week low (structural floor)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14559,9 +14559,9 @@
         "price": 371.88,
         "type": "S1",
         "strength": 5,
-        "reason": "60-day swing low (1st support) + 1H price oscillation base",
+        "reason": "\u2014 60-day swing low (recent support bounce)",
         "status": "active",
-        "source_brief": "2026-07-09",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14612,6 +14612,16 @@
         "reason": "20-day VWAP; recent 1H high $379.65; psychological round",
         "status": "active",
         "source_brief": "2026-07-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.95,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 60-day swing low (secondary floor)",
+        "status": "active",
+        "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
       }
