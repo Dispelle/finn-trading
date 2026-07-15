@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-15T18:36:25.985777+00:00",
+  "generated_at": "2026-07-15T18:36:35.749894+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:36:26.481000+00:00",
+      "time": "02:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $210.42** Current: **$210.37** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
+    },
     {
       "ts": "2026-07-15T18:33:48.439000+00:00",
       "time": "02:33 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:10 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $532.0** Current: **$532.09** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-15T18:02:11.362000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $399.08** Current: **$398.91** | Strength: 5/5 \u2014 **20-day VWAP** (anchor of recent trading). Price respects this daily"
     }
   ]
 }
