@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-15T15:21:13.710288+00:00",
+  "generated_at": "2026-07-15T15:36:17.163505+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T15:29:54.275000+00:00",
+      "time": "11:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $371.5** Current: **$371.54** | Strength: 5/5 60-day swing low; key support in range"
+    },
+    {
+      "ts": "2026-07-15T15:25:39.324000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $142.5** Current: **$142.35** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T15:25:34.578000+00:00",
+      "time": "11:25 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $516.13** Current: **$517.51** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-15T15:18:54.095000+00:00",
       "time": "11:18 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:16 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $582.6** Current: **$582.24** | Strength: 5/5 Prior HL (9 days), structure anchor, loss of this = BOS"
-    },
-    {
-      "ts": "2026-07-15T15:14:34.713000+00:00",
-      "time": "11:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.16** Current: **$52.14** | Strength: 5/5 \u2014 Recent daily low (Dec data); prior 1H support cluster; tested multiple t"
-    },
-    {
-      "ts": "2026-07-15T15:13:29.965000+00:00",
-      "time": "11:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.5** Current: **$371.37** | Strength: 5/5 60-day swing low; key support in range"
-    },
-    {
-      "ts": "2026-07-15T15:11:21.469000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $371.88** Current: **$371.88** | Strength: 5/5 \u2014 60-day swing low (secondary low). Intermediate support if $363.32 brea"
     }
   ]
 }
