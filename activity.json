@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-15T18:51:27.864550+00:00",
+  "generated_at": "2026-07-15T18:51:47.760314+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:51:37.985000+00:00",
+      "time": "02:51 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $97.36** Current: **$97.31** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
+    },
     {
       "ts": "2026-07-15T18:48:25.555000+00:00",
       "time": "02:48 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:29 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $532.0** Current: **$531.55** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-15T18:18:12.923000+00:00",
-      "time": "02:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $346.5** Current: **$346.01** | Strength: 4/5 Psychological round + gap to next weekly close cluster; 1H resistance for"
     }
   ]
 }
