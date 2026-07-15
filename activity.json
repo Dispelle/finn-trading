@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-15T18:52:29.358989+00:00",
+  "generated_at": "2026-07-15T19:06:32.223729+00:00",
   "items": [
     {
-      "ts": "2026-07-15T18:51:37.985000+00:00",
-      "time": "02:51 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $97.36** Current: **$97.31** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
-    },
-    {
-      "ts": "2026-07-15T18:48:25.555000+00:00",
-      "time": "02:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.47** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
-    },
-    {
-      "ts": "2026-07-15T18:46:14.001000+00:00",
-      "time": "02:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $77.57** Current: **$77.55** | Strength: 5/5 Prior swing low (4 days ago); recent support broken decisively; daily hig"
-    },
-    {
-      "ts": "2026-07-15T18:41:55.465000+00:00",
-      "time": "02:41 PM ET",
+      "ts": "2026-07-15T19:04:28.983000+00:00",
+      "time": "03:04 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $210.42** Current: **$210.49** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R3 $211.14** Current: **$211.44** | Strength: 5/5 Fibonacci 0.500 (midpoint of 60d swing); weekly close resistance"
     },
     {
-      "ts": "2026-07-15T18:40:53.420000+00:00",
-      "time": "02:40 PM ET",
+      "ts": "2026-07-15T19:03:26.613000+00:00",
+      "time": "03:03 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1157.12** Current: **$1157.30** | Strength: 5/5 **20-day VWAP** (strong volume-weighted anchor); daily MA20 at $1159.8"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$395.83** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
     },
     {
-      "ts": "2026-07-15T18:36:26.481000+00:00",
-      "time": "02:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $210.42** Current: **$210.37** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
-    },
-    {
-      "ts": "2026-07-15T18:33:48.439000+00:00",
-      "time": "02:33 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,044** | P&L: **-20"
-    },
-    {
-      "ts": "2026-07-15T18:32:09.700000+00:00",
-      "time": "02:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $120.5** Current: **$120.47** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
-    },
-    {
-      "ts": "2026-07-15T18:31:04.479000+00:00",
-      "time": "02:31 PM ET",
+      "ts": "2026-07-15T19:02:22.929000+00:00",
+      "time": "03:02 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $120.5** Current: **$120.50** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $96.96** Current: **$97.06** | Strength: 5/5 Today's low; psychological support (sub-$97 = psychological break)"
     },
     {
-      "ts": "2026-07-15T18:29:57.372000+00:00",
-      "time": "02:29 PM ET",
+      "ts": "2026-07-15T19:02:18.838000+00:00",
+      "time": "03:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $210.69** Current: **$210.84** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement (185.74\u2192236.54) + prior weekly close doub"
+    },
+    {
+      "ts": "2026-07-15T19:00:10.295000+00:00",
+      "time": "03:00 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $532.0** Current: **$531.55** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.55** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T18:59:05.164000+00:00",
+      "time": "02:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $585.0** Current: **$584.72** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T18:56:58.969000+00:00",
+      "time": "02:56 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $395.32** Current: **$394.98** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
+    },
+    {
+      "ts": "2026-07-15T18:54:50.908000+00:00",
+      "time": "02:54 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $346.5** Current: **$346.50** | Strength: 4/5 Psychological round + gap to next weekly close cluster; 1H resistance for"
+    },
+    {
+      "ts": "2026-07-15T18:54:48.448000+00:00",
+      "time": "02:54 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $585.78** Current: **$586.06** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
+    },
+    {
+      "ts": "2026-07-15T18:53:46.849000+00:00",
+      "time": "02:53 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $97.36** Current: **$97.39** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
     }
   ]
 }
