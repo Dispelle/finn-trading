@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-15T20:21:44.813674+00:00",
+  "generated_at": "2026-07-15T20:36:37.677405+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T20:33:50.197000+00:00",
+      "time": "04:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,972**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-15T19:46:13.489000+00:00",
       "time": "03:46 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:34 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.16** Current: **$52.14** | Strength: 5/5 \u2014 Recent daily low (Dec data); prior 1H support cluster; tested multiple t"
-    },
-    {
-      "ts": "2026-07-15T19:29:07.882000+00:00",
-      "time": "03:29 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $96.5** Current: **$96.63** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
