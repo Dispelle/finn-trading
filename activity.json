@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-15T17:51:37.867865+00:00",
+  "generated_at": "2026-07-15T18:06:23.465765+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:02:11.362000+00:00",
+      "time": "02:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $399.08** Current: **$398.91** | Strength: 5/5 \u2014 **20-day VWAP** (anchor of recent trading). Price respects this daily"
+    },
+    {
+      "ts": "2026-07-15T17:58:56.943000+00:00",
+      "time": "01:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $399.08** Current: **$399.16** | Strength: 5/5 \u2014 **20-day VWAP** (anchor of recent trading). Price respects this daily"
+    },
+    {
+      "ts": "2026-07-15T17:53:34.264000+00:00",
+      "time": "01:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $754.0** Current: **$754.31** | Strength: 5/5 Prior 60d swing high; daily chart HH; tested multiple times (1H, daily); "
+    },
     {
       "ts": "2026-07-15T17:51:24.760000+00:00",
       "time": "01:51 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:33 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1149.1** Current: **$1149.45** | Strength: 5/5 MA20 (weekly/daily), slope up; key structural support"
-    },
-    {
-      "ts": "2026-07-15T17:29:55.447000+00:00",
-      "time": "01:29 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $51.72** Current: **$51.80** | Strength: 5/5 60d low on intraday basis (today's low). Immediate support; 1H support. Re"
-    },
-    {
-      "ts": "2026-07-15T17:22:25.645000+00:00",
-      "time": "01:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $524.43** Current: **$525.15** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-15T17:22:25.164000+00:00",
-      "time": "01:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $524.42** Current: **$525.15** | Strength: 5/5 20-day VWAP, MA20 at $526.12 (confluence), recent daily pivot"
     }
   ]
 }
