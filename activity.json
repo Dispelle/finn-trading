@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-15T18:36:35.749894+00:00",
+  "generated_at": "2026-07-15T18:51:27.864550+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T18:48:25.555000+00:00",
+      "time": "02:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.47** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
+    },
+    {
+      "ts": "2026-07-15T18:46:14.001000+00:00",
+      "time": "02:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $77.57** Current: **$77.55** | Strength: 5/5 Prior swing low (4 days ago); recent support broken decisively; daily hig"
+    },
+    {
+      "ts": "2026-07-15T18:41:55.465000+00:00",
+      "time": "02:41 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $210.42** Current: **$210.49** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
+    },
+    {
+      "ts": "2026-07-15T18:40:53.420000+00:00",
+      "time": "02:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1157.12** Current: **$1157.30** | Strength: 5/5 **20-day VWAP** (strong volume-weighted anchor); daily MA20 at $1159.8"
+    },
     {
       "ts": "2026-07-15T18:36:26.481000+00:00",
       "time": "02:36 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:18 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $346.5** Current: **$346.01** | Strength: 4/5 Psychological round + gap to next weekly close cluster; 1H resistance for"
-    },
-    {
-      "ts": "2026-07-15T18:17:08.541000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1153.68** Current: **$1154.56** | Strength: 5/5 \u2014 Fib 0.236 retracement; 20-day VWAP at $1,160.47 (confluent, very str"
-    },
-    {
-      "ts": "2026-07-15T18:17:08.038000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1153.42** Current: **$1154.56** | Strength: 4/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-15T18:14:59.290000+00:00",
-      "time": "02:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $398.07** Current: **$397.95** | Strength: 5/5 Fib 0.500 golden midpoint (342.74\u2192453.40); MA20 nearby ($399.82)"
-    },
-    {
-      "ts": "2026-07-15T18:10:42.109000+00:00",
-      "time": "02:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $532.0** Current: **$532.09** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
