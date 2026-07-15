@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-15T14:22:04.791228+00:00",
+  "generated_at": "2026-07-15T14:36:10.485467+00:00",
   "items": [
     {
-      "ts": "2026-07-15T14:22:01.952000+00:00",
-      "time": "10:22 AM ET",
+      "ts": "2026-07-15T14:36:02.823000+00:00",
+      "time": "10:36 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $535.2** Current: **$534.11** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $916.74** Current: **$914.85** | Strength: 4/5 \u2014 MA50; recent swing low cluster ($891.66 + $900.41); if lost = trend rev"
     },
     {
-      "ts": "2026-07-15T14:20:57.783000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $931.64** Current: **$928.21** | Strength: 5/5 \u2014 **Fib 0.382 retracement** (408.50 \u2192 1255.00) + recent 1H cluster lows ("
-    },
-    {
-      "ts": "2026-07-15T14:20:57.144000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $593.0** Current: **$591.39** | Strength: 5/5 \u2014 Recent daily swing low / higher low attempted (2 days ago) **"
-    },
-    {
-      "ts": "2026-07-15T14:20:56.325000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $537.5** Current: **$535.35** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-15T14:20:55.914000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $537.37** Current: **$535.35** | Strength: 5/5 Prior weekly close (4 weeks ago); psychological level; previous swing hi"
-    },
-    {
-      "ts": "2026-07-15T14:19:53.317000+00:00",
-      "time": "10:19 AM ET",
+      "ts": "2026-07-15T14:33:54.659000+00:00",
+      "time": "10:33 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $395.57** Current: **$395.68** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $916.74** Current: **$919.50** | Strength: 4/5 \u2014 MA50; recent swing low cluster ($891.66 + $900.41); if lost = trend rev"
     },
     {
-      "ts": "2026-07-15T14:18:47.098000+00:00",
-      "time": "10:18 AM ET",
+      "ts": "2026-07-15T14:33:43.540000+00:00",
+      "time": "10:33 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $593.8** Current: **$593.75** | Strength: 5/5 MA50 (strong intermediate support); held in recent selloff"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,379** | P&L: **-19"
     },
     {
-      "ts": "2026-07-15T14:18:46.228000+00:00",
-      "time": "10:18 AM ET",
+      "ts": "2026-07-15T14:31:45.639000+00:00",
+      "time": "10:31 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $540.05** Current: **$538.79** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $920.0** Current: **$919.06** | Strength: 5/5 \u2014 Psychological round number + recent intraday support"
     },
     {
-      "ts": "2026-07-15T14:16:39.281000+00:00",
-      "time": "10:16 AM ET",
+      "ts": "2026-07-15T14:29:38.764000+00:00",
+      "time": "10:29 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $143.99** Current: **$143.94** | Strength: 4/5 Daily high today + recent 1H peak; micro-supply"
+    },
+    {
+      "ts": "2026-07-15T14:29:38.329000+00:00",
+      "time": "10:29 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $144.0** Current: **$143.94** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-15T14:29:35.794000+00:00",
+      "time": "10:29 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE TP2 $325.0** Current: **$325.33** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $210.42** Current: **$210.55** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
     },
     {
-      "ts": "2026-07-15T14:15:34.820000+00:00",
-      "time": "10:15 AM ET",
+      "ts": "2026-07-15T14:28:33.608000+00:00",
+      "time": "10:28 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$396.09** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
+    },
+    {
+      "ts": "2026-07-15T14:27:28.382000+00:00",
+      "time": "10:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $393.94** Current: **$393.80** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start from 349.20\u2192466.32 swing). STRON"
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $395.57** Current: **$395.09** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
+    },
+    {
+      "ts": "2026-07-15T14:25:17.371000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $210.42** Current: **$209.97** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
     }
   ]
 }
