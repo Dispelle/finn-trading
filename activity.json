@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-15T14:36:59.300676+00:00",
+  "generated_at": "2026-07-15T14:37:25.677466+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T14:37:08.564000+00:00",
+      "time": "10:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $585.78** Current: **$585.11** | Strength: 5/5 \u2014 Daily MA50 (50-period moving average); critical moving average; price "
+    },
+    {
+      "ts": "2026-07-15T14:37:07.650000+00:00",
+      "time": "10:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $524.43** Current: **$523.00** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-15T14:37:07.210000+00:00",
+      "time": "10:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $524.42** Current: **$523.00** | Strength: 5/5 20-day VWAP, MA20 at $526.12 (confluence), recent daily pivot"
+    },
+    {
+      "ts": "2026-07-15T14:37:06.621000+00:00",
+      "time": "10:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $524.97** Current: **$523.00** | Strength: 5/5 1H swing high (today); recent resistance cluster"
+    },
     {
       "ts": "2026-07-15T14:36:02.823000+00:00",
       "time": "10:36 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:29 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $144.0** Current: **$143.94** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-15T14:29:35.794000+00:00",
-      "time": "10:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $210.42** Current: **$210.55** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
-    },
-    {
-      "ts": "2026-07-15T14:28:33.608000+00:00",
-      "time": "10:28 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $395.32** Current: **$396.09** | Strength: 5/5 Fib 0.500 (midpoint of 60d swing); price recovered cleanly from here ye"
-    },
-    {
-      "ts": "2026-07-15T14:27:28.382000+00:00",
-      "time": "10:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $395.57** Current: **$395.09** | Strength: 4/5 Today's intraday high; 1H resistance tested twice in last 4 hours; reje"
-    },
-    {
-      "ts": "2026-07-15T14:25:17.371000+00:00",
-      "time": "10:25 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $210.42** Current: **$209.97** | Strength: 5/5 \u2014 0.50 Fib retracement; MA50 zone ($209.60); weekly EMA resistance; str"
     }
   ]
 }
