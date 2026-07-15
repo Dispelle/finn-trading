@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-15T17:36:32.468428+00:00",
+  "generated_at": "2026-07-15T17:51:30.999659+00:00",
   "items": [
+    {
+      "ts": "2026-07-15T17:51:24.760000+00:00",
+      "time": "01:51 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $754.0** Current: **$753.94** | Strength: 5/5 Prior 60d swing high; daily chart HH; tested multiple times (1H, daily); "
+    },
+    {
+      "ts": "2026-07-15T17:40:43.405000+00:00",
+      "time": "01:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.47** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
+    },
+    {
+      "ts": "2026-07-15T17:37:30.804000+00:00",
+      "time": "01:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1147.03** Current: **$1146.81** | Strength: 4/5 \u2014 Swing low 60 days ago; second-order support"
+    },
+    {
+      "ts": "2026-07-15T17:37:29.970000+00:00",
+      "time": "01:37 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $398.07** Current: **$398.49** | Strength: 5/5 Fib 0.500 golden midpoint (342.74\u2192453.40); MA20 nearby ($399.82)"
+    },
     {
       "ts": "2026-07-15T17:35:22.203000+00:00",
       "time": "01:35 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:22 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $524.42** Current: **$525.15** | Strength: 5/5 20-day VWAP, MA20 at $526.12 (confluence), recent daily pivot"
-    },
-    {
-      "ts": "2026-07-15T17:22:24.517000+00:00",
-      "time": "01:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $524.97** Current: **$525.15** | Strength: 5/5 1H swing high (today); recent resistance cluster"
-    },
-    {
-      "ts": "2026-07-15T17:04:05.907000+00:00",
-      "time": "01:04 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $207.65** Current: **$207.75** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (197.22\u2013236.54 swing), prior micro-resi"
-    },
-    {
-      "ts": "2026-07-15T17:03:00.327000+00:00",
-      "time": "01:03 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $207.58** Current: **$207.62** | Strength: 5/5 Fibonacci 0.618 (golden pocket start, 189.80\u2192236.54 swing)"
-    },
-    {
-      "ts": "2026-07-15T17:01:55.954000+00:00",
-      "time": "01:01 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $580.0** Current: **$580.51** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
