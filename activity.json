@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-10T15:54:12.479911+00:00",
+  "generated_at": "2026-07-15T02:14:53.783598+00:00",
   "items": [
     {
-      "ts": "2026-07-10T15:44:23.941000+00:00",
-      "time": "11:44 AM ET",
+      "ts": "2026-07-14T19:58:34.470000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.47** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
+    },
+    {
+      "ts": "2026-07-14T19:57:29.594000+00:00",
+      "time": "03:57 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $959.0** Current: **$960.81** | Strength: 5/5 Prior daily high, 1H recent high \u2014 immediate overhead from today's candle;"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $97.57** Current: **$97.62** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
     },
     {
-      "ts": "2026-07-10T15:43:19.594000+00:00",
-      "time": "11:43 AM ET",
+      "ts": "2026-07-14T19:56:22.770000+00:00",
+      "time": "03:56 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $959.0** Current: **$955.12** | Strength: 5/5 Prior daily high, 1H recent high \u2014 immediate overhead from today's candle;"
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $53.19** Current: **$53.18** | Strength: 5/5 Prior daily low (10-day data), recent swing support 2 candles ago. Psychol"
     },
     {
-      "ts": "2026-07-10T15:43:18.777000+00:00",
-      "time": "11:43 AM ET",
+      "ts": "2026-07-14T19:51:03.258000+00:00",
+      "time": "03:51 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R3 $208.42** Current: **$207.73** | Strength: 5/5 0.500 Fib retracement; daily MA50 approaches this zone"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $720.39** Current: **$720.24** | Strength: 5/5 MA20 weekly (acting as dynamic resistance, slope down); also daily open "
     },
     {
-      "ts": "2026-07-10T15:42:14.675000+00:00",
-      "time": "11:42 AM ET",
+      "ts": "2026-07-14T19:40:26.004000+00:00",
+      "time": "03:40 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $208.81** Current: **$208.50** | Strength: 5/5 0.500 Fib retracement (180.62\u2192236.54); psychological midpoint; above da"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $96.5** Current: **$96.58** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-10T15:37:58.934000+00:00",
-      "time": "11:37 AM ET",
+      "ts": "2026-07-14T19:39:21.992000+00:00",
+      "time": "03:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-14T19:31:51.693000+00:00",
+      "time": "03:31 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $598.5** Current: **$599.42** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-14T19:31:50.799000+00:00",
+      "time": "03:31 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $208.81** Current: **$208.84** | Strength: 5/5 0.500 Fib retracement (180.62\u2192236.54); psychological midpoint; above da"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $547.65** Current: **$548.10** | Strength: 5/5 \u2014 60-day swing high; prior local resistance; multiple touches; supplies "
     },
     {
-      "ts": "2026-07-10T15:31:36.599000+00:00",
-      "time": "11:31 AM ET",
+      "ts": "2026-07-14T19:30:48.902000+00:00",
+      "time": "03:30 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $724.08** Current: **$723.77** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $342.0** Current: **$342.13** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-10T15:30:32.190000+00:00",
-      "time": "11:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $724.08** Current: **$724.10** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-10T15:30:30.301000+00:00",
-      "time": "11:30 AM ET",
+      "ts": "2026-07-14T19:30:47.314000+00:00",
+      "time": "03:30 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $208.58** Current: **$208.56** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-10T15:28:21.595000+00:00",
-      "time": "11:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $208.58** Current: **$208.78** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-10T15:27:17.367000+00:00",
-      "time": "11:27 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R3 $208.42** Current: **$208.57** | Strength: 5/5 0.500 Fib retracement; daily MA50 approaches this zone"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $719.69** Current: **$719.56** | Strength: 5/5 20-day VWAP (current mean), 1H low cluster at 720.95"
     }
   ]
 }
