@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T19:08:29.328911+00:00",
+  "generated_at": "2026-07-16T19:23:11.795604+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T19:10:24.570000+00:00",
+      "time": "03:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $334.08** Current: **$334.02** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (257.19 \u2192 317.40)"
+    },
     {
       "ts": "2026-07-16T19:08:15.918000+00:00",
       "time": "03:08 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:42 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $252.06** Current: **$252.07** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
-    },
-    {
-      "ts": "2026-07-16T18:41:35.066000+00:00",
-      "time": "02:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $252.06** Current: **$252.05** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
     }
   ]
 }
