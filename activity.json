@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T17:07:58.406790+00:00",
+  "generated_at": "2026-07-16T17:23:02.843984+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T17:18:12.969000+00:00",
+      "time": "01:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $845.45** Current: **$844.60** | Strength: 4/5 \u2014 Fibonacci 0.500 (50% retracement); round psychological level. Prior sup"
+    },
     {
       "ts": "2026-07-16T16:34:21.054000+00:00",
       "time": "12:34 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:41 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $207.58** Current: **$207.54** | Strength: 5/5 Fibonacci 0.618 (golden pocket start, 189.80\u2192236.54 swing)"
-    },
-    {
-      "ts": "2026-07-16T15:28:27.101000+00:00",
-      "time": "11:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $399.16** Current: **$398.80** | Strength: 5/5 Weekly MA20; psychological round; failed to hold; slope down = weak sup"
     }
   ]
 }
