@@ -2058,7 +2058,7 @@
     "ticker_source": "watchlist"
   },
   "AMD": {
-    "last_updated": "2026-07-15",
+    "last_updated": "2026-07-16",
     "current_price_at_brief": 428.54,
     "last_seen_price": 428.54,
     "levels": [
@@ -3847,7 +3847,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 60-day swing high; prior local resistance; multiple touches; supplies confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4187,7 +4187,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "1H swing high (today); recent resistance cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4197,7 +4197,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 prior swing high (4 days ago)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4247,7 +4247,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high; reclaim = trend resumption signal; prior 2-week support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4267,7 +4267,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Daily close 4d ago (failed breakout, now supply); last HL before LH",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4307,7 +4307,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "Recent 1H swing low (intraday support); inside bar anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4327,7 +4327,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4337,7 +4337,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high (secondary); MA confluence zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4347,7 +4347,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Swing high from 3 bars ago; prior higher high in sequence; Fib extension area.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4387,7 +4387,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
@@ -4407,7 +4407,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-08",
         "hit_count": 0,
         "last_hit": null
