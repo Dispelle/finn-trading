@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-16T16:07:54.754022+00:00",
+  "generated_at": "2026-07-16T16:22:55.191108+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T16:16:24.668000+00:00",
+      "time": "12:16 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $74.88** Current: **$74.92** | Strength: 5/5 \u2014 0.786 Fib retracement ($75.94 nearby) + prior swing low cluster"
+    },
+    {
+      "ts": "2026-07-16T16:15:20.440000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $74.88** Current: **$74.88** | Strength: 5/5 \u2014 0.786 Fib retracement ($75.94 nearby) + prior swing low cluster"
+    },
+    {
+      "ts": "2026-07-16T16:11:04.724000+00:00",
+      "time": "12:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $503.11** Current: **$502.99** | Strength: 5/5 Fib 0.236 retracement; psychological round; within 1.43% of price; teste"
+    },
     {
       "ts": "2026-07-16T16:05:41.874000+00:00",
       "time": "12:05 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:27 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.48** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
-    },
-    {
-      "ts": "2026-07-16T15:26:18.689000+00:00",
-      "time": "11:26 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $399.16** Current: **$399.31** | Strength: 5/5 Weekly MA20; psychological round; failed to hold; slope down = weak sup"
-    },
-    {
-      "ts": "2026-07-16T15:15:40.036000+00:00",
-      "time": "11:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1183.57** Current: **$1183.51** | Strength: 5/5 Today's low, recent daily support, Fib 0.236 at $1146.55 just below"
-    },
-    {
-      "ts": "2026-07-16T15:15:37.186000+00:00",
-      "time": "11:15 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $506.0** Current: **$507.01** | Strength: 5/5 Recent 1H swing low; 20-day VWAP ($520.80) \u2212 $15 approximates support zon"
     }
   ]
 }
