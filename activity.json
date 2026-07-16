@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-16T14:52:51.159462+00:00",
+  "generated_at": "2026-07-16T15:07:54.357347+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T15:05:59.567000+00:00",
+      "time": "11:05 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $120.5** Current: **$120.51** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
+    },
+    {
+      "ts": "2026-07-16T15:05:58.104000+00:00",
+      "time": "11:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $206.16** Current: **$206.08** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
+    },
+    {
+      "ts": "2026-07-16T14:54:18.597000+00:00",
+      "time": "10:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1180.3** Current: **$1180.00** | Strength: 5/5 \u2014 reason: Swing high 60d (key structure point); 0.618 Fib golden pocket"
+    },
     {
       "ts": "2026-07-16T14:52:10.691000+00:00",
       "time": "10:52 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:15 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.63** Current: **$131.71** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-16T14:13:51.135000+00:00",
-      "time": "10:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $392.45** Current: **$392.99** | Strength: 5/5 \u2014 **0.618 Fib (golden pocket)** \u2014 highly confluent. Prior swing low zon"
-    },
-    {
-      "ts": "2026-07-16T14:08:29.964000+00:00",
-      "time": "10:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $580.0** Current: **$581.14** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-16T14:08:29.478000+00:00",
-      "time": "10:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $580.83** Current: **$581.14** | Strength: 5/5 0.382 Fib retracement + confluent with Day -9 daily low ($581.45) + MA50"
     }
   ]
 }
