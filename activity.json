@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-16T19:38:09.712393+00:00",
+  "generated_at": "2026-07-16T19:53:09.575396+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T19:52:12.181000+00:00",
+      "time": "03:52 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $249.09** Current: **$249.19** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-16T19:51:07.667000+00:00",
+      "time": "03:51 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $248.91** Current: **$248.96** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-16T19:47:55.053000+00:00",
+      "time": "03:47 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $248.91** Current: **$248.75** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-16T19:47:54.676000+00:00",
+      "time": "03:47 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $249.09** Current: **$248.75** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-16T19:45:42.716000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $250.42** Current: **$250.25** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
+    },
+    {
+      "ts": "2026-07-16T19:44:37.809000+00:00",
+      "time": "03:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $250.92** Current: **$250.72** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
+    },
+    {
+      "ts": "2026-07-16T19:40:20.067000+00:00",
+      "time": "03:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $94.63** Current: **$94.55** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-16T19:37:07.248000+00:00",
       "time": "03:37 PM ET",
@@ -18,48 +60,6 @@
       "time": "03:36 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $342.0** Current: **$341.82** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-16T19:32:49.322000+00:00",
-      "time": "03:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $748.66** Current: **$748.78** | Strength: 5/5 Today's daily low; intraday support tested 4x in last 10 hours; 4H swing"
-    },
-    {
-      "ts": "2026-07-16T19:32:47.499000+00:00",
-      "time": "03:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $206.16** Current: **$206.35** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
-    },
-    {
-      "ts": "2026-07-16T19:31:43.296000+00:00",
-      "time": "03:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $748.66** Current: **$748.63** | Strength: 5/5 Today's daily low; intraday support tested 4x in last 10 hours; 4H swing"
-    },
-    {
-      "ts": "2026-07-16T19:29:34.920000+00:00",
-      "time": "03:29 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $704.45** Current: **$704.47** | Strength: 5/5 HL \u2014 broken today, now acts as resistance flip"
-    },
-    {
-      "ts": "2026-07-16T19:26:23.322000+00:00",
-      "time": "03:26 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP3 $333.92** Current: **$333.60** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-16T19:26:22.491000+00:00",
-      "time": "03:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $749.53** Current: **$749.22** | Strength: 5/5 Prior daily high (8 bars ago); recent 1H resistance cluster; psychologic"
-    },
-    {
-      "ts": "2026-07-16T19:24:14.172000+00:00",
-      "time": "03:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $704.45** Current: **$704.33** | Strength: 5/5 HL \u2014 broken today, now acts as resistance flip"
     }
   ]
 }
