@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-16T13:38:24.746736+00:00",
+  "generated_at": "2026-07-16T13:52:48.917853+00:00",
   "items": [
     {
-      "ts": "2026-07-16T13:37:14.703000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-16T13:52:23.691000+00:00",
+      "time": "09:52 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $131.15** Current: **$131.30** | Strength: 5/5 Recent swing low (60-day range); intraday support cluster; 4H chart sho"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $511.26** Current: **$513.13** | Strength: 5/5 Recent 1H support cluster ($510.5, $510.25); intraday floor"
     },
     {
-      "ts": "2026-07-16T13:37:13.668000+00:00",
-      "time": "09:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $343.45** Current: **$342.74** | Strength: 5/5 \u2014 60-day absolute high; psychological major resistance; 1.272 Fib extens"
-    },
-    {
-      "ts": "2026-07-16T13:36:05.623000+00:00",
-      "time": "09:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $576.64** Current: **$576.07** | Strength: 5/5 \u2014 recent 1H/daily pivot, multiple touches (575.04, 575.21, 576.92)"
-    },
-    {
-      "ts": "2026-07-16T13:35:03.571000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1147.03** Current: **$1145.76** | Strength: 4/5 \u2014 Swing low 60 days ago; second-order support"
-    },
-    {
-      "ts": "2026-07-16T13:35:01.725000+00:00",
-      "time": "09:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $752.41** Current: **$752.25** | Strength: 5/5 60-day swing high (7 days ago); intraday peak; strong rejection zone"
-    },
-    {
-      "ts": "2026-07-16T13:33:57.614000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-07-16T13:51:22.277000+00:00",
+      "time": "09:51 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S3 $1147.03** Current: **$1147.66** | Strength: 4/5 \u2014 Swing low 60 days ago; second-order support"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $94.63** Current: **$94.73** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-07-16T13:33:54.925000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-07-16T13:51:20.081000+00:00",
+      "time": "09:51 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $880.21** Current: **$881.97** | Strength: 4/5 \u2014 MA50; psychological support zone **"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $708.5** Current: **$708.53** | Strength: 5/5 1H low support (multiple touches in last 20 bars); intraday key floor"
     },
     {
-      "ts": "2026-07-16T13:33:54.495000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-07-16T13:51:18.112000+00:00",
+      "time": "09:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $207.65** Current: **$207.74** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (197.22\u2013236.54 swing), prior micro-resi"
+    },
+    {
+      "ts": "2026-07-16T13:51:17.595000+00:00",
+      "time": "09:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $207.58** Current: **$207.74** | Strength: 5/5 Fibonacci 0.618 (golden pocket start, 189.80\u2192236.54 swing)"
+    },
+    {
+      "ts": "2026-07-16T13:48:05.022000+00:00",
+      "time": "09:48 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $571.26** Current: **$572.07** | Strength: 5/5 (approximately)** \u2014 1H low from 6 bars ago (569.37 low); technical floor"
+    },
+    {
+      "ts": "2026-07-16T13:47:01.972000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $393.94** Current: **$394.22** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start from 349.20\u2192466.32 swing). STRON"
+    },
+    {
+      "ts": "2026-07-16T13:46:59.634000+00:00",
+      "time": "09:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $880.0** Current: **$881.97** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $571.26** Current: **$571.16** | Strength: 5/5 (approximately)** \u2014 1H low from 6 bars ago (569.37 low); technical floor"
     },
     {
-      "ts": "2026-07-16T13:33:53.872000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-07-16T13:44:52.973000+00:00",
+      "time": "09:44 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $880.06** Current: **$881.97** | Strength: 5/5 \u2014 reason: **MA50 (50-period moving average); zone of longer-term trendlin"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $343.45** Current: **$343.59** | Strength: 5/5 \u2014 60-day absolute high; psychological major resistance; 1.272 Fib extens"
     },
     {
-      "ts": "2026-07-16T13:33:52.862000+00:00",
-      "time": "09:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $516.13** Current: **$517.00** | Strength: 4/5 |"
+      "ts": "2026-07-16T13:44:51.490000+00:00",
+      "time": "09:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $708.5** Current: **$708.27** | Strength: 5/5 1H low support (multiple touches in last 20 bars); intraday key floor"
     }
   ]
 }
