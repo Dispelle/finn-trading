@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T10:22:34.854610+00:00",
+  "generated_at": "2026-07-16T10:37:36.121500+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T10:34:12.325000+00:00",
+      "time": "06:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,210** | P&L: **-21"
+    },
     {
       "ts": "2026-07-16T00:33:56.912000+00:00",
       "time": "08:33 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:39 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1153.68** Current: **$1153.08** | Strength: 5/5 \u2014 Fib 0.236 retracement; 20-day VWAP at $1,160.47 (confluent, very str"
-    },
-    {
-      "ts": "2026-07-15T19:39:48.018000+00:00",
-      "time": "03:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1153.42** Current: **$1153.08** | Strength: 4/5 \u2014 **"
     }
   ]
 }
