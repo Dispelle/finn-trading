@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-16T18:38:08.231916+00:00",
+  "generated_at": "2026-07-16T18:53:07.370938+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T18:44:48.031000+00:00",
+      "time": "02:44 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R3 $252.02** Current: **$252.25** | Strength: 5/5 **Fibonacci 0.500 (mid-range retracement)**; confluence with weekly res"
+    },
+    {
+      "ts": "2026-07-16T18:43:43.542000+00:00",
+      "time": "02:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R3 $252.02** Current: **$252.01** | Strength: 5/5 **Fibonacci 0.500 (mid-range retracement)**; confluence with weekly res"
+    },
+    {
+      "ts": "2026-07-16T18:42:39.151000+00:00",
+      "time": "02:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $252.06** Current: **$252.07** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
+    },
+    {
+      "ts": "2026-07-16T18:41:35.066000+00:00",
+      "time": "02:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $252.06** Current: **$252.05** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
+    },
     {
       "ts": "2026-07-16T18:37:13.189000+00:00",
       "time": "02:37 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $495.35** Current: **$494.21** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-16T18:14:51.302000+00:00",
-      "time": "02:14 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP2 $330.0** Current: **$329.91** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-16T18:12:41.830000+00:00",
-      "time": "02:12 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $566.83** Current: **$567.33** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-16T18:10:33.246000+00:00",
-      "time": "02:10 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $495.35** Current: **$495.56** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-16T18:09:31.653000+00:00",
-      "time": "02:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1172.0** Current: **$1172.62** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
