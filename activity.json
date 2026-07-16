@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T16:23:21.393905+00:00",
+  "generated_at": "2026-07-16T16:37:55.459196+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T16:34:21.054000+00:00",
+      "time": "12:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,534**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-16T16:16:24.668000+00:00",
       "time": "12:16 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:28 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $399.16** Current: **$398.80** | Strength: 5/5 Weekly MA20; psychological round; failed to hold; slope down = weak sup"
-    },
-    {
-      "ts": "2026-07-16T15:27:24.132000+00:00",
-      "time": "11:27 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.48** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
     }
   ]
 }
