@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-16T15:53:41.408925+00:00",
+  "generated_at": "2026-07-16T16:07:54.754022+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T16:05:41.874000+00:00",
+      "time": "12:05 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $504.72** Current: **$503.49** | Strength: 4/5 0.236 Fibonacci retracement (golden pocket entry), daily support cluster"
+    },
+    {
+      "ts": "2026-07-16T16:04:37.547000+00:00",
+      "time": "12:04 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $504.72** Current: **$504.87** | Strength: 4/5 0.236 Fibonacci retracement (golden pocket entry), daily support cluster"
+    },
+    {
+      "ts": "2026-07-16T16:03:32.856000+00:00",
+      "time": "12:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $505.0** Current: **$504.62** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-16T16:00:20.207000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S1 $98.0** Current: **$97.91** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
+    },
     {
       "ts": "2026-07-16T15:41:10.829000+00:00",
       "time": "11:41 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:15 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $506.0** Current: **$507.01** | Strength: 5/5 Recent 1H swing low; 20-day VWAP ($520.80) \u2212 $15 approximates support zon"
-    },
-    {
-      "ts": "2026-07-16T15:14:35.340000+00:00",
-      "time": "11:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1183.57** Current: **$1184.22** | Strength: 5/5 Today's low, recent daily support, Fib 0.236 at $1146.55 just below"
-    },
-    {
-      "ts": "2026-07-16T15:14:32.149000+00:00",
-      "time": "11:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $506.0** Current: **$505.21** | Strength: 5/5 Recent 1H swing low; 20-day VWAP ($520.80) \u2212 $15 approximates support zon"
-    },
-    {
-      "ts": "2026-07-16T15:10:17.516000+00:00",
-      "time": "11:10 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $206.16** Current: **$206.54** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
-    },
-    {
-      "ts": "2026-07-16T15:05:59.567000+00:00",
-      "time": "11:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $120.5** Current: **$120.51** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
     }
   ]
 }
