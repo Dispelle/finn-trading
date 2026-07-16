@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-16T15:23:38.261868+00:00",
+  "generated_at": "2026-07-16T15:37:54.537168+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T15:28:27.101000+00:00",
+      "time": "11:28 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $399.16** Current: **$398.80** | Strength: 5/5 Weekly MA20; psychological round; failed to hold; slope down = weak sup"
+    },
+    {
+      "ts": "2026-07-16T15:27:24.132000+00:00",
+      "time": "11:27 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.46** Current: **$12.48** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
+    },
+    {
+      "ts": "2026-07-16T15:26:18.689000+00:00",
+      "time": "11:26 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $399.16** Current: **$399.31** | Strength: 5/5 Weekly MA20; psychological round; failed to hold; slope down = weak sup"
+    },
     {
       "ts": "2026-07-16T15:15:40.036000+00:00",
       "time": "11:15 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:05 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $206.16** Current: **$206.08** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
-    },
-    {
-      "ts": "2026-07-16T14:54:18.597000+00:00",
-      "time": "10:54 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1180.3** Current: **$1180.00** | Strength: 5/5 \u2014 reason: Swing high 60d (key structure point); 0.618 Fib golden pocket"
-    },
-    {
-      "ts": "2026-07-16T14:52:10.691000+00:00",
-      "time": "10:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1180.3** Current: **$1180.62** | Strength: 5/5 \u2014 reason: Swing high 60d (key structure point); 0.618 Fib golden pocket"
-    },
-    {
-      "ts": "2026-07-16T14:51:06.874000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.46** Current: **$12.45** | Strength: 5/5 20-day VWAP (anchor); MA20 ($12.53); current price right at this zone\u2014very"
     }
   ]
 }
