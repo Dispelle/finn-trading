@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T15:37:54.537168+00:00",
+  "generated_at": "2026-07-16T15:52:55.885906+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T15:41:10.829000+00:00",
+      "time": "11:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $207.58** Current: **$207.54** | Strength: 5/5 Fibonacci 0.618 (golden pocket start, 189.80\u2192236.54 swing)"
+    },
     {
       "ts": "2026-07-16T15:28:27.101000+00:00",
       "time": "11:28 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:05 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $120.5** Current: **$120.51** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + "
-    },
-    {
-      "ts": "2026-07-16T15:05:58.104000+00:00",
-      "time": "11:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $206.16** Current: **$206.08** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
     }
   ]
 }
