@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T22:23:33.968279+00:00",
+  "generated_at": "2026-07-16T22:38:21.686000+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T22:34:30.999000+00:00",
+      "time": "06:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,064** | P&L: **-21"
+    },
     {
       "ts": "2026-07-16T20:34:26.832000+00:00",
       "time": "04:34 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:44 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $250.92** Current: **$250.72** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
-    },
-    {
-      "ts": "2026-07-16T19:40:20.067000+00:00",
-      "time": "03:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $94.63** Current: **$94.55** | Strength: 5/5 |"
     }
   ]
 }
