@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-16T13:52:48.917853+00:00",
+  "generated_at": "2026-07-16T14:07:50.596695+00:00",
   "items": [
     {
-      "ts": "2026-07-16T13:52:23.691000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $511.26** Current: **$513.13** | Strength: 5/5 Recent 1H support cluster ($510.5, $510.25); intraday floor"
-    },
-    {
-      "ts": "2026-07-16T13:51:22.277000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $94.63** Current: **$94.73** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-16T13:51:20.081000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $708.5** Current: **$708.53** | Strength: 5/5 1H low support (multiple touches in last 20 bars); intraday key floor"
-    },
-    {
-      "ts": "2026-07-16T13:51:18.112000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $207.65** Current: **$207.74** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (197.22\u2013236.54 swing), prior micro-resi"
-    },
-    {
-      "ts": "2026-07-16T13:51:17.595000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $207.58** Current: **$207.74** | Strength: 5/5 Fibonacci 0.618 (golden pocket start, 189.80\u2192236.54 swing)"
-    },
-    {
-      "ts": "2026-07-16T13:48:05.022000+00:00",
-      "time": "09:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $571.26** Current: **$572.07** | Strength: 5/5 (approximately)** \u2014 1H low from 6 bars ago (569.37 low); technical floor"
-    },
-    {
-      "ts": "2026-07-16T13:47:01.972000+00:00",
-      "time": "09:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $393.94** Current: **$394.22** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start from 349.20\u2192466.32 swing). STRON"
-    },
-    {
-      "ts": "2026-07-16T13:46:59.634000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-07-16T14:04:16.563000+00:00",
+      "time": "10:04 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $571.26** Current: **$571.16** | Strength: 5/5 (approximately)** \u2014 1H low from 6 bars ago (569.37 low); technical floor"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1172.0** Current: **$1171.91** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-16T13:44:52.973000+00:00",
-      "time": "09:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $343.45** Current: **$343.59** | Strength: 5/5 \u2014 60-day absolute high; psychological major resistance; 1.272 Fib extens"
-    },
-    {
-      "ts": "2026-07-16T13:44:51.490000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-07-16T14:04:15.976000+00:00",
+      "time": "10:04 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $708.5** Current: **$708.27** | Strength: 5/5 1H low support (multiple touches in last 20 bars); intraday key floor"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1173.93** Current: **$1171.91** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-16T14:03:11.623000+00:00",
+      "time": "10:03 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $389.29** Current: **$389.62** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-16T14:03:10.400000+00:00",
+      "time": "10:03 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $389.3** Current: **$389.62** | Strength: 5/5 \u2014 **0.618 Fibonacci (golden pocket)** + 20-day VWAP $399.05 *minus $10.4"
+    },
+    {
+      "ts": "2026-07-16T14:02:06.531000+00:00",
+      "time": "10:02 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1173.93** Current: **$1174.84** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-16T14:02:04.631000+00:00",
+      "time": "10:02 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $752.41** Current: **$752.52** | Strength: 5/5 60-day swing high (7 days ago); intraday peak; strong rejection zone"
+    },
+    {
+      "ts": "2026-07-16T14:01:00.868000+00:00",
+      "time": "10:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1172.0** Current: **$1172.12** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-16T13:58:52.150000+00:00",
+      "time": "09:58 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $145.9** Current: **$145.69** | Strength: 5/5 Fibonacci 0.618 golden pocket (major confluence) + 0.650 at $145.01 clust"
+    },
+    {
+      "ts": "2026-07-16T13:56:42.951000+00:00",
+      "time": "09:56 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP2 $330.0** Current: **$329.94** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-16T13:55:38.457000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE TP2 $330.0** Current: **$330.13** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
