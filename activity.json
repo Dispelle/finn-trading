@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-16T14:08:00.581304+00:00",
+  "generated_at": "2026-07-16T14:22:51.037137+00:00",
   "items": [
+    {
+      "ts": "2026-07-16T14:17:01.243000+00:00",
+      "time": "10:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R1 $64597.57** Current: **$64639.29** | Strength: 4/5 Prior 10-day high (2 bars ago); 1H swing high cluster"
+    },
+    {
+      "ts": "2026-07-16T14:15:59.606000+00:00",
+      "time": "10:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $131.63** Current: **$131.71** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-16T14:13:51.135000+00:00",
+      "time": "10:13 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $392.45** Current: **$392.99** | Strength: 5/5 \u2014 **0.618 Fib (golden pocket)** \u2014 highly confluent. Prior swing low zon"
+    },
+    {
+      "ts": "2026-07-16T14:08:29.964000+00:00",
+      "time": "10:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $580.0** Current: **$581.14** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-16T14:08:29.478000+00:00",
+      "time": "10:08 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $580.83** Current: **$581.14** | Strength: 5/5 0.382 Fib retracement + confluent with Day -9 daily low ($581.45) + MA50"
+    },
     {
       "ts": "2026-07-16T14:04:16.563000+00:00",
       "time": "10:04 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:02 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1173.93** Current: **$1174.84** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-16T14:02:04.631000+00:00",
-      "time": "10:02 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $752.41** Current: **$752.52** | Strength: 5/5 60-day swing high (7 days ago); intraday peak; strong rejection zone"
-    },
-    {
-      "ts": "2026-07-16T14:01:00.868000+00:00",
-      "time": "10:01 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1172.0** Current: **$1172.12** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-16T13:58:52.150000+00:00",
-      "time": "09:58 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $145.9** Current: **$145.69** | Strength: 5/5 Fibonacci 0.618 golden pocket (major confluence) + 0.650 at $145.01 clust"
-    },
-    {
-      "ts": "2026-07-16T13:56:42.951000+00:00",
-      "time": "09:56 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP2 $330.0** Current: **$329.94** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-16T13:55:38.457000+00:00",
-      "time": "09:55 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE TP2 $330.0** Current: **$330.13** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
