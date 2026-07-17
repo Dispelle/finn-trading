@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T14:51:57.969353+00:00",
+  "generated_at": "2026-07-17T15:06:09.149135+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T14:59:52.330000+00:00",
+      "time": "10:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $122.15** Current: **$122.06** | Strength: 5/5 \u2014 reason: 0.618 Golden Pocket (Fibonacci sacred level) + confluence with"
+    },
     {
       "ts": "2026-07-17T14:41:51.103000+00:00",
       "time": "10:41 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:06 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.1** Current: **$12.11** | Strength: 4/5 \u2014 Yesterday's low + 20-day VWAP ($12.42) proximity = short-term floor"
-    },
-    {
-      "ts": "2026-07-17T14:06:44.842000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.12** Current: **$204.15** | Strength: 4/5 |"
     }
   ]
 }
