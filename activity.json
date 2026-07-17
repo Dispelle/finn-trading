@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T19:21:35.974323+00:00",
+  "generated_at": "2026-07-17T19:36:28.137995+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T19:28:50.853000+00:00",
+      "time": "03:28 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $695.43** Current: **$695.99** | Strength: 4/5 Fib 0.500 (midpoint); psychological round number; prior intraday support"
+    },
     {
       "ts": "2026-07-17T19:18:13.554000+00:00",
       "time": "03:18 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:27 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.49** Current: **$17.48** | Strength: 5/5 0.650 Fib retracement; psychological zone; 1H recent low cluster"
-    },
-    {
-      "ts": "2026-07-17T18:20:45.407000+00:00",
-      "time": "02:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $495.35** Current: **$495.28** | Strength: 5/5 Most recent swing low (intraday, 60-day data); tested 3x in last 5 days;"
     }
   ]
 }
