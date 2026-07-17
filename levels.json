@@ -13066,6 +13066,26 @@
         "source_brief": "2026-07-17",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 895.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 815.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
