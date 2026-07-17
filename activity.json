@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T18:37:17.133283+00:00",
+  "generated_at": "2026-07-17T18:51:25.393865+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T18:47:28.023000+00:00",
+      "time": "02:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $334.08** Current: **$334.21** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (257.19 \u2192 317.40)"
+    },
     {
       "ts": "2026-07-17T18:36:46.421000+00:00",
       "time": "02:36 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:57 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $744.78** Current: **$744.50** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-17T17:42:35.181000+00:00",
-      "time": "01:42 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW STOP $649.05** Current: **$648.75** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
