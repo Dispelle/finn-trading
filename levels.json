@@ -14989,7 +14989,37 @@
         "price": 363.32,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: 60-day low (recent swing low); **current price $364.96 is only 1.6 cents above this**",
+        "reason": "\u2014 **60-day low (strong anchor)**; psychological round at $363; confluence with lower-low pattern; **only 0.64 cents belo",
+        "status": "active",
+        "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 375.71,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 20-day VWAP + zone of last week's closes ($377.01\u2013$378.13); previous intraday resistance",
+        "status": "active",
+        "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 379.78,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **0.786 Fibonacci retracement (golden zone start)**; aligns with last 60-day swing lows cluster ($365.77\u2013$368.95); psy",
+        "status": "active",
+        "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 392.71,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket center)** + 20% retracement of entire 60-day range; strong confluence with swing low ",
         "status": "active",
         "source_brief": "2026-07-17",
         "hit_count": 0,
