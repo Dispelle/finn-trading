@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-17T15:22:28.685036+00:00",
+  "generated_at": "2026-07-17T15:36:10.377618+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T15:32:45.372000+00:00",
+      "time": "11:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $334.68** Current: **$334.55** | Strength: 5/5 \u2014 60-day high, TODAY'S HIGH, Fibonacci 1.000 extension, round psycholog"
+    },
+    {
+      "ts": "2026-07-17T15:30:37.754000+00:00",
+      "time": "11:30 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $334.68** Current: **$334.80** | Strength: 5/5 \u2014 60-day high, TODAY'S HIGH, Fibonacci 1.000 extension, round psycholog"
+    },
     {
       "ts": "2026-07-17T14:59:52.330000+00:00",
       "time": "10:59 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:11 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $489.71** Current: **$492.93** | Strength: 4/5 MA50 (daily); key intermediate support; if breached = trend weakening si"
-    },
-    {
-      "ts": "2026-07-17T14:11:00.426000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S2 $96.0** Current: **$96.10** | Strength: 4/5 Gareth buy zone lower end \u2014 $96-98 range"
-    },
-    {
-      "ts": "2026-07-17T14:06:48.318000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.1** Current: **$12.11** | Strength: 4/5 \u2014 Yesterday's low + 20-day VWAP ($12.42) proximity = short-term floor"
     }
   ]
 }
