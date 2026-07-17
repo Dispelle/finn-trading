@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T14:36:32.603086+00:00",
+  "generated_at": "2026-07-17T14:51:09.703893+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T14:41:51.103000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $873.63** Current: **$873.18** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
+    },
+    {
+      "ts": "2026-07-17T14:39:45.904000+00:00",
+      "time": "10:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $248.91** Current: **$249.16** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-17T14:39:45.465000+00:00",
+      "time": "10:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $249.09** Current: **$249.16** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-17T14:36:31.642000+00:00",
       "time": "10:36 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:06 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.12** Current: **$204.15** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-17T14:06:44.269000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $486.8** Current: **$486.91** | Strength: 5/5 Prior swing low (60-day); psychological $490 round; if broken \u2192 BOS downt"
-    },
-    {
-      "ts": "2026-07-17T14:05:41.484000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.76** Current: **$745.93** | Strength: 5/5 \u2014 Yesterday's daily low, current 1H support base"
-    },
-    {
-      "ts": "2026-07-17T14:04:37.380000+00:00",
-      "time": "10:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $330.0** Current: **$330.33** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
     }
   ]
 }
