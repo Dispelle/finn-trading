@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T19:06:26.250123+00:00",
+  "generated_at": "2026-07-17T19:21:26.984502+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T19:18:13.554000+00:00",
+      "time": "03:18 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $201.91** Current: **$201.95** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
+    },
+    {
+      "ts": "2026-07-17T19:17:09.644000+00:00",
+      "time": "03:17 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $201.91** Current: **$201.78** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
+    },
+    {
+      "ts": "2026-07-17T19:15:02.867000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $695.43** Current: **$695.24** | Strength: 4/5 Fib 0.500 (midpoint); psychological round number; prior intraday support"
+    },
     {
       "ts": "2026-07-17T19:00:11.155000+00:00",
       "time": "03:00 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:20 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $495.35** Current: **$495.28** | Strength: 5/5 Most recent swing low (intraday, 60-day data); tested 3x in last 5 days;"
-    },
-    {
-      "ts": "2026-07-17T18:15:26.887000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S2 $96.0** Current: **$95.82** | Strength: 4/5 Gareth buy zone lower end \u2014 $96-98 range"
-    },
-    {
-      "ts": "2026-07-17T18:06:56.836000+00:00",
-      "time": "02:06 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.12** Current: **$204.08** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-17T18:03:46.622000+00:00",
-      "time": "02:03 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$745.02** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
     }
   ]
 }
