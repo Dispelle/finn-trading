@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T18:06:20.807915+00:00",
+  "generated_at": "2026-07-17T18:21:22.959320+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T18:20:45.407000+00:00",
+      "time": "02:20 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $495.35** Current: **$495.28** | Strength: 5/5 Most recent swing low (intraday, 60-day data); tested 3x in last 5 days;"
+    },
+    {
+      "ts": "2026-07-17T18:15:26.887000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S2 $96.0** Current: **$95.82** | Strength: 4/5 Gareth buy zone lower end \u2014 $96-98 range"
+    },
+    {
+      "ts": "2026-07-17T18:06:56.836000+00:00",
+      "time": "02:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.12** Current: **$204.08** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-17T18:03:46.622000+00:00",
       "time": "02:03 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:36 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $891.66** Current: **$891.62** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-17T17:36:09.297000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $504.72** Current: **$503.54** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-17T17:35:05.441000+00:00",
-      "time": "01:35 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $565.24** Current: **$565.02** | Strength: 4/5 Fibonacci 0.500 midpoint; confluence with 60d low ($566.83)"
-    },
-    {
-      "ts": "2026-07-17T17:32:59.654000+00:00",
-      "time": "01:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $384.5** Current: **$384.49** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
