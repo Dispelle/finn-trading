@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-17T14:06:15.453793+00:00",
+  "generated_at": "2026-07-17T14:21:07.464153+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T14:11:03.032000+00:00",
+      "time": "10:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $746.5** Current: **$746.53** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-17T14:11:01.245000+00:00",
+      "time": "10:11 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $489.71** Current: **$492.93** | Strength: 4/5 MA50 (daily); key intermediate support; if breached = trend weakening si"
+    },
+    {
+      "ts": "2026-07-17T14:11:00.426000+00:00",
+      "time": "10:11 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S2 $96.0** Current: **$96.10** | Strength: 4/5 Gareth buy zone lower end \u2014 $96-98 range"
+    },
+    {
+      "ts": "2026-07-17T14:06:48.318000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.1** Current: **$12.11** | Strength: 4/5 \u2014 Yesterday's low + 20-day VWAP ($12.42) proximity = short-term floor"
+    },
+    {
+      "ts": "2026-07-17T14:06:44.842000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.12** Current: **$204.15** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-07-17T14:06:44.269000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $486.8** Current: **$486.91** | Strength: 5/5 Prior swing low (60-day); psychological $490 round; if broken \u2192 BOS downt"
+    },
     {
       "ts": "2026-07-17T14:05:41.484000+00:00",
       "time": "10:05 AM ET",
@@ -24,42 +60,6 @@
       "time": "10:02 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $330.0** Current: **$329.82** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
-    },
-    {
-      "ts": "2026-07-17T14:01:22.448000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $845.45** Current: **$850.26** | Strength: 4/5 \u2014 Fibonacci 0.500 (50% retracement); round psychological level. Prior sup"
-    },
-    {
-      "ts": "2026-07-17T14:00:18.748000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$745.01** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-17T14:00:16.591000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $201.91** Current: **$201.92** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
-    },
-    {
-      "ts": "2026-07-17T14:00:16.190000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $201.64** Current: **$201.92** | Strength: 5/5 \u2014 **20-day VWAP**. Volume-weighted anchor; price has gravitated here; t"
-    },
-    {
-      "ts": "2026-07-17T13:59:14.507000+00:00",
-      "time": "09:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $93.39** Current: **$93.48** | Strength: 4/5 Daily close (5 days ago); swing low confluence"
-    },
-    {
-      "ts": "2026-07-17T13:58:10.049000+00:00",
-      "time": "09:58 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $92.83** Current: **$93.14** | Strength: 4/5 Today's daily low; immediate intraday support; micro-level holding"
     }
   ]
 }
