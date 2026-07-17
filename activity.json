@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T14:36:20.882450+00:00",
+  "generated_at": "2026-07-17T14:36:32.603086+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T14:36:31.642000+00:00",
+      "time": "10:36 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $873.63** Current: **$876.24** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
+    },
     {
       "ts": "2026-07-17T14:34:55.833000+00:00",
       "time": "10:34 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:04 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $330.0** Current: **$330.33** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
-    },
-    {
-      "ts": "2026-07-17T14:03:32.521000+00:00",
-      "time": "10:03 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $695.43** Current: **$695.70** | Strength: 4/5 Fib 0.500 (midpoint); psychological round number; prior intraday support"
     }
   ]
 }
