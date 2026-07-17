@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-17T17:06:17.144587+00:00",
+  "generated_at": "2026-07-17T17:21:18.446808+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T17:08:27.487000+00:00",
+      "time": "01:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $567.04** Current: **$567.36** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement (psychological 50% zone, **current price n"
+    },
+    {
+      "ts": "2026-07-17T17:08:27.022000+00:00",
+      "time": "01:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $566.83** Current: **$567.36** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-17T17:07:22.426000+00:00",
+      "time": "01:07 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $206.16** Current: **$206.40** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
+    },
     {
       "ts": "2026-07-17T17:05:14.241000+00:00",
       "time": "01:05 PM ET",
@@ -42,24 +60,6 @@
       "time": "12:48 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $94.63** Current: **$94.67** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-17T16:48:14.818000+00:00",
-      "time": "12:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $384.5** Current: **$384.90** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-17T16:45:01.739000+00:00",
-      "time": "12:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $891.66** Current: **$892.39** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-17T16:43:58.099000+00:00",
-      "time": "12:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.49** Current: **$17.50** | Strength: 5/5 0.650 Fib retracement; psychological zone; 1H recent low cluster"
     }
   ]
 }
