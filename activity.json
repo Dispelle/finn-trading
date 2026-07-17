@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:06:12.352937+00:00",
+  "generated_at": "2026-07-17T16:21:13.161860+00:00",
   "items": [
+    {
+      "ts": "2026-07-17T16:10:57.322000+00:00",
+      "time": "12:10 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $74.04** Current: **$74.07** | Strength: 5/5 Recent swing low (60d cluster); 1H low near here; minor support"
+    },
     {
       "ts": "2026-07-17T16:00:19.299000+00:00",
       "time": "12:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:39 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $249.09** Current: **$249.16** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-17T14:36:31.642000+00:00",
-      "time": "10:36 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $873.63** Current: **$876.24** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
     }
   ]
 }
