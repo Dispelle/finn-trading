@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-18T14:22:49.282680+00:00",
+  "generated_at": "2026-07-18T14:37:55.184411+00:00",
   "items": [
+    {
+      "ts": "2026-07-18T14:35:33.295000+00:00",
+      "time": "10:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,131** | P&L: **-21"
+    },
     {
       "ts": "2026-07-18T12:35:29.941000+00:00",
       "time": "08:35 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:18 PM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $201.91** Current: **$201.95** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
-    },
-    {
-      "ts": "2026-07-17T19:17:09.644000+00:00",
-      "time": "03:17 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $201.91** Current: **$201.78** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
     }
   ]
 }
