@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-18T20:24:16.109289+00:00",
+  "generated_at": "2026-07-18T20:38:17.410718+00:00",
   "items": [
+    {
+      "ts": "2026-07-18T20:35:41.549000+00:00",
+      "time": "04:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,569**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-18T18:35:39.879000+00:00",
       "time": "02:35 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:39 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $246.72** Current: **$246.80** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
-    },
-    {
-      "ts": "2026-07-17T19:37:21.869000+00:00",
-      "time": "03:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $246.72** Current: **$246.67** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
     }
   ]
 }
