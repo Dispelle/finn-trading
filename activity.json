@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-18T10:22:30.927358+00:00",
+  "generated_at": "2026-07-18T10:37:32.403885+00:00",
   "items": [
+    {
+      "ts": "2026-07-18T10:35:27.890000+00:00",
+      "time": "06:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,962** | P&L: **-21"
+    },
     {
       "ts": "2026-07-18T00:35:12.887000+00:00",
       "time": "08:35 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $695.43** Current: **$695.24** | Strength: 4/5 Fib 0.500 (midpoint); psychological round number; prior intraday support"
-    },
-    {
-      "ts": "2026-07-17T19:00:11.155000+00:00",
-      "time": "03:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $334.08** Current: **$333.98** | Strength: 5/5 \u2014 Fibonacci 1.272 extension (257.19 \u2192 317.40)"
     }
   ]
 }
