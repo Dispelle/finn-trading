@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-18T16:23:03.359468+00:00",
+  "generated_at": "2026-07-18T16:38:02.734086+00:00",
   "items": [
+    {
+      "ts": "2026-07-18T16:35:36.358000+00:00",
+      "time": "12:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,106**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-18T14:35:33.295000+00:00",
       "time": "10:35 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:28 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $695.43** Current: **$695.99** | Strength: 4/5 Fib 0.500 (midpoint); psychological round number; prior intraday support"
-    },
-    {
-      "ts": "2026-07-17T19:18:13.554000+00:00",
-      "time": "03:18 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $201.91** Current: **$201.95** | Strength: 3/5 \u2014 20-day VWAP; supply/demand fairness level"
     }
   ]
 }
