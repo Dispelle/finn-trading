@@ -10078,6 +10078,66 @@
         "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 569.5,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fibonacci retracement, psychological support/resistance pivot, recent 1H high confluence",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 593.65,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.382 Fibonacci, former daily support (10-day low = 568.92, 10-day high = 618.21), MA50 nearby ($597.33)",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 607.47,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (anchor), MA20 daily ($610.93), invalidation level for short bias",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 545.35,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **Golden Pocket (0.618 Fib)**, psychological round number, prior swing low at $542.67 nearby",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 510.97,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fibonacci (deeper retracement), MA200 anchor ($491.15) + buffer",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 467.17,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Swing low anchor (60-day bottom), prior capitulation low",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
@@ -17366,7 +17426,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19126,7 +19186,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "1H low (intraday cluster); psychological round; interim demand zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -19256,7 +19316,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "0.618 Fib (golden pocket); MA20 proximity; psychological pivot",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -19306,7 +19366,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -19426,7 +19486,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "**60d low / confirmed floor**; Fib 0.786; extended liquidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
