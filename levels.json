@@ -39230,7 +39230,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -40160,7 +40160,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 60-day absolute low, hard support, invalidation level for any long thesis",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -40200,7 +40200,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket start), 60-day swing high confluence, prior support turned resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -40230,7 +40230,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 60-day swing low (2nd tier), tested multiple times, psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -40260,7 +40260,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement, halfway to 60-day range reset",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -40410,7 +40410,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 60-day absolute high, failed supply zone, major trend-flip level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -40460,7 +40460,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 Yesterday's low + 20-day VWAP ($12.42) proximity = short-term floor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
