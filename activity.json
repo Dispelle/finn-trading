@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:47:19.791875+00:00",
+  "generated_at": "2026-07-20T17:02:19.189669+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T16:55:11.421000+00:00",
+      "time": "12:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.12** Current: **$203.92** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-20T16:36:49.581000+00:00",
       "time": "12:36 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R3 $252.02** Current: **$251.93** | Strength: 5/5 **Fibonacci 0.500 (mid-range retracement)**; confluence with weekly res"
-    },
-    {
-      "ts": "2026-07-20T15:21:07.937000+00:00",
-      "time": "11:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.48** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
     }
   ]
 }
