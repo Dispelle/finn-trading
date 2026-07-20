@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-20T13:31:58.160177+00:00",
+  "generated_at": "2026-07-20T13:32:23.192276+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T13:32:03.758000+00:00",
+      "time": "09:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $249.09** Current: **$249.01** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-20T13:32:00.328000+00:00",
+      "time": "09:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $74.04** Current: **$74.05** | Strength: 5/5 Recent swing low (60d cluster); 1H low near here; minor support"
+    },
     {
       "ts": "2026-07-20T13:31:58.002000+00:00",
       "time": "09:31 AM ET",
@@ -48,18 +60,6 @@
       "time": "09:30 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$747.31** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-20T13:30:49.983000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $746.5** Current: **$747.31** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-20T13:30:49.432000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $17.77** Current: **$17.80** | Strength: 5/5 **GOLDEN POCKET** (0.618 Fib); MA20 daily slopes to $16.36; swing low conf"
     }
   ]
 }
