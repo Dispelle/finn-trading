@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-20T19:32:54.830777+00:00",
+  "generated_at": "2026-07-20T19:47:44.009919+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T19:43:07.708000+00:00",
+      "time": "03:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.53** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
+    },
+    {
+      "ts": "2026-07-20T19:40:59.431000+00:00",
+      "time": "03:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $97.57** Current: **$97.71** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
+    },
+    {
+      "ts": "2026-07-20T19:37:43.107000+00:00",
+      "time": "03:37 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S3 $55.27** Current: **$55.27** | Strength: 4/5 0.786 Fibonacci; 60-day technical level; MA50 proximity ($58.48 moving dow"
+    },
     {
       "ts": "2026-07-20T19:32:23.061000+00:00",
       "time": "03:32 PM ET",
@@ -42,24 +60,6 @@
       "time": "03:13 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $97.36** Current: **$97.31** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
-    },
-    {
-      "ts": "2026-07-20T18:42:51.627000+00:00",
-      "time": "02:42 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S1 $98.0** Current: **$98.11** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
-    },
-    {
-      "ts": "2026-07-20T18:41:46.955000+00:00",
-      "time": "02:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S1 $98.0** Current: **$97.96** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
-    },
-    {
-      "ts": "2026-07-20T18:40:43.146000+00:00",
-      "time": "02:40 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $873.63** Current: **$873.64** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
     }
   ]
 }
