@@ -28154,7 +28154,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -29034,7 +29034,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 (retracement toward prior high).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29164,7 +29164,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 (midpoint of entire 60d swing). STRONG.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29204,7 +29204,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket start from 349.20\u2192466.32 swing). STRONGEST.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29224,7 +29224,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 20-day VWAP ($377.70) \u2013 3%, prior daily low at $359.90.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29264,7 +29264,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.786 (deep retracement toward base of swing).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29284,7 +29284,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 1H recent low + MA20 proximity ($381.13).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -29513,29 +29513,29 @@
         "price": 407.76,
         "type": "R1",
         "strength": 5,
-        "reason": "Fibonacci 0.500 (swing midpoint 349.20\u2192466.32); round psychological level; prior daily support",
+        "reason": "\u2014 0.500 Fibonacci retracement + MA50 proximity + daily resistance cluster",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 421.58,
         "type": "R2",
-        "strength": 4,
-        "reason": "Fibonacci 0.382 retracement; prior swing high vicinity; supply zone from 5-day pullback",
+        "strength": 5,
+        "reason": "\u2014 0.382 Fibonacci retracement + prior swing high proximity ($420.78)",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 438.68,
         "type": "R3",
-        "strength": 4,
-        "reason": "Fibonacci 0.236 extension; aligns with weekly resistance cluster; gap to $466.32 60-day swing high",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fibonacci retracement + swing high $432.70 + swing high $427.98 cluster",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29553,19 +29553,19 @@
         "price": 393.94,
         "type": "S1",
         "strength": 5,
-        "reason": "**Fibonacci 0.618 (golden pocket start)**; MA20 $380.41 + buffer; daily HL cluster; high conviction",
+        "reason": "\u2014 **GOLDEN POCKET** (0.618 Fibonacci)",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 382.27,
         "type": "S2",
-        "strength": 4,
-        "reason": "Recent 60-day swing low; MA20 $380.41 just above; loss of higher-low structure",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low #4 + prior support cluster ($378.65, $373.35)",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29583,9 +29583,9 @@
         "price": 373.35,
         "type": "S3",
         "strength": 4,
-        "reason": "60-day swing low cluster; major structural support below golden pocket",
+        "reason": "\u2014 60-day swing low #3 + Fibonacci 0.786 ($374.26) near",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
