@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-20T15:47:15.011802+00:00",
+  "generated_at": "2026-07-20T16:02:15.955114+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T16:01:43.663000+00:00",
+      "time": "12:01 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R3 $252.02** Current: **$252.06** | Strength: 5/5 **Fibonacci 0.500 (mid-range retracement)**; confluence with weekly res"
+    },
     {
       "ts": "2026-07-20T15:43:35.649000+00:00",
       "time": "11:43 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:12 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $250.92** Current: **$250.94** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
-    },
-    {
-      "ts": "2026-07-20T15:11:28.811000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $368.58** Current: **$368.22** | Strength: 5/5 \u2014 Swing low from 60-day lookback"
     }
   ]
 }
