@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-20T14:47:23.760594+00:00",
+  "generated_at": "2026-07-20T15:02:22.872936+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T15:01:45.875000+00:00",
+      "time": "11:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S3 $55.1** Current: **$55.06** | Strength: 4/5 \u2014 Swing low support"
+    },
+    {
+      "ts": "2026-07-20T14:58:33.428000+00:00",
+      "time": "10:58 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S3 $55.27** Current: **$55.27** | Strength: 4/5 0.786 Fibonacci; 60-day technical level; MA50 proximity ($58.48 moving dow"
+    },
+    {
+      "ts": "2026-07-20T14:52:07.492000+00:00",
+      "time": "10:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S3 $55.27** Current: **$55.31** | Strength: 4/5 0.786 Fibonacci; 60-day technical level; MA50 proximity ($58.48 moving dow"
+    },
     {
       "ts": "2026-07-20T14:46:45.255000+00:00",
       "time": "10:46 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:20 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $744.78** Current: **$744.62** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-20T14:18:46.535000+00:00",
-      "time": "10:18 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $873.63** Current: **$873.20** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
-    },
-    {
-      "ts": "2026-07-20T14:17:43.034000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $393.94** Current: **$394.25** | Strength: 5/5 \u2014 **GOLDEN POCKET** (0.618 Fibonacci)"
-    },
-    {
-      "ts": "2026-07-20T14:12:18.889000+00:00",
-      "time": "10:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.02** Current: **$744.89** | Strength: 5/5 MA20 (20-day moving average); price closing near this daily = bounce zon"
     }
   ]
 }
