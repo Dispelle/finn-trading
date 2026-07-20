@@ -24928,7 +24928,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -26078,7 +26078,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "20-day VWAP (current mean), 1H low cluster at 720.95",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26088,7 +26088,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Daily HL + weekly higher low (confirmed), distribution exit zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26128,7 +26128,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Intermediate swing high (3 days ago), repeat test level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26348,7 +26348,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fib 0.382 retrace, prior daily support, psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26358,7 +26358,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day swing high, recent ATH, psychological round, fib extension confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26368,7 +26368,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "Fib 1.272 extension (620.10\u2192748.65), breakout target if R1 closes",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -26377,9 +26377,9 @@
         "price": 719.76,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP; MA20 short-term; psychological pivot from recent chop",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26396,10 +26396,10 @@
       {
         "price": 748.65,
         "type": "R3",
-        "strength": 4,
-        "reason": "60d absolute high; Fib extension zone (1.272 @ $777.60 above); round resistance; earnings/macro risk",
+        "strength": 5,
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26439,7 +26439,57 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 724.31,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 684.92,
+        "type": "S1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 681.62,
+        "type": "S2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 667.59,
+        "type": "S3",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 684.92,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
