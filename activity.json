@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-20T19:47:53.941173+00:00",
+  "generated_at": "2026-07-20T20:02:44.339826+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T19:58:03.929000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $135.03** Current: **$135.00** | Strength: 5/5 50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high"
+    },
+    {
+      "ts": "2026-07-20T19:50:34.917000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW STOP $649.05** Current: **$648.11** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-20T19:43:07.708000+00:00",
       "time": "03:43 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:16 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $337.65** Current: **$337.89** | Strength: 5/5 \u2014 fib 0.236 retracement, MA20 proximity ($335.09)"
-    },
-    {
-      "ts": "2026-07-20T19:15:15.211000+00:00",
-      "time": "03:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $337.65** Current: **$337.64** | Strength: 5/5 \u2014 fib 0.236 retracement, MA20 proximity ($335.09)"
-    },
-    {
-      "ts": "2026-07-20T19:13:04.873000+00:00",
-      "time": "03:13 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **MSTR \u2014 BROKE BELOW S3 $97.36** Current: **$97.31** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
     }
   ]
 }
