@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-20T13:32:54.243329+00:00",
+  "generated_at": "2026-07-20T13:46:42.339997+00:00",
   "items": [
     {
-      "ts": "2026-07-20T13:32:03.758000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-20T13:46:15.584000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $250.42** Current: **$250.49** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
+    },
+    {
+      "ts": "2026-07-20T13:46:14.485000+00:00",
+      "time": "09:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $249.09** Current: **$249.01** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $135.03** Current: **$134.40** | Strength: 5/5 50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high"
     },
     {
-      "ts": "2026-07-20T13:32:00.328000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-20T13:44:02.678000+00:00",
+      "time": "09:44 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $74.04** Current: **$74.05** | Strength: 5/5 Recent swing low (60d cluster); 1H low near here; minor support"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $135.03** Current: **$135.10** | Strength: 5/5 50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high"
     },
     {
-      "ts": "2026-07-20T13:31:58.002000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-20T13:43:57.981000+00:00",
+      "time": "09:43 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $206.16** Current: **$205.27** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $895.0** Current: **$897.67** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-20T13:31:57.112000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S1 $98.0** Current: **$98.04** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
-    },
-    {
-      "ts": "2026-07-20T13:30:55.142000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $248.91** Current: **$249.37** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-20T13:30:52.785000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-20T13:40:45.390000+00:00",
+      "time": "09:40 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $393.94** Current: **$390.34** | Strength: 5/5 \u2014 **GOLDEN POCKET** (0.618 Fibonacci)"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $520.0** Current: **$519.48** | Strength: 4/5 Prior swing low cluster ($517.82, $516.11); psychological round; 50-day M"
     },
     {
-      "ts": "2026-07-20T13:30:52.159000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $702.3** Current: **$702.37** | Strength: 3/5 Today's hourly high; recent intraday resistance (1H candles rejected here multi"
+      "ts": "2026-07-20T13:39:40.734000+00:00",
+      "time": "09:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $891.66** Current: **$890.96** | Strength: 5/5 \u2014 **"
     },
     {
-      "ts": "2026-07-20T13:30:51.526000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-20T13:38:38.558000+00:00",
+      "time": "09:38 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.02** Current: **$747.31** | Strength: 5/5 MA20 (20-day moving average); price closing near this daily = bounce zon"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1171.86** Current: **$1175.24** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
     },
     {
-      "ts": "2026-07-20T13:30:50.957000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.29** Current: **$747.31** | Strength: 4/5 Today's high; daily swing high; 20-VWAP proximity ($743.72 + $3.57)"
+      "ts": "2026-07-20T13:37:34.174000+00:00",
+      "time": "09:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1171.86** Current: **$1171.84** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
     },
     {
-      "ts": "2026-07-20T13:30:50.564000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-20T13:37:31.488000+00:00",
+      "time": "09:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $895.0** Current: **$892.00** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-20T13:37:30.622000+00:00",
+      "time": "09:37 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$747.31** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $518.74** Current: **$520.87** | Strength: 4/5 Prior daily high (today's candle); 1H high cluster $518\u2013$522; psychologi"
     }
   ]
 }
