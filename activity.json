@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-20T13:46:52.962966+00:00",
+  "generated_at": "2026-07-20T14:02:09.636529+00:00",
   "items": [
     {
-      "ts": "2026-07-20T13:46:15.584000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $250.42** Current: **$250.49** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
-    },
-    {
-      "ts": "2026-07-20T13:46:14.485000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-07-20T13:59:14.251000+00:00",
+      "time": "09:59 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $135.03** Current: **$134.40** | Strength: 5/5 50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $376.5** Current: **$376.03** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-20T13:44:02.678000+00:00",
-      "time": "09:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $135.03** Current: **$135.10** | Strength: 5/5 50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high"
-    },
-    {
-      "ts": "2026-07-20T13:43:57.981000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-20T13:58:09.911000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $895.0** Current: **$897.67** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $377.22** Current: **$377.16** | Strength: 4/5 Today's low; 1H cluster; recent printed floor (last 5 1H lows: 377\u2013381)"
     },
     {
-      "ts": "2026-07-20T13:40:45.390000+00:00",
-      "time": "09:40 AM ET",
+      "ts": "2026-07-20T13:58:07.254000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $520.0** Current: **$519.48** | Strength: 4/5 Prior swing low cluster ($517.82, $516.11); psychological round; 50-day M"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $567.04** Current: **$565.95** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement (psychological 50% zone, **current price n"
     },
     {
-      "ts": "2026-07-20T13:39:40.734000+00:00",
-      "time": "09:39 AM ET",
+      "ts": "2026-07-20T13:58:06.845000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $891.66** Current: **$890.96** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $566.83** Current: **$565.95** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-20T13:38:38.558000+00:00",
-      "time": "09:38 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1171.86** Current: **$1175.24** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
-    },
-    {
-      "ts": "2026-07-20T13:37:34.174000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-20T13:53:52.094000+00:00",
+      "time": "09:53 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1171.86** Current: **$1171.84** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $746.5** Current: **$746.38** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-20T13:37:31.488000+00:00",
-      "time": "09:37 AM ET",
+      "ts": "2026-07-20T13:52:47.446000+00:00",
+      "time": "09:52 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $895.0** Current: **$892.00** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $747.29** Current: **$746.66** | Strength: 4/5 Today's high; daily swing high; 20-VWAP proximity ($743.72 + $3.57)"
     },
     {
-      "ts": "2026-07-20T13:37:30.622000+00:00",
-      "time": "09:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $518.74** Current: **$520.87** | Strength: 4/5 Prior daily high (today's candle); 1H high cluster $518\u2013$522; psychologi"
+      "ts": "2026-07-20T13:51:42.028000+00:00",
+      "time": "09:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $569.5** Current: **$569.00** | Strength: 5/5 \u2014 0.500 Fibonacci retracement, psychological support/resistance pivot, re"
+    },
+    {
+      "ts": "2026-07-20T13:50:40.452000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $96.5** Current: **$96.31** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-20T13:50:38.436000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $330.0** Current: **$329.77** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
+    },
+    {
+      "ts": "2026-07-20T13:50:35.956000+00:00",
+      "time": "09:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $518.74** Current: **$518.24** | Strength: 4/5 Prior daily high (today's candle); 1H high cluster $518\u2013$522; psychologi"
     }
   ]
 }
