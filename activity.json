@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-20T16:02:25.752123+00:00",
+  "generated_at": "2026-07-20T16:17:15.935628+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T16:12:27.110000+00:00",
+      "time": "12:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $376.5** Current: **$376.55** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-20T16:04:57.886000+00:00",
+      "time": "12:04 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $252.06** Current: **$252.24** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
+    },
+    {
+      "ts": "2026-07-20T16:02:47.044000+00:00",
+      "time": "12:02 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $702.3** Current: **$701.99** | Strength: 3/5 Today's hourly high; recent intraday resistance (1H candles rejected here multi"
+    },
     {
       "ts": "2026-07-20T16:01:43.663000+00:00",
       "time": "12:01 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:20 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $97.36** Current: **$97.64** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
-    },
-    {
-      "ts": "2026-07-20T15:20:02.210000+00:00",
-      "time": "11:20 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $97.57** Current: **$97.64** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
-    },
-    {
-      "ts": "2026-07-20T15:13:39.762000+00:00",
-      "time": "11:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $250.92** Current: **$250.60** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
-    },
-    {
-      "ts": "2026-07-20T15:12:35.255000+00:00",
-      "time": "11:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $250.92** Current: **$250.94** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
     }
   ]
 }
