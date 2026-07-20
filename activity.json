@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T18:17:49.295994+00:00",
+  "generated_at": "2026-07-20T18:32:38.460976+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T18:30:05.959000+00:00",
+      "time": "02:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $125.54** Current: **$125.68** | Strength: 5/5 MA50 (moving average support flipped resistance); rejection zone from 4 "
+    },
+    {
+      "ts": "2026-07-20T18:27:59.301000+00:00",
+      "time": "02:27 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1155.3** Current: **$1155.81** | Strength: 5/5 **Fibonacci 0.236 retracement** + 20-day VWAP ($1,169.56 slightly above"
+    },
+    {
+      "ts": "2026-07-20T18:26:55.810000+00:00",
+      "time": "02:26 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $250.42** Current: **$250.32** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
+    },
+    {
+      "ts": "2026-07-20T18:23:42.828000+00:00",
+      "time": "02:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1155.3** Current: **$1154.79** | Strength: 5/5 **Fibonacci 0.236 retracement** + 20-day VWAP ($1,169.56 slightly above"
+    },
     {
       "ts": "2026-07-20T18:16:15.546000+00:00",
       "time": "02:16 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:49 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $250.42** Current: **$250.46** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
-    },
-    {
-      "ts": "2026-07-20T17:35:41.281000+00:00",
-      "time": "01:35 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.12** Current: **$204.16** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-20T16:55:11.421000+00:00",
-      "time": "12:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $204.12** Current: **$203.92** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-20T16:36:49.581000+00:00",
-      "time": "12:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -19.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,363**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-20T16:12:27.110000+00:00",
-      "time": "12:12 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $376.5** Current: **$376.55** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
