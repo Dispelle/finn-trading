@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T15:02:56.472848+00:00",
+  "generated_at": "2026-07-20T15:17:13.203939+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T15:13:39.762000+00:00",
+      "time": "11:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $250.92** Current: **$250.60** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
+    },
+    {
+      "ts": "2026-07-20T15:12:35.255000+00:00",
+      "time": "11:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $250.92** Current: **$250.94** | Strength: 5/5 Fib 0.500 (midpoint of swing); prior intraday resistance cluster (1H hi"
+    },
+    {
+      "ts": "2026-07-20T15:11:28.811000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $368.58** Current: **$368.22** | Strength: 5/5 \u2014 Swing low from 60-day lookback"
+    },
+    {
+      "ts": "2026-07-20T15:10:24.521000+00:00",
+      "time": "11:10 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $368.58** Current: **$368.63** | Strength: 5/5 \u2014 Swing low from 60-day lookback"
+    },
     {
       "ts": "2026-07-20T15:01:45.875000+00:00",
       "time": "11:01 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:36 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,319** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-20T14:32:53.981000+00:00",
-      "time": "10:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $96.96** Current: **$96.89** | Strength: 5/5 Today's low; psychological support (sub-$97 = psychological break)"
-    },
-    {
-      "ts": "2026-07-20T14:31:47.462000+00:00",
-      "time": "10:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $96.96** Current: **$97.06** | Strength: 5/5 Today's low; psychological support (sub-$97 = psychological break)"
-    },
-    {
-      "ts": "2026-07-20T14:30:43.160000+00:00",
-      "time": "10:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $340.0** Current: **$339.88** | Strength: 5/5 \u2014"
-    },
-    {
-      "ts": "2026-07-20T14:20:57.818000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $744.78** Current: **$744.62** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
     }
   ]
 }
