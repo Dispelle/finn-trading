@@ -38871,9 +38871,9 @@
         "price": 128.27,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "**GOLDEN POCKET** (61.8% Fib zone 128.27\u2013126.44); strong harmonic confluence; recent swing low rejection",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -38891,9 +38891,9 @@
         "price": 118.64,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "78.6% Fib; lower band of 52-week range; max pain level",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -39191,9 +39191,39 @@
         "price": 124.81,
         "type": "S2",
         "strength": 4,
-        "reason": "|",
+        "reason": "60-day swing low; tested 3x in last 60 days; psychological $125",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 135.03,
+        "type": "R1",
+        "strength": 5,
+        "reason": "50% Fib retracement (106.37\u2192163.70); 60-day midpoint; recent daily high cluster; psychological round",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 138.9,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Swing high (60d); break this = invalidation of bearish bias; prior HH",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 141.8,
+        "type": "R3",
+        "strength": 4,
+        "reason": "38.2% Fib; MA50 nearby at $132.48 above; extension target",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
