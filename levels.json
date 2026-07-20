@@ -23500,7 +23500,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23559,9 +23559,9 @@
         "price": 731.53,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 retracement / confluence with swing low ($731.53) / CRITICAL invalidation zone",
+        "reason": "Fib 0.500 (mid-range); psychological round number",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24550,7 +24550,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Yesterday's daily low, current 1H support base",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -24560,7 +24560,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 20-day VWAP (volume-weighted anchor)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -24730,7 +24730,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 Fibonacci 1.272 extension (687.66\u2192760.40)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -24740,7 +24740,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 Fibonacci 1.618 extension",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -24770,7 +24770,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -24839,9 +24839,69 @@
         "price": 738.2,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.382 retracement (golden zone starts) / prior swing low nearby",
+        "reason": "Fib 0.382 (702.28\u2192760.40); confluence with recent daily lows",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 747.29,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Today's high; daily swing high; 20-VWAP proximity ($743.72 + $3.57)",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 751.71,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Prior daily high (3 days ago); minor swing high cluster",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 754.95,
+        "type": "R3",
+        "strength": 5,
+        "reason": "Last swing high (5 days ago); 60-day trending high; invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.4,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day absolute peak; round trip target for extension play",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 724.48,
+        "type": "S3",
+        "strength": 5,
+        "reason": "**Fib 0.618 \"golden pocket\"** start; strong mean-reversion zone",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 714.72,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fib 0.786; nearing 200-day MA ($708.20)",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
