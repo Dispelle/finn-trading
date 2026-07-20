@@ -37482,7 +37482,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -38472,7 +38472,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement. Confluence with 60-day highs cluster. Breaking here opens path to MA50 ($133.54) on pullb",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -38692,7 +38692,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 retracement (106.37 \u2192 163.70). Mid-point of 60-day range. Psychological round-number confluence.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -38762,7 +38762,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Prior swing high (lower high in downtrend). Last significant rejection point. Critical daily resistance.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -38982,7 +38982,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.650 level. Secondary golden zone. Confluence with recent hourly lows ($126.22\u2013$126.89).",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
