@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-20T18:32:38.460976+00:00",
+  "generated_at": "2026-07-20T18:47:41.394145+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T18:42:51.627000+00:00",
+      "time": "02:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S1 $98.0** Current: **$98.11** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
+    },
+    {
+      "ts": "2026-07-20T18:41:46.955000+00:00",
+      "time": "02:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S1 $98.0** Current: **$97.96** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
+    },
+    {
+      "ts": "2026-07-20T18:40:43.146000+00:00",
+      "time": "02:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $873.63** Current: **$873.64** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
+    },
+    {
+      "ts": "2026-07-20T18:39:38.883000+00:00",
+      "time": "02:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $873.63** Current: **$873.22** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low"
+    },
+    {
+      "ts": "2026-07-20T18:36:53.033000+00:00",
+      "time": "02:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,496** | P&L: **-19"
+    },
     {
       "ts": "2026-07-20T18:30:05.959000+00:00",
       "time": "02:30 PM ET",
@@ -30,36 +60,6 @@
       "time": "02:16 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.02** Current: **$744.99** | Strength: 5/5 MA20 (20-day moving average); price closing near this daily = bounce zon"
-    },
-    {
-      "ts": "2026-07-20T18:16:14.545000+00:00",
-      "time": "02:16 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $74.04** Current: **$74.05** | Strength: 5/5 Recent swing low (60d cluster); 1H low near here; minor support"
-    },
-    {
-      "ts": "2026-07-20T18:03:27.946000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $74.04** Current: **$73.98** | Strength: 5/5 Recent swing low (60d cluster); 1H low near here; minor support"
-    },
-    {
-      "ts": "2026-07-20T18:01:21.182000+00:00",
-      "time": "02:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $745.02** Current: **$745.10** | Strength: 5/5 MA20 (20-day moving average); price closing near this daily = bounce zon"
-    },
-    {
-      "ts": "2026-07-20T18:00:16.812000+00:00",
-      "time": "02:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$744.80** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-20T17:49:40.158000+00:00",
-      "time": "01:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R2 $250.42** Current: **$250.46** | Strength: 5/5 Last 10-day swing high; daily rejection level; confluence with 0.500 Fi"
     }
   ]
 }
