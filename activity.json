@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:32:28.571655+00:00",
+  "generated_at": "2026-07-20T16:47:19.791875+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T16:36:49.581000+00:00",
+      "time": "12:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -19.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,363**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-20T16:12:27.110000+00:00",
       "time": "12:12 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:21 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $97.57** Current: **$97.48** | Strength: 5/5 Recent 1H low (multiple touches in last 20 1H candles = support cluster)"
-    },
-    {
-      "ts": "2026-07-20T15:20:02.647000+00:00",
-      "time": "11:20 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $97.36** Current: **$97.64** | Strength: 3/5 \u2014 8-week close (7 days ago); intermediate support"
     }
   ]
 }
