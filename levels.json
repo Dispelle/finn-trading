@@ -35774,7 +35774,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -36904,7 +36904,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "8-day swing high; last daily high; cluster zone (4 touches in last 8 days)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -36924,7 +36924,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Yesterday's low; HL pivot; loses bull structure if broken",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37104,7 +37104,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day swing high + cycle peak (8D old); Fib 0.272 extension; failed breakout",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37114,7 +37114,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fib 1.272 extension (major upside target if breakout above $1249.45)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37314,7 +37314,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "5-day swing low; holds since 9/24; psychological 1190 round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37324,7 +37324,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "20-day VWAP; major moving average support; 61.8% fib retracement zone start",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37353,9 +37353,9 @@
         "price": 1097.05,
         "type": "S3",
         "strength": 5,
-        "reason": "**Fibonacci 0.382 retracement**; confluence with MA50 band ($1,105.62); psychological round number",
+        "reason": "Fib 0.382 retracement; MA50 $1,109.42 nearby; secondary support zone",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37364,7 +37364,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Today's high; round number; confluent with 1H resistance cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -37426,6 +37426,56 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1249.45,
+        "type": "R1",
+        "strength": 5,
+        "reason": "60-day high / ATH (reversal point) / Swing high; seller rejection zone",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1238.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Swing high (60d); prior daily high; round number confluence",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1357.96,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fib 1.272 extension (from $850.51\u2192$1,249.45); breakout target if $1,249 breaks",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1171.86,
+        "type": "S1",
+        "strength": 5,
+        "reason": "20-day VWAP; price closed just above (intraday support); confluence with MA20 $1,174.61",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1155.3,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Fib 0.236 retracement; intermediate swing point; confluence with daily low structure",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
