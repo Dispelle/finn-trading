@@ -4766,7 +4766,7 @@
     "ticker_source": "watchlist"
   },
   "NVDA": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6917,7 +6917,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-16",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6986,7 +6986,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 golden pocket (197.22\u2013236.54 swing), prior micro-resistance, confluent with daily structure",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -6996,7 +6996,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 midpoint (197.22\u2013236.54), psychological, prior swing high at $213.99 near",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -7005,9 +7005,9 @@
         "price": 225.51,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "| Fibonacci 0.236 (aggressive Fib zone); prior swing high $227.4 nearby; supply cluster from late bull run",
         "status": "active",
-        "source_brief": "2026-07-16",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7016,7 +7016,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.786 retracement, confluent with recent swing low at $199.34, key inflection",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -7046,7 +7046,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 (197.22\u2013236.54), aligns with swing high cluster ($216.83, $227.40)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -7168,6 +7168,56 @@
         "reason": "|",
         "status": "active",
         "source_brief": "2026-07-16",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 207.65,
+        "type": "R1",
+        "strength": 5,
+        "reason": "| Fibonacci 0.618 (golden pocket from 189.80\u2192236.54 swing); daily MA20 above here ($202.12 slope down means moving into ",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 213.17,
+        "type": "R2",
+        "strength": 5,
+        "reason": "| Fibonacci 0.500 retracement; prior daily high ($212.5, $211.8, $213.81); round psych level; volume pivot",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 199.8,
+        "type": "S1",
+        "strength": 5,
+        "reason": "| Fibonacci 0.786 retracement (strong Fib support); 52-week low rejection zone ($199.34 nearby); weekly MA20 sits here",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 194.74,
+        "type": "S2",
+        "strength": 4,
+        "reason": "| Swing low 60d; prior daily support; psychological $195 round level",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 189.8,
+        "type": "S3",
+        "strength": 4,
+        "reason": "| 60-day swing low; range bottom; 52-week low far end",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
