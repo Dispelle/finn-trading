@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T14:32:46.845699+00:00",
+  "generated_at": "2026-07-20T14:47:13.617088+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T14:46:45.255000+00:00",
+      "time": "10:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S3 $55.1** Current: **$55.17** | Strength: 4/5 \u2014 Swing low support"
+    },
+    {
+      "ts": "2026-07-20T14:40:24.636000+00:00",
+      "time": "10:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $340.0** Current: **$340.19** | Strength: 5/5 \u2014"
+    },
+    {
+      "ts": "2026-07-20T14:36:47.131000+00:00",
+      "time": "10:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,319** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-20T14:32:53.981000+00:00",
+      "time": "10:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S1 $96.96** Current: **$96.89** | Strength: 5/5 Today's low; psychological support (sub-$97 = psychological break)"
+    },
     {
       "ts": "2026-07-20T14:31:47.462000+00:00",
       "time": "10:31 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:12 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $745.02** Current: **$744.89** | Strength: 5/5 MA20 (20-day moving average); price closing near this daily = bounce zon"
-    },
-    {
-      "ts": "2026-07-20T14:12:16.860000+00:00",
-      "time": "10:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **INTC \u2014 BROKE BELOW S1 $98.0** Current: **$97.77** | Strength: 4/5 Gareth buy zone \u2014 fib 0.236 retracement, gap fill target"
-    },
-    {
-      "ts": "2026-07-20T14:11:11.866000+00:00",
-      "time": "10:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $565.24** Current: **$564.21** | Strength: 4/5 Fibonacci 0.500 midpoint; confluence with 60d low ($566.83)"
-    },
-    {
-      "ts": "2026-07-20T13:59:14.251000+00:00",
-      "time": "09:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $376.5** Current: **$376.03** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-20T13:58:09.911000+00:00",
-      "time": "09:58 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $377.22** Current: **$377.16** | Strength: 4/5 Today's low; 1H cluster; recent printed floor (last 5 1H lows: 377\u2013381)"
     }
   ]
 }
