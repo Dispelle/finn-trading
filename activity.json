@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-20T17:32:27.334460+00:00",
+  "generated_at": "2026-07-20T17:47:23.664342+00:00",
   "items": [
+    {
+      "ts": "2026-07-20T17:35:41.281000+00:00",
+      "time": "01:35 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $204.12** Current: **$204.16** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-20T16:55:11.421000+00:00",
       "time": "12:55 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R2 $252.06** Current: **$251.93** | Strength: 5/5 Fibonacci 0.500 retracement (mid-swing); psychological zone"
-    },
-    {
-      "ts": "2026-07-20T15:40:22.576000+00:00",
-      "time": "11:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R3 $252.02** Current: **$251.93** | Strength: 5/5 **Fibonacci 0.500 (mid-range retracement)**; confluence with weekly res"
     }
   ]
 }
