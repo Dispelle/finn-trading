@@ -21872,7 +21872,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23362,7 +23362,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -23371,9 +23371,9 @@
         "price": 18.49,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior 9-day daily swing high; psychological round; tested 3x in last 2 weeks",
+        "reason": "| +94 pips | Prior 60d swing high; recent lower high; psychological round |",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23391,9 +23391,9 @@
         "price": 21.0,
         "type": "R3",
         "strength": 4,
-        "reason": "0.236 Fib retracement; 60-day resistance cluster; 60-day MA (~$19.80) extended",
+        "reason": "| +345 pips | 0.236 Fib (shallow retrace); round number; prior swing high |",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23401,9 +23401,9 @@
         "price": 17.49,
         "type": "S1",
         "strength": 5,
-        "reason": "0.650 Fib retracement; psychological zone; 1H recent low cluster",
+        "reason": "| -6 pips | 0.650 Fib retracement; **CRITICAL** \u2014 golden pocket start (0.618\u20130.650); price almost exactly here NOW |",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23421,9 +23421,79 @@
         "price": 16.34,
         "type": "S3",
         "strength": 4,
-        "reason": "0.786 Fib retracement; MA20 weekly ($18.98 extrapolated down); 20-day VWAP ($16.21) nearby",
+        "reason": "| -121 pips | 0.786 Fib (deep retrace); MA20 daily ($16.41 nearby); psychological 16.30 round |",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 18.76,
+        "type": "R2",
+        "strength": 5,
+        "reason": "| +121 pips | 0.500 Fib retracement (14.53\u219223.00); midpoint of recent 60d range |",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 19.76,
+        "type": "R3",
+        "strength": 4,
+        "reason": "| +221 pips | 0.382 Fib retracement; confluence with daily MA50 ($17.93 \u2192 avg toward $19.76); supply zone from prior 60d",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 20.44,
+        "type": "R3",
+        "strength": 4,
+        "reason": "| +289 pips | Prior 60d swing high; technical resistance; bearish structure confirmation |",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.3,
+        "type": "S2",
+        "strength": 3,
+        "reason": "| -25 pips | Recent intraday swing low (1H); minor support; psychological |",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 16.23,
+        "type": "S3",
+        "strength": 4,
+        "reason": "| -132 pips | 20-day VWAP; price meanness reversion anchor |",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 14.53,
+        "type": "S3",
+        "strength": 5,
+        "reason": "| -202 pips | 60d low; major support; **account liquidation risk if this breaks** |",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 18.49,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
