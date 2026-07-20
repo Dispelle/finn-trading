@@ -19614,7 +19614,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -21004,7 +21004,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 reason: 0.786 Fibonacci retracement (golden zone upper bound) + coincides with recent 1H high clustering",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -21014,7 +21014,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: 0.650 Fibonacci retracement + prior swing low from 60d chart + psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -21114,7 +21114,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 reason: Recent swing low (10 days), prior support zone, psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -21123,9 +21123,9 @@
         "price": 102.15,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day low; capitulation level; **hard floor for bounce thesis**",
+        "reason": "\u2014 60-day swing low (ultimate support)",
         "status": "active",
-        "source_brief": "2026-07-15",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21264,7 +21264,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 reason: 0.618 Golden Pocket (Fibonacci sacred level) + confluence with MA20 theoretical target",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -21734,7 +21734,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: Today's daily low + 1H support cluster (multiple tests) + micro-structure hold point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-10",
         "hit_count": 0,
         "last_hit": null
@@ -21753,9 +21753,9 @@
         "price": 128.25,
         "type": "R2",
         "strength": 5,
-        "reason": "0.500 Fib retracement ($102.42 \u2192 $154.08); also midpoint of 60d range",
+        "reason": "\u2014 0.500 Fibonacci (golden pocket midpoint, psychological round)",
         "status": "active",
-        "source_brief": "2026-07-15",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21763,9 +21763,9 @@
         "price": 141.89,
         "type": "R3",
         "strength": 4,
-        "reason": "0.236 Fib retracement (golden pocket begins); prior swing high support zone",
+        "reason": "\u2014 0.236 Fibonacci (key structural level, prior swing high)",
         "status": "active",
-        "source_brief": "2026-07-15",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21783,9 +21783,59 @@
         "price": 108.7,
         "type": "S3",
         "strength": 4,
-        "reason": "Last higher low (daily swing, 6 days ago)",
+        "reason": "\u2014 Higher low in corrective structure; breaks this = invalidates bounce",
         "status": "active",
-        "source_brief": "2026-07-15",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 125.54,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 MA20 weekly (dynamic resistance, slope up but price just below)",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 134.35,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 0.382 Fibonacci + prior swing high confluence",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 122.15,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fibonacci (golden pocket, most confluent fib)",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.5,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 0.650 Fibonacci + near recent hourly lows",
+        "status": "active",
+        "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.48,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fibonacci + MA200 ($113.76) confluence",
+        "status": "active",
+        "source_brief": "2026-07-20",
         "hit_count": 0,
         "last_hit": null
       }
