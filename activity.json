@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T16:02:24.086368+00:00",
+  "generated_at": "2026-07-21T16:17:25.065131+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T16:15:06.903000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $101.89** Current: **$101.81** | Strength: 5/5 \u2014 **20-day VWAP** (volume-weighted anchor, repeated rejection point)"
+    },
+    {
+      "ts": "2026-07-21T16:08:44.595000+00:00",
+      "time": "12:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $344.26** Current: **$344.31** | Strength: 4/5 Today's high; prior swing high 4 candles back ($343.15). Hourly resistan"
+    },
     {
       "ts": "2026-07-21T15:52:45.542000+00:00",
       "time": "11:52 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:14 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $535.2** Current: **$535.42** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
-    },
-    {
-      "ts": "2026-07-21T15:13:17.245000+00:00",
-      "time": "11:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $707.99** Current: **$708.42** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
-    },
-    {
-      "ts": "2026-07-21T15:13:16.592000+00:00",
-      "time": "11:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.29** Current: **$747.41** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
     }
   ]
 }
