@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-21T00:33:09.646741+00:00",
+  "generated_at": "2026-07-21T00:48:10.222263+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T00:37:01.933000+00:00",
+      "time": "08:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -19.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,346**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-20T22:37:01.234000+00:00",
       "time": "06:37 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:31 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $368.58** Current: **$368.26** | Strength: 5/5 \u2014 Swing low from 60-day lookback"
-    },
-    {
-      "ts": "2026-07-20T19:30:13.231000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S3 $55.27** Current: **$55.26** | Strength: 4/5 0.786 Fibonacci; 60-day technical level; MA50 proximity ($58.48 moving dow"
     }
   ]
 }
