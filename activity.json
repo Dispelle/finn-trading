@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-21T14:47:12.223008+00:00",
+  "generated_at": "2026-07-21T15:02:10.302427+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T15:01:32.768000+00:00",
+      "time": "11:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $77.42** Current: **$77.38** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
+    },
+    {
+      "ts": "2026-07-21T15:00:28.755000+00:00",
+      "time": "11:00 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.42** Current: **$77.43** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
+    },
+    {
+      "ts": "2026-07-21T14:55:05.854000+00:00",
+      "time": "10:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $942.1** Current: **$943.28** | Strength: 5/5 \u2014 **0.382 Fib retracement (435.90 \u2192 1255.00)** + psychological support; pr"
+    },
     {
       "ts": "2026-07-21T14:37:23.758000+00:00",
       "time": "10:37 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:06 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $18.49** Current: **$18.50** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
-    },
-    {
-      "ts": "2026-07-21T14:05:07.909000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $128.25** Current: **$128.21** | Strength: 5/5 0.500 Fib retracement (psychological midpoint $102.42\u2192$154.08); confluen"
-    },
-    {
-      "ts": "2026-07-21T14:04:03.211000+00:00",
-      "time": "10:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $18.49** Current: **$18.48** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
-    },
-    {
-      "ts": "2026-07-21T14:03:00.737000+00:00",
-      "time": "10:03 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE R1 $103.56** Current: **$103.64** | Strength: 5/5 Today's daily high; prior 1H swing high; psychological consolidation ce"
     }
   ]
 }
