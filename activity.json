@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T16:33:07.981253+00:00",
+  "generated_at": "2026-07-21T16:47:25.742094+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T16:45:51.010000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $540.05** Current: **$540.73** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T16:37:29.406000+00:00",
+      "time": "12:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -18.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$66,576**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-21T16:24:38.781000+00:00",
       "time": "12:24 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:20 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $707.99** Current: **$707.91** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
-    },
-    {
-      "ts": "2026-07-21T15:20:44.012000+00:00",
-      "time": "11:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $581.84** Current: **$581.52** | Strength: 5/5 \u2014 Today's daily high; test of broken structure"
-    },
-    {
-      "ts": "2026-07-21T15:16:28.436000+00:00",
-      "time": "11:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $535.2** Current: **$534.55** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
     }
   ]
 }
