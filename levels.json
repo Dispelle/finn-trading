@@ -36314,7 +36314,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -37893,9 +37893,9 @@
         "price": 1097.05,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.382 retracement; MA50 $1,109.42 nearby; secondary support zone",
+        "reason": "\u2014 **Fib 0.382 retracement** (golden zone approach); MA50 is $1,112.62 (above this), so confluence possible; psychologica",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37912,10 +37912,10 @@
       {
         "price": 1189.07,
         "type": "R1",
-        "strength": 4,
-        "reason": "Today's high + 1H rejection zone (last 3 1H candles pulled back from here); prior daily support turned resistance",
+        "strength": 5,
+        "reason": "\u2014 Today's high / yesterday's swing high ($1,189.07 structure); immediate pullback target on 4H bounce; trendline resista",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37933,9 +37933,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "**Recent 60-day all-time high**; Fib 1.272 extension ($1,357.96) above; psychological round; barrier to new highs",
+        "reason": "\u2014 60-day all-time high within this swing; Fib 1.272 extension ($1,357.96) far away; this is **hard resistance** \u2014 if bro",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37943,19 +37943,19 @@
         "price": 1155.3,
         "type": "S1",
         "strength": 5,
-        "reason": "**Fibonacci 0.236 retracement** + 20-day VWAP ($1,169.56 slightly above); holds higher lows",
+        "reason": "\u2014 **CRITICAL: Fib 0.236 retracement** (from 850.51 \u2192 1,249.45); daily low base ($1,152.54, 5 bars ago); price now $1,146",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 1141.2,
         "type": "S2",
-        "strength": 4,
-        "reason": "**Today's intraday low**; also near prior low of $1,140.74; base of current pull-back",
+        "strength": 5,
+        "reason": "\u2014 Prior daily low (swing low 8 bars ago); HL in corrective structure; **if broken, structure fails**",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -37965,7 +37965,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -38026,6 +38026,16 @@
         "reason": "Swing low from 8 days ago; 10-day low; **break here = structure break**",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1196.29,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Prior daily high (2 bars ago); daily struct inflection; Fib 0.236 zone ($1,155.30) has been cleared, this is next MA-p",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
