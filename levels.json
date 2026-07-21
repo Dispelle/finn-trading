@@ -15508,7 +15508,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17487,9 +17487,9 @@
         "price": 48.5,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Round number + prior support (estimated from context)",
+        "reason": "\u2014 Round number psychological level (major). Estimated from 60-day low structure.",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17527,9 +17527,9 @@
         "price": 49.61,
         "type": "S1",
         "strength": 5,
-        "reason": "60-day low; 1H low from today; current price touching; psychological support",
+        "reason": "\u2014 60-day low, freshly tested, psychological round. Immediate floor if sold further.",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17560,6 +17560,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 53.3,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 20-day VWAP, last tested 8 days ago, breached today intraday. Weak but nearest.",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.3,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fib retracement + prior swing low area ($57.3). Confluence of prior support becoming resistance.",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61.55,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fib (golden pocket start) + MA20 weekly ($63.42 nearby). Structural resistance; prior support zone.",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 45.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Extension target (estimated 1.272 Fib = $89.36 down from peak); major structural support zone from prior year.",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
