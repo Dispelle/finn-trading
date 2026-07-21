@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-21T15:02:37.785091+00:00",
+  "generated_at": "2026-07-21T15:17:11.007692+00:00",
   "items": [
     {
-      "ts": "2026-07-21T15:01:32.768000+00:00",
-      "time": "11:01 AM ET",
+      "ts": "2026-07-21T15:16:28.436000+00:00",
+      "time": "11:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $77.42** Current: **$77.38** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $535.2** Current: **$534.55** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
     },
     {
-      "ts": "2026-07-21T15:00:28.755000+00:00",
-      "time": "11:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.42** Current: **$77.43** | Strength: 4/5 \u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion"
-    },
-    {
-      "ts": "2026-07-21T14:55:05.854000+00:00",
-      "time": "10:55 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $942.1** Current: **$943.28** | Strength: 5/5 \u2014 **0.382 Fib retracement (435.90 \u2192 1255.00)** + psychological support; pr"
-    },
-    {
-      "ts": "2026-07-21T14:37:23.758000+00:00",
-      "time": "10:37 AM ET",
+      "ts": "2026-07-21T15:14:21.616000+00:00",
+      "time": "11:14 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$66,817** | P&L: **-17"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $747.29** Current: **$747.18** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
     },
     {
-      "ts": "2026-07-21T14:21:06.947000+00:00",
-      "time": "10:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.3** Current: **$53.24** | Strength: 4/5 \u2014 20-day VWAP, last tested 8 days ago, breached today intraday. Weak but ne"
-    },
-    {
-      "ts": "2026-07-21T14:18:58.809000+00:00",
-      "time": "10:18 AM ET",
+      "ts": "2026-07-21T15:14:19.910000+00:00",
+      "time": "11:14 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $53.3** Current: **$53.34** | Strength: 4/5 \u2014 20-day VWAP, last tested 8 days ago, breached today intraday. Weak but ne"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $535.2** Current: **$535.42** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
     },
     {
-      "ts": "2026-07-21T14:17:56.584000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $104.11** Current: **$103.52** | Strength: 5/5 \u2014 Daily 10-day high; near MA20 ($104.94); confluence zone"
-    },
-    {
-      "ts": "2026-07-21T14:15:48.771000+00:00",
-      "time": "10:15 AM ET",
+      "ts": "2026-07-21T15:13:17.245000+00:00",
+      "time": "11:13 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE R1 $104.11** Current: **$104.33** | Strength: 5/5 \u2014 Daily 10-day high; near MA20 ($104.94); confluence zone"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $707.99** Current: **$708.42** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
     },
     {
-      "ts": "2026-07-21T14:08:22.741000+00:00",
-      "time": "10:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $103.56** Current: **$103.51** | Strength: 5/5 Today's daily high; prior 1H swing high; psychological consolidation ce"
-    },
-    {
-      "ts": "2026-07-21T14:06:12.571000+00:00",
-      "time": "10:06 AM ET",
+      "ts": "2026-07-21T15:13:16.592000+00:00",
+      "time": "11:13 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $18.49** Current: **$18.50** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.29** Current: **$747.41** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
+    },
+    {
+      "ts": "2026-07-21T15:13:14.950000+00:00",
+      "time": "11:13 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $581.84** Current: **$582.46** | Strength: 5/5 \u2014 Today's daily high; test of broken structure"
+    },
+    {
+      "ts": "2026-07-21T15:11:07.506000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $950.07** Current: **$948.98** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
+    },
+    {
+      "ts": "2026-07-21T15:10:03.174000+00:00",
+      "time": "11:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $950.76** Current: **$950.59** | Strength: 5/5 Fibonacci 0.382 (458.56\u21921255); prior daily support; 3x touch zone"
+    },
+    {
+      "ts": "2026-07-21T15:06:51.673000+00:00",
+      "time": "11:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $950.76** Current: **$950.97** | Strength: 5/5 Fibonacci 0.382 (458.56\u21921255); prior daily support; 3x touch zone"
+    },
+    {
+      "ts": "2026-07-21T15:06:51.139000+00:00",
+      "time": "11:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $950.07** Current: **$950.97** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
     }
   ]
 }
