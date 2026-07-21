@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-21T15:32:22.570627+00:00",
+  "generated_at": "2026-07-21T15:47:12.568692+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T15:33:31.857000+00:00",
+      "time": "11:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.30** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
+    },
     {
       "ts": "2026-07-21T15:20:45.623000+00:00",
       "time": "11:20 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:11 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $950.07** Current: **$948.98** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
-    },
-    {
-      "ts": "2026-07-21T15:10:03.174000+00:00",
-      "time": "11:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $950.76** Current: **$950.59** | Strength: 5/5 Fibonacci 0.382 (458.56\u21921255); prior daily support; 3x touch zone"
     }
   ]
 }
