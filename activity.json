@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T16:18:26.884594+00:00",
+  "generated_at": "2026-07-21T16:32:25.084226+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T16:24:38.781000+00:00",
+      "time": "12:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $748.66** Current: **$748.60** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
+    },
+    {
+      "ts": "2026-07-21T16:23:34.717000+00:00",
+      "time": "12:23 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $748.66** Current: **$748.70** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
+    },
     {
       "ts": "2026-07-21T16:15:06.903000+00:00",
       "time": "12:15 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:16 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $535.2** Current: **$534.55** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
-    },
-    {
-      "ts": "2026-07-21T15:14:21.616000+00:00",
-      "time": "11:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $747.29** Current: **$747.18** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
-    },
-    {
-      "ts": "2026-07-21T15:14:19.910000+00:00",
-      "time": "11:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $535.2** Current: **$535.42** | Strength: 5/5 MA20 (daily); uptrend anchor; currently protecting from breakdown"
     }
   ]
 }
