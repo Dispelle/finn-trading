@@ -17606,7 +17606,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19515,9 +19515,9 @@
         "price": 85.17,
         "type": "R3",
         "strength": 5,
-        "reason": "0.382 Fib + prior swing high ($85.97 weekly) \u2014 recapture of early downtrend",
+        "reason": "0.382 Fibonacci; prior swing high 8 days ago; 60-day resistance zone",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19695,9 +19695,9 @@
         "price": 75.94,
         "type": "S3",
         "strength": 4,
-        "reason": "0.786 Fib retracement + breakeven of late-60d swing; reversal zone if HTF recovery",
+        "reason": "0.786 Fibonacci (deeper retracement); convergence with prior swing lows",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19755,9 +19755,9 @@
         "price": 79.77,
         "type": "R2",
         "strength": 5,
-        "reason": "**Fibonacci golden pocket (0.618 retracement)**; prior swing low resistance",
+        "reason": "**0.618 Fibonacci (Golden Pocket)** from $71.05 \u2192 $93.89 swing; prior swing high ($79.18); aligns with weekly MA20",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19765,9 +19765,9 @@
         "price": 82.47,
         "type": "R3",
         "strength": 5,
-        "reason": "**Fibonacci 0.500 retracement**; MA50 proximity; midpoint of 71.05\u219293.89 range",
+        "reason": "0.500 Fibonacci; MA50 ($82.07); confluence of mean reversion target + moving average cluster",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19818,6 +19818,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76.49,
+        "type": "R1",
+        "strength": 5,
+        "reason": "20-day VWAP; confluence with MA20 ($76.38); prior swing support 8 days ago; psychological round number",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 93.89,
+        "type": "R3",
+        "strength": 3,
+        "reason": "60-day high; extension resistance; psychological major level",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 71.05,
+        "type": "S1",
+        "strength": 5,
+        "reason": "**60-day low; circuit breaker level**; twice tested in last 5 days (capitulation signature); strong structural support",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 74.88,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Recent swing low; 4-day support (touched 3 days ago); intraday floor",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
