@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T16:48:05.047998+00:00",
+  "generated_at": "2026-07-21T17:02:25.931453+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T16:54:21.171000+00:00",
+      "time": "12:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $979.3** Current: **$978.81** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
+    },
+    {
+      "ts": "2026-07-21T16:53:17.584000+00:00",
+      "time": "12:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $979.3** Current: **$979.56** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
+    },
     {
       "ts": "2026-07-21T16:45:51.010000+00:00",
       "time": "12:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:51 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.25** Current: **$56.24** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
-    },
-    {
-      "ts": "2026-07-21T15:33:31.857000+00:00",
-      "time": "11:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $56.25** Current: **$56.30** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
-    },
-    {
-      "ts": "2026-07-21T15:20:45.623000+00:00",
-      "time": "11:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $707.99** Current: **$707.91** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
     }
   ]
 }
