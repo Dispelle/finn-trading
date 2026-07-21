@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-21T14:02:09.331089+00:00",
+  "generated_at": "2026-07-21T14:17:08.141809+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T14:15:48.771000+00:00",
+      "time": "10:15 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE R1 $104.11** Current: **$104.33** | Strength: 5/5 \u2014 Daily 10-day high; near MA20 ($104.94); confluence zone"
+    },
+    {
+      "ts": "2026-07-21T14:08:22.741000+00:00",
+      "time": "10:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $103.56** Current: **$103.51** | Strength: 5/5 Today's daily high; prior 1H swing high; psychological consolidation ce"
+    },
+    {
+      "ts": "2026-07-21T14:06:12.571000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $18.49** Current: **$18.50** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
+    },
+    {
+      "ts": "2026-07-21T14:05:07.909000+00:00",
+      "time": "10:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $128.25** Current: **$128.21** | Strength: 5/5 0.500 Fib retracement (psychological midpoint $102.42\u2192$154.08); confluen"
+    },
+    {
+      "ts": "2026-07-21T14:04:03.211000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $18.49** Current: **$18.48** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
+    },
+    {
+      "ts": "2026-07-21T14:03:00.737000+00:00",
+      "time": "10:03 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE R1 $103.56** Current: **$103.64** | Strength: 5/5 Today's daily high; prior 1H swing high; psychological consolidation ce"
+    },
     {
       "ts": "2026-07-21T14:01:51.651000+00:00",
       "time": "10:01 AM ET",
@@ -24,42 +60,6 @@
       "time": "09:55 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $530.57** Current: **$529.55** | Strength: 5/5 MA20 (daily); psychological whole number; prior support-turned-resistanc"
-    },
-    {
-      "ts": "2026-07-21T13:54:20.594000+00:00",
-      "time": "09:54 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $532.35** Current: **$531.61** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
-    },
-    {
-      "ts": "2026-07-21T13:54:20.137000+00:00",
-      "time": "09:54 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $532.0** Current: **$531.61** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T13:52:12.476000+00:00",
-      "time": "09:52 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $206.16** Current: **$206.02** | Strength: 4/5 \u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range"
-    },
-    {
-      "ts": "2026-07-21T13:51:08.270000+00:00",
-      "time": "09:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $532.35** Current: **$534.54** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
-    },
-    {
-      "ts": "2026-07-21T13:51:07.730000+00:00",
-      "time": "09:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $532.0** Current: **$534.54** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T13:50:06.460000+00:00",
-      "time": "09:50 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $103.08** Current: **$102.89** | Strength: 5/5 20-day VWAP (daily close-weighted); recent rejection point (3 daily clo"
     }
   ]
 }
