@@ -28464,7 +28464,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -29823,9 +29823,9 @@
         "price": 407.76,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement + MA50 proximity + daily resistance cluster",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint of $349.20\u2192$466.32 swing) + psychological round level. Critical supply zone.",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29833,9 +29833,9 @@
         "price": 421.58,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement + prior swing high proximity ($420.78)",
+        "reason": "\u2014 Fibonacci 0.382 retracement; aligns with prior swing high cluster ($420.78). Recent resistance on daily 60d chart.",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29843,9 +29843,9 @@
         "price": 438.68,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement + swing high $432.70 + swing high $427.98 cluster",
+        "reason": "\u2014 Fibonacci 0.236 retracement; gatekeeper to $466.32 (recent 60d high). Represents 2.5% move from current price.",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29853,9 +29853,9 @@
         "price": 466.32,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day swing HIGH; breakout zone; MA200 rejection point if price rises further",
+        "reason": "\u2014 60-day swing high, psychological barrier, prior resistance turned support if broken.",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29883,9 +29883,9 @@
         "price": 376.92,
         "type": "S3",
         "strength": 4,
-        "reason": "20-day VWAP; last weekly close support; daily MA20 $380.41",
+        "reason": "\u2014 20-day VWAP, mean reversion anchor. Previous daily closes touched $378.65 (swing low) and $379.4 (weekly close).",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29906,6 +29906,36 @@
         "reason": "52-week low; foundational support; account risk boundary",
         "status": "active",
         "source_brief": "2026-07-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 398.01,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Most recent swing low (last 3\u20134 bars), also confluence with Fibonacci 0.618 golden pocket near $393.94. Loss of this l",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 390.19,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.650 retracement, psychological support, 2.9% below current price. Daily MA20 ($382.30) below this.",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 382.27,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Prior swing low (60d), aligns with 20-day VWAP ($377.88); intermediate support on daily, loss = retest $373.35 (daily ",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
