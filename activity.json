@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-21T14:17:08.141809+00:00",
+  "generated_at": "2026-07-21T14:32:09.248226+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T14:21:06.947000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.3** Current: **$53.24** | Strength: 4/5 \u2014 20-day VWAP, last tested 8 days ago, breached today intraday. Weak but ne"
+    },
+    {
+      "ts": "2026-07-21T14:18:58.809000+00:00",
+      "time": "10:18 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $53.3** Current: **$53.34** | Strength: 4/5 \u2014 20-day VWAP, last tested 8 days ago, breached today intraday. Weak but ne"
+    },
+    {
+      "ts": "2026-07-21T14:17:56.584000+00:00",
+      "time": "10:17 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $104.11** Current: **$103.52** | Strength: 5/5 \u2014 Daily 10-day high; near MA20 ($104.94); confluence zone"
+    },
     {
       "ts": "2026-07-21T14:15:48.771000+00:00",
       "time": "10:15 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:01 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1155.3** Current: **$1156.50** | Strength: 5/5 \u2014 **CRITICAL: Fib 0.236 retracement** (from 850.51 \u2192 1,249.45); daily l"
-    },
-    {
-      "ts": "2026-07-21T14:00:46.565000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $377.22** Current: **$378.12** | Strength: 4/5 Today's low; 1H cluster; recent printed floor (last 5 1H lows: 377\u2013381)"
-    },
-    {
-      "ts": "2026-07-21T13:55:27.357000+00:00",
-      "time": "09:55 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $150.0** Current: **$149.97** | Strength: 5/5 \u2014 Psychological round number + intraday swing high (20-bar high at 150.0,"
-    },
-    {
-      "ts": "2026-07-21T13:55:24.697000+00:00",
-      "time": "09:55 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $530.57** Current: **$529.55** | Strength: 5/5 MA20 (daily); psychological whole number; prior support-turned-resistanc"
     }
   ]
 }
