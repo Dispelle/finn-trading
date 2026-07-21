@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T15:47:12.568692+00:00",
+  "generated_at": "2026-07-21T16:02:24.086368+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T15:52:45.542000+00:00",
+      "time": "11:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $78.0** Current: **$78.03** | Strength: 4/5 20-day VWAP; psychological round; yesterday's intraday high node"
+    },
+    {
+      "ts": "2026-07-21T15:51:40.269000+00:00",
+      "time": "11:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.25** Current: **$56.24** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
+    },
     {
       "ts": "2026-07-21T15:33:31.857000+00:00",
       "time": "11:33 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:13 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.29** Current: **$747.41** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
-    },
-    {
-      "ts": "2026-07-21T15:13:14.950000+00:00",
-      "time": "11:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $581.84** Current: **$582.46** | Strength: 5/5 \u2014 Today's daily high; test of broken structure"
-    },
-    {
-      "ts": "2026-07-21T15:11:07.506000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $950.07** Current: **$948.98** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
     }
   ]
 }
