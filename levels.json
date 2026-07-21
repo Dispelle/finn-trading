@@ -19864,7 +19864,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -22012,10 +22012,10 @@
       {
         "price": 141.89,
         "type": "R3",
-        "strength": 4,
-        "reason": "\u2014 0.236 Fibonacci (key structural level, prior swing high)",
+        "strength": 5,
+        "reason": "\u2014 **0.236 Fibonacci** + **swing high cluster** ($141.42, $149.47 nearby) + upper BB on 4H",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22063,9 +22063,9 @@
         "price": 122.15,
         "type": "S1",
         "strength": 5,
-        "reason": "0.618 Fib retracement (golden pocket\u2014critical support in mean-reversion bounces); 1H recent lows cluster here ($123.75, ",
+        "reason": "\u2014 **0.618 Fibonacci (GOLDEN POCKET)** + tight clustering in 1H lows ($121.45\u2013$123.44) + confluence of intraday support",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22073,9 +22073,9 @@
         "price": 120.5,
         "type": "S2",
         "strength": 5,
-        "reason": "0.650 Fib; daily swing low ($119.3) + 1H lows ($119.15, $119.19) consolidation zone; psychological support",
+        "reason": "\u2014 **0.650 Fibonacci** + daily swing low ($119.30 HL is just below) + VWAP 20d at $112.99 approaching",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22083,9 +22083,9 @@
         "price": 113.48,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci + MA200 ($113.76) confluence",
+        "reason": "\u2014 **0.786 Fibonacci** + **weekly structural support** + MA200 proximity ($114.20) + 60-day low ($102.42 swing) base",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -22106,6 +22106,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 128.25,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 **0.500 Fibonacci** + psychological round level + daily supply cluster (gap resistance from prior legs)",
+        "status": "active",
+        "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 134.35,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 **0.382 Fibonacci** (golden zone early ceiling) + prior swing high zone ($136.61 nearby)",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
