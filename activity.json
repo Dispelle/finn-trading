@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-21T13:31:36.552686+00:00",
+  "generated_at": "2026-07-21T13:32:01.878492+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T13:31:42.529000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $398.01** Current: **$397.13** | Strength: 5/5 \u2014 Most recent swing low (last 3\u20134 bars), also confluence with Fibonacci"
+    },
+    {
+      "ts": "2026-07-21T13:31:41.673000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $746.5** Current: **$745.31** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T13:31:40.744000+00:00",
+      "time": "09:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $76.53** Current: **$76.62** | Strength: 5/5 \u2014 Recent swing low (60d), critical higher low that keeps downtrend invali"
+    },
+    {
+      "ts": "2026-07-21T13:31:39.709000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $580.0** Current: **$579.44** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T13:31:39.120000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $580.83** Current: **$579.44** | Strength: 5/5 \u2014 Round number + recent daily lows cluster ($581.45, $585.62)"
+    },
+    {
+      "ts": "2026-07-21T13:31:37.888000+00:00",
+      "time": "09:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE STOP $55.68** Current: **$55.76** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T13:31:37.486000+00:00",
+      "time": "09:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S2 $55.7** Current: **$55.76** | Strength: 5/5 \u2014 Daily low cluster (55.70, 55.7, 55.1), fib 0.786 = $55.27 confluence"
+    },
     {
       "ts": "2026-07-21T13:30:36.641000+00:00",
       "time": "09:30 AM ET",
@@ -18,48 +60,6 @@
       "time": "09:30 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $100.77** Current: **$101.15** | Strength: 5/5 \u2014 Prior swing low (10 days ago) + 1H support band $99.74\u2013$100.83 **"
-    },
-    {
-      "ts": "2026-07-21T13:30:33.967000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $340.0** Current: **$341.30** | Strength: 5/5 \u2014"
-    },
-    {
-      "ts": "2026-07-21T13:30:32.785000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE STOP $649.05** Current: **$655.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T13:30:31.128000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $702.3** Current: **$706.27** | Strength: 3/5 Today's hourly high; recent intraday resistance (1H candles rejected here multi"
-    },
-    {
-      "ts": "2026-07-21T13:30:29.933000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $744.78** Current: **$746.60** | Strength: 5/5 MA20 ($744.89 approx); 10-day moving average; confluence zone for mean r"
-    },
-    {
-      "ts": "2026-07-21T13:30:29.484000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $746.5** Current: **$746.60** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T13:30:27.982000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $127.25** Current: **$128.91** | Strength: 5/5 MA50 (key moving average average, weekly downtrend slope) + psychologica"
-    },
-    {
-      "ts": "2026-07-21T13:30:27.278000+00:00",
-      "time": "09:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $74.88** Current: **$76.52** | Strength: 4/5 Recent swing low; 4-day support (touched 3 days ago); intraday floor"
     }
   ]
 }
