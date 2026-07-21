@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-21T18:32:50.804275+00:00",
+  "generated_at": "2026-07-21T18:47:52.463120+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T18:44:40.781000+00:00",
+      "time": "02:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $545.0** Current: **$545.26** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T18:41:29.626000+00:00",
+      "time": "02:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $128.25** Current: **$128.15** | Strength: 5/5 0.500 Fib retracement (psychological midpoint $102.42\u2192$154.08); confluen"
+    },
+    {
+      "ts": "2026-07-21T18:39:22.573000+00:00",
+      "time": "02:39 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $100.77** Current: **$100.78** | Strength: 5/5 \u2014 Prior swing low (10 days ago) + 1H support band $99.74\u2013$100.83 **"
+    },
+    {
+      "ts": "2026-07-21T18:37:29.480000+00:00",
+      "time": "02:37 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$66,227** | P&L: **-18"
+    },
     {
       "ts": "2026-07-21T17:58:11.210000+00:00",
       "time": "01:58 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:04 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $981.61** Current: **$980.73** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T17:03:54.202000+00:00",
-      "time": "01:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $981.61** Current: **$981.65** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-21T16:54:21.171000+00:00",
-      "time": "12:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $979.3** Current: **$978.81** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
-    },
-    {
-      "ts": "2026-07-21T16:53:17.584000+00:00",
-      "time": "12:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $979.3** Current: **$979.56** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
-    },
-    {
-      "ts": "2026-07-21T16:45:51.010000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $540.05** Current: **$540.73** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
