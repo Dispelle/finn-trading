@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-21T17:03:00.853795+00:00",
+  "generated_at": "2026-07-21T17:17:27.637476+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T17:08:10.927000+00:00",
+      "time": "01:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $585.0** Current: **$584.87** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T17:06:02.928000+00:00",
+      "time": "01:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.22** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T17:04:58.216000+00:00",
+      "time": "01:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $981.61** Current: **$980.73** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-21T17:03:54.202000+00:00",
+      "time": "01:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $981.61** Current: **$981.65** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-21T16:54:21.171000+00:00",
       "time": "12:54 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:23 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $748.66** Current: **$748.70** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
-    },
-    {
-      "ts": "2026-07-21T16:15:06.903000+00:00",
-      "time": "12:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW R1 $101.89** Current: **$101.81** | Strength: 5/5 \u2014 **20-day VWAP** (volume-weighted anchor, repeated rejection point)"
-    },
-    {
-      "ts": "2026-07-21T16:08:44.595000+00:00",
-      "time": "12:08 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $344.26** Current: **$344.31** | Strength: 4/5 Today's high; prior swing high 4 candles back ($343.15). Hourly resistan"
-    },
-    {
-      "ts": "2026-07-21T15:52:45.542000+00:00",
-      "time": "11:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $78.0** Current: **$78.03** | Strength: 4/5 20-day VWAP; psychological round; yesterday's intraday high node"
-    },
-    {
-      "ts": "2026-07-21T15:51:40.269000+00:00",
-      "time": "11:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $56.25** Current: **$56.24** | Strength: 5/5 \u2014 Recent swing low (2 days prior), **CRITICAL INVALIDATION**"
     }
   ]
 }
