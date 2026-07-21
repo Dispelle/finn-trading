@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-21T15:17:11.007692+00:00",
+  "generated_at": "2026-07-21T15:32:12.736560+00:00",
   "items": [
+    {
+      "ts": "2026-07-21T15:20:45.623000+00:00",
+      "time": "11:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $707.99** Current: **$707.91** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
+    },
+    {
+      "ts": "2026-07-21T15:20:44.012000+00:00",
+      "time": "11:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $581.84** Current: **$581.52** | Strength: 5/5 \u2014 Today's daily high; test of broken structure"
+    },
     {
       "ts": "2026-07-21T15:16:28.436000+00:00",
       "time": "11:16 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:10 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $950.76** Current: **$950.59** | Strength: 5/5 Fibonacci 0.382 (458.56\u21921255); prior daily support; 3x touch zone"
-    },
-    {
-      "ts": "2026-07-21T15:06:51.673000+00:00",
-      "time": "11:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $950.76** Current: **$950.97** | Strength: 5/5 Fibonacci 0.382 (458.56\u21921255); prior daily support; 3x touch zone"
-    },
-    {
-      "ts": "2026-07-21T15:06:51.139000+00:00",
-      "time": "11:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $950.07** Current: **$950.97** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
     }
   ]
 }
