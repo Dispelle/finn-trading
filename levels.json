@@ -32908,7 +32908,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -34457,9 +34457,9 @@
         "price": 145.92,
         "type": "S1",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 **GOLDEN POCKET** (61.8% Fibonacci) + MA50 at $145.99 (near-perfect confluence) + prior daily close and swing low supp",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34467,9 +34467,9 @@
         "price": 141.1,
         "type": "S2",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 78.6% Fibonacci retracement + MA20 at $140.34 (psychological floor for mean reversion)",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34497,9 +34497,9 @@
         "price": 150.0,
         "type": "R1",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 Psychological round number + intraday swing high (20-bar high at 150.0, 1H bar 6) + breaks key 1H consolidation ceilin",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34507,9 +34507,9 @@
         "price": 152.71,
         "type": "R2",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 38.2% Fibonacci retracement (134.95 \u2192 163.68) + prior swing high resistance (155.29 nearby)",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34517,9 +34517,9 @@
         "price": 156.9,
         "type": "R3",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 23.6% Fibonacci (upper zone) + convergence with 60-day swing high cluster (153.81, 154.91, 155.29, 155.69)",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34530,6 +34530,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 137.12,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Recent higher low (HL); break = structure failure / short invalidation",
+        "status": "active",
+        "source_brief": "2026-07-21",
         "hit_count": 0,
         "last_hit": null
       }
