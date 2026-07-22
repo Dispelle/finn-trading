@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-22T13:33:06.561937+00:00",
+  "generated_at": "2026-07-22T13:48:05.021271+00:00",
   "items": [
     {
-      "ts": "2026-07-22T13:32:54.515000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-22T13:47:59.170000+00:00",
+      "time": "09:47 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $245.8** Current: **$245.69** | Strength: 5/5 Fibonacci 0.618 (golden pocket), prior 1H high clustering"
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $18.49** Current: **$18.47** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
     },
     {
-      "ts": "2026-07-22T13:32:52.886000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-22T13:47:57.389000+00:00",
+      "time": "09:47 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $376.5** Current: **$377.81** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $545.0** Current: **$544.95** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-22T13:32:52.426000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-22T13:46:53.721000+00:00",
+      "time": "09:46 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $377.22** Current: **$377.81** | Strength: 4/5 Today's low; 1H cluster; recent printed floor (last 5 1H lows: 377\u2013381)"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $18.49** Current: **$18.50** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
     },
     {
-      "ts": "2026-07-22T13:32:51.070000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-22T13:46:51.158000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.37** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
+    {
+      "ts": "2026-07-22T13:45:47.836000+00:00",
+      "time": "09:45 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $747.29** Current: **$747.53** | Strength: 4/5 Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $74"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $581.84** Current: **$582.48** | Strength: 5/5 \u2014 Today's daily high; test of broken structure"
     },
     {
-      "ts": "2026-07-22T13:32:49.146000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-22T13:44:45.962000+00:00",
+      "time": "09:44 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $950.07** Current: **$951.36** | Strength: 5/5 \u2014 Today's (1-day) low; intraday support, likely where shorts covered"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $128.27** Current: **$128.44** | Strength: 5/5 \u2014 reason: **0.618 Fibonacci (golden pocket)** from 106.37\u2192163.70 swing;"
     },
     {
-      "ts": "2026-07-22T13:31:47.579000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $245.98** Current: **$245.82** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T13:31:47.102000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW R1 $246.72** Current: **$245.82** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
-    },
-    {
-      "ts": "2026-07-22T13:31:45.641000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1171.86** Current: **$1168.43** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
-    },
-    {
-      "ts": "2026-07-22T13:31:44.990000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-22T13:43:39.101000+00:00",
+      "time": "09:43 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $346.13** Current: **$346.20** | Strength: 4/5 \u2014 today's high, 1H pivot, intraday rejection zone"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $962.09** Current: **$962.79** | Strength: 5/5 \u2014 0.382 Fib retracement ($488.23\u2192$1255); very close to current price"
     },
     {
-      "ts": "2026-07-22T13:31:43.955000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-22T13:42:34.347000+00:00",
+      "time": "09:42 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $398.01** Current: **$395.46** | Strength: 5/5 \u2014 Most recent swing low (last 3\u20134 bars), also confluence with Fibonacci"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $580.0** Current: **$581.51** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-22T13:42:33.716000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $580.83** Current: **$581.51** | Strength: 5/5 \u2014 Round number + recent daily lows cluster ($581.45, $585.62)"
+    },
+    {
+      "ts": "2026-07-22T13:39:24.354000+00:00",
+      "time": "09:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $128.27** Current: **$128.03** | Strength: 5/5 \u2014 reason: **0.618 Fibonacci (golden pocket)** from 106.37\u2192163.70 swing;"
     }
   ]
 }
