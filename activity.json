@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:48:11.594449+00:00",
+  "generated_at": "2026-07-22T15:03:14.114654+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T14:53:11.106000+00:00",
+      "time": "10:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $346.91** Current: **$346.67** | Strength: 4/5 4-day prior close; recent swing high in distribution phase."
+    },
     {
       "ts": "2026-07-22T14:41:26.038000+00:00",
       "time": "10:41 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:21 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $390.19** Current: **$390.58** | Strength: 4/5 \u2014 Fibonacci 0.650 retracement, psychological support, 2.9% below curren"
-    },
-    {
-      "ts": "2026-07-22T14:17:57.721000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $630.35** Current: **$629.85** | Strength: 5/5 \u2014 Fib 0.382 retracement. Sits directly in zone of recent swings (60-day"
     }
   ]
 }
