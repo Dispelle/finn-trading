@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-22T14:33:09.362517+00:00",
+  "generated_at": "2026-07-22T14:48:11.594449+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T14:41:26.038000+00:00",
+      "time": "10:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $346.91** Current: **$346.98** | Strength: 4/5 4-day prior close; recent swing high in distribution phase."
+    },
+    {
+      "ts": "2026-07-22T14:40:22.466000+00:00",
+      "time": "10:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $244.1** Current: **$244.12** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-22T14:38:03.394000+00:00",
+      "time": "10:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,764** | P&L: **-19"
+    },
+    {
+      "ts": "2026-07-22T14:36:06.553000+00:00",
+      "time": "10:36 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $630.35** Current: **$630.59** | Strength: 5/5 \u2014 Fib 0.382 retracement. Sits directly in zone of recent swings (60-day"
+    },
+    {
+      "ts": "2026-07-22T14:33:56.183000+00:00",
+      "time": "10:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $585.0** Current: **$584.94** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-22T14:32:51.875000+00:00",
       "time": "10:32 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:17 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $630.35** Current: **$629.85** | Strength: 5/5 \u2014 Fib 0.382 retracement. Sits directly in zone of recent swings (60-day"
-    },
-    {
-      "ts": "2026-07-22T14:16:52.480000+00:00",
-      "time": "10:16 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $54.69** Current: **$54.67** | Strength: 5/5 \u2014 20-day VWAP"
-    },
-    {
-      "ts": "2026-07-22T14:12:36.977000+00:00",
-      "time": "10:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $748.66** Current: **$748.59** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
-    },
-    {
-      "ts": "2026-07-22T14:06:14.129000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $246.72** Current: **$246.73** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
-    },
-    {
-      "ts": "2026-07-22T14:05:06.002000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $381.59** Current: **$381.31** | Strength: 5/5 \u2014 0.786 Fibonacci retracement of 363.32\u2192443.42 swing"
-    },
-    {
-      "ts": "2026-07-22T14:01:55.899000+00:00",
-      "time": "10:01 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $245.98** Current: **$246.16** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
