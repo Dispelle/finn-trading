@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:49:13.565446+00:00",
+  "generated_at": "2026-07-22T19:03:51.795111+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T19:03:32.183000+00:00",
+      "time": "03:03 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $244.1** Current: **$244.17** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-22T18:38:11.663000+00:00",
       "time": "02:38 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:56 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $242.62** Current: **$242.67** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-22T17:55:25.829000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $242.62** Current: **$242.61** | Strength: 5/5 |"
     }
   ]
 }
