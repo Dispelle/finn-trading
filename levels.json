@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -2045,20 +2045,20 @@
       {
         "price": 70258.0,
         "type": "R2",
-        "strength": 4,
-        "reason": "|",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement + critical zone between MA200 ($70,716) and current price. Breaking here would confirm rev",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 77990.87,
         "type": "R3",
-        "strength": 4,
-        "reason": "|",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high (the absolute high of current cycle). **Invalidation point for bearish bias.**",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2066,9 +2066,9 @@
         "price": 65480.63,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)** \u2014 This is THE critical support. Price is CURRENTLY AT this level ($65,560 = 80bps ",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2099,6 +2099,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 67869.32,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 retracement of the $57,747.77 \u2192 $77,990.87 swing + convergence with 60d swing high at $67,248.13. Acts",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64832.85,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.650 retracement + psychological level + lies within recent daily consolidation range ($62,239 low). Histor",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62079.79,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.786 retracement + near 60d swing low at $61,769. This is the \"capitulation line\"\u2014a break here signals macr",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 70716.26,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       }
