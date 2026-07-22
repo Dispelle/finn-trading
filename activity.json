@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-22T19:34:25.265575+00:00",
+  "generated_at": "2026-07-22T19:48:55.234379+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T19:36:33.389000+00:00",
+      "time": "03:36 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $558.0** Current: **$557.10** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-07-22T19:36:32.865000+00:00",
+      "time": "03:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $558.37** Current: **$557.10** | Strength: 5/5 First swing high of 60-day swing cluster; prior resistance; Fib 0.236 at"
+    },
     {
       "ts": "2026-07-22T19:31:13.830000+00:00",
       "time": "03:31 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:27 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $590.4** Current: **$590.41** | Strength: 5/5 \u2014 0.382 Fibonacci retracement, near today's low ($590.38) \u2014 EXACT CONFLUE"
-    },
-    {
-      "ts": "2026-07-22T19:26:52.644000+00:00",
-      "time": "03:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $213.17** Current: **$213.11** | Strength: 5/5 \u2014 0.500 Fibonacci retracement + recent swing high cluster ($213.81, $21"
-    },
-    {
-      "ts": "2026-07-22T19:24:47.174000+00:00",
-      "time": "03:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1155.3** Current: **$1155.26** | Strength: 5/5 \u2014 **CRITICAL: Fib 0.236 retracement** (from 850.51 \u2192 1,249.45); daily l"
     }
   ]
 }
