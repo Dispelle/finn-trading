@@ -15758,7 +15758,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17747,9 +17747,9 @@
         "price": 56.3,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fibonacci retracement + prior swing high (64d); zone of seller interest from failed bounces",
+        "reason": "\u2014 Fibonacci 0.786 retracement (major Fib confluence)",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17757,9 +17757,9 @@
         "price": 61.55,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fibonacci (\"golden pocket\") + MA20 at $63.41 nearby; psychological round; old support zone",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket / MA20 weekly at $62.54)",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17850,6 +17850,46 @@
         "reason": "\u2014 Extension target (estimated 1.272 Fib = $89.36 down from peak); major structural support zone from prior year.",
         "status": "active",
         "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 68.92,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement (midway to $80.86 swing high)",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 52.66,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's low / 20-day VWAP ($53.01) zone",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 50.98,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Prior 1H swing low + descending trendline support",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 49.61,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low (major swing point / golden pocket of larger Fib)",
+        "status": "active",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       }
