@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-22T15:48:39.142962+00:00",
+  "generated_at": "2026-07-22T16:03:16.523960+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T15:54:53.072000+00:00",
+      "time": "11:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $382.13** Current: **$381.94** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-22T15:51:41.641000+00:00",
+      "time": "11:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $382.13** Current: **$382.15** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-22T15:17:44.198000+00:00",
       "time": "11:17 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:11 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $558.0** Current: **$558.06** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-22T14:53:11.106000+00:00",
-      "time": "10:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $346.91** Current: **$346.67** | Strength: 4/5 4-day prior close; recent swing high in distribution phase."
-    },
-    {
-      "ts": "2026-07-22T14:41:26.038000+00:00",
-      "time": "10:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $346.91** Current: **$346.98** | Strength: 4/5 4-day prior close; recent swing high in distribution phase."
     }
   ]
 }
