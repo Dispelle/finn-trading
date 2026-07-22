@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T16:18:17.644770+00:00",
+  "generated_at": "2026-07-22T16:18:32.975823+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T16:18:22.717000+00:00",
+      "time": "12:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $213.99** Current: **$214.24** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-22T15:54:53.072000+00:00",
       "time": "11:54 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:11 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $590.4** Current: **$590.66** | Strength: 5/5 \u2014 0.382 Fibonacci retracement, near today's low ($590.38) \u2014 EXACT CONFLUE"
-    },
-    {
-      "ts": "2026-07-22T15:11:17.384000+00:00",
-      "time": "11:11 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $558.0** Current: **$558.06** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
