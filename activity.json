@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-22T14:19:22.842378+00:00",
+  "generated_at": "2026-07-22T14:33:09.362517+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T14:32:51.875000+00:00",
+      "time": "10:32 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $585.0** Current: **$585.37** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-22T14:26:30.756000+00:00",
+      "time": "10:26 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $244.1** Current: **$244.03** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-22T14:23:17.888000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $390.19** Current: **$389.79** | Strength: 4/5 \u2014 Fibonacci 0.650 retracement, psychological support, 2.9% below curren"
+    },
+    {
+      "ts": "2026-07-22T14:21:09.390000+00:00",
+      "time": "10:21 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $390.19** Current: **$390.58** | Strength: 4/5 \u2014 Fibonacci 0.650 retracement, psychological support, 2.9% below curren"
+    },
     {
       "ts": "2026-07-22T14:17:57.721000+00:00",
       "time": "10:17 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:01 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $245.98** Current: **$246.16** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T14:01:53.011000+00:00",
-      "time": "10:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $381.59** Current: **$381.63** | Strength: 5/5 \u2014 0.786 Fibonacci retracement of 363.32\u2192443.42 swing"
-    },
-    {
-      "ts": "2026-07-22T14:00:51.259000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $245.8** Current: **$245.93** | Strength: 5/5 Fibonacci 0.618 (golden pocket), prior 1H high clustering"
-    },
-    {
-      "ts": "2026-07-22T14:00:49.210000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $707.99** Current: **$708.14** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
-    },
-    {
-      "ts": "2026-07-22T14:00:48.528000+00:00",
-      "time": "10:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $748.66** Current: **$748.84** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
     }
   ]
 }
