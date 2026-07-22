@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-22T14:03:08.842843+00:00",
+  "generated_at": "2026-07-22T14:18:06.094206+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T14:17:57.721000+00:00",
+      "time": "10:17 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $630.35** Current: **$629.85** | Strength: 5/5 \u2014 Fib 0.382 retracement. Sits directly in zone of recent swings (60-day"
+    },
+    {
+      "ts": "2026-07-22T14:16:52.480000+00:00",
+      "time": "10:16 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $54.69** Current: **$54.67** | Strength: 5/5 \u2014 20-day VWAP"
+    },
+    {
+      "ts": "2026-07-22T14:12:36.977000+00:00",
+      "time": "10:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $748.66** Current: **$748.59** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
+    },
+    {
+      "ts": "2026-07-22T14:06:14.129000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE R1 $246.72** Current: **$246.73** | Strength: 4/5 1H swing high (yesterday); 60-day micro resistance; recent intraday rej"
+    },
+    {
+      "ts": "2026-07-22T14:05:06.002000+00:00",
+      "time": "10:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $381.59** Current: **$381.31** | Strength: 5/5 \u2014 0.786 Fibonacci retracement of 363.32\u2192443.42 swing"
+    },
     {
       "ts": "2026-07-22T14:01:55.899000+00:00",
       "time": "10:01 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:00 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $748.66** Current: **$748.84** | Strength: 5/5 \u2014 10-day swing low (2 bars ago) / 20-day VWAP = $743.75 \u00b1 $4.35 / immedi"
-    },
-    {
-      "ts": "2026-07-22T13:59:43.287000+00:00",
-      "time": "09:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $54.69** Current: **$54.72** | Strength: 5/5 \u2014 20-day VWAP"
-    },
-    {
-      "ts": "2026-07-22T13:57:33.388000+00:00",
-      "time": "09:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $207.65** Current: **$207.59** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-22T13:53:17.628000+00:00",
-      "time": "09:53 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $207.65** Current: **$207.84** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-22T13:47:59.170000+00:00",
-      "time": "09:47 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $18.49** Current: **$18.47** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
-    },
-    {
-      "ts": "2026-07-22T13:47:57.389000+00:00",
-      "time": "09:47 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $545.0** Current: **$544.95** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
