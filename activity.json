@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T16:18:44.011617+00:00",
+  "generated_at": "2026-07-22T16:33:27.113095+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T16:22:38.263000+00:00",
+      "time": "12:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $213.99** Current: **$213.84** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-22T16:18:22.717000+00:00",
       "time": "12:18 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:11 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $590.38** Current: **$590.66** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T15:11:18.207000+00:00",
-      "time": "11:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $590.4** Current: **$590.66** | Strength: 5/5 \u2014 0.382 Fibonacci retracement, near today's low ($590.38) \u2014 EXACT CONFLUE"
     }
   ]
 }
