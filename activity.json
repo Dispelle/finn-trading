@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-22T17:49:18.022812+00:00",
+  "generated_at": "2026-07-22T18:03:54.599976+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T18:02:50.618000+00:00",
+      "time": "02:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE S1 $57.38** Current: **$57.41** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
+    {
+      "ts": "2026-07-22T18:01:46.575000+00:00",
+      "time": "02:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.38** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
+    },
+    {
+      "ts": "2026-07-22T17:56:30.094000+00:00",
+      "time": "01:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $242.62** Current: **$242.67** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-22T17:55:25.829000+00:00",
+      "time": "01:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $242.62** Current: **$242.61** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-22T17:55:23.388000+00:00",
+      "time": "01:55 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R1 $18.49** Current: **$18.48** | Strength: 5/5 | +94 pips | Prior 60d swing high; recent lower high; psychological round "
+    },
+    {
+      "ts": "2026-07-22T17:54:21.065000+00:00",
+      "time": "01:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $242.7** Current: **$242.69** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-07-22T17:53:15.140000+00:00",
+      "time": "01:53 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $707.99** Current: **$707.83** | Strength: 5/5 Fib 0.382 retracement (642.21\u2192748.65); currently 2pts below; strong conf"
+    },
     {
       "ts": "2026-07-22T17:44:45.210000+00:00",
       "time": "01:44 PM ET",
@@ -18,48 +60,6 @@
       "time": "01:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R2 $379.78** Current: **$379.74** | Strength: 5/5 \u2014 **0.786 Fibonacci retracement (golden zone start)**; aligns with last "
-    },
-    {
-      "ts": "2026-07-22T17:32:56.264000+00:00",
-      "time": "01:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $979.3** Current: **$977.76** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
-    },
-    {
-      "ts": "2026-07-22T17:31:53.598000+00:00",
-      "time": "01:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $377.22** Current: **$377.19** | Strength: 4/5 Today's low; 1H cluster; recent printed floor (last 5 1H lows: 377\u2013381)"
-    },
-    {
-      "ts": "2026-07-22T17:28:42.689000+00:00",
-      "time": "01:28 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $124.81** Current: **$124.73** | Strength: 4/5 \u2014 reason: 60-day swing low; prior daily close tested; 0.650 fib at $126"
-    },
-    {
-      "ts": "2026-07-22T17:28:38.895000+00:00",
-      "time": "01:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $323.68** Current: **$323.70** | Strength: 5/5 Yesterday's intraday low = most recent HL; invalidation of daily bullis"
-    },
-    {
-      "ts": "2026-07-22T17:24:22.852000+00:00",
-      "time": "01:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $981.61** Current: **$981.11** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T17:23:18.616000+00:00",
-      "time": "01:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $981.61** Current: **$982.34** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T17:23:18.121000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $979.3** Current: **$982.34** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
     }
   ]
 }
