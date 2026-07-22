@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T19:03:51.795111+00:00",
+  "generated_at": "2026-07-22T19:18:51.924854+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T19:05:40.317000+00:00",
+      "time": "03:05 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $244.1** Current: **$244.09** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-22T19:03:32.183000+00:00",
       "time": "03:03 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:01 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW S1 $57.38** Current: **$57.38** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + 1H recent low cluster ($57.29\u2013$57.40). **I"
-    },
-    {
-      "ts": "2026-07-22T17:56:30.094000+00:00",
-      "time": "01:56 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S1 $242.62** Current: **$242.67** | Strength: 5/5 |"
     }
   ]
 }
