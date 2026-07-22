@@ -40230,7 +40230,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -41489,9 +41489,9 @@
         "price": 13.62,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 *0.618 Fibonacci retracement (golden pocket) + prior swing low cluster*",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket), confluence with 0.650 at $13.42; prior swing high micro-structure; **rejection zone i",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -41499,9 +41499,9 @@
         "price": 14.33,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 *0.500 Fib retracement + mid-range POI*",
+        "reason": "\u2014 Fibonacci 0.500 retracement; psychological halfway point from swing low to 60-day high; prior support micro-level",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -41509,9 +41509,9 @@
         "price": 15.04,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 *0.382 Fib retracement + psychological level*",
+        "reason": "\u2014 Fibonacci 0.382; confluence with MA50 zone ($13.48 MA, but $15.04 is mid-channel resistance); barrier to lower timefra",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -41552,6 +41552,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.6,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 retracement; very close to current price ($12.92); **first downside checkpoint**",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.12,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP; MA20 daily; prior daily support; mean-reversion magnet",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.95,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Swing low cluster (appears 3x in recent 60d lows); 2nd major support zone; near 52-week low",
+        "status": "active",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       }
