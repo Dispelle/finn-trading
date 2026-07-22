@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-22T17:03:48.716040+00:00",
+  "generated_at": "2026-07-22T17:18:22.461580+00:00",
   "items": [
+    {
+      "ts": "2026-07-22T17:09:28.846000+00:00",
+      "time": "01:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $591.77** Current: **$591.43** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement (high confluence with MA50 $596.66 nearby)"
+    },
+    {
+      "ts": "2026-07-22T17:08:24.549000+00:00",
+      "time": "01:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $591.77** Current: **$591.99** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement (high confluence with MA50 $596.66 nearby)"
+    },
     {
       "ts": "2026-07-22T16:38:07.507000+00:00",
       "time": "12:38 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:12 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $590.38** Current: **$590.16** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-22T15:12:23.275000+00:00",
-      "time": "11:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $590.4** Current: **$590.16** | Strength: 5/5 \u2014 0.382 Fibonacci retracement, near today's low ($590.38) \u2014 EXACT CONFLUE"
-    },
-    {
-      "ts": "2026-07-22T15:12:22.333000+00:00",
-      "time": "11:12 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $558.0** Current: **$557.85** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
