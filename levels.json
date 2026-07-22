@@ -27336,7 +27336,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -28725,9 +28725,9 @@
         "price": 334.68,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high, TODAY'S HIGH, Fibonacci 1.000 extension, round psychological level",
+        "reason": "60-day swing high, Fib extension anchor, 1H triple-wick rejection zone",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28765,9 +28765,9 @@
         "price": 318.25,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement, aligns with recent daily support levels",
+        "reason": "Fib 0.236 retracement (265.07\u2192334.99); 20-day VWAP zone nearby ($302.05)",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28775,9 +28775,9 @@
         "price": 308.09,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement, confirms prior daily low structure ($308.16)",
+        "reason": "Fib 0.382 retracement; MA50 confluence $304.24; daily swing low support zone",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28828,6 +28828,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-21",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 354.01,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fib 1.272 extension (265.07\u2192334.99); psychological extension target",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 378.2,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fib 1.618 extension; structural breakout target if $334.99 taken",
+        "status": "active",
+        "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 323.68,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Yesterday's intraday low = most recent HL; invalidation of daily bullish structure",
+        "status": "active",
+        "source_brief": "2026-07-22",
         "hit_count": 0,
         "last_hit": null
       }
