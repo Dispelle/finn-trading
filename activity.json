@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-23T13:32:33.297372+00:00",
+  "generated_at": "2026-07-23T13:47:32.533838+00:00",
   "items": [
     {
-      "ts": "2026-07-23T13:32:31.605000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-07-23T13:43:33.690000+00:00",
+      "time": "09:43 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $52.16** Current: **$52.15** | Strength: 4/5 Daily close 8 days ago; intraday support tested multiple times"
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $237.8** Current: **$238.09** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-23T13:32:30.318000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $545.0** Current: **$551.59** | Strength: 5/5 Trade plan stop / invalidation level"
+      "ts": "2026-07-23T13:43:32.169000+00:00",
+      "time": "09:43 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $613.13** Current: **$613.39** | Strength: 5/5 **0.500 Fibonacci retracement** (key midpoint of 540\u2013686 swing)"
     },
     {
-      "ts": "2026-07-23T13:31:28.102000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $239.8** Current: **$236.50** | Strength: 5/5 Trade plan stop / invalidation level"
+      "ts": "2026-07-23T13:42:26.919000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $697.09** Current: **$697.65** | Strength: 5/5 \u2014 **0.500 Fibonacci (midpoint), current price proximity**"
     },
     {
-      "ts": "2026-07-23T13:31:27.396000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $237.17** Current: **$236.50** | Strength: 5/5 20-day VWAP ($237.95) \u2014 price discovery anchor"
+      "ts": "2026-07-23T13:42:25.516000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $372.13** Current: **$372.25** | Strength: 5/5 **Recent swing low (highest low in last 60d after $363.32)**"
     },
     {
-      "ts": "2026-07-23T13:31:25.956000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S3 $236.89** Current: **$236.50** | Strength: 5/5 |"
+      "ts": "2026-07-23T13:42:24.904000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $372.15** Current: **$372.25** | Strength: 4/5 \u2014 reason: Prior daily close + recent 1H pivot resistance"
     },
     {
-      "ts": "2026-07-23T13:31:25.250000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-23T13:42:24.265000+00:00",
+      "time": "09:42 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $242.7** Current: **$236.50** | Strength: 4/5 |"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $991.1** Current: **$988.86** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
     },
     {
-      "ts": "2026-07-23T13:31:22.692000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-23T13:41:21.698000+00:00",
+      "time": "09:41 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $244.1** Current: **$236.50** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1171.86** Current: **$1169.41** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
     },
     {
-      "ts": "2026-07-23T13:31:21.380000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $237.8** Current: **$236.50** | Strength: 5/5 Trade plan stop / invalidation level"
+      "ts": "2026-07-23T13:41:18.915000+00:00",
+      "time": "09:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $991.1** Current: **$991.82** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
     },
     {
-      "ts": "2026-07-23T13:31:20.876000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S2 $238.55** Current: **$236.50** | Strength: 5/5 **20-day VWAP**; volume-weighted anchor; daily MA20 proximity ($239.61 "
+      "ts": "2026-07-23T13:40:17.349000+00:00",
+      "time": "09:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S2 $237.17** Current: **$237.24** | Strength: 5/5 20-day VWAP ($237.95) \u2014 price discovery anchor"
     },
     {
-      "ts": "2026-07-23T13:31:20.322000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-23T13:40:16.185000+00:00",
+      "time": "09:40 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S1 $242.62** Current: **$236.50** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $122.0** Current: **$122.47** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
