@@ -26019,9 +26019,9 @@
         "price": 756.68,
         "type": "R2",
         "strength": 5,
-        "reason": "Prior daily close (4 days ago); swing high cluster (755.42, 755.58); psychological round",
+        "reason": "Last higher low / 1-week swing high / rejected on last 3 days",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26458,10 +26458,10 @@
       {
         "price": 747.29,
         "type": "R1",
-        "strength": 4,
-        "reason": "Today's 1H/daily high; prior intraday swing high; 20d VWAP nearby at $743.54",
+        "strength": 5,
+        "reason": "0.236 Fib + daily MA20 (slope up) + prior 10-day range high convergence",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26489,9 +26489,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "60d swing high; 52w high; psychological; Fib 1.272 extension zone begins",
+        "reason": "60-day swing high / breakdown invalidation point / psychological round",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26612,6 +26612,76 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 734.39,
+        "type": "S1",
+        "strength": 5,
+        "reason": "0.500 Fib (exact midpoint swing 708.37\u2192760.40) + psychological round",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 728.25,
+        "type": "S2",
+        "strength": 5,
+        "reason": "0.618 Fib (golden pocket start) + support cluster (multiple touches nearby)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 719.5,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.786 Fib + 60-day swing low ($722.59) nearby / MA200 support zone",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 748.12,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 728.25,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 720.0,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 709.92,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
