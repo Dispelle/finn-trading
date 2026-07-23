@@ -34674,6 +34674,76 @@
         "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 349.63,
+        "type": "R1",
+        "strength": 4,
+        "reason": "0.786 Fib retracement + prior swing low support zone",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 371.81,
+        "type": "R2",
+        "strength": 5,
+        "reason": "0.618 Fib (golden pocket) + recent swing low cluster",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 387.39,
+        "type": "R3",
+        "strength": 5,
+        "reason": "0.500 Fib midpoint + psychological zone (MA20 proximity $388.73)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 402.97,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.382 Fib retracement + MA20/$391.92 consolidation",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 405.0,
+        "type": "R3",
+        "strength": 5,
+        "reason": "MA50 (critical moving average for trend flip)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 321.38,
+        "type": "S1",
+        "strength": 5,
+        "reason": "52-week low TAGGED TODAY + 60-day low (double confluence)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 303.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "52-week low (absolute floor in dataset)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
