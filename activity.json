@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-23T20:22:11.866827+00:00",
+  "generated_at": "2026-07-23T20:37:12.013388+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T20:30:08.095000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$65,118** | P&L: **-20"
+    },
     {
       "ts": "2026-07-23T20:00:29.116000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $122.64** Current: **$122.88** | Strength: 4/5 \u2014 reason: 60-day secondary swing low; major support zone"
-    },
-    {
-      "ts": "2026-07-23T19:51:39.743000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $318.55** Current: **$319.43** | Strength: 5/5 \u2014 Today's low = session support, recent swing low (60-day bottom). Psyc"
     }
   ]
 }
