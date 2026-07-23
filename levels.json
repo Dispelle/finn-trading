@@ -36387,9 +36387,9 @@
         "price": 163.68,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high; major swing high; failed rally target from prior uptrend",
+        "reason": "60-day swing high (recent); Fib 1.272 ext confluence (171.49 is further); psychological resistance from failed break",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -36488,6 +36488,66 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fib 0.500 (midpoint); MA200 @ $149.67 convergence; daily VWAP near zone",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 171.49,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (134.95\u2192163.68); round-number zone; likely institutional sell-side resting",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 181.44,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.618 extension; major supply level if 163.68 breaches cleanly",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 156.9,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fibonacci 0.236 retracement (golden pocket start); yesterday's intraday support; micro-cycle floor",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 152.71,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Fibonacci 0.382 retracement; prior daily high cluster (154.45, 154.8); daily MA50 approx",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 149.31,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Fibonacci 0.500 (midpoint of recent swing); Weekly MA20 $150.08 at knife-edge; psychological round; strong dynamic suppo",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 155.29,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-23",
         "hit_count": 0,
