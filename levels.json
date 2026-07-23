@@ -37684,7 +37684,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -39313,9 +39313,9 @@
         "price": 1155.3,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **CRITICAL: Fib 0.236 retracement** (from 850.51 \u2192 1,249.45); daily low base ($1,152.54, 5 bars ago); price now $1,146",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -39413,9 +39413,9 @@
         "price": 1182.73,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day swing high (recent resistance, tested multiple times in last 5 days)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -39436,6 +39436,26 @@
         "reason": "20-day VWAP (price just slightly below; strong daily anchor)",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1208.12,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1146.9,
+        "type": "S2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
