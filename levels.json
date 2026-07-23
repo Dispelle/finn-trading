@@ -18246,7 +18246,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20145,9 +20145,9 @@
         "price": 82.47,
         "type": "R2",
         "strength": 5,
-        "reason": "0.500 Fib midpoint + MA50 ($82.27) \u2014 major confluenceZone",
+        "reason": "\u2014 0.500 Fib retracement from 71.05\u219293.89",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20155,9 +20155,9 @@
         "price": 85.17,
         "type": "R3",
         "strength": 5,
-        "reason": "0.382 Fibonacci; prior swing high 8 days ago; 60-day resistance zone",
+        "reason": "\u2014 0.382 Fib retracement",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20236,7 +20236,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior swing high (60d), coincides with MA20 angle inflection, consolidation resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20316,7 +20316,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 Today's low (intraday support), minor 1H pivot, shows recent congestion buying",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20326,7 +20326,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Recent swing low (60d), critical higher low that keeps downtrend invalidated",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20346,7 +20346,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20356,7 +20356,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20366,7 +20366,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20376,7 +20376,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -20508,6 +20508,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 80.44,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 1-day swing high (formed today); recent local peak",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 79.77,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fib retracement (GOLDEN POCKET)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76.2,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 20-day VWAP",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 74.88,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Last higher low in 60d swing structure",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
