@@ -34088,7 +34088,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -35747,9 +35747,9 @@
         "price": 171.49,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.272 extension (134.95\u2192163.68); geometric target",
+        "reason": "Fib 1.272 extension; next structural resistance above all-time highs context",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -35777,9 +35777,9 @@
         "price": 146.09,
         "type": "S3",
         "strength": 4,
-        "reason": "MA50; weekly support; loss = structure failure",
+        "reason": "Fib 0.618 golden pocket; prior daily support; psychological hold",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -35790,6 +35790,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 156.9,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Fib 0.236 retracement from $134.95\u2192$163.68; prior supply zone; 60d high clustering",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 163.68,
+        "type": "R2",
+        "strength": 5,
+        "reason": "**60-day swing high**; psychological round; prior distribution peak; multiple tests",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 152.71,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fib 0.382; last HL floor; 10-day lows clustering; critical invalidation point",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 149.31,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Fib 0.500 (midpoint); MA200 @ $149.67 convergence; daily VWAP near zone",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
