@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-23T17:50:50.558232+00:00",
+  "generated_at": "2026-07-23T18:05:17.117397+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T18:03:55.831000+00:00",
+      "time": "02:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $141.89** Current: **$141.87** | Strength: 5/5 \u2014 **0.236 Fibonacci** + **swing high cluster** ($141.42, $149.47 nearby)"
+    },
+    {
+      "ts": "2026-07-23T18:00:08.120000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,618** | P&L: **-20"
+    },
+    {
+      "ts": "2026-07-23T17:59:40.316000+00:00",
+      "time": "01:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $141.89** Current: **$141.96** | Strength: 5/5 \u2014 **0.236 Fibonacci** + **swing high cluster** ($141.42, $149.47 nearby)"
+    },
+    {
+      "ts": "2026-07-23T17:59:39.193000+00:00",
+      "time": "01:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $993.35** Current: **$993.00** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-23T17:45:07.993000+00:00",
       "time": "01:45 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:32 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $57.88** Current: **$57.90** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
-    },
-    {
-      "ts": "2026-07-23T17:31:54.046000+00:00",
-      "time": "01:31 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1189.07** Current: **$1189.59** | Strength: 5/5 \u2014 Today's high / yesterday's swing high ($1,189.07 structure); immedia"
-    },
-    {
-      "ts": "2026-07-23T17:30:08.879000+00:00",
-      "time": "01:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,774** | P&L: **-20"
-    },
-    {
-      "ts": "2026-07-23T17:15:55.322000+00:00",
-      "time": "01:15 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $532.35** Current: **$532.79** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
-    },
-    {
-      "ts": "2026-07-23T17:05:16.570000+00:00",
-      "time": "01:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.85** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
     }
   ]
 }
