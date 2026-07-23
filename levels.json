@@ -13910,7 +13910,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -15159,9 +15159,9 @@
         "price": 381.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci retracement of 363.32\u2192443.42 swing",
+        "reason": "\u2014 Today's daily high, intraday swing high, 1H high confluence",
         "status": "active",
-        "source_brief": "2026-07-16",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15170,7 +15170,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket center, \"golden ratio\")",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -15449,9 +15449,9 @@
         "price": 363.32,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day swing low (absolute floor of current range)",
+        "reason": "\u2014 60-day absolute low (support floor)",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15760,7 +15760,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 60-day swing low (secondary floor)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -15859,9 +15859,9 @@
         "price": 409.11,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 0.382 Fibonacci retracement (prior support, psychological level)",
+        "reason": "\u2014 Fib 0.382",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15932,6 +15932,86 @@
         "reason": "\u2014 Weekly MA20 (primary downtrend line)",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 387.88,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.650 ($389.26 zone) confluence with MA20 daily band",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 400.37,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.500 (golden ratio midpoint 363.32\u2192437.42)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 437.42,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high, recent rejection",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 374.81,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 Prior daily close (10-day close: $374.81)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 372.13,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 371.88,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low (recent)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 365.77,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.786 (near $379.18 golden pocket lower boundary)",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 387.88,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
