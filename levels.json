@@ -29845,9 +29845,9 @@
         "price": 353.61,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (from 265.07 \u2192 334.68 swing)",
+        "reason": "Fib 1.272 extension; bull-case breakout target",
         "status": "active",
-        "source_brief": "2026-07-17",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -29958,6 +29958,76 @@
         "reason": "Yesterday's intraday low = most recent HL; invalidation of daily bullish structure",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 323.3,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Today's 1H high + swing high confluence; psychological round; break here needed for bullish continuation",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 334.99,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day ATH; major psychological; Fibonacci extension zone start; last bull target",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 318.95,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Fib 0.236 retracement; tested 8 days ago, held; minor demand",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 309.03,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Fib 0.382 retracement; tested 6 days ago, bounced; moderate demand",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 303.46,
+        "type": "S3",
+        "strength": 5,
+        "reason": "20-day VWAP; price traded here ~4 days ago; volume-weighted key level",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 293.0,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Fib 0.618 (golden pocket); strong floor; if broken = major loss of structure",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 280.74,
+        "type": "S3",
+        "strength": 4,
+        "reason": "200-day MA; ultimate long-term support line",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
