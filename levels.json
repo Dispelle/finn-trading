@@ -32251,9 +32251,9 @@
         "price": 725.76,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fib extension 1.272 from swing ($540.18 \u2192 $686.08). Beyond recent range, suggests a strong bullish target if $686.08 i",
+        "reason": "**1.272 Fibonacci extension** (impulse target if breakout occurs)",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32271,9 +32271,9 @@
         "price": 613.13,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 (golden ratio midpoint, 50% retracement). Sits **directly on MA20 = $612.68** (weekly AND intraday), making ",
+        "reason": "**0.500 Fibonacci retracement** (key midpoint of 540\u2013686 swing)",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32281,9 +32281,9 @@
         "price": 595.91,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.618 (golden pocket start). Recent swing low zone ($594.81, $592.6). This is where the $686.08 rally originated (",
+        "reason": "**Recent swing low (HL)**; structure invalidation if broken",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32324,6 +32324,66 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 649.0,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Daily candle high TODAY + 1H swing high cluster; psychological round",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 651.65,
+        "type": "R2",
+        "strength": 5,
+        "reason": "**0.236 Fibonacci retracement** (first pullback target); prior intraday high",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 677.86,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**Recent lower high (LH)** \u2014 swing resistance; broken intraday twice",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 686.08,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**60-day swing high** (most recent peak); market structure HH",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 617.92,
+        "type": "S1",
+        "strength": 5,
+        "reason": "**20-day VWAP** (anchored volatility pivot); MA20 nearby at $615.93",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 577.07,
+        "type": "S3",
+        "strength": 4,
+        "reason": "**Most recent swing low (LL)**; 60-day secondary support",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
