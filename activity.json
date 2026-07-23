@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-23T17:20:47.731218+00:00",
+  "generated_at": "2026-07-23T17:35:16.609294+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T17:34:01.696000+00:00",
+      "time": "01:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1189.07** Current: **$1188.47** | Strength: 5/5 \u2014 Today's high / yesterday's swing high ($1,189.07 structure); immedia"
+    },
+    {
+      "ts": "2026-07-23T17:32:55.116000+00:00",
+      "time": "01:32 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $57.88** Current: **$57.90** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
+    },
+    {
+      "ts": "2026-07-23T17:31:54.046000+00:00",
+      "time": "01:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1189.07** Current: **$1189.59** | Strength: 5/5 \u2014 Today's high / yesterday's swing high ($1,189.07 structure); immedia"
+    },
+    {
+      "ts": "2026-07-23T17:30:08.879000+00:00",
+      "time": "01:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,774** | P&L: **-20"
+    },
     {
       "ts": "2026-07-23T17:15:55.322000+00:00",
       "time": "01:15 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:57 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $528.9** Current: **$529.33** | Strength: 5/5 \u2014 20-day VWAP. MA20 at $532.59 nearby. This is the \"fair value line\"\u2014firs"
-    },
-    {
-      "ts": "2026-07-23T16:56:45.850000+00:00",
-      "time": "12:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $528.9** Current: **$526.74** | Strength: 5/5 \u2014 20-day VWAP. MA20 at $532.59 nearby. This is the \"fair value line\"\u2014firs"
-    },
-    {
-      "ts": "2026-07-23T16:55:41.654000+00:00",
-      "time": "12:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $531.17** Current: **$529.00** | Strength: 5/5 20-day VWAP; price currently near this; daily MA20 ($533.85) acts as **d"
-    },
-    {
-      "ts": "2026-07-23T16:55:41.209000+00:00",
-      "time": "12:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $530.57** Current: **$529.00** | Strength: 5/5 MA20 (daily); psychological whole number; prior support-turned-resistanc"
-    },
-    {
-      "ts": "2026-07-23T16:54:37.052000+00:00",
-      "time": "12:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $532.35** Current: **$531.53** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
     }
   ]
 }
