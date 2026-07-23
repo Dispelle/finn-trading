@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-23T18:05:17.117397+00:00",
+  "generated_at": "2026-07-23T18:20:18.290673+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T18:15:06.301000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,671**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-23T18:13:29.203000+00:00",
+      "time": "02:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $991.1** Current: **$992.50** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
+    },
+    {
+      "ts": "2026-07-23T18:08:10.244000+00:00",
+      "time": "02:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $991.1** Current: **$989.50** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
+    },
     {
       "ts": "2026-07-23T18:03:55.831000+00:00",
       "time": "02:03 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:37 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $122.0** Current: **$121.95** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-23T17:36:07.968000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S2 $52.16** Current: **$52.12** | Strength: 4/5 Daily close 8 days ago; intraday support tested multiple times"
-    },
-    {
-      "ts": "2026-07-23T17:34:01.696000+00:00",
-      "time": "01:34 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1189.07** Current: **$1188.47** | Strength: 5/5 \u2014 Today's high / yesterday's swing high ($1,189.07 structure); immedia"
-    },
-    {
-      "ts": "2026-07-23T17:32:55.116000+00:00",
-      "time": "01:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $57.88** Current: **$57.90** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
     }
   ]
 }
