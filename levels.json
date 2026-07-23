@@ -5066,7 +5066,7 @@
     "ticker_source": "watchlist"
   },
   "NVDA": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6826,7 +6826,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 200-day MA; long-term floor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -6926,7 +6926,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "**60-day absolute high**; psychological/structural resistance; Fib 1.000 (full extension); technical ceiling",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7015,9 +7015,9 @@
         "price": 201.64,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 MA20 (weekly), slope downward; psychological and technical support, daily/weekly pivot",
+        "reason": "20-day VWAP; MA20 at $202.29 (tight cluster); key holding zone for bullish continuation",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7125,9 +7125,9 @@
         "price": 199.34,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Recent 60-day swing low; structure invalidation point; last HL, critical support",
+        "reason": "60-day swing low; breaks here invalidate weekly bias; psychological support at ~$200",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7136,7 +7136,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "**Swing low (secondary support)** \u2014 60-day pullback zone; prior consolidation base 6\u20138 bars ago",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7206,7 +7206,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "**Swing low (higher low in structure)** \u2014 invalidates bullish bias if broken; 60d structure-defining level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7356,7 +7356,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "**0.236 Fib retracement** (189.80\u2192236.54 swing); prior area of reaction; alignment with 60-day mid-range",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7366,7 +7366,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "**60-day swing high** \u2014 most recent major resistance; price rejection zone 5\u201310 bars ago; major Fib pivot (0.000 = 1.000",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7376,7 +7376,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "**1.272 Fib extension** (189.80\u2192236.54); next major extension target; round number confluence ($250)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7386,7 +7386,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "\u2014 1.618 Fibonacci extension; major upside extension (lower probability near-term)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7395,9 +7395,9 @@
         "price": 207.65,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "**0.618 Fib (golden pocket)** \u2014 $189.80\u2192$236.54; natural pullback target; MA20 nearby at $202.29",
         "status": "active",
-        "source_brief": "2026-07-16",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7406,7 +7406,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 0.650 Fibonacci retracement; tighter support inside S1\u2013R1 range",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7416,7 +7416,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 20-day VWAP; supply/demand fairness level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7426,7 +7426,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "\u2014 Swing high from recent 60d swing; confluent with 0.236 Fib retracement ($225.51). Minor resistance.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7456,7 +7456,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "0.650 Fib (mid-range); secondary support within golden pocket zone; intraday pivot",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-15",
         "hit_count": 0,
         "last_hit": null
@@ -7558,6 +7558,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 225.51,
+        "type": "R1",
+        "strength": 4,
+        "reason": "0.236 Fib retrace (189.80\u2192236.54); prior support-turned-resistance zone; psychological cluster",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 236.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "60-day swing high; 52-week high proxy; ema/vwap confluence zone; breakout target",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 249.25,
+        "type": "R3",
+        "strength": 3,
+        "reason": "1.272 Fib extension (189.80\u2192236.54); breakout extension; lower probability near-term",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
