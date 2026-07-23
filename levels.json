@@ -32320,7 +32320,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -33959,9 +33959,9 @@
         "price": 368.6,
         "type": "S2",
         "strength": 4,
-        "reason": "Swing low (60d); secondary trend support",
+        "reason": "\u2014 Prior daily low (8 days ago); repeat of prior support. Recent swing low area.",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -33969,9 +33969,9 @@
         "price": 364.02,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low; Fib swing origin; major support",
+        "reason": "\u2014 60-day absolute low; psychological round number ($365.00 area). Fib extension base. **MAJOR SUPPORT.** If broken, next",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34039,9 +34039,49 @@
         "price": 408.71,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib; 10-day average price zone; MA50 ($409.80) proximity",
+        "reason": "\u2014 0.500 Fib; MA20 (weekly) at $391.36 / MA50 at $407.47. Zone of confluence. Reclaim here = structural break of lower hi",
         "status": "active",
-        "source_brief": "2026-07-20",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 380.17,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 Prior daily high (today's high); failed to extend. Immediate resistance; light volume break above here needed.",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 383.15,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 0.786 Fib retracement; previous swing high from 60-day structure. Confluence with prior bounce attempt.",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 395.3,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (golden support line); 0.650 Fib. **CRITICAL.** Price currently $9.29 below. If reclaimed on daily close, ",
+        "status": "active",
+        "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.17,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 60-day swing low (prior); secondary support cluster.",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
