@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-23T13:47:32.533838+00:00",
+  "generated_at": "2026-07-23T14:02:34.986042+00:00",
   "items": [
     {
-      "ts": "2026-07-23T13:43:33.690000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-23T14:00:08.967000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $237.8** Current: **$238.09** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,841** | P&L: **-20"
     },
     {
-      "ts": "2026-07-23T13:43:32.169000+00:00",
-      "time": "09:43 AM ET",
+      "ts": "2026-07-23T13:59:36.879000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $613.13** Current: **$613.39** | Strength: 5/5 **0.500 Fibonacci retracement** (key midpoint of 540\u2013686 swing)"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $345.79** Current: **$345.85** | Strength: 5/5 \u2014 Hourly consolidation support (multiple 1H lows clustered here)"
     },
     {
-      "ts": "2026-07-23T13:42:26.919000+00:00",
-      "time": "09:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $697.09** Current: **$697.65** | Strength: 5/5 \u2014 **0.500 Fibonacci (midpoint), current price proximity**"
-    },
-    {
-      "ts": "2026-07-23T13:42:25.516000+00:00",
-      "time": "09:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $372.13** Current: **$372.25** | Strength: 5/5 **Recent swing low (highest low in last 60d after $363.32)**"
-    },
-    {
-      "ts": "2026-07-23T13:42:24.904000+00:00",
-      "time": "09:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $372.15** Current: **$372.25** | Strength: 4/5 \u2014 reason: Prior daily close + recent 1H pivot resistance"
-    },
-    {
-      "ts": "2026-07-23T13:42:24.265000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-23T13:58:32.765000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $991.1** Current: **$988.86** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $345.79** Current: **$345.75** | Strength: 5/5 \u2014 Hourly consolidation support (multiple 1H lows clustered here)"
     },
     {
-      "ts": "2026-07-23T13:41:21.698000+00:00",
-      "time": "09:41 AM ET",
+      "ts": "2026-07-23T13:58:30.356000+00:00",
+      "time": "09:58 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1171.86** Current: **$1169.41** | Strength: 5/5 20-day VWAP; price currently $7.25 above; major institutional accumula"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $979.3** Current: **$977.38** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
     },
     {
-      "ts": "2026-07-23T13:41:18.915000+00:00",
-      "time": "09:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $991.1** Current: **$991.82** | Strength: 5/5 \u2014 Last swing low now acting as resistance; yesterday's daily high. Converg"
-    },
-    {
-      "ts": "2026-07-23T13:40:17.349000+00:00",
-      "time": "09:40 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S2 $237.17** Current: **$237.24** | Strength: 5/5 20-day VWAP ($237.95) \u2014 price discovery anchor"
-    },
-    {
-      "ts": "2026-07-23T13:40:16.185000+00:00",
-      "time": "09:40 AM ET",
+      "ts": "2026-07-23T13:57:28.805000+00:00",
+      "time": "09:57 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $122.0** Current: **$122.47** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S3 $235.98** Current: **$235.42** | Strength: 5/5 MA200; buy-side anchor; major long-term support; only breached in crisi"
+    },
+    {
+      "ts": "2026-07-23T13:57:25.083000+00:00",
+      "time": "09:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $981.61** Current: **$981.46** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-23T13:55:18.995000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $346.13** Current: **$346.27** | Strength: 4/5 \u2014 today's high, 1H pivot, intraday rejection zone"
+    },
+    {
+      "ts": "2026-07-23T13:54:14.355000+00:00",
+      "time": "09:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $346.13** Current: **$345.88** | Strength: 4/5 \u2014 today's high, 1H pivot, intraday rejection zone"
+    },
+    {
+      "ts": "2026-07-23T13:53:07.338000+00:00",
+      "time": "09:53 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $64832.85** Current: **$64875.46** | Strength: 4/5 \u2014 Fibonacci 0.650 retracement + psychological level + lies within re"
+    },
+    {
+      "ts": "2026-07-23T13:52:03.724000+00:00",
+      "time": "09:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $371.88** Current: **$371.89** | Strength: 5/5 **20-day VWAP / price anchor**"
     }
   ]
 }
