@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-23T17:05:12.156698+00:00",
+  "generated_at": "2026-07-23T17:20:14.094708+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T17:15:55.322000+00:00",
+      "time": "01:15 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $532.35** Current: **$532.79** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
+    },
+    {
+      "ts": "2026-07-23T17:05:16.570000+00:00",
+      "time": "01:05 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.85** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
+    },
     {
       "ts": "2026-07-23T17:01:01.605000+00:00",
       "time": "01:01 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:54 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $532.35** Current: **$531.53** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
-    },
-    {
-      "ts": "2026-07-23T16:45:59.728000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $1001.42** Current: **$1000.25** | Strength: 4/5 \u2014 today's intraday high; prior daily swing high; confluence with *tight"
-    },
-    {
-      "ts": "2026-07-23T16:45:08.116000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,699** | P&L: **-20"
     }
   ]
 }
