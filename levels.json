@@ -30933,9 +30933,9 @@
         "price": 421.58,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement; aligns with prior swing high cluster ($420.78). Recent resistance on daily 60d chart.",
+        "reason": "Swing high (60d); confluence with 0.382 Fib ($421.58 \u2248 40pt away)",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30943,9 +30943,9 @@
         "price": 438.68,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement; gatekeeper to $466.32 (recent 60d high). Represents 2.5% move from current price.",
+        "reason": "0.236 Fib extension; round psychological level; supply cluster",
         "status": "active",
-        "source_brief": "2026-07-21",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30963,9 +30963,9 @@
         "price": 393.94,
         "type": "S1",
         "strength": 5,
-        "reason": "**0.618 Golden Pocket** (Fib retracement) + daily MA20 confluence",
+        "reason": "**Golden Pocket (0.618 Fib)** = 61.8% of 349.20\u2192466.32 move; also \u2248 MA20d $384.64 + micro-support; CRITICAL confluence",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30973,9 +30973,9 @@
         "price": 382.27,
         "type": "S2",
         "strength": 5,
-        "reason": "Recent swing low (HL pivot) + daily structure anchor",
+        "reason": "Recent swing low (60d); near 0.786 Fib ($374.26); held 2x in last 30 bars",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -30993,9 +30993,9 @@
         "price": 373.35,
         "type": "S3",
         "strength": 4,
-        "reason": "0.786 Fib retrace + psychological support",
+        "reason": "0.786 Fib retracement; prior support zone; 52w range lower third",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31076,6 +31076,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-22",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 405.99,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior swing high (60d); tested 3x in last 20 bars; major rejection point",
+        "status": "active",
+        "source_brief": "2026-07-23",
         "hit_count": 0,
         "last_hit": null
       }
