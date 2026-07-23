@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-23T14:32:35.978260+00:00",
+  "generated_at": "2026-07-23T14:47:36.166975+00:00",
   "items": [
+    {
+      "ts": "2026-07-23T14:45:08.042000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,967**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-23T14:44:24.757000+00:00",
+      "time": "10:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S3 $233.59** Current: **$233.34** | Strength: 5/5 Prior swing low (60d); break here = structure change"
+    },
+    {
+      "ts": "2026-07-23T14:44:24.263000+00:00",
+      "time": "10:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $233.4** Current: **$233.34** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-23T14:43:19.981000+00:00",
+      "time": "10:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW S2 $94.63** Current: **$94.28** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-23T14:41:11.192000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1179.57** Current: **$1178.80** | Strength: 5/5 20-day VWAP (price just slightly below; strong daily anchor)"
+    },
+    {
+      "ts": "2026-07-23T14:41:10.196000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $382.27** Current: **$381.72** | Strength: 5/5 Recent swing low (60d); near 0.786 Fib ($374.26); held 2x in last 30 ba"
+    },
+    {
+      "ts": "2026-07-23T14:40:06.724000+00:00",
+      "time": "10:40 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1179.57** Current: **$1179.60** | Strength: 5/5 20-day VWAP (price just slightly below; strong daily anchor)"
+    },
+    {
+      "ts": "2026-07-23T14:37:57.149000+00:00",
+      "time": "10:37 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $382.27** Current: **$382.62** | Strength: 5/5 Recent swing low (60d); near 0.786 Fib ($374.26); held 2x in last 30 ba"
+    },
     {
       "ts": "2026-07-23T14:30:07.593000+00:00",
       "time": "10:30 AM ET",
@@ -12,54 +60,6 @@
       "time": "10:27 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE S3 $233.59** Current: **$233.83** | Strength: 5/5 Prior swing low (60d); break here = structure change"
-    },
-    {
-      "ts": "2026-07-23T14:16:40.161000+00:00",
-      "time": "10:16 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $346.91** Current: **$347.01** | Strength: 4/5 4-day prior close; recent swing high in distribution phase."
-    },
-    {
-      "ts": "2026-07-23T14:15:07.523000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,004**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-23T14:08:10.253000+00:00",
-      "time": "10:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S3 $235.1** Current: **$235.06** | Strength: 5/5 0.786 Fib; MA200 proximity ($235.94); 52-week support zone; prior swing "
-    },
-    {
-      "ts": "2026-07-23T14:06:00.390000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $993.35** Current: **$993.92** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-23T14:00:08.967000+00:00",
-      "time": "10:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,841** | P&L: **-20"
-    },
-    {
-      "ts": "2026-07-23T13:59:36.879000+00:00",
-      "time": "09:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $345.79** Current: **$345.85** | Strength: 5/5 \u2014 Hourly consolidation support (multiple 1H lows clustered here)"
-    },
-    {
-      "ts": "2026-07-23T13:58:32.765000+00:00",
-      "time": "09:58 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $345.79** Current: **$345.75** | Strength: 5/5 \u2014 Hourly consolidation support (multiple 1H lows clustered here)"
-    },
-    {
-      "ts": "2026-07-23T13:58:30.356000+00:00",
-      "time": "09:58 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $979.3** Current: **$977.38** | Strength: 5/5 \u2014 Prior swing low (golden level from prior support)"
     }
   ]
 }
