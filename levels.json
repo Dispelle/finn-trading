@@ -378,7 +378,7 @@
     "ticker_source": "portfolio"
   },
   "BTC": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 80799,
     "last_seen_price": 80799,
     "levels": [
@@ -2166,9 +2166,9 @@
         "price": 70258.0,
         "type": "R3",
         "strength": 5,
-        "reason": "0.382 Fib retracement (60-day swing); MA20 weekly ($69,462) nearby; structural resistance zone",
+        "reason": "\u2014 reason: Fibonacci 0.382 retracement of $57,747\u2192$77,990 swing + MA200 proximity",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2176,9 +2176,9 @@
         "price": 64832.85,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.650 Fibonacci retracement, 20-day VWAP proximity ($64,027)",
+        "reason": "\u2014 reason: Fibonacci 0.650 golden pocket zone + daily close support",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2279,6 +2279,46 @@
         "reason": "\u2014 **10-day daily low (3 days ago)**",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 65735.72,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 reason: Recent daily swing high (1H high 65,710 + prior daily high)",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 66910.06,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 reason: 60-day swing high, prior higher high, broken structure trigger",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 64018.17,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 reason: 20-day VWAP (volume-weighted mean) + MA20 daily proximity",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63106.55,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 reason: MA50 (intermediate trend average)",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
