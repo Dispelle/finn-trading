@@ -19136,7 +19136,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -21035,9 +21035,9 @@
         "price": 82.47,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **50% Fib Retracement**",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21325,9 +21325,9 @@
         "price": 79.77,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **Golden Pocket** (Fib 0.618 retracement from $71.05\u2192$93.89)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21397,7 +21397,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21465,9 +21465,9 @@
         "price": 76.27,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **20-day VWAP**",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21475,9 +21475,9 @@
         "price": 71.05,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low; distribution climax; major invalidation level for bullish case",
+        "reason": "\u2014 **60-day Low / Session Floor**",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21494,10 +21494,10 @@
       {
         "price": 88.5,
         "type": "R3",
-        "strength": 3,
-        "reason": "\u2014 Fibonacci 0.236; weekly MA20 band; extension target if reversal confirmed",
+        "strength": 4,
+        "reason": "\u2014 **23.6% Fib Retracement / Prior swing high**",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
