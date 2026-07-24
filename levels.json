@@ -18877,9 +18877,9 @@
         "price": 56.3,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.786 retracement, psychological round, recent daily pivot",
+        "reason": "\u2014 Fibonacci 0.786 retracement + psychological round level",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18887,9 +18887,9 @@
         "price": 61.55,
         "type": "R3",
         "strength": 5,
-        "reason": "**0.618 Fib (golden pocket)** from $49.61\u2192$80.86; MA20 weekly near here ($62.63); prior swing high zone",
+        "reason": "\u2014 Fibonacci 0.618 retracement (golden pocket anchor)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19067,9 +19067,9 @@
         "price": 49.61,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low; psychological round ($50 handle); reversal candle base",
+        "reason": "\u2014 60-day swing low (panic low)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19077,7 +19077,7 @@
         "price": 51.77,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's daily low; 1H recent low cluster; minor support from hourly structure.",
+        "reason": "\u2014 Today's intraday low + 1H swing low cluster",
         "status": "active",
         "source_brief": "2026-07-24",
         "hit_count": 0,
@@ -19086,10 +19086,10 @@
       {
         "price": 50.31,
         "type": "S3",
-        "strength": 3,
-        "reason": "Secondary 60-day swing low; support cluster",
+        "strength": 5,
+        "reason": "\u2014 Recent swing low cluster (Dec-Jan consolidation base)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19130,6 +19130,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 53.0,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP + MA20 confluence",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
