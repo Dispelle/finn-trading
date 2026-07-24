@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-24T19:02:01.769183+00:00",
+  "generated_at": "2026-07-24T19:17:27.013594+00:00",
   "items": [
+    {
+      "ts": "2026-07-24T19:17:08.248000+00:00",
+      "time": "03:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $519.89** Current: **$520.15** | Strength: 5/5 Fib 0.236 retracement; loss of higher-low structure if broken"
+    },
+    {
+      "ts": "2026-07-24T19:16:55.184000+00:00",
+      "time": "03:16 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,104** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-24T19:15:00.852000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $519.89** Current: **$519.65** | Strength: 5/5 Fib 0.236 retracement; loss of higher-low structure if broken"
+    },
+    {
+      "ts": "2026-07-24T19:12:54.773000+00:00",
+      "time": "03:12 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $682.87** Current: **$683.26** | Strength: 5/5 0.650 Fibonacci; extended golden pocket"
+    },
+    {
+      "ts": "2026-07-24T19:12:53.978000+00:00",
+      "time": "03:12 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.68** Current: **$17.70** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-24T19:09:42.842000+00:00",
+      "time": "03:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S3 $682.87** Current: **$682.85** | Strength: 5/5 0.650 Fibonacci; extended golden pocket"
+    },
+    {
+      "ts": "2026-07-24T19:07:34.209000+00:00",
+      "time": "03:07 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $205.67** Current: **$205.40** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-24T19:02:15.891000+00:00",
+      "time": "03:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $206.16** Current: **$206.06** | Strength: 5/5 \u2014 0.650 Fibonacci retracement; golden pocket lower bound; very close to"
+    },
     {
       "ts": "2026-07-24T19:00:08.005000+00:00",
       "time": "03:00 PM ET",
@@ -12,54 +60,6 @@
       "time": "02:51 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $684.92** Current: **$684.92** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-24T18:48:28.256000+00:00",
-      "time": "02:48 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP1 $684.92** Current: **$684.86** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-07-24T18:46:36.463000+00:00",
-      "time": "02:46 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.66** Current: **$52.67** | Strength: 5/5 \u2014 Today's low / 20-day VWAP ($53.01) zone"
-    },
-    {
-      "ts": "2026-07-24T18:45:32.141000+00:00",
-      "time": "02:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $913.0** Current: **$914.37** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-24T18:45:08.262000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,107** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-24T18:43:25.080000+00:00",
-      "time": "02:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.58** Current: **$77.66** | Strength: 4/5 \u2014 Today's low (tight, intraday support); 4H cluster resistance"
-    },
-    {
-      "ts": "2026-07-24T18:43:24.225000+00:00",
-      "time": "02:43 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $910.0** Current: **$912.86** | Strength: 3/5 \u2014 Daily lows from last week (970.82 low, 959.48 close) extended down"
-    },
-    {
-      "ts": "2026-07-24T18:43:23.547000+00:00",
-      "time": "02:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $560.91** Current: **$561.34** | Strength: 5/5 \u2014 0.618 Fib (golden pocket); critical micro-support; if breached = accel"
-    },
-    {
-      "ts": "2026-07-24T18:43:22.779000+00:00",
-      "time": "02:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $521.98** Current: **$523.06** | Strength: 5/5 \u2014"
     }
   ]
 }
