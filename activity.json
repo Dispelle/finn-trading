@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-24T15:01:39.361160+00:00",
+  "generated_at": "2026-07-24T15:17:43.044808+00:00",
   "items": [
     {
-      "ts": "2026-07-24T15:01:10.533000+00:00",
-      "time": "11:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $740.52** Current: **$740.85** | Strength: 5/5 Fibonacci 0.382 retracement, psychological, 10-day cluster base"
-    },
-    {
-      "ts": "2026-07-24T15:01:08.710000+00:00",
-      "time": "11:01 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $530.57** Current: **$531.49** | Strength: 5/5 MA20 (daily); psychological whole number; prior support-turned-resistanc"
-    },
-    {
-      "ts": "2026-07-24T15:00:08.063000+00:00",
-      "time": "11:00 AM ET",
+      "ts": "2026-07-24T15:17:27.616000+00:00",
+      "time": "11:17 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,974** | P&L: **-21"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,080**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-07-24T14:57:57.440000+00:00",
-      "time": "10:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $351.24** Current: **$351.30** | Strength: 5/5 \u2014 60-day high, fib extension anchor, weekly structure extremity"
-    },
-    {
-      "ts": "2026-07-24T14:53:42.158000+00:00",
-      "time": "10:53 AM ET",
+      "ts": "2026-07-24T15:17:11.706000+00:00",
+      "time": "11:17 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $330.0** Current: **$329.98** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $742.5** Current: **$742.18** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-24T14:51:34.061000+00:00",
-      "time": "10:51 AM ET",
+      "ts": "2026-07-24T15:16:07.831000+00:00",
+      "time": "11:16 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $330.0** Current: **$330.02** | Strength: 4/5 \u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $690.04** Current: **$690.72** | Strength: 5/5 \u2014 reason: 0.650 Fib; also 1H recent low $683.55\u2013$684.64 zone (intraday s"
     },
     {
-      "ts": "2026-07-24T14:49:25.471000+00:00",
-      "time": "10:49 AM ET",
+      "ts": "2026-07-24T15:16:07.418000+00:00",
+      "time": "11:16 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $684.92** Current: **$684.94** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $690.0** Current: **$690.72** | Strength: 5/5 \u2014 reason: **Golden Pocket (0.618 Fib)**; critical support zone; price cur"
     },
     {
-      "ts": "2026-07-24T14:41:58.619000+00:00",
-      "time": "10:41 AM ET",
+      "ts": "2026-07-24T15:16:06.691000+00:00",
+      "time": "11:16 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $158.57** Current: **$158.55** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $742.5** Current: **$742.99** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-24T14:41:55.402000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.87** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
-    },
-    {
-      "ts": "2026-07-24T14:39:50.406000+00:00",
-      "time": "10:39 AM ET",
+      "ts": "2026-07-24T15:16:06.090000+00:00",
+      "time": "11:16 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.57** Current: **$158.59** | Strength: 5/5 \u2014 **"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $17.77** Current: **$17.78** | Strength: 5/5 **GOLDEN POCKET** (0.618 Fib); MA20 daily slopes to $16.36; swing low conf"
+    },
+    {
+      "ts": "2026-07-24T15:16:04.273000+00:00",
+      "time": "11:16 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $533.59** Current: **$536.50** | Strength: 5/5 **MA20 (daily); active moving average support; daily closes hinging here"
+    },
+    {
+      "ts": "2026-07-24T15:13:59.565000+00:00",
+      "time": "11:13 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $91.78** Current: **$91.88** | Strength: 5/5 Current daily low; 1H low; immediate support (today's range floor)"
+    },
+    {
+      "ts": "2026-07-24T15:13:57.188000+00:00",
+      "time": "11:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.89** Current: **$135.86** | Strength: 5/5 \u2014 Recent 1H low; current consolidation base; Break of this = invalidatio"
+    },
+    {
+      "ts": "2026-07-24T15:02:15.444000+00:00",
+      "time": "11:02 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $740.52** Current: **$740.42** | Strength: 5/5 Fibonacci 0.382 retracement, psychological, 10-day cluster base"
     }
   ]
 }
