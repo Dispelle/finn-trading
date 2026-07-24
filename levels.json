@@ -11042,7 +11042,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13612,7 +13612,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Last swing low now acting as resistance; yesterday's daily high. Convergence of psychological round number and structu",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -14092,7 +14092,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 Fibonacci 0.618 (golden pocket start). Major structural support if breakdown continues.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -14122,7 +14122,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **TODAY'S DAILY LOW** (and 1H low from final bar). Fresh structural low; critical short-term support.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -14132,7 +14132,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 Fibonacci 0.500 (50% retracement); round psychological level. Prior support zone.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -14371,9 +14371,9 @@
         "price": 854.35,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Lower low (most recent swing); **invalidation of bullish bias**",
+        "reason": "\u2014 60-day swing low; **KEY INVALIDATION LEVEL** for bullish bias",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14381,9 +14381,9 @@
         "price": 781.14,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)**; psychological round number; strong retracement anchor",
+        "reason": "\u2014 Fib 0.618 (golden pocket); critical support if breakdown accelerates",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14421,9 +14421,9 @@
         "price": 1074.04,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (critical Fib level); prior area of prior buyer exhaustion",
+        "reason": "\u2014 Fib 0.236 retracement (488.23\u21921255.00) + confluence with failed weekly close zone",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14471,9 +14471,9 @@
         "price": 1035.5,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (60-day); supply zone; failed today at $1011.77",
+        "reason": "\u2014 60-day swing high (prior resistance, proximity to current price)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14481,9 +14481,9 @@
         "price": 975.56,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: **20-day MA ($990.63) \u2014 slope down + breakpoint of recent consolidation**",
+        "reason": "\u2014 Prior weekly close (Mar data); intraday low today $964.40 breaks this",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14541,9 +14541,9 @@
         "price": 1005.41,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; acted as magnet intraday; daily price rejected here",
+        "reason": "\u2014 20-day VWAP (institutional accumulation baseline)",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14604,6 +14604,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 904.28,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Daily close from 10-day data; recent swing low baseline",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
