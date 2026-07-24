@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-24T14:16:02.601633+00:00",
+  "generated_at": "2026-07-24T14:31:04.187641+00:00",
   "items": [
+    {
+      "ts": "2026-07-24T14:30:16.004000+00:00",
+      "time": "10:30 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.16** Current: **$12.16** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-24T14:30:10.735000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,792**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-24T14:28:05.681000+00:00",
+      "time": "10:28 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.89** Current: **$52.87** | Strength: 5/5 **20-day VWAP (current anchor)**; price just above; mean reversion magnet"
+    },
+    {
+      "ts": "2026-07-24T14:27:01.495000+00:00",
+      "time": "10:27 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.89** Current: **$52.92** | Strength: 5/5 **20-day VWAP (current anchor)**; price just above; mean reversion magnet"
+    },
+    {
+      "ts": "2026-07-24T14:25:58.363000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $329.0** Current: **$328.99** | Strength: 4/5 \u2014 Prior daily high (4 days ago); psychological confluence; minor supply "
+    },
+    {
+      "ts": "2026-07-24T14:22:47.277000+00:00",
+      "time": "10:22 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $329.0** Current: **$329.06** | Strength: 4/5 \u2014 Prior daily high (4 days ago); psychological confluence; minor supply "
+    },
+    {
+      "ts": "2026-07-24T14:20:40.860000+00:00",
+      "time": "10:20 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.16** Current: **$12.15** | Strength: 5/5 \u2014 **"
+    },
     {
       "ts": "2026-07-24T14:15:07.195000+00:00",
       "time": "10:15 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:14 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $569.5** Current: **$570.60** | Strength: 5/5 \u2014 0.500 Fibonacci retracement, psychological support/resistance pivot, re"
-    },
-    {
-      "ts": "2026-07-24T14:14:13.161000+00:00",
-      "time": "10:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $530.0** Current: **$530.53** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-24T14:13:12.045000+00:00",
-      "time": "10:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW STOP $232.23** Current: **$232.17** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-24T14:08:53.629000+00:00",
-      "time": "10:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $327.74** Current: **$327.90** | Strength: 4/5 \u2014 reason: Prior intraday high (1H), confluence with recent daily range "
-    },
-    {
-      "ts": "2026-07-24T14:08:52.982000+00:00",
-      "time": "10:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $687.0** Current: **$687.55** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement"
-    },
-    {
-      "ts": "2026-07-24T14:07:47.459000+00:00",
-      "time": "10:07 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $937.0** Current: **$937.26** | Strength: 4/5 **Recent daily close** (9 days ago); daily support; prior swing low cluste"
-    },
-    {
-      "ts": "2026-07-24T14:07:46.427000+00:00",
-      "time": "10:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $528.0** Current: **$529.18** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-24T14:07:45.913000+00:00",
-      "time": "10:07 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $528.9** Current: **$529.18** | Strength: 5/5 \u2014 20-day VWAP. MA20 at $532.59 nearby. This is the \"fair value line\"\u2014firs"
     }
   ]
 }
