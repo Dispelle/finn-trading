@@ -42022,7 +42022,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -43271,9 +43271,9 @@
         "price": 118.64,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (106.37 \u2192 163.70)",
+        "reason": "0.786 Fib extension; psychological round number; capitulation zone if broken",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43601,9 +43601,9 @@
         "price": 141.8,
         "type": "R3",
         "strength": 4,
-        "reason": "|",
+        "reason": "0.382 Fib + 60-day high confluence zone ($138.9, $139.02); intermediate resistance",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43661,9 +43661,9 @@
         "price": 128.27,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci (golden pocket); confluence with daily MA20 slope-up zone; historically strong bounce level",
+        "reason": "0.618 Fib (golden pocket) + confluence with 60d low swing ($128.75); psychological bounce target",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43691,9 +43691,9 @@
         "price": 122.64,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 10-day swing low (tight support, recent tested)",
+        "reason": "1H recent high from last candle zone; micro-structure support; tight SL zone",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43711,9 +43711,9 @@
         "price": 106.37,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 52-week low, absolute floor",
+        "reason": "**52-week low + start of Fib swing** \u2014 absolute floor; bankruptcy-level support",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43761,9 +43761,9 @@
         "price": 135.03,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 retracement (106.37 \u2192 163.70)",
+        "reason": "0.500 Fib; swing high from 8 days ago ($136.88 nearby); break above kills bearish bias",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43851,9 +43851,9 @@
         "price": 131.88,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Daily MA50 (major intermediate resistance, respected for 5+ days)",
+        "reason": "Daily MA20 ($127.12) slope upward + daily support from 1H lows; zone of initial profit-taking",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43870,10 +43870,20 @@
       {
         "price": 121.0,
         "type": "S2",
-        "strength": 4,
-        "reason": "\u2014 Recent 1H low; 0.786 Fibonacci extension bottom ($118.64) nearby",
+        "strength": 5,
+        "reason": "**60-day low, yesterday's low** \u2014 true support floor; panic floor for shorts",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 135.03,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
