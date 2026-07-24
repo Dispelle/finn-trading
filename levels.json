@@ -21534,7 +21534,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23903,19 +23903,19 @@
         "price": 128.25,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.500 (mid-point retracement); MA20 $115.40 + MA50 $125.56 within 2.69 \u2192 cluster = massive support zone",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint of $102.42\u2192$154.08 swing); MA20 pivot zone ($115.34) nearby; psychological round number.",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 122.15,
         "type": "S3",
-        "strength": 4,
-        "reason": "Fib 0.618 (golden pocket); MA50 $125.56 just above; swing low $115.0 below",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); confluent with supply zone and prior resistance. **This is the \"line in the sand\"** \u2014",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23953,9 +23953,9 @@
         "price": 134.35,
         "type": "S1",
         "strength": 5,
-        "reason": "Fib 0.382 retracement; falls just 6.35 below entry; daily support from 2 bars ago (130.59) + fib confluence",
+        "reason": "\u2014 Fibonacci 0.382 retracement; confluent with prior swing high from 3 weeks ago ($136.61 nearby); natural pullback suppo",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23983,9 +23983,9 @@
         "price": 154.08,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 prior 60-day high, swing high, psychological round number (tried 2 weeks ago, rejected); confluent with 0.236 Fib ($14",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23996,6 +23996,26 @@
         "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 168.13,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension from swing ($102.42\u2192$154.08); major extension target for bull continuation if $154 breaks.",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 186.01,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.618 extension; secondary bull target if trend extends into new ATH territory.",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
