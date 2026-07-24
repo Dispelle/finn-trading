@@ -32892,7 +32892,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -34151,9 +34151,9 @@
         "price": 677.86,
         "type": "R3",
         "strength": 5,
-        "reason": "**Recent lower high (LH)** \u2014 swing resistance; broken intraday twice",
+        "reason": "10-day swing high; confluence with recent lower-high sequence; must hold for downtrend",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34181,9 +34181,9 @@
         "price": 577.07,
         "type": "S3",
         "strength": 4,
-        "reason": "**Most recent swing low (LL)**; 60-day secondary support",
+        "reason": "60-day swing low (3rd swing down); structural support",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34191,9 +34191,9 @@
         "price": 619.74,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP + MA20 proximity ($618.35); zone of recent consolidation",
+        "reason": "20-day VWAP; price bounced from here multiple times; volume-weighted anchor",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34201,9 +34201,9 @@
         "price": 630.35,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fib retracement + psychological cluster",
+        "reason": "0.382 Fib retracement ($540.18\u2192$686.08); psychological; confluence with 60-day midpoint",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34211,9 +34211,9 @@
         "price": 651.65,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 0.236 Fib retracement + prior swing high at $642.4\u2013$643.0",
+        "reason": "0.236 Fib (shallow retracement zone); prior intraday swing high",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -34264,6 +34264,56 @@
         "reason": "\u2014 MA200 (200-day moving average, major trend filter)",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 643.2,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Yesterday's low; structural support-turned-resistance; key invalidation threshold",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 600.0,
+        "type": "S1",
+        "strength": 3,
+        "reason": "Round psychological number; just above today's low; micro-support for scalps",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 595.91,
+        "type": "S2",
+        "strength": 5,
+        "reason": "**0.618 Fib (Golden Pocket)**; deepest retracement likely target if downtrend extends; high confluence",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 591.25,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.650 Fib; extended support; psychological $590 level",
+        "status": "active",
+        "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 540.18,
+        "type": "S3",
+        "strength": 3,
+        "reason": "60-day absolute low; capitulation zone",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
