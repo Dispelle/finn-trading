@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-24T15:18:27.710654+00:00",
+  "generated_at": "2026-07-24T15:32:44.800514+00:00",
   "items": [
+    {
+      "ts": "2026-07-24T15:28:51.146000+00:00",
+      "time": "11:28 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $134.35** Current: **$133.98** | Strength: 5/5 0.382 Fib (golden pocket upper bound); prior swing high near $136.61"
+    },
     {
       "ts": "2026-07-24T15:17:27.616000+00:00",
       "time": "11:17 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:13 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $135.89** Current: **$135.86** | Strength: 5/5 \u2014 Recent 1H low; current consolidation base; Break of this = invalidatio"
-    },
-    {
-      "ts": "2026-07-24T15:02:15.444000+00:00",
-      "time": "11:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $740.52** Current: **$740.42** | Strength: 5/5 Fibonacci 0.382 retracement, psychological, 10-day cluster base"
     }
   ]
 }
