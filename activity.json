@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-24T14:31:13.965199+00:00",
+  "generated_at": "2026-07-24T14:46:08.390140+00:00",
   "items": [
+    {
+      "ts": "2026-07-24T14:41:58.619000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $158.57** Current: **$158.55** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-24T14:41:55.402000+00:00",
+      "time": "10:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **OXY \u2014 BROKE BELOW R1 $57.88** Current: **$57.87** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
+    },
+    {
+      "ts": "2026-07-24T14:39:50.406000+00:00",
+      "time": "10:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.57** Current: **$158.59** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-24T14:39:49.673000+00:00",
+      "time": "10:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $684.92** Current: **$684.25** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-24T14:39:46.955000+00:00",
+      "time": "10:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **OXY \u2014 BROKE ABOVE R1 $57.88** Current: **$57.88** | Strength: 5/5 **0.618 Fib (golden pocket) + 20MA slope convergence** \u2014 this is the kiss "
+    },
+    {
+      "ts": "2026-07-24T14:34:29.351000+00:00",
+      "time": "10:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.0** Current: **$52.97** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-24T14:33:25.337000+00:00",
+      "time": "10:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $53.0** Current: **$53.03** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-24T14:30:16.004000+00:00",
       "time": "10:30 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:28 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.89** Current: **$52.87** | Strength: 5/5 **20-day VWAP (current anchor)**; price just above; mean reversion magnet"
-    },
-    {
-      "ts": "2026-07-24T14:27:01.495000+00:00",
-      "time": "10:27 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.89** Current: **$52.92** | Strength: 5/5 **20-day VWAP (current anchor)**; price just above; mean reversion magnet"
-    },
-    {
-      "ts": "2026-07-24T14:25:58.363000+00:00",
-      "time": "10:25 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $329.0** Current: **$328.99** | Strength: 4/5 \u2014 Prior daily high (4 days ago); psychological confluence; minor supply "
-    },
-    {
-      "ts": "2026-07-24T14:22:47.277000+00:00",
-      "time": "10:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $329.0** Current: **$329.06** | Strength: 4/5 \u2014 Prior daily high (4 days ago); psychological confluence; minor supply "
-    },
-    {
-      "ts": "2026-07-24T14:20:40.860000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.16** Current: **$12.15** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-24T14:15:07.195000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,908** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-24T14:14:17.045000+00:00",
-      "time": "10:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMZN \u2014 BROKE ABOVE STOP $232.23** Current: **$232.50** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-24T14:14:13.927000+00:00",
-      "time": "10:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $569.5** Current: **$570.60** | Strength: 5/5 \u2014 0.500 Fibonacci retracement, psychological support/resistance pivot, re"
     }
   ]
 }
