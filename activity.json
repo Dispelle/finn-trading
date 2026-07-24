@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-24T13:46:48.529259+00:00",
+  "generated_at": "2026-07-24T14:01:02.490380+00:00",
   "items": [
     {
-      "ts": "2026-07-24T13:46:02.567000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-07-24T14:00:13.708000+00:00",
+      "time": "10:00 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $92.83** Current: **$92.87** | Strength: 4/5 Today's daily low; immediate intraday support; micro-level holding"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.68** Current: **$17.70** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-07-24T13:44:57.752000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-07-24T14:00:06.674000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMZN \u2014 BROKE BELOW S3 $232.69** Current: **$232.39** | Strength: 4/5 \u2014 10-day low AND prior weekly close. This is the **higher low that vali"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,092**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-07-24T13:44:55.860000+00:00",
-      "time": "09:44 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $382.27** Current: **$381.47** | Strength: 5/5 Recent swing low (60d); near 0.786 Fib ($374.26); held 2x in last 30 ba"
-    },
-    {
-      "ts": "2026-07-24T13:44:54.056000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-07-24T13:59:08.008000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $948.4** Current: **$948.51** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.66** Current: **$52.72** | Strength: 5/5 \u2014 Today's low / 20-day VWAP ($53.01) zone"
     },
     {
-      "ts": "2026-07-24T13:44:52.953000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-07-24T13:59:06.737000+00:00",
+      "time": "09:59 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $531.17** Current: **$533.93** | Strength: 5/5 20-day VWAP (mean reversion magnet); also within 1H low cluster"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $206.16** Current: **$206.24** | Strength: 5/5 \u2014 0.650 Fibonacci retracement; golden pocket lower bound; very close to"
     },
     {
-      "ts": "2026-07-24T13:44:52.433000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-07-24T13:58:03.049000+00:00",
+      "time": "09:58 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $532.35** Current: **$533.93** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.58** Current: **$77.60** | Strength: 4/5 \u2014 Today's low (tight, intraday support); 4H cluster resistance"
     },
     {
-      "ts": "2026-07-24T13:42:44.806000+00:00",
-      "time": "09:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $371.88** Current: **$371.74** | Strength: 5/5 \u2014 reason: Current price + 20-day VWAP ($372.63 \u2248 pivot) + MA20 daily ($3"
+      "ts": "2026-07-24T13:56:56.275000+00:00",
+      "time": "09:56 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $519.89** Current: **$520.32** | Strength: 5/5 Fib 0.236 retracement; loss of higher-low structure if broken"
     },
     {
-      "ts": "2026-07-24T13:42:43.935000+00:00",
-      "time": "09:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $533.59** Current: **$531.12** | Strength: 5/5 **MA20 (daily); active moving average support; daily closes hinging here"
+      "ts": "2026-07-24T13:56:55.549000+00:00",
+      "time": "09:56 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **INTC \u2014 BROKE ABOVE S2 $96.0** Current: **$96.35** | Strength: 4/5 Gareth buy zone lower end \u2014 $96-98 range"
     },
     {
-      "ts": "2026-07-24T13:42:43.493000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-24T13:55:51.844000+00:00",
+      "time": "09:55 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $531.17** Current: **$531.12** | Strength: 5/5 20-day VWAP (mean reversion magnet); also within 1H low cluster"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $77.58** Current: **$77.53** | Strength: 4/5 \u2014 Today's low (tight, intraday support); 4H cluster resistance"
     },
     {
-      "ts": "2026-07-24T13:42:42.866000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-24T13:55:50.444000+00:00",
+      "time": "09:55 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $532.35** Current: **$531.12** | Strength: 5/5 20-day VWAP (rejected price twice in last 10 days); MA20 $533.85 nearby;"
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $206.16** Current: **$205.93** | Strength: 5/5 \u2014 0.650 Fibonacci retracement; golden pocket lower bound; very close to"
+    },
+    {
+      "ts": "2026-07-24T13:55:49.997000+00:00",
+      "time": "09:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $519.89** Current: **$518.80** | Strength: 5/5 Fib 0.236 retracement; loss of higher-low structure if broken"
     }
   ]
 }
