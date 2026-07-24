@@ -8014,7 +8014,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10134,7 +10134,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -10644,7 +10644,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -10654,7 +10654,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -10664,7 +10664,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-16",
         "hit_count": 0,
         "last_hit": null
@@ -10883,9 +10883,9 @@
         "price": 627.33,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement (483.29\u2192671.83); prior swing structure; psychological round number",
+        "reason": "\u2014 0.236 Fib retracement; prior minor swing high ($625\u2013630 zone historically). Marks first real structural resistance if ",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10893,9 +10893,9 @@
         "price": 577.56,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement (golden zone); price currently $580.17 = 0.36% above this level; CRITICAL CONFLUENCE",
+        "reason": "\u2014 **0.500 Fibonacci (mid-point of 483.29\u2192671.83 swing)** \u2014 Price is currently AT this level. Critical pivot: holds = con",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10903,9 +10903,9 @@
         "price": 555.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci retracement (golden pocket); overlaps recent swing low $556.53 (within $1.22); MA20 weekly near here; ",
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket)** \u2014 Near prior swing low ($554.66, $556.83). Golden pocket = institutional magnets. ",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10943,9 +10943,9 @@
         "price": 597.95,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; multiple daily closes near this level; psychological accumulation zone",
+        "reason": "\u2014 20-day VWAP; also near MA20 ($597.94). Psychological level. Acts as immediate pullback target and daily structure rest",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11003,9 +11003,9 @@
         "price": 611.03,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Confluence of 8-day swing high + recent daily open (568.92 \u2192 556.53 \u2192 558.83 \u2192 **584.08 \u2192 586.91 \u2192 580.17** structure ",
+        "reason": "\u2014 Last daily close (5 bars ago); recent swing high in the oscillation. Break above = daily HH confirmed; momentum unlock",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11032,10 +11032,10 @@
       {
         "price": 523.64,
         "type": "S3",
-        "strength": 3,
-        "reason": "\u2014 0.786 Fibonacci; line of last resort for weekly bullish structure",
+        "strength": 4,
+        "reason": "\u2014 0.786 Fibonacci; MA200 ($496.92) sits just below. Deep support; would signal structural weekly breakdown if reached.",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
