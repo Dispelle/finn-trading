@@ -25861,9 +25861,9 @@
         "price": 14.53,
         "type": "S3",
         "strength": 5,
-        "reason": "52-week low, floor of entire range. Invalidates any long-term bullish thesis.",
+        "reason": "\u2014 52-week low; absolute capitulation floor; psychological support at round number",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26011,9 +26011,9 @@
         "price": 19.63,
         "type": "R2",
         "strength": 5,
-        "reason": "0.382 fib retracement (14.53\u219222.78), prior supply from recent bounce structure, MA200 proxy.",
+        "reason": "\u2014 0.382 Fib retracement; psychological round number; confluence with MA200 proximity",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26040,20 +26040,20 @@
       {
         "price": 20.83,
         "type": "R3",
-        "strength": 4,
-        "reason": "Fib 0.236 retracement + 60-day swing high at $20.44 (minor); supply zone from $20.44\u2013$20.83",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fib retracement; prior swing high pivot; breakout zone invalidating bearish structure",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 17.17,
         "type": "S2",
-        "strength": 4,
-        "reason": "60-day swing low (5 days ago); daily MA20 support if we test it",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fib retracement ($16.30) confluence zone; prior swing low pivot",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26071,9 +26071,9 @@
         "price": 18.64,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior daily high (2 candles ago), swing high touch",
+        "reason": "\u2014 0.500 Fibonacci retracement (14.53 \u2192 22.78); confluence with horizontal resistance from prior daily candle highs",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26084,6 +26084,16 @@
         "reason": "\u2014 60-day swing high, fib 0.382 ($19.63) confluence nearby",
         "status": "active",
         "source_brief": "2026-07-23",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.42,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.650 Fibonacci retracement; golden pocket lower bound; prior swing low from 2 weeks ago",
+        "status": "active",
+        "source_brief": "2026-07-24",
         "hit_count": 0,
         "last_hit": null
       }
