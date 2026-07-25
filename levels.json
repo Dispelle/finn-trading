@@ -11133,9 +11133,9 @@
         "price": 581.84,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior weekly HL (swing point), 1H/daily support turned resistance, invalidates correction",
+        "reason": "0.500 Fib retracement (midpoint of $492.34\u2192$671.83); prior daily support (8 days ago low); psychological round",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11293,9 +11293,9 @@
         "price": 555.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.650 Fib; confluence with recent swing low ($554.66); round number inflection",
+        "reason": "0.650 Fib; 60-day swing low cluster ($554.66 nearby); daily low 8 days ago $556.81",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11513,9 +11513,9 @@
         "price": 603.26,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; prior recent daily support; confluence with 10-day declining trend line",
+        "reason": "0.382 Fib (golden zone entry); 20-day VWAP $591.82 + 2\u03c3; prior daily close $600.31; MA20 initial resistance",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11533,9 +11533,9 @@
         "price": 560.91,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.618 golden pocket (PRICE AT 0.618 NOW) \u2014 textbook support",
+        "reason": "**0.618 Fib GOLDEN POCKET** \u2014 classic reversal zone; extreme precision match; within 0.28pts of current price",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11543,9 +11543,9 @@
         "price": 530.75,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 0.786 Fib + 60d swing low $527.87; deeper structural support if $555 fails",
+        "reason": "0.786 Fib; prior swing low $527.87; psychological level",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11586,6 +11586,16 @@
         "reason": "MA200, absolute structural support",
         "status": "active",
         "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 629.47,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.236 Fib; prior swing high $627.41; volume resistance zone",
+        "status": "active",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       }
