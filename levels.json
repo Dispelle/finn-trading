@@ -45201,9 +45201,9 @@
         "price": 128.27,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 MA20 daily; slope positive; price rejection point last 3 days",
+        "reason": "\u2014 0.618 Fibonacci (golden pocket start), confluence with 60-day swing low cluster ($126.65\u2013$128.75) | Also near 20-day V",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -45391,9 +45391,9 @@
         "price": 131.88,
         "type": "R2",
         "strength": 5,
-        "reason": "Daily MA20 ($127.12) slope upward + daily support from 1H lows; zone of initial profit-taking",
+        "reason": "\u2014 MA50 (50-day moving average); prior swing high support-turned-resistance; psychological barrier **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -45411,9 +45411,9 @@
         "price": 121.0,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 10-day swing low (9/9); first critical support; 1H tested this 7 times recently",
+        "reason": "\u2014 9-day low (swing point); 0.786 Fibonacci at $118.64 \u2248 2% below; psychological $120 round **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -45434,6 +45434,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 122.02,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's low; 1H support cluster (multiple tests $121\u2013$122); prior swing low support **",
+        "status": "active",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       }
