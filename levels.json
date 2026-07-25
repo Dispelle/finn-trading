@@ -1176,7 +1176,78 @@
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
-    "levels": []
+    "levels": [
+      {
+        "price": 54.5,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 1H recent high cluster, local swing high from last 3\u20135 days",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.3,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fib retracement (strong harmonic level) + psychological $56 round",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61.55,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fib golden pocket (confluence zone for reversal or failure) + MA20 still above",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 65.24,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 0.500 retracement (midpoint 49.61\u219280.86) + structural invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 51.5,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 1H recent low cluster (51.77, 51.88, 51.92 zone)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 50.31,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 60-day swing low (minor but defined)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 49.61,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day absolute low (2-month bottom, structural pivot)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   },
   "COPX": {
     "last_updated": "2026-07-25",
