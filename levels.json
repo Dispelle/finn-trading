@@ -25192,7 +25192,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -26702,7 +26702,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "0.382 Fib retracement; MA50 daily ($18.03) + 0.773 offset",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-17",
         "hit_count": 0,
         "last_hit": null
@@ -26732,7 +26732,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "**GOLDEN POCKET** (0.618 Fib); MA20 daily slopes to $16.36; swing low confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-17",
         "hit_count": 0,
         "last_hit": null
@@ -26741,9 +26741,9 @@
         "price": 16.34,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.786 retracement; 60-day swing low cluster",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26861,9 +26861,9 @@
         "price": 17.68,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26960,10 +26960,10 @@
       {
         "price": 18.33,
         "type": "R1",
-        "strength": 4,
-        "reason": "Prior daily close cluster (3 of last 10 closes); daily POC; hourly intra-day high",
+        "strength": 5,
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26971,9 +26971,9 @@
         "price": 18.64,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fibonacci retracement (critical middle)**",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26981,9 +26981,9 @@
         "price": 20.83,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26991,9 +26991,9 @@
         "price": 17.17,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
