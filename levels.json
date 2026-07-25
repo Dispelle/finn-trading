@@ -1017,5 +1017,83 @@
     "last_seen_price": 0,
     "ticker_source": "watchlist",
     "levels": []
+  },
+  "COPX": {
+    "last_updated": "2026-07-25",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 80.44,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high (double top, 1H recent resistance x2), recent daily high $80.44",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82.47,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fibonacci retracement (71.05\u219293.89), psychological round, MA50 proximity ($81.68)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 85.17,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fibonacci retracement, previous swing low support (turned resistance)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 77.72,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Weekly close level (last 2 weekly bars identical: $78.37 and $77.72), 1H recent low cluster",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76.26,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP, MA20 daily ($76.21) confluence, price currently just above",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 71.05,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low, swing low anchor, fib 0.786 extension ($75.94) below",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 74.88,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Post-decline corrective low (60d swing low #2)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
