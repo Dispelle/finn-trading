@@ -162,6 +162,46 @@
         "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 618.35,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Daily MA20 (upsloping but acting as hard resistance), tested twice in last 3 days, rejected.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 625.66,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 MA200 + psychological round number + Fib confluence zone (sits between 0.500 at $613.13 and 0.382 at $630.35).",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 595.91,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **GOLDEN POCKET** (Fib 0.618 from 540.18\u2192686.08 swing). Already tested today; 1H lows hovering at $594.6. Micro-suppor",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 571.4,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.786 retracement. Weekly support zone. If broken, targets $550.26 (52-week low, major support).",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
