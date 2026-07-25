@@ -606,5 +606,73 @@
         "last_hit": null
       }
     ]
+  },
+  "MU": {
+    "last_updated": "2026-07-25",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 1011.77,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior daily high (2 sessions ago); 1H high; tested multiple times in last 10 1H closes. Local swing resistance.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1035.5,
+        "type": "R2",
+        "strength": 5,
+        "reason": "60d swing high; aligns with Fib 0.236 zone ($1077.43 nearby). Supply cluster.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1089.29,
+        "type": "R3",
+        "strength": 5,
+        "reason": "Second highest 60d swing; Fib 0.236 ($1077.43) confluence. Major resistance band.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 967.58,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fib 0.382 (golden pocket start); daily low 2 sessions ago ($964.4); MA20 ($990.43) nearby support.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 952.3,
+        "type": "S2",
+        "strength": 5,
+        "reason": "MA50; daily support cluster (tested 4 times in last 10 closes). Inflection point.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 878.79,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fib 0.500 (midpoint of swing). Psychological round number $880.",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
