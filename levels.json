@@ -2133,7 +2133,97 @@
         "price": 363.32,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day **absolute low**, Fibonacci origin point (0.0). Psychological round. If broken = new 60-day breakdown with pote",
+        "reason": "**60-day low** (fib swing base); capitulation level; psychological whole number",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 374.49,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior daily high (intraday, 1H recent high); zone of yesterday's rejection",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 379.12,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Last daily HH (2 candles ago); zone where buyers exhausted; 1H high overlap",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 382.22,
+        "type": "R3",
+        "strength": 4,
+        "reason": "1H recent high; MA20 + psychological zone ($380); breakout level needed to flip daily structure",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 387.12,
+        "type": "R3",
+        "strength": 4,
+        "reason": "52-week range mid-point; weekly close level; golden pocket band start (0.618 = $391.63) nearby",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 391.63,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**Fibonacci 0.618 (golden pocket)** \u2014 MA50 ($391.33) overlap; major zone",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 371.03,
+        "type": "S1",
+        "strength": 3,
+        "reason": "1H recent low; today's low; micro support",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 370.53,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Swing low (60d analysis); 1H low; trendline support",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.41,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Prior daily HL; recovery point from $364.96 LL; bounce support",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 365.77,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Daily low (10-period); swing low",
         "status": "active",
         "source_brief": "2026-07-25",
         "hit_count": 0,
