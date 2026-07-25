@@ -1502,5 +1502,103 @@
         "last_hit": null
       }
     ]
+  },
+  "SPY": {
+    "last_updated": "2026-07-25",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 745.92,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 MA20 weekly slope up, very clean confluence",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 748.12,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement + last 10-day clustering around 750s",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 754.95,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Last weekly close, confluence with last 10-day high zone, psychological",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 740.52,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement (strong golden zone start)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 734.39,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.500 (midpoint), psychological round, last 1H lows circling",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 728.25,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket), MA50 ($745.05) projection down",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 719.5,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fibonacci 0.786, confluence with 60-day swing lows ($716.58, $722.59)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 731.83,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 774.55,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
