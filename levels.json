@@ -248,5 +248,73 @@
         "last_hit": null
       }
     ]
+  },
+  "LLY": {
+    "last_updated": "2026-07-25",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 1249.45,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day all-time high, failed breakout, strong supply zone",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1238.0,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Swing high from prior move; psychological + VWAP + prior rally target",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1206.94,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Today's high, hourly resistance; round-number $1,207",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1186.07,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (price balanced here currently) + MA20 at $1,186.92 = **critical pivot**",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1155.3,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.236 retrace (850.51 \u2192 1249.45); prior daily support zone; strong confluence",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1134.4,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low; recent HL; structural support; break = trend invalidation",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
