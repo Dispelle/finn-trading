@@ -43243,9 +43243,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "60d all-time high; golden zone",
+        "reason": "60d absolute high + weekly supply zone + 1.272 Fib ext ($1357.96) anchor",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43293,9 +43293,9 @@
         "price": 1238.0,
         "type": "R2",
         "strength": 5,
-        "reason": "Swing high (60d); zone of resistance",
+        "reason": "60d swing high (prior resistance, 1.5% away)",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43323,9 +43323,9 @@
         "price": 1155.3,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement; prior swing low zone; daily support",
+        "reason": "0.236 Fib retrace + 10-day MA zone",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43373,9 +43373,9 @@
         "price": 1179.57,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (price just slightly below; strong daily anchor)",
+        "reason": "1H recent low + MA20 ($1186.92 nearby)",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43453,9 +43453,9 @@
         "price": 1134.4,
         "type": "S3",
         "strength": 5,
-        "reason": "Last confirmed higher low (daily); loss = structure break",
+        "reason": "60d swing low + 0.382 Fib ($1097.05) guardrail",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -43536,6 +43536,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1206.94,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Today's high + 1H/4H local pivot",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1150.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       }
