@@ -30606,7 +30606,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -31995,9 +31995,9 @@
         "price": 334.68,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day swing high + psychological round level + recent upper band touch",
+        "reason": "\u2014 **Prior swing high (60-day high), tested 4x in last 10 days, failed to hold above yesterday close**",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32006,7 +32006,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 Round number / psychological barrier (next major round)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-17",
         "hit_count": 0,
         "last_hit": null
@@ -32015,9 +32015,9 @@
         "price": 353.61,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (267.04 \u2192 334.99); very weak conviction at this distance; psychological $350 round",
+        "reason": "\u2014 **1.272 Fib extension (267.04 \u2192 334.99); psychological resistance**",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32026,7 +32026,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 Round number, intraday support (1H lows cluster $329.34\u2013$330.91)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-17",
         "hit_count": 0,
         "last_hit": null
@@ -32035,9 +32035,9 @@
         "price": 318.25,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement (265.07\u2192334.99); 20-day VWAP zone nearby ($302.05)",
+        "reason": "\u2014 **0.236 Fib retracement (golden zone start); 10-day daily lows cluster around $318\u2013$320**",
         "status": "active",
-        "source_brief": "2026-07-22",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32305,9 +32305,9 @@
         "price": 309.03,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 reason: **Fibonacci 0.382 retracement; confluence with MA20 slope (currently $311.49, moving down into this zone)**; i",
+        "reason": "\u2014 **0.382 Fib retracement; daily MA50 at $306.23 is just below**",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -32328,6 +32328,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-24",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 336.5,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 **Psychological round number (extension of recent range) + 1.272 Fib extension at $353.47 is next target but $336\u2013337 ",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 328.71,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **1-hour intraday pivot / last spike low on 1H candle; confluence with prior daily close cluster ($327.50\u2013$328.73)**",
+        "status": "active",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       }
