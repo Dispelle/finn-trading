@@ -2166,9 +2166,9 @@
         "price": 70258.0,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (mid-swing); MA20 weekly at $69,370 overhead",
+        "reason": "0.382 Fibonacci retracement; prior swing resistance zone (60d range midpoint); MA200 proximity",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2228,7 +2228,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2266,9 +2266,9 @@
         "price": 64020.82,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **20-day VWAP**",
+        "reason": "Intraday pivot; recent daily low (4d ago); 1H tested 9 of last 20 candles; active support node",
         "status": "active",
-        "source_brief": "2026-07-23",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2285,10 +2285,10 @@
       {
         "price": 65735.72,
         "type": "R1",
-        "strength": 3,
-        "reason": "\u2014 reason: Recent daily swing high (1H high 65,710 + prior daily high)",
+        "strength": 5,
+        "reason": "Prior 5-day daily high; 0.618 Fib golden pocket floor ($65,480.63) confluence; psychological round",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2296,9 +2296,9 @@
         "price": 66910.06,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high; 10-day local resistance; tested 3x in past 8 days",
+        "reason": "Swing high (8d ago); daily structure pin; breakout level to restore HH/HL",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2326,9 +2326,9 @@
         "price": 63124.28,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 MA50 daily (trend average)",
+        "reason": "MA50 ($63,106.96) \u2014 first major MA support; psychological round",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2336,9 +2336,9 @@
         "price": 62489.45,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Last swing low (8d ago) + invalidation level",
+        "reason": "Swing low (9d ago, daily); breaks here = fresh downtrend confirmation",
         "status": "active",
-        "source_brief": "2026-07-24",
+        "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
       }
