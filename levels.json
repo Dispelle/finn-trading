@@ -538,5 +538,73 @@
         "last_hit": null
       }
     ]
+  },
+  "SMH": {
+    "last_updated": "2026-07-25",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 603.26,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement + confluence with last 10-day high range ($606.88, $608.90) + prior 8-week close ($611.03 ",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 611.03,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Last HH (daily); marks the boundary between \"lower lows in the dip\" and \"recovery structure\"; critical decision level",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 629.47,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.236 (shallow retracement = aggressive bull target) + confluence with 60-day swing high cluster (642.77, 64",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 574.99,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 MA20 daily ($597.94) slope is downward; price just broke below this level; 1H recent low $574.99 = micro-structure sup",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 560.91,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + psychological round level ($561) + recent swing low area ($556.53 nearby)",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 530.75,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 (deep retracement) + 60-day swing low cluster (527.87, 536.81) = major structural support; break = wee",
+        "status": "active",
+        "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
