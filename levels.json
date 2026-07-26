@@ -2362,7 +2362,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2381,9 +2381,9 @@
         "price": 56.3,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014",
+        "reason": "0.786 Fib retrace; swing low confluence; demand zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2391,9 +2391,9 @@
         "price": 61.55,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014",
+        "reason": "**0.618 Fib Golden Pocket** \u2014 major invalidation level; MA20 slope intersection zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2451,9 +2451,9 @@
         "price": 50.78,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: **Recent swing low (60-day)** and **multiple daily closes pinned** here 10+ days ago. Psychological round numb",
+        "reason": "Swing low (8 days ago); daily close support; recent support bounce",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2461,9 +2461,9 @@
         "price": 49.61,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **60-day absolute low, Fib extension point**, Fibonacci swing low floor. **Loss of this breaks structure and t",
+        "reason": "**60-day LOW** \u2014 hard support; swing low extremity; psychological $50 just above",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2504,6 +2504,36 @@
         "reason": "\u2014 reason: **Extrapolated fib extension (1.272 at $89.36 inverse)** + **round number support / macro zone**. Only used if",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 53.33,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior daily/intraday high (today's high); psychological round",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 33.85,
+        "type": "S3",
+        "strength": 5,
+        "reason": "52-week low; extreme support (don't use for entry \u2014 too far)",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 50.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
