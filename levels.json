@@ -1186,7 +1186,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1195,9 +1195,9 @@
         "price": 12.6,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (11.31\u219217.35) + recent daily swing high cluster",
+        "reason": "0.786 Fibonacci retracement; prior 1H high cluster $12.62\u2013$12.72; psychological round",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1215,9 +1215,9 @@
         "price": 12.21,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (anchor for daily mean reversion); respected for 10+ bars on hourly",
+        "reason": "20-day VWAP; MA20 at $12.24 confluence; daily technical average",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1235,19 +1235,19 @@
         "price": 13.62,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + psychological level; major confluence zone",
+        "reason": "0.618 Fib (golden pocket); prior swing high $13.01 (12 days ago); strong confluence zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 15.04,
         "type": "R3",
-        "strength": 4,
-        "reason": "0.382 Fib retracement; MA50 at $13.34 (price needs to reclaim this); next major resistance cluster",
+        "strength": 5,
+        "reason": "0.382 Fib retracement; major supply cluster from prior downtrend; psychological $15.00",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1265,9 +1265,9 @@
         "price": 11.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low cluster (printed 3x); psychological support; proximity to 52-week low $11.31",
+        "reason": "60-day swing low (confirmed 3\u00d7 in last 30 days); psychological round; demand zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1275,9 +1275,9 @@
         "price": 11.31,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 52-week low (hard floor); absolute support; represents max pain for buyers",
+        "reason": "52-week low; 60-day absolute low; max pain support; break = new institutional waterfall",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1308,6 +1308,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 13.62,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
