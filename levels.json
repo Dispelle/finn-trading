@@ -257,7 +257,7 @@
         "price": 595.91,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **GOLDEN FIBONACCI POCKET** (0.618 retracement; current price $606.10 is 10.19 points above this; this is THE critical",
+        "reason": "\u2014 **GOLDEN POCKET** (0.618 Fib) \u2014 This is THE critical support zone. Price currently at $606.10 = $10.19 above this.",
         "status": "active",
         "source_brief": "2026-07-26",
         "hit_count": 0,
@@ -267,7 +267,7 @@
         "price": 571.4,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.786 retracement (60-day support; represents deeper bear target if structural break confirmed; prior swing ",
+        "reason": "\u2014 0.786 Fib retracement + swing low at $577.07 nearby + 60d low context",
         "status": "active",
         "source_brief": "2026-07-26",
         "hit_count": 0,
@@ -297,7 +297,7 @@
         "price": 591.25,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.650 retracement (secondary support if $595.91 fails; tight clustering with golden pocket)",
+        "reason": "\u2014 0.650 Fib retracement \u2014 Secondary Fib support below golden pocket",
         "status": "active",
         "source_brief": "2026-07-26",
         "hit_count": 0,
@@ -350,6 +350,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 613.13,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 50% Fib retracement + Daily MA50 ($606.23) kissing below + psychological zone",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 619.07,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (volume-weighted price) + MA20 weekly ($607.48 base) + 0.382 Fib ($630.35 too far)",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 630.35,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fib retracement (minor resistance) + yesterday's high zone ($627.17)",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
