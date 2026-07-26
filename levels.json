@@ -830,7 +830,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -849,9 +849,9 @@
         "price": 1238.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Swing high from prior move; psychological + VWAP + prior rally target",
+        "reason": "\u2014 60-day swing high, prior breakout level.",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -879,9 +879,9 @@
         "price": 1155.3,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **0.236 Fibonacci (first pullback target) + daily swing low cluster**",
+        "reason": "\u2014 Fibonacci 0.236 retracement (850.51 \u2192 1249.45). Prior swing low zone.",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -889,9 +889,9 @@
         "price": 1134.4,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day swing low; recent HL; structural support; break = trend invalidation",
+        "reason": "\u2014 10-day swing low, HL on current structure.",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -929,9 +929,9 @@
         "price": 1097.05,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 **0.382 Fibonacci (deeper retracement) + weekly MA50 $1,125.30 nearby**",
+        "reason": "\u2014 Fibonacci 0.382 retracement. MA50 zone ($1125 nearby).",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -942,6 +942,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1206.94,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior intra-day high (TODAY). 1H rejection zone.",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1249.45,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 60-day peak, swing extreme.",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1180.0,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 MA20 = $1186.92 (effectively $1180\u2013$1186 zone).",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1134.4,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
