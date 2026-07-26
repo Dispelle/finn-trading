@@ -306,7 +306,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -325,9 +325,9 @@
         "price": 337.94,
         "type": "R1",
         "strength": 5,
-        "reason": "Fib 0.786 retracement (306.51\u2192453.40); prior 60-day swing low cluster; daily MA20 slope inflection",
+        "reason": "**0.786 Fib (306.51\u2192453.40)** \u2014 Classical reversal zone; matches 60-day mid-range structure",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -335,9 +335,9 @@
         "price": 362.62,
         "type": "R2",
         "strength": 5,
-        "reason": "**Golden Pocket** (0.618 Fib); historically strong reversal zone; psychological $360 round number",
+        "reason": "**0.618 Fib (Golden Pocket)** \u2014 Golden ratio support/resistance; psychological confluence",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -355,9 +355,9 @@
         "price": 313.03,
         "type": "S1",
         "strength": 5,
-        "reason": "Weekly close + 1H close (today); minor psychological support",
+        "reason": "**Weekly close (most recent)** \u2014 Psychological anchor; last weekly close",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -365,9 +365,9 @@
         "price": 306.51,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day low; absolute recent bottom; capitulation candle wick",
+        "reason": "**60-day low (session low today)** \u2014 Hard floor; clustering of 1H lows; 52w low ($303) nearby",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -375,9 +375,9 @@
         "price": 303.0,
         "type": "S3",
         "strength": 5,
-        "reason": "52-week low; psychological major support",
+        "reason": "**52-week low** \u2014 Structural support; psychological round number ($300 round)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -385,9 +385,9 @@
         "price": 397.29,
         "type": "R3",
         "strength": 4,
-        "reason": "Fib 0.382; daily MA20 ($391.83) + MA50 confluence ($404.97 band)",
+        "reason": "0.382 Fib (306.51\u2192453.40) \u2014 Secondary fib wall",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -418,6 +418,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 385.3,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**20-day VWAP + MA20 ($385.59 weekly)** \u2014 Double confirmation; volume-weighted anchor + trend MA",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 418.73,
+        "type": "R3",
+        "strength": 4,
+        "reason": "0.236 Fib + recent swing support ($416.0) \u2014 Early recovery target",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 368.6,
+        "type": "S3",
+        "strength": 3,
+        "reason": "60-day swing low (prior support level) \u2014 Only relevant if reversal develops",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
