@@ -3242,7 +3242,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3321,9 +3321,9 @@
         "price": 676.29,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.786 + structural support from Feb/early March lows (estimated from range)",
+        "reason": "\u2014 Fibonacci 0.786; 60-day swing low structure support; daily invalidation if broken",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3384,6 +3384,56 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 702.62,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.500 retracement; psychological round number; confluence with prior daily close cluster",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 713.48,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382; MA20 daily ($713.32); prior support turned resistance; multiple reversals here",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 726.92,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236; prior daily high (725.51); 20-day VWAP rejection zone; major supply cluster",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 691.76,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **GOLDEN POCKET** (Fibonacci 0.618) \u2014 **current price touching this NOW**; ultra-confluence point",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 688.81,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.650; recent 1H floor (682.48\u2013684 range found floor here); psychological support",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
