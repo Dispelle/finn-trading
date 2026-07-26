@@ -2003,7 +2003,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2160,6 +2160,26 @@
       {
         "price": 218.69,
         "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 199.34,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 225.51,
+        "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
