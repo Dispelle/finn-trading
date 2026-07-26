@@ -2540,7 +2540,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2549,9 +2549,9 @@
         "price": 80.44,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2569,9 +2569,9 @@
         "price": 85.17,
         "type": "R3",
         "strength": 4,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2599,9 +2599,9 @@
         "price": 71.05,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2659,9 +2659,9 @@
         "price": 76.26,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (volume-weighted fair value anchor)",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2688,10 +2688,10 @@
       {
         "price": 74.88,
         "type": "S2",
-        "strength": 4,
-        "reason": "60d swing low; daily close support from 6 days ago ($74.68 close, $74.07 low); zone cluster",
+        "strength": 5,
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2699,9 +2699,9 @@
         "price": 88.5,
         "type": "R3",
         "strength": 3,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2719,9 +2719,19 @@
         "price": 75.94,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 81.68,
+        "type": "R2",
+        "strength": 5,
+        "reason": "",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
