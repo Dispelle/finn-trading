@@ -3473,9 +3473,9 @@
         "price": 745.92,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20 weekly, slope up; price just broke below; prior support now resistance",
+        "reason": "20-day VWAP (recent friction point; rejected on 3 of last 4 daily closes)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3483,9 +3483,9 @@
         "price": 748.12,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Confluence of (a) recent swing high from 4 days ago, (b) fib 0.236 ($748.12), (c) prior support-turned-resistance; **",
+        "reason": "Fib 0.236 (minor retracement zone; confluence with 60-day swing high cluster $745\u2013$752)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3533,9 +3533,9 @@
         "price": 719.5,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Weekly MA20 (trend pivot); prior week's support; strong moving average confluence",
+        "reason": "Fib 0.786 (deeper retracement; MA20 weekly sits at $720.84 \u2014 strong daily support)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3573,9 +3573,9 @@
         "price": 760.4,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high; Fibonacci extension zone (golden pocket upper bound implied); major resistance/invalidation level",
+        "reason": "60-day high / weekly swing high (structural resistance; trend breaker if reclaimed)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3583,9 +3583,9 @@
         "price": 734.39,
         "type": "S1",
         "strength": 5,
-        "reason": "0.500 fib (50% retracement of $708.37\u2192$760.40); psychological round",
+        "reason": "Fib 0.500 (midpoint of $708.37\u2013$760.40 swing; daily support tested 5 days ago at $735.21)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3593,9 +3593,9 @@
         "price": 728.25,
         "type": "S2",
         "strength": 5,
-        "reason": "0.618 fib golden pocket; critical Fibonacci support; swing low cluster nearby ($731.53)",
+        "reason": "Fib 0.618 (golden pocket; 50-day confluence zone; psychological hold)",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3626,6 +3626,16 @@
         "reason": "\u2014 60-day swing low; absolute support floor for continuation",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 708.37,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
