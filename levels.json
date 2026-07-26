@@ -2936,7 +2936,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3058,6 +3058,16 @@
         "reason": "\u2014 Fib 0.786 retracement; aligns with deeper swing low from 60d structure",
         "status": "active",
         "source_brief": "2026-07-25",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.17,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
       }
