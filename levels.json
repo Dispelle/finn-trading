@@ -238,7 +238,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -257,9 +257,9 @@
         "price": 618.35,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (strong demand anchor)",
+        "reason": "20-day VWAP; natural pullback target; confluence with MA20 slope ($607.48 moving up but price below)",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -277,9 +277,9 @@
         "price": 595.91,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (GOLDEN POCKET)",
+        "reason": "**0.618 Golden Pocket** Fibonacci (classic reversal zone for 540.18\u2192686.08 swing); today's low $594.60 is JUST below thi",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -287,9 +287,9 @@
         "price": 571.4,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (trend invalidation)",
+        "reason": "0.786 Fib; prior swing low cluster support; macro support before test of 52w lows",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -297,9 +297,9 @@
         "price": 630.35,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement (psychological/technical cluster)",
+        "reason": "0.382 Fibonacci retracement (golden fib zone); prior daily consolidation base",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -307,9 +307,9 @@
         "price": 651.65,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement + prior swing high cluster",
+        "reason": "0.236 Fib + swing high from 60d ($642.4, $643.0 cluster); strong supply zone",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -317,9 +317,9 @@
         "price": 591.25,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.650 retracement (extended golden pocket)",
+        "reason": "0.650 Fib extension; round-number psychological support ($590) nearby",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -450,6 +450,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 609.98,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       }
