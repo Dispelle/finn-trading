@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-27T19:05:44.475704+00:00",
+  "generated_at": "2026-07-27T19:20:42.355530+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T19:20:10.100000+00:00",
+      "time": "03:20 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,914** | P&L: **-20"
+    },
+    {
+      "ts": "2026-07-27T19:19:52.104000+00:00",
+      "time": "03:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $374.49** Current: **$374.53** | Strength: 5/5 Prior daily high (intraday, 1H recent high); zone of yesterday's rejecti"
+    },
+    {
+      "ts": "2026-07-27T19:18:49.003000+00:00",
+      "time": "03:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.72** Current: **$77.74** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-27T19:13:34.032000+00:00",
+      "time": "03:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $682.48** Current: **$682.21** | Strength: 5/5 Today's 4H/daily low / intraday floor / 60-day bottom zone"
+    },
+    {
+      "ts": "2026-07-27T19:13:33.324000+00:00",
+      "time": "03:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $739.22** Current: **$739.08** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-27T19:07:13.652000+00:00",
+      "time": "03:07 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $682.48** Current: **$682.49** | Strength: 5/5 Today's 4H/daily low / intraday floor / 60-day bottom zone"
+    },
+    {
+      "ts": "2026-07-27T19:07:12.992000+00:00",
+      "time": "03:07 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $739.22** Current: **$739.23** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-27T19:05:03.461000+00:00",
       "time": "03:05 PM ET",
@@ -18,48 +60,6 @@
       "time": "02:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.16** Current: **$12.16** | Strength: 5/5 Current 1H support cluster; lower swing low series; tight daily pivot"
-    },
-    {
-      "ts": "2026-07-27T18:54:32.292000+00:00",
-      "time": "02:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $486.8** Current: **$487.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-27T18:52:25.584000+00:00",
-      "time": "02:52 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $542.67** Current: **$543.01** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
-    },
-    {
-      "ts": "2026-07-27T18:52:24.010000+00:00",
-      "time": "02:52 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $306.51** Current: **$306.61** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-27T18:47:05.675000+00:00",
-      "time": "02:47 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $595.91** Current: **$596.55** | Strength: 5/5 \u2014 0.618 Fibonacci (golden pocket)"
-    },
-    {
-      "ts": "2026-07-27T18:45:11.271000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,770** | P&L: **-20"
-    },
-    {
-      "ts": "2026-07-27T18:43:58.472000+00:00",
-      "time": "02:43 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $334.99** Current: **$335.03** | Strength: 5/5 \u2014 52-week/60-day all-time high; prior swing high; exact supply level"
-    },
-    {
-      "ts": "2026-07-27T18:42:51.560000+00:00",
-      "time": "02:42 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $306.51** Current: **$306.40** | Strength: 5/5 |"
     }
   ]
 }
