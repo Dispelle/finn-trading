@@ -4446,7 +4446,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4465,9 +4465,9 @@
         "price": 18.64,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 recent daily/1H swing high, lower high in bearish sequence, psychological round",
+        "reason": "\u2014 Prior 1H swing high (6 bars back); aligns with daily resistance cluster",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4485,9 +4485,9 @@
         "price": 20.83,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.236 retracement, aligns with secondary resistance zone from 60-day swing structure",
+        "reason": "\u2014 Fibonacci 0.236 retracement; Previous swing high $20.44; 60-day structure",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4495,9 +4495,9 @@
         "price": 17.68,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Fib 0.618 (golden pocket)**, exact confluence with prior swing point, **critical floor**",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); Daily bounce zone; Recent daily low proximity",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4565,9 +4565,9 @@
         "price": 16.3,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fib 0.786 retracement, 60-day swing low zone, Weekly MA20 proximity",
+        "reason": "\u2014 Fibonacci 0.786 retracement; MA20 daily (prior regime); Psychological $16.00",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
