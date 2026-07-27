@@ -1527,9 +1527,9 @@
         "price": 135.03,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 0.500 retracement; prior swing high support; psychological confluence",
+        "reason": "Fibonacci 0.500 retracement (106.37\u2192163.70); psychological + technical confluence",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1547,9 +1547,9 @@
         "price": 122.02,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low + recent swing low cluster",
+        "reason": "Today's low; 1H recent lows cluster; recent swing low support",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1557,9 +1557,9 @@
         "price": 120.73,
         "type": "S2",
         "strength": 5,
-        "reason": "4-day low (deep support)",
+        "reason": "9-day swing low; 1H lows converge here; prior LL",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1567,9 +1567,9 @@
         "price": 118.64,
         "type": "S3",
         "strength": 5,
-        "reason": "0.786 Fib (deep retracement)",
+        "reason": "Fibonacci 0.786 retracement; extended fib cluster zone",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1597,9 +1597,9 @@
         "price": 131.82,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior daily swing low from 6 bars ago; now acts as resistance cluster",
+        "reason": "Daily MA50; prior swing high consolidation zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1656,10 +1656,10 @@
       {
         "price": 127.12,
         "type": "R1",
-        "strength": 4,
-        "reason": "\u2014 MA20 (weekly/daily composite) + acts as pivot; slope still upward but price below",
+        "strength": 5,
+        "reason": "Daily MA20, immediate resistance; slope up but price below",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1689,7 +1689,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1720,6 +1720,36 @@
         "reason": "Daily swing high (2 days ago) + MA20 bounce target",
         "status": "active",
         "source_brief": "2026-07-26",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 126.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 118.64,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 115.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       }
