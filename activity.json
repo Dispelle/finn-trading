@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-27T16:23:38.912849+00:00",
+  "generated_at": "2026-07-27T16:38:30.642879+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T16:30:09.542000+00:00",
+      "time": "12:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,665** | P&L: **-20"
+    },
     {
       "ts": "2026-07-27T16:15:08.487000+00:00",
       "time": "12:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:29 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $196.99** Current: **$196.94** | Strength: 4/5 MA200 (long-term support); intermediate invalidation if broken"
-    },
-    {
-      "ts": "2026-07-27T15:26:34.054000+00:00",
-      "time": "11:26 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $738.18** Current: **$738.23** | Strength: 5/5 \u2014 Last daily close (3 days ago), key micro-support, recent swing low"
     }
   ]
 }
