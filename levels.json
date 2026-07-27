@@ -4030,6 +4030,76 @@
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 530.95,
+        "type": "R1",
+        "strength": 3,
+        "reason": "\u2014 20-day MA (slope down, losing support). If price reclaims this in a bounce, watch slope direction.",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 539.69,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Last lower high + swing point. Critical resistance for trend confirmation. Reclaim = potential retest of $557.89.",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 557.89,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Weekly swing high + recent resistance. Fib 0.236 retracement zone ($521.98) nearby. Represents failed rally from 3 day",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 483.17,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.382 retracement (318.86 \u2192 584.73 swing). Near today's close; psychological first line of defense.",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 420.42,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.618 (golden pocket). This is the **fibonacci target for the full downtrend from $584.73**. High-probability reve",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 375.76,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.786 retracement. If $420.42 fails, price is headed into intermediate weakness (200-day retest possible).",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 539.69,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
