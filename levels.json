@@ -7379,7 +7379,7 @@
         "price": 334.02,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Today's low + recent swing low + tightening base**",
+        "reason": "Today's daily low = **immediate structure support**, HL (higher low) of bullish trend",
         "status": "active",
         "source_brief": "2026-07-27",
         "hit_count": 0,
@@ -7398,8 +7398,48 @@
       {
         "price": 311.82,
         "type": "S3",
+        "strength": 5,
+        "reason": "10-day swing low (5 candles back), 0.382 Fibonacci retracement ($311.86 \u2248 confluence!)",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 339.57,
+        "type": "R1",
+        "strength": 5,
+        "reason": "52w high (double-tested today), 1.272 Fib extension zone boundary, round psychological level",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 345.0,
+        "type": "R2",
         "strength": 4,
-        "reason": "\u2014 **Fib 0.382 retracement + near MA50 ($306.35)**",
+        "reason": "Round number + technical extension (1.272 Fib = $359.30, but $345 is intermediate psychological)",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 359.3,
+        "type": "R3",
+        "strength": 5,
+        "reason": "1.272 Fibonacci extension (267.04\u2192339.57 swing), major structural target if R1 breaks",
+        "status": "active",
+        "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 327.74,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior 4-day swing low (within last 10-day candles), MA20 proximity (~$314 moving into $327\u2013$330 zone)",
         "status": "active",
         "source_brief": "2026-07-27",
         "hit_count": 0,
