@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-27T14:50:02.295032+00:00",
+  "generated_at": "2026-07-27T15:05:01.938272+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T15:01:09.166000+00:00",
+      "time": "11:01 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $338.5** Current: **$338.74** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-07-27T14:57:55.409000+00:00",
+      "time": "10:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $77.38** Current: **$77.49** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-27T14:50:30.796000+00:00",
+      "time": "10:50 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $486.8** Current: **$487.84** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-27T14:50:28.923000+00:00",
+      "time": "10:50 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S2 $306.51** Current: **$306.55** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-27T14:49:26.031000+00:00",
       "time": "10:49 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:43 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $76.54** Current: **$76.61** | Strength: 5/5 10-bar prior close, structural support, tested 3+ times in last 10 days"
-    },
-    {
-      "ts": "2026-07-27T14:42:00.127000+00:00",
-      "time": "10:42 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $76.54** Current: **$76.49** | Strength: 5/5 10-bar prior close, structural support, tested 3+ times in last 10 days"
-    },
-    {
-      "ts": "2026-07-27T14:41:58.164000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $536.81** Current: **$536.65** | Strength: 4/5 \u2014 Recent swing low (60d); break below triggers bearish structure flip; c"
-    },
-    {
-      "ts": "2026-07-27T14:39:49.380000+00:00",
-      "time": "10:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $306.51** Current: **$306.03** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-27T14:38:46.690000+00:00",
-      "time": "10:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $199.34** Current: **$199.57** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
