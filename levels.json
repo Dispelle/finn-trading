@@ -2489,9 +2489,9 @@
         "price": 629.47,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fib (golden zone entry) | Prior swing high support | **",
+        "reason": "\u2014 Fibonacci 0.236 retracement; swing high from 12 days ago",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2729,9 +2729,9 @@
         "price": 603.26,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fib retracement (confluence with MA50 $598.88 zone) | Psychological round number | **",
+        "reason": "\u2014 Fibonacci 0.382 retracement (492.34\u2192671.83); prior daily resistance",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2778,10 +2778,10 @@
       {
         "price": 597.94,
         "type": "R1",
-        "strength": 4,
-        "reason": "\u2014 MA20 (downward sloping, recent pivot) | Prior resistance now weak | **",
+        "strength": 5,
+        "reason": "\u2014 MA20 (daily), slope down; prior support zone",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
       },
