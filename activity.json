@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-27T17:50:42.837532+00:00",
+  "generated_at": "2026-07-27T18:05:36.373382+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T18:02:45.458000+00:00",
+      "time": "02:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.21** Current: **$12.22** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-27T18:02:43.870000+00:00",
+      "time": "02:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $393.94** Current: **$393.63** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
+    },
+    {
+      "ts": "2026-07-27T18:01:40.246000+00:00",
+      "time": "02:01 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $393.94** Current: **$394.18** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
+    },
+    {
+      "ts": "2026-07-27T18:00:09.562000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,975**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-27T17:45:08.408000+00:00",
       "time": "01:45 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:24 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $131.82** Current: **$131.74** | Strength: 5/5 Daily MA50; prior swing high consolidation zone"
-    },
-    {
-      "ts": "2026-07-27T17:23:39.183000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $131.73** Current: **$131.83** | Strength: 5/5 \u2014 MA50 daily + psychological round"
-    },
-    {
-      "ts": "2026-07-27T17:23:38.762000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $131.82** Current: **$131.83** | Strength: 5/5 Daily MA50; prior swing high consolidation zone"
-    },
-    {
-      "ts": "2026-07-27T17:20:11.234000+00:00",
-      "time": "01:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,876**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-27T17:13:06.183000+00:00",
-      "time": "01:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R3 $130.72** Current: **$130.74** | Strength: 5/5 Daily swing high (2 days ago) + MA20 bounce target"
     }
   ]
 }
