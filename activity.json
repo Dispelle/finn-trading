@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-27T18:05:36.373382+00:00",
+  "generated_at": "2026-07-27T18:20:38.372434+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T18:16:29.381000+00:00",
+      "time": "02:16 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.68** Current: **$52.69** | Strength: 3/5 1H recent lows; today's daily low; micro-support in range"
+    },
+    {
+      "ts": "2026-07-27T18:15:25.792000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.68** Current: **$52.66** | Strength: 3/5 1H recent lows; today's daily low; micro-support in range"
+    },
+    {
+      "ts": "2026-07-27T18:15:10.326000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,886** | P&L: **-20"
+    },
     {
       "ts": "2026-07-27T18:02:45.458000+00:00",
       "time": "02:02 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $595.91** Current: **$595.82** | Strength: 5/5 \u2014 0.618 Fibonacci (golden pocket)"
-    },
-    {
-      "ts": "2026-07-27T17:38:29.312000+00:00",
-      "time": "01:38 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $336.5** Current: **$336.69** | Strength: 4/5 Round number + 0.5% above R1, Fibonacci 1.618 extension zone approach"
-    },
-    {
-      "ts": "2026-07-27T17:30:00.210000+00:00",
-      "time": "01:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $131.73** Current: **$131.63** | Strength: 5/5 \u2014 MA50 daily + psychological round"
-    },
-    {
-      "ts": "2026-07-27T17:24:43.052000+00:00",
-      "time": "01:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $131.82** Current: **$131.74** | Strength: 5/5 Daily MA50; prior swing high consolidation zone"
     }
   ]
 }
