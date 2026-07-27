@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-27T19:50:48.496794+00:00",
+  "generated_at": "2026-07-27T20:05:48.455986+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T20:00:30.899000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,967**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-27T19:50:33.812000+00:00",
       "time": "03:50 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:31 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $495.76** Current: **$496.10** | Strength: 5/5 Weekly swing low, higher-low structure anchor, loss invalidates trend"
-    },
-    {
-      "ts": "2026-07-27T19:30:07.971000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,923**  \u23f0 **YOU "
     }
   ]
 }
