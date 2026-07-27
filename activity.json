@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-27T16:53:34.476691+00:00",
+  "generated_at": "2026-07-27T17:20:28.889445+00:00",
   "items": [
+    {
+      "ts": "2026-07-27T17:20:11.234000+00:00",
+      "time": "01:20 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,876**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-27T17:13:06.183000+00:00",
+      "time": "01:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R3 $130.72** Current: **$130.74** | Strength: 5/5 Daily swing high (2 days ago) + MA20 bounce target"
+    },
+    {
+      "ts": "2026-07-27T17:00:40.460000+00:00",
+      "time": "01:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,828** | P&L: **-20"
+    },
     {
       "ts": "2026-07-27T16:50:58.503000+00:00",
       "time": "12:50 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:39 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $536.0** Current: **$536.59** | Strength: 5/5 **Today's low / Recent swing low cluster**"
-    },
-    {
-      "ts": "2026-07-27T15:39:15.122000+00:00",
-      "time": "11:39 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $64403.48** Current: **$64442.63** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-27T15:38:11.498000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $536.0** Current: **$535.48** | Strength: 5/5 **Today's low / Recent swing low cluster**"
-    },
-    {
-      "ts": "2026-07-27T15:38:10.758000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64403.48** Current: **$64366.25** | Strength: 4/5 |"
     }
   ]
 }
