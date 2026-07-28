@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-28T18:16:21.169314+00:00",
+  "generated_at": "2026-07-28T18:31:23.112788+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T18:30:06.591000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,635**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-28T18:18:07.009000+00:00",
+      "time": "02:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $397.16** Current: **$397.06** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-28T18:15:07.586000+00:00",
       "time": "02:15 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:55 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $76.26** Current: **$76.20** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-28T17:46:22.283000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $676.29** Current: **$676.20** | Strength: 5/5 0.786 Fib retracement, overlap with 1H low cluster (675.95\u2013677.39)"
-    },
-    {
-      "ts": "2026-07-28T17:46:18.702000+00:00",
-      "time": "01:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S2 $306.51** Current: **$306.51** | Strength: 5/5 |"
     }
   ]
 }
