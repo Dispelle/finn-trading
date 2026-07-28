@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-28T13:45:44.256870+00:00",
+  "generated_at": "2026-07-28T14:00:26.120230+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T14:00:08.507000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,100** | P&L: **-22"
+    },
+    {
+      "ts": "2026-07-28T13:58:34.764000+00:00",
+      "time": "09:58 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $451.79** Current: **$451.73** | Strength: 5/5 \u2014 **Fibonacci 0.500 (mid-point)**; psychological level; if broken, targe"
+    },
+    {
+      "ts": "2026-07-28T13:56:25.771000+00:00",
+      "time": "09:56 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $303.0** Current: **$303.37** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-28T13:55:21.313000+00:00",
+      "time": "09:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S3 $303.0** Current: **$302.58** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-07-28T13:53:14.691000+00:00",
+      "time": "09:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $118.64** Current: **$118.48** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement; represents capitulation zone. 1H chart s"
+    },
+    {
+      "ts": "2026-07-28T13:48:55.837000+00:00",
+      "time": "09:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $393.94** Current: **$392.77** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
+    },
+    {
+      "ts": "2026-07-28T13:45:44.408000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $120.73** Current: **$120.21** | Strength: 5/5 \u2014 10-bar intraday low (1H data); psychological round"
+    },
     {
       "ts": "2026-07-28T13:42:34.723000+00:00",
       "time": "09:42 AM ET",
@@ -18,48 +60,6 @@
       "time": "09:42 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $397.16** Current: **$396.05** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-28T13:41:28.877000+00:00",
-      "time": "09:41 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.74** Current: **$194.79** | Strength: 3/5 60-day intermediate support; 0.786 Fib at $199.80 nearby"
-    },
-    {
-      "ts": "2026-07-28T13:41:27.326000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $155.29** Current: **$155.10** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-28T13:41:26.302000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $595.91** Current: **$595.22** | Strength: 5/5 \u2014 **GOLDEN POCKET** (Fib 0.618 confluence with prior swing low $592.6\u2013$"
-    },
-    {
-      "ts": "2026-07-28T13:40:22.879000+00:00",
-      "time": "09:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $122.64** Current: **$122.14** | Strength: 5/5 \u2014 8-day swing low (daily timeframe)"
-    },
-    {
-      "ts": "2026-07-28T13:39:19.845000+00:00",
-      "time": "09:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $368.95** Current: **$368.94** | Strength: 5/5 \u2014 60-day swing low (recent, ~10 bars ago)."
-    },
-    {
-      "ts": "2026-07-28T13:39:17.464000+00:00",
-      "time": "09:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $155.29** Current: **$155.33** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-28T13:38:13.371000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $527.87** Current: **$527.07** | Strength: 5/5 \u2014 60-day absolute low; weekly support terminus"
     }
   ]
 }
