@@ -6030,7 +6030,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-27",
+    "last_updated": "2026-07-28",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6089,9 +6089,9 @@
         "price": 71.05,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day absolute low, fib 0.786 ($75.94) nearby, major support",
+        "reason": "60-day swing low; 52-week low regime",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6149,9 +6149,9 @@
         "price": 76.26,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP, MA20 slope up ($76.28), immediate support",
+        "reason": "20-day VWAP \u2014 key mean reversion anchor; very tight to price",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6159,9 +6159,9 @@
         "price": 75.94,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (golden pocket extended lower) + psychologically significant",
+        "reason": "0.786 Fibonacci retracement \u2014 deep fib support",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6189,9 +6189,9 @@
         "price": 88.5,
         "type": "R3",
         "strength": 4,
-        "reason": "0.236 Fib retracement, mid-point between $71.05 and $93.89, psychological zone",
+        "reason": "0.236 Fibonacci retracement \u2014 secondary supply",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6322,6 +6322,66 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82.47,
+        "type": "R1",
+        "strength": 5,
+        "reason": "0.500 Fibonacci retracement + MA50 ($81.43 rounded) \u2014 twin confluences",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 85.17,
+        "type": "R2",
+        "strength": 4,
+        "reason": "0.382 Fibonacci retracement \u2014 classic retracement zone",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 75.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 79.77,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82.47,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 85.17,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       }
