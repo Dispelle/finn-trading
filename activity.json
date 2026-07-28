@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-28T13:31:03.129840+00:00",
+  "generated_at": "2026-07-28T13:45:17.200492+00:00",
   "items": [
     {
-      "ts": "2026-07-28T13:31:02.685000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $532.86** Current: **$531.11** | Strength: 5/5 Fib 0.786 + minor swing low cluster (Feb/Mar); **current price is 15.75 "
+      "ts": "2026-07-28T13:42:34.723000+00:00",
+      "time": "09:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $368.95** Current: **$369.04** | Strength: 5/5 \u2014 60-day swing low (recent, ~10 bars ago)."
     },
     {
-      "ts": "2026-07-28T13:31:01.695000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-28T13:42:32.949000+00:00",
+      "time": "09:42 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $535.0** Current: **$531.11** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $122.02** Current: **$121.65** | Strength: 5/5 \u2014 Today's daily low + 20-day VWAP proximity ($126.49 - gap)"
     },
     {
-      "ts": "2026-07-28T13:31:00.728000+00:00",
-      "time": "09:31 AM ET",
+      "ts": "2026-07-28T13:42:31.533000+00:00",
+      "time": "09:42 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $542.67** Current: **$531.11** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $397.16** Current: **$396.05** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:30:59.733000+00:00",
-      "time": "09:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $195.44** Current: **$194.23** | Strength: 5/5 \u2014 Today's intraday low; fresh new lower low = **immediate floor**"
+      "ts": "2026-07-28T13:41:28.877000+00:00",
+      "time": "09:41 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.74** Current: **$194.79** | Strength: 3/5 60-day intermediate support; 0.786 Fib at $199.80 nearby"
     },
     {
-      "ts": "2026-07-28T13:30:58.535000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:41:27.326000+00:00",
+      "time": "09:41 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64387.05** Current: **$63269.28** | Strength: 5/5 \u2014 Daily MA20 with upslope; also represents short-term equilibrium. P"
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $155.29** Current: **$155.10** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:30:57.625000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:41:26.302000+00:00",
+      "time": "09:41 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R2 $64658.97** Current: **$63269.28** | Strength: 5/5 \u2014 **Prior swing high (60-day); psychological round**"
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $595.91** Current: **$595.22** | Strength: 5/5 \u2014 **GOLDEN POCKET** (Fib 0.618 confluence with prior swing low $592.6\u2013$"
     },
     {
-      "ts": "2026-07-28T13:30:56.706000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:40:22.879000+00:00",
+      "time": "09:40 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64403.48** Current: **$63269.28** | Strength: 4/5 Today's low; intraday support; 1H trading floor"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $122.64** Current: **$122.14** | Strength: 5/5 \u2014 8-day swing low (daily timeframe)"
     },
     {
-      "ts": "2026-07-28T13:30:55.867000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:39:19.845000+00:00",
+      "time": "09:39 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $64039.61** Current: **$63269.28** | Strength: 5/5 **Fibonacci golden pocket (0.618)** \u2190 critical reversal zone; 60d sw"
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $368.95** Current: **$368.94** | Strength: 5/5 \u2014 60-day swing low (recent, ~10 bars ago)."
     },
     {
-      "ts": "2026-07-28T13:30:54.663000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:39:17.464000+00:00",
+      "time": "09:39 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63500.0** Current: **$63269.28** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $155.29** Current: **$155.33** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:30:53.635000+00:00",
-      "time": "09:30 AM ET",
+      "ts": "2026-07-28T13:38:13.371000+00:00",
+      "time": "09:38 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63756.0** Current: **$63269.28** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $527.87** Current: **$527.07** | Strength: 5/5 \u2014 60-day absolute low; weekly support terminus"
     }
   ]
 }
