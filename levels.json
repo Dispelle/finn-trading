@@ -7671,9 +7671,9 @@
         "price": 726.92,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **Reason:** 0.236 Fibonacci + prior swing high (60d cluster at $726.83). **Major supply zone** if daily bounces; criti",
+        "reason": "0.236 Fib retracement + prior swing high cluster ($726.83) \u2014 demand zone",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7681,9 +7681,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **Reason:** 60d high / recent swing peak. Extension target (1.272 Fibonacci = $773.69 above this). Structural resistan",
+        "reason": "60-day high, swing high extreme, breakout level",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7701,9 +7701,9 @@
         "price": 676.29,
         "type": "S2",
         "strength": 5,
-        "reason": "0.786 Fib retracement (deep pullback zone); MA200 $659.58 + buffer",
+        "reason": "0.786 Fib retracement, overlap with 1H low cluster (675.95\u2013677.39)",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7711,9 +7711,9 @@
         "price": 656.59,
         "type": "S3",
         "strength": 5,
-        "reason": "52-week low",
+        "reason": "60-day low, structural support, round number psychological level",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7831,9 +7831,9 @@
         "price": 691.76,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Reason:** **0.618 Fibonacci golden pocket (CURRENT PRICE ZONE)**. Classic rejection level; price sitting exactly her",
+        "reason": "**0.618 Fib golden pocket** \u2014 classic reversal zone for mean reversion",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7863,7 +7863,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8014,6 +8014,16 @@
         "reason": "**0.618 Fib golden pocket** (fibonacci mean reversion zone); psychological support",
         "status": "active",
         "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 710.49,
+        "type": "R1",
+        "strength": 5,
+        "reason": "MA20 (downsloping), near 20-day VWAP ($709.62) \u2014 confluence zone",
+        "status": "active",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       }
