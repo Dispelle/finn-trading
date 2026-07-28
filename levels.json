@@ -4606,7 +4606,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-07-27",
+    "last_updated": "2026-07-28",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4745,9 +4745,9 @@
         "price": 420.42,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.618 (golden pocket); psychological $420 level; next major demand zone if fib levels fail",
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)**; historical support; macro confluence with 200d MA zone. Long-term buy zone if mac",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4785,9 +4785,9 @@
         "price": 574.2,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day swing high; Fibonacci extension zone begins here; prior structural resistance",
+        "reason": "\u2014 60-day swing high #2 (cluster with $572.50, $562.99); psychological round number; strong supply zone. **",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4895,9 +4895,9 @@
         "price": 530.95,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP; coincides with MA20 ($531.71); last daily close above this 3 days ago; psychological round",
+        "reason": "\u2014 MA20 (daily), recently broken below; slope DOWN; acts as dynamic resistance. Prior support, now resistance. **",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4925,9 +4925,9 @@
         "price": 483.17,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (318.86\u2192584.73); critical fib level; price touched $476.93 today but closed $494.95",
+        "reason": "\u2014 **Fibonacci 0.382 retracement** ($318.86 \u2192 $584.73); clean fib alignment; breakeven zone from prior day's range. **",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5105,9 +5105,19 @@
         "price": 451.79,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.500 retracement; mid-point of 52w move; psychological round number; strong mean reversion anchor",
+        "reason": "\u2014 **Fibonacci 0.500 (mid-point)**; psychological level; if broken, targets $420.42 (0.618 golden pocket). **",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 557.89,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Last 5-day swing high; volume cluster; invalidates lower-high count if reclaimed daily close. **",
+        "status": "active",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       }
