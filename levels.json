@@ -1989,9 +1989,9 @@
         "price": 1213.91,
         "type": "R2",
         "strength": 5,
-        "reason": "Weekly swing high (2 weeks back), failed breakout",
+        "reason": "Weekly close 2 weeks ago; psychological whole number",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2059,9 +2059,9 @@
         "price": 1175.41,
         "type": "S2",
         "strength": 4,
-        "reason": "Recent daily close pivot; swing low support",
+        "reason": "Recent 4H swing low; break here = structural break",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2152,6 +2152,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1190.74,
+        "type": "S1",
+        "strength": 5,
+        "reason": "20-day VWAP (active anchor); MA20 $1189.80",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1175.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
       }
