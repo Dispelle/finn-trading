@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T20:38:03.178464+00:00",
+  "generated_at": "2026-07-28T20:52:55.280078+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T20:45:07.734000+00:00",
+      "time": "04:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,862**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-28T20:30:06.914000+00:00",
       "time": "04:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:53 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $122.64** Current: **$122.77** | Strength: 5/5 \u2014 8-day swing low (daily timeframe)"
-    },
-    {
-      "ts": "2026-07-28T19:50:58.408000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $122.64** Current: **$122.48** | Strength: 5/5 \u2014 8-day swing low (daily timeframe)"
     }
   ]
 }
