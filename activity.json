@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-28T14:00:26.120230+00:00",
+  "generated_at": "2026-07-28T14:15:29.009327+00:00",
   "items": [
     {
-      "ts": "2026-07-28T14:00:08.507000+00:00",
-      "time": "10:00 AM ET",
+      "ts": "2026-07-28T14:15:06.744000+00:00",
+      "time": "10:15 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,100** | P&L: **-22"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,103**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-07-28T13:58:34.764000+00:00",
-      "time": "09:58 AM ET",
+      "ts": "2026-07-28T14:14:32.593000+00:00",
+      "time": "10:14 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $451.79** Current: **$451.73** | Strength: 5/5 \u2014 **Fibonacci 0.500 (mid-point)**; psychological level; if broken, targe"
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $668.81** Current: **$668.25** | Strength: 5/5 \u2014 **0.650 Fibonacci + psychological round** \u2014 Below-50% retracement; bre"
     },
     {
-      "ts": "2026-07-28T13:56:25.771000+00:00",
-      "time": "09:56 AM ET",
+      "ts": "2026-07-28T14:14:30.775000+00:00",
+      "time": "10:14 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $804.0** Current: **$801.57** | Strength: 4/5 60-day swing low; major support zone"
+    },
+    {
+      "ts": "2026-07-28T14:12:23.946000+00:00",
+      "time": "10:12 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $303.0** Current: **$303.37** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $51.7** Current: **$51.70** | Strength: 5/5 \u2014 Recent swing low (60d data); prior double-bottom formation; daily support"
     },
     {
-      "ts": "2026-07-28T13:55:21.313000+00:00",
-      "time": "09:55 AM ET",
+      "ts": "2026-07-28T14:11:18.422000+00:00",
+      "time": "10:11 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S3 $303.0** Current: **$302.58** | Strength: 5/5 |"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $302.5** Current: **$302.79** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:53:14.691000+00:00",
-      "time": "09:53 AM ET",
+      "ts": "2026-07-28T14:08:07.362000+00:00",
+      "time": "10:08 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $118.64** Current: **$118.48** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement; represents capitulation zone. 1H chart s"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $302.5** Current: **$301.72** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:48:55.837000+00:00",
-      "time": "09:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $393.94** Current: **$392.77** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
-    },
-    {
-      "ts": "2026-07-28T13:45:44.408000+00:00",
-      "time": "09:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $120.73** Current: **$120.21** | Strength: 5/5 \u2014 10-bar intraday low (1H data); psychological round"
-    },
-    {
-      "ts": "2026-07-28T13:42:34.723000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-28T14:07:06.510000+00:00",
+      "time": "10:07 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $368.95** Current: **$369.04** | Strength: 5/5 \u2014 60-day swing low (recent, ~10 bars ago)."
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $336.5** Current: **$336.70** | Strength: 4/5 Round number + 0.5% above R1, Fibonacci 1.618 extension zone approach"
     },
     {
-      "ts": "2026-07-28T13:42:32.949000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-28T14:06:02.418000+00:00",
+      "time": "10:06 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $122.02** Current: **$121.65** | Strength: 5/5 \u2014 Today's daily low + 20-day VWAP proximity ($126.49 - gap)"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $75.5** Current: **$75.64** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-07-28T13:42:31.533000+00:00",
-      "time": "09:42 AM ET",
+      "ts": "2026-07-28T14:06:01.625000+00:00",
+      "time": "10:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $51.5** Current: **$51.62** | Strength: 4/5 \u2014 1H recent low cluster (51.77, 51.88, 51.92 zone)"
+    },
+    {
+      "ts": "2026-07-28T14:04:58.903000+00:00",
+      "time": "10:04 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $397.16** Current: **$396.05** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $336.5** Current: **$336.38** | Strength: 4/5 Round number + 0.5% above R1, Fibonacci 1.618 extension zone approach"
     }
   ]
 }
