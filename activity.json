@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T21:53:00.511268+00:00",
+  "generated_at": "2026-07-28T22:08:05.552490+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T22:00:07.585000+00:00",
+      "time": "06:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,907** | P&L: **-21"
+    },
     {
       "ts": "2026-07-28T21:30:07.636000+00:00",
       "time": "05:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:56 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $76.54** Current: **$76.55** | Strength: 5/5 10-bar prior close, structural support, tested 3+ times in last 10 days"
-    },
-    {
-      "ts": "2026-07-28T19:55:13.417000+00:00",
-      "time": "03:55 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $357.0** Current: **$357.12** | Strength: 4/5 \u2014 Round number + Fibonacci 1.272 extension zone ($369.61) approach"
     }
   ]
 }
