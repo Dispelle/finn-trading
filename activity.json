@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-28T18:31:23.112788+00:00",
+  "generated_at": "2026-07-28T18:46:25.596157+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T18:45:07.064000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,683** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-28T18:43:31.385000+00:00",
+      "time": "02:43 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $338.5** Current: **$338.61** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-07-28T18:41:24.903000+00:00",
+      "time": "02:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $338.5** Current: **$338.38** | Strength: 4/5 |"
+    },
     {
       "ts": "2026-07-28T18:30:06.591000+00:00",
       "time": "02:30 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:01 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $458.66** Current: **$459.29** | Strength: 4/5 Fibonacci 0.500 retracement (golden zone start) \u2014 psychological mid-poin"
-    },
-    {
-      "ts": "2026-07-28T18:00:07.187000+00:00",
-      "time": "02:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,625**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-28T17:55:54.363000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $675.95** Current: **$675.66** | Strength: 5/5 \u2014 Fibonacci 0.786 retracement. **"
-    },
-    {
-      "ts": "2026-07-28T17:55:53.148000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $76.26** Current: **$76.20** | Strength: 5/5 |"
     }
   ]
 }
