@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T17:46:19.992362+00:00",
+  "generated_at": "2026-07-28T17:46:54.495552+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T17:46:22.283000+00:00",
+      "time": "01:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $676.29** Current: **$676.20** | Strength: 5/5 0.786 Fib retracement, overlap with 1H low cluster (675.95\u2013677.39)"
+    },
     {
       "ts": "2026-07-28T17:46:18.702000+00:00",
       "time": "01:46 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:39 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $51.7** Current: **$51.68** | Strength: 5/5 \u2014 Recent swing low (60d data); prior double-bottom formation; daily support"
-    },
-    {
-      "ts": "2026-07-28T17:39:53.378000+00:00",
-      "time": "01:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $530.75** Current: **$530.66** | Strength: 5/5 |"
     }
   ]
 }
