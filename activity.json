@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T21:23:09.167418+00:00",
+  "generated_at": "2026-07-28T21:38:00.500020+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T21:30:07.636000+00:00",
+      "time": "05:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,837**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-28T21:22:45.408000+00:00",
       "time": "05:22 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $357.0** Current: **$357.12** | Strength: 4/5 \u2014 Round number + Fibonacci 1.272 extension zone ($369.61) approach"
-    },
-    {
-      "ts": "2026-07-28T19:54:11.265000+00:00",
-      "time": "03:54 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.28** Current: **$18.29** | Strength: 5/5 \u2014 Today's daily low / confluence with lower edge of recent 1H consolidatio"
     }
   ]
 }
