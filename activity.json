@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T20:53:06.568629+00:00",
+  "generated_at": "2026-07-28T21:22:57.652234+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T21:22:45.408000+00:00",
+      "time": "05:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,834** | P&L: **-21"
+    },
     {
       "ts": "2026-07-28T20:45:07.734000+00:00",
       "time": "04:45 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.28** Current: **$18.29** | Strength: 5/5 \u2014 Today's daily low / confluence with lower edge of recent 1H consolidatio"
-    },
-    {
-      "ts": "2026-07-28T19:53:05.715000+00:00",
-      "time": "03:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $122.64** Current: **$122.77** | Strength: 5/5 \u2014 8-day swing low (daily timeframe)"
     }
   ]
 }
