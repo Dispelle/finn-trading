@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-28T17:16:15.912013+00:00",
+  "generated_at": "2026-07-28T17:31:19.271339+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T17:30:07.774000+00:00",
+      "time": "01:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,664**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-28T17:27:10.374000+00:00",
+      "time": "01:27 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $124.81** Current: **$124.83** | Strength: 4/5 Last higher low (4 days ago); if broken, structure officially invalid; "
+    },
     {
       "ts": "2026-07-28T17:16:03.487000+00:00",
       "time": "01:16 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:55 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $197.97** Current: **$197.87** | Strength: 5/5 Recent LL; if weekly close below here = trend invalidation"
-    },
-    {
-      "ts": "2026-07-28T15:53:12.342000+00:00",
-      "time": "11:53 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $371.03** Current: **$371.05** | Strength: 5/5 \u2014 Recent swing low (most recent floor); 20-day VWAP sits at $372.93 (pri"
-    },
-    {
-      "ts": "2026-07-28T15:47:54.680000+00:00",
-      "time": "11:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63900.0** Current: **$63918.01** | Strength: 5/5 **Golden Pocket** (0.618 Fib); strong confluence"
     }
   ]
 }
