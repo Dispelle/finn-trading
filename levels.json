@@ -6888,6 +6888,16 @@
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 363.32,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
