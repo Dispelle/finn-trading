@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-28T14:15:37.576961+00:00",
+  "generated_at": "2026-07-28T14:30:27.985127+00:00",
   "items": [
+    {
+      "ts": "2026-07-28T14:30:26.430000+00:00",
+      "time": "10:30 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $804.0** Current: **$804.77** | Strength: 4/5 60-day swing low; major support zone"
+    },
+    {
+      "ts": "2026-07-28T14:24:05.174000+00:00",
+      "time": "10:24 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S3 $368.41** Current: **$368.43** | Strength: 4/5 \u2014 Prior swing low; psychological support at edge of 363\u2013368 zone"
+    },
+    {
+      "ts": "2026-07-28T14:21:57.186000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S3 $368.41** Current: **$368.11** | Strength: 4/5 \u2014 Prior swing low; psychological support at edge of 363\u2013368 zone"
+    },
     {
       "ts": "2026-07-28T14:15:36.993000+00:00",
       "time": "10:15 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:08 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $302.5** Current: **$301.72** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-28T14:07:06.510000+00:00",
-      "time": "10:07 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $336.5** Current: **$336.70** | Strength: 4/5 Round number + 0.5% above R1, Fibonacci 1.618 extension zone approach"
-    },
-    {
-      "ts": "2026-07-28T14:06:02.418000+00:00",
-      "time": "10:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $75.5** Current: **$75.64** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-28T14:06:01.625000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $51.5** Current: **$51.62** | Strength: 4/5 \u2014 1H recent low cluster (51.77, 51.88, 51.92 zone)"
     }
   ]
 }
