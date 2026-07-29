@@ -7182,7 +7182,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -7201,9 +7201,9 @@
         "price": 56.3,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement + swing high cluster (51.77, 51.72) + prior HL zone",
+        "reason": "\u2014 0.786 Fibonacci retracement (golden zone upper bound) + prior swing high ($56.37). Invalidation level.",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7211,9 +7211,9 @@
         "price": 61.55,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci golden pocket (0.618) + psychological round number + prior swing high (64.69 nearby)",
+        "reason": "\u2014 0.618 Fibonacci retracement (golden pocket center) + near prior swing low cluster ($57.3 area). Major supply zone if r",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7241,9 +7241,9 @@
         "price": 50.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Recent swing low (#2 within 60d), psychological round number",
+        "reason": "\u2014 Prior swing low (9\u201310 days ago); tested, held, then broken. Now acts as weak secondary support.",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7391,9 +7391,9 @@
         "price": 48.0,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Approximate round level below current consolidation; bears' next target if $49.61 breaks",
+        "reason": "\u2014 Round number (psychological); no prior data. INSUFFICIENT DATA for swing confirmation but likely accumulation zone if ",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7401,9 +7401,9 @@
         "price": 53.07,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP + daily MA20 ($52.98) = **institutional anchor**",
+        "reason": "\u2014 20-day VWAP + daily MA20 convergence. Tested multiple times last 5 days; rejected.",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7734,6 +7734,16 @@
         "reason": "\u2014 Fibonacci extension (1.272: $89.36 inverted from $80.86 top)",
         "status": "active",
         "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 49.61,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 60-day low, 0% retracement floor (swing low anchor). Psychological round.",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
