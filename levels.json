@@ -4440,7 +4440,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4799,9 +4799,9 @@
         "price": 560.91,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.650 Fib + prior swing high cluster; tested 3 times in last 10 bars; zone of exhaustion",
+        "reason": "\u2014 reason: 0.650 Fib retracement + recent swing low bounce zone",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5069,9 +5069,9 @@
         "price": 606.63,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement",
+        "reason": "\u2014 reason: 0.382 Fib retracement + recent swing high (650.03) proximity",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5079,9 +5079,9 @@
         "price": 520.78,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Round number + today's intraday low zone (518.31)",
+        "reason": "\u2014 reason: 1H recent low cluster + today's low $518.31 + 60-day low $501.15 proximity",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5109,9 +5109,9 @@
         "price": 586.49,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.500 Fib (midpoint swing) + MA20 proximity ($585.88); psychological round number; daily chart invalidation point",
+        "reason": "\u2014 reason: 0.500 Fib retracement + MA20 ($542.12) proximity + 20-day VWAP",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5129,9 +5129,9 @@
         "price": 501.15,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low + MA200 proximity ($500.28)",
+        "reason": "\u2014 reason: 60-day absolute low + MA200 support at $500.28",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5212,6 +5212,16 @@
         "reason": "\u2014 20-day VWAP",
         "status": "active",
         "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 480.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 reason: Round number + 20% pullback from recent highs",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
