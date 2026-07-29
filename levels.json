@@ -9582,7 +9582,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9961,9 +9961,9 @@
         "price": 660.47,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 200-day moving average (long-term floor)",
+        "reason": "\u2014 MA200 (long-term support, above price = bullish backstop)",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9971,9 +9971,9 @@
         "price": 685.16,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 previous daily support (swing low 7 days ago) + trendline inflection",
+        "reason": "\u2014 0.786 Fibonacci (golden pocket bottom); prior micro-support in last 3 days",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9981,9 +9981,9 @@
         "price": 698.73,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + prior swing low ($695.25 area)",
+        "reason": "\u2014 **0.618 Fibonacci golden pocket** + swing low confluence + MA20 guard zone",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9991,9 +9991,9 @@
         "price": 708.27,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 + Moving Average 20 ($708.06)",
+        "reason": "\u2014 0.500 Fibonacci midpoint + MA20 daily ($708.06) + psychological round",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10001,9 +10001,9 @@
         "price": 667.88,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **TODAY'S LOW / 60-day low / Recent swing low",
+        "reason": "\u2014 **60-day absolute low (THIS WEEK's low)** + extreme compression zone",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10014,6 +10014,16 @@
         "reason": "\u2014 Round number + psychological support (within 4% of all-time low?)",
         "status": "active",
         "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 652.0,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Psychological level; 2% below MA200",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
