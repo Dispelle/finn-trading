@@ -10030,7 +10030,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10369,9 +10369,9 @@
         "price": 333.02,
         "type": "S2",
         "strength": 5,
-        "reason": "Prior higher low (HL); critical structure support; 20-day VWAP $317.93 is below",
+        "reason": "\u2014 Daily close 2 bars ago; 1H consolidation base; -2.1% from price",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10449,19 +10449,19 @@
         "price": 342.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high (swing high, psychological round, touched today intraday)",
+        "reason": "\u2014 60-day swing high (JUST HIT TODAY); confluence with Fib 1.0 extension and overnight intraday peak",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 361.7,
         "type": "R2",
-        "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (273.75 \u2192 342.89); major extension target for continuation",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension from 273.75\u2192342.89 swing; psychological round level; confluent with gap-fill target",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10479,9 +10479,9 @@
         "price": 336.92,
         "type": "S1",
         "strength": 5,
-        "reason": "Last intraday swing high (1H chart); prior daily close $336.91",
+        "reason": "\u2014 Prior daily close (yesterday); confluent with major intraday support; represents -1.5% retracement from current",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10539,9 +10539,9 @@
         "price": 318.48,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 20-day VWAP (dynamic support, MA20 slope is positive but VWAP is steeper baseline)",
+        "reason": "\u2014 20-day VWAP (golden average for mean reversion); -6.4% from price; strong long-bias anchor",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10552,6 +10552,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 350.0,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Psychological round (next 10-handle); intermediate resistance if R1 breaks",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
