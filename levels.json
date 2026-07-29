@@ -3106,7 +3106,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3305,9 +3305,9 @@
         "price": 13.62,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.618 golden pocket (MAJOR Fib zone)**; invalidation level for bearish bias; prior swing resistance; **CRITICAL**",
+        "reason": "0.618 Fibonacci (golden pocket). MA20 slope inverts near here. Prior daily support.",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3345,9 +3345,9 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day absolute low** + 52-week swing low boundary; psychological $11.30 round",
+        "reason": "**52-WEEK LOW** \u2014 absolute floor from swing low 60 days ago. Psychological, institutional stops likely. Fibonacci 0.000 ",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3385,9 +3385,39 @@
         "price": 11.68,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 1H low today (today's range bottom) + 60-day swing low at $11.31 confluence",
+        "reason": "**TODAY'S LOW** \u2014 intraday pivot, tested 3x in recent 1H candles. Micro-support.",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.25,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior daily support (12.25 from 2 days ago), converges with 1H recent pivot high ($12.23). Psychological round level.",
+        "status": "active",
+        "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.6,
+        "type": "R2",
+        "strength": 5,
+        "reason": "0.786 Fibonacci retracement (11.31\u219217.35 swing). Prior swing high from 6 days ago. **Critical invalidation level.**",
+        "status": "active",
+        "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 10.68,
+        "type": "S3",
+        "strength": 3,
+        "reason": "1.272 Fibonacci extension (11.31 base). Unlikely but represents maximum downside scenario if breakdown accelerates.",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
