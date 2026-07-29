@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-29T18:39:10.683856+00:00",
+  "generated_at": "2026-07-29T18:53:46.859707+00:00",
   "items": [
     {
-      "ts": "2026-07-29T18:38:47.403000+00:00",
-      "time": "02:38 PM ET",
+      "ts": "2026-07-29T18:50:42.991000+00:00",
+      "time": "02:50 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $303.5** Current: **$303.55** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.33** Current: **$53.30** | Strength: 5/5 1H recent high (intraday); psychological round; proximity to MA20 ($53.03)"
     },
     {
-      "ts": "2026-07-29T18:38:46.915000+00:00",
-      "time": "02:38 PM ET",
+      "ts": "2026-07-29T18:50:41.939000+00:00",
+      "time": "02:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $790.0** Current: **$789.58** | Strength: 5/5 0.618 Fib (golden pocket); strong harmonic zone"
+    },
+    {
+      "ts": "2026-07-29T18:50:39.950000+00:00",
+      "time": "02:50 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $303.0** Current: **$303.55** | Strength: 5/5 |"
+      "message": "\ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $305.54** Current: **$305.62** | Strength: 3/5 \u2014 1-hour recent low (multiple bounces around $305\u2013$306); micro-support."
     },
     {
-      "ts": "2026-07-29T18:32:30.792000+00:00",
-      "time": "02:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $343.2** Current: **$343.17** | Strength: 4/5 \u2014 **Approximate psychological/round level + gap extension target** | Min"
-    },
-    {
-      "ts": "2026-07-29T18:32:29.269000+00:00",
-      "time": "02:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.88** Current: **$371.87** | Strength: 4/5 60-day swing low cluster"
-    },
-    {
-      "ts": "2026-07-29T18:30:08.342000+00:00",
-      "time": "02:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,045** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-29T18:28:15.592000+00:00",
-      "time": "02:28 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S3 $125.32** Current: **$125.26** | Strength: 4/5 \u2014 Today's daily low; 60-day low test area"
-    },
-    {
-      "ts": "2026-07-29T18:27:12.680000+00:00",
-      "time": "02:27 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $372.91** Current: **$372.89** | Strength: 5/5 20-day VWAP (current price sits $1.59 above); structural support from da"
-    },
-    {
-      "ts": "2026-07-29T18:25:04.847000+00:00",
-      "time": "02:25 PM ET",
+      "ts": "2026-07-29T18:49:38.433000+00:00",
+      "time": "02:49 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $346.91** Current: **$346.93** | Strength: 5/5 \u2014 Today's daily low + intraday congestion floor"
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $77.9** Current: **$77.92** | Strength: 4/5 Prior daily close (2 days ago); Fib 0.786 zone ($75.94\u2013$79.04) floor resis"
     },
     {
-      "ts": "2026-07-29T18:20:51.010000+00:00",
-      "time": "02:20 PM ET",
+      "ts": "2026-07-29T18:49:37.800000+00:00",
+      "time": "02:49 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $156.89** Current: **$156.90** | Strength: 5/5 0.236 Fib retracement (very tight/recent congestion); daily high proximi"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $53.33** Current: **$53.35** | Strength: 5/5 1H recent high (intraday); psychological round; proximity to MA20 ($53.03)"
     },
     {
-      "ts": "2026-07-29T18:19:48.251000+00:00",
-      "time": "02:19 PM ET",
+      "ts": "2026-07-29T18:49:35.199000+00:00",
+      "time": "02:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $595.91** Current: **$596.71** | Strength: 5/5 \u2014 **0.618 Fibonacci (golden pocket)** + prior swing low confluence (592"
+    },
+    {
+      "ts": "2026-07-29T18:49:34.319000+00:00",
+      "time": "02:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $400.32** Current: **$400.87** | Strength: 5/5 \u2014 Prior 1H/daily high + 1H close = immediate overhead"
+    },
+    {
+      "ts": "2026-07-29T18:47:26.191000+00:00",
+      "time": "02:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $790.0** Current: **$792.71** | Strength: 5/5 0.618 Fib (golden pocket); strong harmonic zone"
+    },
+    {
+      "ts": "2026-07-29T18:47:24.899000+00:00",
+      "time": "02:47 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64141.05** Current: **$64131.29** | Strength: 5/5 \u2014 reason: *Fib 0.618 (golden pocket); prior swing lows cluster; MA20"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $126.49** Current: **$126.45** | Strength: 5/5 \u2014 20-day VWAP; current price hovering just above"
+    },
+    {
+      "ts": "2026-07-29T18:47:24.078000+00:00",
+      "time": "02:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S2 $349.42** Current: **$349.59** | Strength: 5/5 Daily MA20 proxy; clustering of intraday lows; recent support holds stru"
     }
   ]
 }
