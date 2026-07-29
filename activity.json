@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-29T14:40:51.191014+00:00",
+  "generated_at": "2026-07-29T14:55:51.395463+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T14:49:17.183000+00:00",
+      "time": "10:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $158.71** Current: **$158.52** | Strength: 5/5 \u2014 Prior intraday daily high (Jan 16, 4H); minor swing high."
+    },
+    {
+      "ts": "2026-07-29T14:47:10.657000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $302.5** Current: **$302.63** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-29T14:45:08.875000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,022**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-29T14:41:51.247000+00:00",
+      "time": "10:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $666.59** Current: **$666.60** | Strength: 4/5 50% of 52-week range mid-point ($555.60 + $748.65 / 2 = $652.13); round "
+    },
     {
       "ts": "2026-07-29T14:40:45.970000+00:00",
       "time": "10:40 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:33 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $668.81** Current: **$668.92** | Strength: 5/5 \u2014 60-day low + 1H swing low (multiple touches)"
-    },
-    {
-      "ts": "2026-07-29T14:30:56.528000+00:00",
-      "time": "10:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $667.88** Current: **$667.91** | Strength: 5/5 Today's intraday low (60d low); 1H compression floor; round number psych"
-    },
-    {
-      "ts": "2026-07-29T14:30:55.868000+00:00",
-      "time": "10:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $735.21** Current: **$735.29** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-29T14:30:54.130000+00:00",
-      "time": "10:30 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $790.0** Current: **$791.91** | Strength: 5/5 0.618 Fib (golden pocket); strong harmonic zone"
-    },
-    {
-      "ts": "2026-07-29T14:30:52.370000+00:00",
-      "time": "10:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $303.5** Current: **$303.85** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
