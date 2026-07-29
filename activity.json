@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-29T14:56:02.401134+00:00",
+  "generated_at": "2026-07-29T15:10:53.653722+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T15:02:51.927000+00:00",
+      "time": "11:02 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $192.74** Current: **$192.85** | Strength: 5/5 \u2014 TODAY'S intraday low; minor swing; **very fresh.**"
+    },
+    {
+      "ts": "2026-07-29T15:01:47.611000+00:00",
+      "time": "11:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW STOP $130.0** Current: **$129.98** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-29T15:01:38.881000+00:00",
+      "time": "11:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $302.5** Current: **$302.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-29T15:00:09.467000+00:00",
+      "time": "11:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,015** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-29T14:59:14.895000+00:00",
+      "time": "10:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $130.0** Current: **$130.13** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-29T14:49:17.183000+00:00",
       "time": "10:49 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S2 $666.59** Current: **$666.19** | Strength: 4/5 50% of 52-week range mid-point ($555.60 + $748.65 / 2 = $652.13); round "
-    },
-    {
-      "ts": "2026-07-29T14:40:42.020000+00:00",
-      "time": "10:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $64039.61** Current: **$63992.04** | Strength: 5/5 **Fibonacci golden pocket (0.618)** \u2190 critical reversal zone; 60d sw"
-    },
-    {
-      "ts": "2026-07-29T14:40:39.939000+00:00",
-      "time": "10:40 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.71** Current: **$158.78** | Strength: 5/5 \u2014 Prior intraday daily high (Jan 16, 4H); minor swing high."
-    },
-    {
-      "ts": "2026-07-29T14:38:29.198000+00:00",
-      "time": "10:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $393.94** Current: **$393.86** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
-    },
-    {
-      "ts": "2026-07-29T14:37:23.165000+00:00",
-      "time": "10:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $393.94** Current: **$394.06** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** + round number strength"
-    },
-    {
-      "ts": "2026-07-29T14:33:04.133000+00:00",
-      "time": "10:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $668.81** Current: **$668.92** | Strength: 5/5 \u2014 60-day low + 1H swing low (multiple touches)"
     }
   ]
 }
