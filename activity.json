@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-29T16:41:11.669933+00:00",
+  "generated_at": "2026-07-29T16:56:02.584162+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T16:55:37.356000+00:00",
+      "time": "12:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $51.72** Current: **$51.96** | Strength: 4/5 60d swing low #3, consolidation floor"
+    },
+    {
+      "ts": "2026-07-29T16:53:30.641000+00:00",
+      "time": "12:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $368.95** Current: **$369.09** | Strength: 5/5 Recent 60d swing low; daily consolidation floor; intra-day support from "
+    },
+    {
+      "ts": "2026-07-29T16:45:10.174000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,585**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-29T16:43:40.759000+00:00",
+      "time": "12:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63720.39** Current: **$63587.62** | Strength: 5/5 \u2014 reason: *Fib 0.650 retracement; recent local lows; pivot point inv"
+    },
+    {
+      "ts": "2026-07-29T16:42:36.517000+00:00",
+      "time": "12:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63756.0** Current: **$63728.29** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-29T16:30:08.937000+00:00",
       "time": "12:30 PM ET",
@@ -30,36 +60,6 @@
       "time": "12:08 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $424.81** Current: **$425.20** | Strength: 5/5 \u2014 **0.650 Fibonacci**; secondary golden zone"
-    },
-    {
-      "ts": "2026-07-29T16:08:19.761000+00:00",
-      "time": "12:08 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $765.93** Current: **$767.23** | Strength: 4/5 \u2014 reason: **0.650 fibonacci extension + psychological round number + swin"
-    },
-    {
-      "ts": "2026-07-29T16:07:13.974000+00:00",
-      "time": "12:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $424.81** Current: **$424.19** | Strength: 5/5 \u2014 **0.650 Fibonacci**; secondary golden zone"
-    },
-    {
-      "ts": "2026-07-29T16:07:11.957000+00:00",
-      "time": "12:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $765.93** Current: **$765.60** | Strength: 4/5 \u2014 reason: **0.650 fibonacci extension + psychological round number + swin"
-    },
-    {
-      "ts": "2026-07-29T16:00:07.760000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,883** | P&L: **-21"
-    },
-    {
-      "ts": "2026-07-29T15:59:47.915000+00:00",
-      "time": "11:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $508.97** Current: **$509.38** | Strength: 5/5 \u2014 **Today's intraday low; fresh swing low; capitulation tail**"
     }
   ]
 }
