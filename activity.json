@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-07-29T17:38:40.098594+00:00",
+  "generated_at": "2026-07-29T17:53:41.566807+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T17:49:46.551000+00:00",
+      "time": "01:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $128.65** Current: **$128.66** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-29T17:49:45.061000+00:00",
+      "time": "01:49 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63900.0** Current: **$63908.34** | Strength: 5/5 **Golden Pocket (0.618 Fib)** \u2014 confluence with MA20 daily ($64,471.9"
+    },
+    {
+      "ts": "2026-07-29T17:45:16.087000+00:00",
+      "time": "01:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,880** | P&L: **-21"
+    },
+    {
+      "ts": "2026-07-29T17:41:18.849000+00:00",
+      "time": "01:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $156.89** Current: **$156.85** | Strength: 5/5 0.236 Fib retracement (very tight/recent congestion); daily high proximi"
+    },
+    {
+      "ts": "2026-07-29T17:41:18.100000+00:00",
+      "time": "01:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $156.9** Current: **$156.85** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (134.95 \u2192 163.68)"
+    },
+    {
+      "ts": "2026-07-29T17:40:14.682000+00:00",
+      "time": "01:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S3 $124.81** Current: **$124.84** | Strength: 4/5 Last higher low (4 days ago); if broken, structure officially invalid; "
+    },
+    {
+      "ts": "2026-07-29T17:39:12.569000+00:00",
+      "time": "01:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $128.65** Current: **$128.53** | Strength: 5/5 \u2014 **"
+    },
     {
       "ts": "2026-07-29T17:37:05.520000+00:00",
       "time": "01:37 PM ET",
@@ -18,48 +60,6 @@
       "time": "01:33 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $593.41** Current: **$593.07** | Strength: 5/5 \u2014"
-    },
-    {
-      "ts": "2026-07-29T17:32:48.539000+00:00",
-      "time": "01:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1220.0** Current: **$1220.41** | Strength: 4/5 \u2014 **Round number + daily chart mean reversion target**"
-    },
-    {
-      "ts": "2026-07-29T17:29:39.043000+00:00",
-      "time": "01:29 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $370.53** Current: **$370.47** | Strength: 5/5 \u2014 *60-day swing low #5 (most recent HL in structure) + critical structur"
-    },
-    {
-      "ts": "2026-07-29T17:23:21.961000+00:00",
-      "time": "01:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,744**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-07-29T17:23:17.473000+00:00",
-      "time": "01:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW STOP $594.81** Current: **$594.65** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-29T17:22:13.451000+00:00",
-      "time": "01:22 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE STOP $594.81** Current: **$595.08** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-29T17:19:05.842000+00:00",
-      "time": "01:19 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $76.26** Current: **$76.31** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-29T17:14:52.159000+00:00",
-      "time": "01:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $371.03** Current: **$370.81** | Strength: 5/5 \u2014 *MA20 $372.98 (approximate) + last daily close $371.90 + 1H recent low"
     }
   ]
 }
