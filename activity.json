@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-29T16:11:10.127270+00:00",
+  "generated_at": "2026-07-29T16:26:00.286271+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T16:19:12.670000+00:00",
+      "time": "12:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $300.0** Current: **$300.22** | Strength: 4/5 \u2014 Psychological round; INSUFFICIENT DATA for prior support here, but rou"
+    },
+    {
+      "ts": "2026-07-29T16:15:08.167000+00:00",
+      "time": "12:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,853**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-29T16:11:35.997000+00:00",
+      "time": "12:11 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $300.69** Current: **$300.36** | Strength: 5/5 TODAY's low = 52-week low; psychological capitulation floor; 1H wicks c"
+    },
     {
       "ts": "2026-07-29T16:08:20.595000+00:00",
       "time": "12:08 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:59 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $300.69** Current: **$301.42** | Strength: 5/5 TODAY's low = 52-week low; psychological capitulation floor; 1H wicks c"
-    },
-    {
-      "ts": "2026-07-29T15:57:41.008000+00:00",
-      "time": "11:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $769.89** Current: **$771.51** | Strength: 5/5 Fibonacci 0.650 + MA20 weekly at $769.45 (confluence support)"
-    },
-    {
-      "ts": "2026-07-29T15:57:40.600000+00:00",
-      "time": "11:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $770.89** Current: **$771.51** | Strength: 5/5 \u2014 0.650 Fibonacci retracement (golden pocket extension)"
-    },
-    {
-      "ts": "2026-07-29T15:56:36.500000+00:00",
-      "time": "11:56 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $769.89** Current: **$768.30** | Strength: 5/5 Fibonacci 0.650 + MA20 weekly at $769.45 (confluence support)"
     }
   ]
 }
