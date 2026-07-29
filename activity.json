@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-29T18:38:45.367857+00:00",
+  "generated_at": "2026-07-29T18:38:59.136720+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T18:38:47.403000+00:00",
+      "time": "02:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $303.5** Current: **$303.55** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-29T18:38:46.915000+00:00",
+      "time": "02:38 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S3 $303.0** Current: **$303.55** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-07-29T18:32:30.792000+00:00",
       "time": "02:32 PM ET",
@@ -48,18 +60,6 @@
       "time": "02:19 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64141.05** Current: **$64131.29** | Strength: 5/5 \u2014 reason: *Fib 0.618 (golden pocket); prior swing lows cluster; MA20"
-    },
-    {
-      "ts": "2026-07-29T18:19:47.450000+00:00",
-      "time": "02:19 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $12.11** Current: **$12.09** | Strength: 4/5 Today's low; 1H support cluster; minor support"
-    },
-    {
-      "ts": "2026-07-29T18:17:41.773000+00:00",
-      "time": "02:17 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.68** Current: **$52.65** | Strength: 5/5 \u2014 Last 1H low, recent daily support, confluence with 20-day VWAP ($53.03)"
     }
   ]
 }
