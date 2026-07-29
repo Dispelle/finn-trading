@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-29T20:38:49.781520+00:00",
+  "generated_at": "2026-07-29T20:53:48.844161+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T20:45:08.274000+00:00",
+      "time": "04:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,513**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-07-29T20:30:07.824000+00:00",
       "time": "04:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:56 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $338.5** Current: **$338.08** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-29T19:55:28.096000+00:00",
-      "time": "03:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $663.3** Current: **$662.74** | Strength: 5/5 60-day low (intraday swing); psychological round number; 1H lows clustere"
     }
   ]
 }
