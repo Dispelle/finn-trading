@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-29T20:54:44.737699+00:00",
+  "generated_at": "2026-07-29T21:17:11.348041+00:00",
   "items": [
+    {
+      "ts": "2026-07-29T21:16:57.883000+00:00",
+      "time": "05:16 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,336**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-29T21:00:08.683000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,384** | P&L: **-22"
+    },
     {
       "ts": "2026-07-29T20:45:08.274000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $390.19** Current: **$389.97** | Strength: 5/5 Yesterday's high (daily pivot), 1H recent swing high, local supply zone"
-    },
-    {
-      "ts": "2026-07-29T19:57:34.580000+00:00",
-      "time": "03:57 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $156.9** Current: **$156.91** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement (134.95 \u2192 163.68)"
-    },
-    {
-      "ts": "2026-07-29T19:56:33.543000+00:00",
-      "time": "03:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $338.5** Current: **$338.08** | Strength: 4/5 |"
     }
   ]
 }
