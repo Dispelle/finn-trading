@@ -1,6 +1,6 @@
 {
   "MSFT": {
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -39,9 +39,9 @@
         "price": 421.58,
         "type": "R3",
         "strength": 5,
-        "reason": "**0.382 Fib (second Fib zone) + prior swing high $420.78 (late June/early July)**",
+        "reason": "0.382 Fibonacci retracement; secondary supply zone",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -79,9 +79,9 @@
         "price": 373.35,
         "type": "S3",
         "strength": 5,
-        "reason": "**0.786 Fib; prior swing low $373.35; last defense before capitulation**",
+        "reason": "0.786 Fibonacci retracement; extended technical support",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -209,9 +209,9 @@
         "price": 405.99,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Last swing high (60d), daily high from 7 days ago, 0.500 Fib retracement ($407.76 nearby), VWAP zone ($380.41) well be",
+        "reason": "Swing high (60d); psychological barrier; prior demand exhaustion point",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -309,9 +309,9 @@
         "price": 382.27,
         "type": "S2",
         "strength": 5,
-        "reason": "**Recent 60d swing low; key lower-low; loss here breaks structure further**",
+        "reason": "60-day swing low; recent daily lows ($381.58, $381.70); hardened support",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       },
@@ -412,6 +412,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 398.54,
+        "type": "R1",
+        "strength": 5,
+        "reason": "MA50 (critical sell zone) + zone of recent daily highs ($398.96, $398.39)",
+        "status": "active",
+        "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 390.19,
+        "type": "S1",
+        "strength": 5,
+        "reason": "0.650 Fibonacci retracement (near current price) + 20-day VWAP ($388.21)",
+        "status": "active",
+        "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
       }
