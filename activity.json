@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-30T16:35:17.386673+00:00",
+  "generated_at": "2026-07-30T16:50:19.380237+00:00",
   "items": [
+    {
+      "ts": "2026-07-30T16:45:09.612000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,706**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-30T16:44:48.421000+00:00",
+      "time": "12:44 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **SLV \u2014 BROKE BELOW TP1 $53.05** Current: **$53.02** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-07-30T16:30:07.129000+00:00",
       "time": "12:30 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:07 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $452.23** Current: **$453.31** | Strength: 4/5 \u2014 Session high TODAY (1H); fresh structural high; 2x tested in last 2 h"
-    },
-    {
-      "ts": "2026-07-30T16:03:38.586000+00:00",
-      "time": "12:03 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $53.07** Current: **$53.12** | Strength: 5/5 \u2014 20-day VWAP + daily MA20 convergence. Tested multiple times last 5 days;"
-    },
-    {
-      "ts": "2026-07-30T16:01:30.634000+00:00",
-      "time": "12:01 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **SLV \u2014 BROKE ABOVE TP1 $53.05** Current: **$53.05** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
