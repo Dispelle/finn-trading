@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-30T19:26:16.086941+00:00",
+  "generated_at": "2026-07-30T19:26:27.711232+00:00",
   "items": [
+    {
+      "ts": "2026-07-30T19:26:23.635000+00:00",
+      "time": "03:26 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $488.42** Current: **$487.86** | Strength: 5/5 **Fib 0.382 (golden pocket)** from 332.60\u2192584.73 retracement; confluence"
+    },
     {
       "ts": "2026-07-30T19:26:02.928000+00:00",
       "time": "03:26 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:15 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.33** Current: **$53.32** | Strength: 5/5 \u2014 reason: Recent swing high (daily candles 12/13 candles ago); 20-day VWAP"
-    },
-    {
-      "ts": "2026-07-30T19:14:42.703000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $490.75** Current: **$490.74** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement + daily MA20 proximity; psychological supp"
     }
   ]
 }
