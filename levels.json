@@ -7487,9 +7487,9 @@
         "price": 804.0,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day swing low; prior support tested 6 days ago",
+        "reason": "Daily 1H low $789.01; recent swing low cluster; 4.7% below current",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7726,10 +7726,10 @@
       {
         "price": 964.2,
         "type": "R2",
-        "strength": 4,
-        "reason": "MA20 daily; prior daily support; slope down = weak",
+        "strength": 5,
+        "reason": "MA50 (daily); zone of prior support rejected; 13.9% above current",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8138,6 +8138,46 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 917.8,
+        "type": "R1",
+        "strength": 5,
+        "reason": "MA20 (daily); downsloping but dynamic resistance; 8.7% above current",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1006.88,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fib 0.382 (605.47\u21921255); prior daily close $990.21 + prior daily high $1011.77 confluent; structural resistance",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 832.81,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fib 0.650 (605.47\u21921255); golden pocket lower band confluent with recent 1H low cluster $789\u2013$820",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 744.47,
+        "type": "S3",
+        "strength": 4,
+        "reason": "Fib 0.786 (605.47\u21921255); daily swing low $737.88 confluent; intermediate support floor",
         "status": "active",
         "source_brief": "2026-07-30",
         "hit_count": 0,
