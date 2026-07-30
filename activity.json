@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-30T19:26:27.711232+00:00",
+  "generated_at": "2026-07-30T19:41:20.289448+00:00",
   "items": [
+    {
+      "ts": "2026-07-30T19:30:07+00:00",
+      "time": "03:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,823**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-30T19:27:25.959000+00:00",
+      "time": "03:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1160.82** Current: **$1160.00** | Strength: 5/5 \u2014 Daily low from 8 days ago, swing low confluent with **0.236 fib at $"
+    },
     {
       "ts": "2026-07-30T19:26:23.635000+00:00",
       "time": "03:26 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:18 PM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $194.74** Current: **$194.91** | Strength: 3/5 60-day intermediate support; 0.786 Fib at $199.80 nearby"
-    },
-    {
-      "ts": "2026-07-30T19:16:49.597000+00:00",
-      "time": "03:16 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $878.79** Current: **$881.33** | Strength: 5/5 \u2014 **Fibonacci 0.500 retracement (psychological midpoint of 60d range)**; "
-    },
-    {
-      "ts": "2026-07-30T19:15:46.360000+00:00",
-      "time": "03:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $53.33** Current: **$53.32** | Strength: 5/5 \u2014 reason: Recent swing high (daily candles 12/13 candles ago); 20-day VWAP"
     }
   ]
 }
