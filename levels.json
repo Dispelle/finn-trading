@@ -5213,7 +5213,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5451,9 +5451,9 @@
         "price": 199.8,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Fibonacci 0.786 retracement (189.80 \u2192 236.54)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5561,9 +5561,9 @@
         "price": 189.8,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing low (Fib 0.000)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5621,9 +5621,9 @@
         "price": 207.65,
         "type": "R3",
         "strength": 5,
-        "reason": "**0.618 Fib golden pocket** + MA50($207.74) convergence; dynamic support now flipped to resistance; strong rejector",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket center, 189.80 \u2192 236.54)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5634,6 +5634,26 @@
         "reason": "|",
         "status": "active",
         "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 206.16,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.650 retracement (189.80 \u2192 236.54)",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 188.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Psychological round number",
+        "status": "active",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       }
