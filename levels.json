@@ -3925,9 +3925,9 @@
         "price": 12.6,
         "type": "R1",
         "strength": 5,
-        "reason": "0.786 Fibonacci (strong intraday resistance); 1H recent high cluster; MA20 nearby at $12.30",
+        "reason": "\u2014 **Golden zone anchor** (0.786 fib retracement); prior daily high cluster (12/11); psychological barrier",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3965,9 +3965,9 @@
         "price": 13.62,
         "type": "R2",
         "strength": 5,
-        "reason": "**0.618 Fib (golden pocket start)** \u2014 major confluence; daily MA20 resistance zone; 60-day swing low",
+        "reason": "\u2014 **Golden Pocket (0.618 fib)** + psychological round; weekly MA20 proximity ($13.84); this is the real invalidation lev",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4025,9 +4025,9 @@
         "price": 14.33,
         "type": "R3",
         "strength": 5,
-        "reason": "0.500 Fib midpoint (11.31\u219217.35); MA20d ($12.29) projected up to this zone; multi-day support/resistance target",
+        "reason": "\u2014 **0.500 fib midpoint** of $11.31\u2013$17.35; mean reversion target; coincides with 60d midline",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4137,7 +4137,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4155,9 +4155,9 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "**52-week low; absolute floor for 60-day range; psychological round number**",
+        "reason": "\u2014 **60-day absolute low** (hard floor, psychological $11.00 round)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4328,6 +4328,16 @@
         "reason": "Last 2 daily closes ($11.83, $11.95); recent swing low; hourly support cluster",
         "status": "active",
         "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.9,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **Daily/4H swing low cluster** (last 3 days); 1H lows converging here",
+        "status": "active",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       }
