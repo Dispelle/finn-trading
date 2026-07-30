@@ -9790,7 +9790,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9869,9 +9869,9 @@
         "price": 79.77,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)** from $71.05\u2192$93.89 retrace",
+        "reason": "Fibonacci 0.618 (golden pocket) + prior swing high, psychologically significant",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9879,9 +9879,9 @@
         "price": 80.44,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 prior swing high (5 days) + psychological round",
+        "reason": "Recent swing high (day 4 of last 10), breaks LH if cleared",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9889,9 +9889,9 @@
         "price": 82.47,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement (71.05\u219293.89) + MA200 proximity",
+        "reason": "Fibonacci 0.500 (mid-range retracement) + MA50 sits at $80.75 (nearby)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10011,7 +10011,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10319,9 +10319,9 @@
         "price": 74.85,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Recent daily low (today's bar), 4H swing support**",
+        "reason": "Today's low, intraday swing low, near Fibonacci 0.786 ($75.94)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10329,9 +10329,9 @@
         "price": 71.05,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day absolute low, Fibonacci 0.786**",
+        "reason": "60-day low, swing low #1, psychological round number, major support",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10342,6 +10342,26 @@
         "reason": "\u2014 today's daily high + recent swing high from 4 days ago",
         "status": "active",
         "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 79.04,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fibonacci 0.650 (buffer zone between mid-range and golden pocket)",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 74.85,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       }
