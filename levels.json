@@ -7646,7 +7646,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -8385,9 +8385,9 @@
         "price": 527.48,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 0.236; 20-day VWAP territory; previous swing high",
+        "reason": "\u2014 reason: 0.236 Fib + MA20 $519.92 + 20-day VWAP $518.49 (very strong cluster)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8415,9 +8415,9 @@
         "price": 338.7,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **Swing base** (60-day low), full retracement origin point, strong institutional bid zone",
+        "reason": "\u2014 reason: 60-day low (swing point); Fibonacci 1.000 extension (full retracement to swing start)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8525,9 +8525,9 @@
         "price": 490.75,
         "type": "R2",
         "strength": 5,
-        "reason": "Fib 0.382 retracement (338.70\u2192584.73); prior daily swing low & recent support that just broke",
+        "reason": "\u2014 reason: 0.382 Fib retracement + near recent swing low cluster ($486.80, $495.35)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8535,9 +8535,9 @@
         "price": 461.71,
         "type": "R1",
         "strength": 5,
-        "reason": "0.500 Fibonacci retracement (golden zone); recent daily high pivot; psychological round",
+        "reason": "\u2014 reason: 0.500 Fibonacci retracement (middle of the move); confluent with recent daily resistance zone",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8545,9 +8545,9 @@
         "price": 424.81,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low; **fresh LL** \u2014 initial micro-support",
+        "reason": "\u2014 reason: TODAY'S LOW (fresh 60-day low); psychological anchor",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8555,9 +8555,9 @@
         "price": 391.35,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 (deep retracement), 60-day swing low zone ($393.36 close)",
+        "reason": "\u2014 reason: 0.786 Fibonacci retracement (deep retracement); tested support from March structure",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8618,6 +8618,46 @@
         "reason": "MA200; long-term support; far below but psychological floor",
         "status": "active",
         "source_brief": "2026-07-29",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 465.0,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 391.35,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 338.7,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 280.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       }
