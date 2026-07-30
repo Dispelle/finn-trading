@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-30T15:20:32.662262+00:00",
+  "generated_at": "2026-07-30T15:35:15.108758+00:00",
   "items": [
+    {
+      "ts": "2026-07-30T15:30:08.549000+00:00",
+      "time": "11:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,618**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-30T15:23:33.406000+00:00",
+      "time": "11:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.21** Current: **$12.20** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-30T15:22:29.738000+00:00",
+      "time": "11:22 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $12.21** Current: **$12.23** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-30T15:22:29.134000+00:00",
+      "time": "11:22 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $120.73** Current: **$120.78** | Strength: 5/5 60-day swing low; prior consolidation support"
+    },
     {
       "ts": "2026-07-30T15:19:59.245000+00:00",
       "time": "11:19 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:57 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $304.28** Current: **$304.08** | Strength: 5/5 Recent 1H swing low (2 sessions ago) + 60-day low test"
-    },
-    {
-      "ts": "2026-07-30T14:53:54.856000+00:00",
-      "time": "10:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $488.42** Current: **$487.29** | Strength: 5/5 **Fib 0.382 (golden pocket)** from 332.60\u2192584.73 retracement; confluence"
-    },
-    {
-      "ts": "2026-07-30T14:51:47.585000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $490.75** Current: **$488.77** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement + daily MA20 proximity; psychological supp"
-    },
-    {
-      "ts": "2026-07-30T14:51:46.953000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $847.95** Current: **$847.91** | Strength: 5/5 Intraday swing low that defended; invalidation level for short thesis"
-    },
-    {
-      "ts": "2026-07-30T14:51:46.385000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $848.95** Current: **$847.91** | Strength: 5/5 \u2014 7-day swing low; critical support; below this = trend broken to downsid"
     }
   ]
 }
