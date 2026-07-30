@@ -10368,7 +10368,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10537,9 +10537,9 @@
         "price": 141.89,
         "type": "R3",
         "strength": 5,
-        "reason": "0.236 Fib + swing high at $141.42 (2 days ago); last HH before $154.08 peak; major resistance cluster",
+        "reason": "0.236 Fib retracement (strong Gartley/ABC confluence); 60-day swing high cluster (141.42\u2013142.33)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10557,9 +10557,9 @@
         "price": 154.08,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (local ATH in recent cycle), 1.000 extension, major supply zone",
+        "reason": "60-day primary high; weekly resistance; 0.000 extension (100% range top)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10627,9 +10627,9 @@
         "price": 122.15,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci (GOLDEN POCKET), historically strong reversal zone, MA20 weekly near here ($121.81), 20-day VWAP = $12",
+        "reason": "0.618 Fib (golden pocket); MA20 weekly zone ($126.60 nearby)",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10677,9 +10677,9 @@
         "price": 128.25,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci (mid-point 102.42\u2192154.08), exact confluence with today's open ($128.46), acts as micro-pivot",
+        "reason": "0.500 Fib (golden zone start); psychological round; 1H pivot",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10747,9 +10747,9 @@
         "price": 113.48,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci, aligns with swing low cluster ($115.0), secondary major support if macro deteriorates",
+        "reason": "0.786 Fib; 60-day range mid-support",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11017,9 +11017,29 @@
         "price": 136.61,
         "type": "R1",
         "strength": 5,
-        "reason": "Swing high from 6 days ago; prior pivot; daily structure resistance",
+        "reason": "Prior daily close; swing high (3-bar pullback); psychological",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 139.49,
+        "type": "R2",
+        "strength": 5,
+        "reason": "10-day swing high; daily structure breakpoint; must clear to confirm HL",
+        "status": "active",
+        "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.5,
+        "type": "S3",
+        "strength": 4,
+        "reason": "0.650 Fib; recent LL bounce zone ($120.49 swing low)",
+        "status": "active",
+        "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
       }
