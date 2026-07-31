@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-31T15:19:56.251273+00:00",
+  "generated_at": "2026-07-31T15:34:50.061830+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T15:31:38.227000+00:00",
+      "time": "11:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $740.52** Current: **$740.61** | Strength: 5/5 0.500 Fibonacci retracement; prior daily close support ($738.18, $738.93"
+    },
+    {
+      "ts": "2026-07-31T15:30:10.221000+00:00",
+      "time": "11:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -23.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,479**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-31T15:29:28.721000+00:00",
+      "time": "11:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $824.11** Current: **$824.91** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket), prior 1H/daily support cluster, psycho"
+    },
+    {
+      "ts": "2026-07-31T15:26:18.360000+00:00",
+      "time": "11:26 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $824.11** Current: **$823.56** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket), prior 1H/daily support cluster, psycho"
+    },
+    {
+      "ts": "2026-07-31T15:23:08.409000+00:00",
+      "time": "11:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $62503.28** Current: **$62459.92** | Strength: 5/5 \u2014 Fibonacci 0.650 (golden pocket start); current price nailed this l"
+    },
+    {
+      "ts": "2026-07-31T15:19:58.659000+00:00",
+      "time": "11:19 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62503.28** Current: **$62518.77** | Strength: 5/5 \u2014 Fibonacci 0.650 (golden pocket start); current price nailed this l"
+    },
     {
       "ts": "2026-07-31T15:19:31.147000+00:00",
       "time": "11:19 AM ET",
@@ -24,42 +60,6 @@
       "time": "11:05 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S2 $120.73** Current: **$120.77** | Strength: 5/5 60-day swing low; prior consolidation support"
-    },
-    {
-      "ts": "2026-07-31T15:04:07.917000+00:00",
-      "time": "11:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $353.21** Current: **$352.72** | Strength: 4/5 2 days ago daily close + swing high from 60d series"
-    },
-    {
-      "ts": "2026-07-31T15:02:00.785000+00:00",
-      "time": "11:02 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $353.21** Current: **$353.29** | Strength: 4/5 2 days ago daily close + swing high from 60d series"
-    },
-    {
-      "ts": "2026-07-31T14:57:47.181000+00:00",
-      "time": "10:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $452.23** Current: **$452.07** | Strength: 4/5 \u2014 Session high TODAY (1H); fresh structural high; 2x tested in last 2 h"
-    },
-    {
-      "ts": "2026-07-31T14:56:46.048000+00:00",
-      "time": "10:56 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $79.04** Current: **$79.10** | Strength: 3/5 Fibonacci 0.650 (buffer zone between mid-range and golden pocket)"
-    },
-    {
-      "ts": "2026-07-31T14:49:24.264000+00:00",
-      "time": "10:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $52.0** Current: **$52.09** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T14:49:23.551000+00:00",
-      "time": "10:49 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $371.03** Current: **$371.12** | Strength: 5/5 \u2014 20-day VWAP ($373.10) + MA20 ($373.48) forming dynamic support. Last 4"
     }
   ]
 }
