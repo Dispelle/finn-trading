@@ -9382,6 +9382,66 @@
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 902.8,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (volume-weighted average, anchor for mean reversion)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 912.34,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 MA20 (downsloping, current barricade to uptrend resumption)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 965.11,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 MA50 (previous swing high anchor, structural resistance)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 867.25,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 (Golden Pocket, classic retracement target in downtrends)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 847.18,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.650 (extended golden pocket, intraday swing low area)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 761.85,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 (strong retracement, capitulation zone in sharp selloffs)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
