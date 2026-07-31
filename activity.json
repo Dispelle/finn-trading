@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-31T19:57:36.501591+00:00",
+  "generated_at": "2026-07-31T20:12:38.652569+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T20:00:29.614000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,905**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-07-31T19:59:33.011000+00:00",
+      "time": "03:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $541.39** Current: **$541.31** | Strength: 5/5 \u2014 Weekly MA20 (slope downward); dynamic resistance; 5% above"
+    },
+    {
+      "ts": "2026-07-31T19:58:30.902000+00:00",
+      "time": "03:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $309.03** Current: **$309.89** | Strength: 5/5 \u2014 0.382 Fib retracement + confluence with MA50 ($305.47) tight zone"
+    },
+    {
+      "ts": "2026-07-31T19:58:29.102000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $542.67** Current: **$541.76** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
+    },
+    {
+      "ts": "2026-07-31T19:58:28.540000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $201.8** Current: **$201.44** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-31T19:57:25.318000+00:00",
       "time": "03:57 PM ET",
@@ -30,36 +60,6 @@
       "time": "03:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R3 $466.32** Current: **$466.67** | Strength: 5/5 \u2014 60-day high, recent swing high; extension target for any strong rally"
-    },
-    {
-      "ts": "2026-07-31T19:51:04.961000+00:00",
-      "time": "03:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $306.9** Current: **$307.48** | Strength: 5/5 Today's intraday high; 1H high coincides; immediate supply"
-    },
-    {
-      "ts": "2026-07-31T19:51:02.078000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $155.9** Current: **$155.84** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T19:51:01.540000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $156.06** Current: **$155.84** | Strength: 5/5 Intraday support from last 10 days (5th candle low); tight confluent zon"
-    },
-    {
-      "ts": "2026-07-31T19:49:59.999000+00:00",
-      "time": "03:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $129.21** Current: **$129.14** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-07-31T19:48:54.580000+00:00",
-      "time": "03:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $156.06** Current: **$156.07** | Strength: 5/5 Intraday support from last 10 days (5th candle low); tight confluent zon"
     }
   ]
 }
