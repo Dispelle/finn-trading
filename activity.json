@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-31T14:20:27.566220+00:00",
+  "generated_at": "2026-07-31T14:35:31.540921+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T14:35:30.184000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $370.53** Current: **$370.67** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-07-31T14:31:14.380000+00:00",
+      "time": "10:31 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.71** Current: **$152.82** | Strength: 5/5 0.382 Fibonacci retracement (confluence with earlier micro-support); HL "
+    },
+    {
+      "ts": "2026-07-31T14:30:11.681000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,613** | P&L: **-23"
+    },
+    {
+      "ts": "2026-07-31T14:21:46.994000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $739.22** Current: **$739.28** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-07-31T14:21:45.410000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $850.0** Current: **$847.62** | Strength: 4/5 \u2014 reason: Prior swing high (3 days ago: $853.2 close), round-number psycho"
+    },
+    {
+      "ts": "2026-07-31T14:21:44.301000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $62489.45** Current: **$62447.28** | Strength: 5/5 0.650 Fibonacci; confluence with recent 4-bar consolidation low ($62"
+    },
+    {
+      "ts": "2026-07-31T14:20:41.124000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $850.0** Current: **$854.27** | Strength: 4/5 \u2014 reason: Prior swing high (3 days ago: $853.2 close), round-number psycho"
+    },
+    {
+      "ts": "2026-07-31T14:20:40.542000+00:00",
+      "time": "10:20 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $853.2** Current: **$854.27** | Strength: 5/5 60d swing low, Fibonacci 0.618 zone (golden pocket $790\u2013$765), psychologic"
+    },
     {
       "ts": "2026-07-31T14:19:37.977000+00:00",
       "time": "10:19 AM ET",
@@ -12,54 +60,6 @@
       "time": "10:19 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $77.72** Current: **$77.75** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-07-31T14:19:35.972000+00:00",
-      "time": "10:19 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $370.0** Current: **$370.02** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T14:19:34.767000+00:00",
-      "time": "10:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $847.95** Current: **$849.91** | Strength: 5/5 Intraday swing low that defended; invalidation level for short thesis"
-    },
-    {
-      "ts": "2026-07-31T14:19:34.301000+00:00",
-      "time": "10:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $848.95** Current: **$849.91** | Strength: 5/5 \u2014 7-day swing low; critical support; below this = trend broken to downsid"
-    },
-    {
-      "ts": "2026-07-31T14:17:28.396000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $738.18** Current: **$738.84** | Strength: 5/5 \u2014 Fibonacci 0.500 (midpoint); current price near here ($738.86); critica"
-    },
-    {
-      "ts": "2026-07-31T14:17:25.113000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $120.27** Current: **$120.48** | Strength: 5/5 **Daily low (today's candle)** + recent 1H low; fresh support from toda"
-    },
-    {
-      "ts": "2026-07-31T14:17:24.137000+00:00",
-      "time": "10:17 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $152.71** Current: **$152.69** | Strength: 5/5 0.382 Fibonacci retracement (confluence with earlier micro-support); HL "
-    },
-    {
-      "ts": "2026-07-31T14:17:23.508000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $304.28** Current: **$304.67** | Strength: 5/5 Recent 1H swing low (2 sessions ago) + 60-day low test"
-    },
-    {
-      "ts": "2026-07-31T14:16:22.170000+00:00",
-      "time": "10:16 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.75** Current: **$17.75** | Strength: 5/5 Recent HL (6 bars); 20-day VWAP $17.40 just below; active demand"
     }
   ]
 }
