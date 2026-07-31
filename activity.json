@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-31T16:34:58.947295+00:00",
+  "generated_at": "2026-07-31T16:49:55.196966+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T16:45:10.471000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,790** | P&L: **-22"
+    },
     {
       "ts": "2026-07-31T16:24:21.807000+00:00",
       "time": "12:24 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:51 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $128.65** Current: **$128.49** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-07-31T15:50:36.650000+00:00",
-      "time": "11:50 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $300.8** Current: **$300.44** | Strength: 5/5 0.618 Fib (golden pocket) \u2014 **immediate critical level**"
     }
   ]
 }
