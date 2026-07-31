@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-31T19:27:36.877204+00:00",
+  "generated_at": "2026-07-31T19:27:48.586436+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T19:27:48.024000+00:00",
+      "time": "03:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $155.29** Current: **$155.19** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-07-31T19:26:46.644000+00:00",
       "time": "03:26 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:21 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW STOP $305.02** Current: **$304.97** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T19:17:14.380000+00:00",
-      "time": "03:17 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE STOP $305.02** Current: **$305.10** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
