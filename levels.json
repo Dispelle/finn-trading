@@ -5014,7 +5014,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -5193,9 +5193,9 @@
         "price": 66910.06,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Recent swing high (9 days), 60-day resistance, daily structure high",
+        "reason": "\u2014 Last higher high from 10 days ago; strong confluence with 60d swing high",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5223,9 +5223,9 @@
         "price": 70187.62,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236; extension of current downtrend",
+        "reason": "\u2014 Fibonacci 0.236 retracement; aligns with recent weekly rejection near MA20($69,245)",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5305,7 +5305,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-26",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5313,9 +5313,9 @@
         "price": 67248.13,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing high + psychological resistance zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5333,9 +5333,9 @@
         "price": 64610.61,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: 20-day VWAP (dynamic support), MA20 at $64,472 (confluence)",
+        "reason": "\u2014 20-day VWAP; currently just below price, strong mean-reversion anchor",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5343,9 +5343,9 @@
         "price": 64039.61,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **0.618 Fibonacci golden pocket** (major demand zone), overlaps recent swing low",
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)** \u2014 Critical technical level; aligns with recent daily low ($63,686)",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5353,9 +5353,9 @@
         "price": 63512.54,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Fibonacci 0.650 + psychological level; secondary support if golden pocket breaks",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5766,6 +5766,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 66910.06,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
