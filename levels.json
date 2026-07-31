@@ -1316,7 +1316,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1665,9 +1665,9 @@
         "price": 297.0,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low; 52-week low. Last unbroken support.",
+        "reason": "52-week low; 60-day low; psychological floor; multiple touches = strength",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1755,9 +1755,9 @@
         "price": 300.69,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's daily low; 1H low = $297.38 (not yet broken on close).",
+        "reason": "Today's low; intraday support; tight clustering of 1H lows",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1925,9 +1925,9 @@
         "price": 330.77,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement (297.38\u2192453.40); coincides with 60-day swing low zone.",
+        "reason": "0.786 Fib retracement; prior intra-swing support; psychological round",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1935,9 +1935,9 @@
         "price": 356.98,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.618 Fib (\"golden pocket\") + psychological round, prior intraday support",
+        "reason": "0.618 golden pocket; VWAP proxy ($363.77 is 20-day); strong confluence",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1945,9 +1945,9 @@
         "price": 375.39,
         "type": "R3",
         "strength": 5,
-        "reason": "| 0.500 retracement; MA20 proximity; prior swing support",
+        "reason": "0.500 Fib midpoint; coincides with MA20 proximity ($368.04); daily close resistance",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2048,6 +2048,16 @@
         "reason": "\u2014 20-day VWAP (strong anchor); weekly MA20 proximity ($381.57 too high to be immediate R).",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 298.32,
+        "type": "S3",
+        "strength": 3,
+        "reason": "10-day prior close; minor daily pivot; break = acceleration downside",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
