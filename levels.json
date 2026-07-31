@@ -10732,7 +10732,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10761,9 +10761,9 @@
         "price": 61.55,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.618 Golden Pocket (Fib) + MA20 weekly approx.**",
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket center)**, swing high consolidation zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10801,9 +10801,9 @@
         "price": 49.61,
         "type": "S3",
         "strength": 5,
-        "reason": "60d swing low; range extreme; Fibonacci 0.000 baseline",
+        "reason": "\u2014 **60-day absolute low**, psychological support, breakdown level for next capitulation",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10851,9 +10851,9 @@
         "price": 56.3,
         "type": "R1",
         "strength": 5,
-        "reason": "Fibonacci 0.786 retracement (49.61\u219280.86); aligns with 60d swing point; former support",
+        "reason": "\u2014 Prior swing high (15d ago), last **lower high** in downtrend, multiple daily touches",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11211,9 +11211,9 @@
         "price": 51.72,
         "type": "S2",
         "strength": 5,
-        "reason": "Recent swing low (2 occurrences last 10 days); psychological support",
+        "reason": "\u2014 Prior swing low (10 days ago), **last higher low** before potential capitulation",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11340,10 +11340,10 @@
       {
         "price": 50.31,
         "type": "S3",
-        "strength": 3,
-        "reason": "Prior swing low (60d) + support zone",
+        "strength": 5,
+        "reason": "\u2014 Swing low from 60-day range, confirmed rejection",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11381,9 +11381,9 @@
         "price": 52.89,
         "type": "S1",
         "strength": 5,
-        "reason": "MA20 (currently above price, slope down); daily consolidation midpoint",
+        "reason": "\u2014 **20-day VWAP** (current benchmark), price just kissed this level intraday",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11404,6 +11404,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 60.55,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 **0.650 Fibonacci retracement** (golden pocket zone 0.618\u20130.650), confluent with psychological resistance",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
