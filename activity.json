@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-31T18:22:06.059957+00:00",
+  "generated_at": "2026-07-31T18:37:05.520470+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T18:31:53.625000+00:00",
+      "time": "02:31 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $154.77** Current: **$154.69** | Strength: 5/5 \u2014 4 days ago's close, immediate support, tight 1H range floor"
+    },
+    {
+      "ts": "2026-07-31T18:30:08.738000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,997** | P&L: **-22"
+    },
     {
       "ts": "2026-07-31T18:20:19.509000+00:00",
       "time": "02:20 PM ET",
@@ -48,18 +60,6 @@
       "time": "02:06 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $488.42** Current: **$489.28** | Strength: 5/5 **Fib 0.382 (golden pocket)** from 332.60\u2192584.73 retracement; confluence"
-    },
-    {
-      "ts": "2026-07-31T18:05:32.324000+00:00",
-      "time": "02:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63170.48** Current: **$63122.99** | Strength: 5/5 Today's low; immediate floor"
-    },
-    {
-      "ts": "2026-07-31T18:02:22.382000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63175.57** Current: **$63172.38** | Strength: 5/5 1H swing low (Dec 30 spike); psychological round"
     }
   ]
 }
