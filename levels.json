@@ -1139,7 +1139,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1508,6 +1508,16 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: **0.500 Fib retracement + psychological confluence**",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 730.03,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-31",
         "hit_count": 0,
