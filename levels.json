@@ -15649,9 +15649,9 @@
         "price": 328.73,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 daily high 8 candles ago, repeat test level, confluence with declining resistance line from $334.99 peak",
+        "reason": "\u2014 0.236 Fib retracement (from swing low $273.75 to high $344.57) + prior swing high zone. Acts as intermediate resistanc",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16368,8 +16368,48 @@
       {
         "price": 284.32,
         "type": "S3",
-        "strength": 3,
-        "reason": "MA200 (primary long-term support); still above",
+        "strength": 4,
+        "reason": "\u2014 MA200 (200-period moving average on daily). Long-term support; holds bullish weekly bias if price does not break below",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 324.03,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP + confluence with MA20 daily ($323.97). This is the **first inflection point** for buyers.",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 333.85,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Prior 1H close / session close from 4 bars ago + prior daily swing high ($334.75). **Structural invalidation zone** \u2014 ",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 298.54,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.650 Fib retracement + psychological round number ($300 zone is in immediate vicinity). **Already tested today** (low",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 288.91,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 0.786 Fib retracement (deep retracement) + confluence near MA200 ($284.31). Heavy technical support.",
         "status": "active",
         "source_brief": "2026-07-31",
         "hit_count": 0,
