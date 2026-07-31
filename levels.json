@@ -6371,7 +6371,7 @@
         "price": 202.87,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP; price currently below; acts as dynamic resistance on bounces",
+        "reason": "\u2014 MA20 daily + prior daily support zone",
         "status": "active",
         "source_brief": "2026-07-31",
         "hit_count": 0,
@@ -6453,7 +6453,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
