@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-07-31T19:27:48.586436+00:00",
+  "generated_at": "2026-07-31T19:42:35.880427+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T19:42:33.368000+00:00",
+      "time": "03:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $483.17** Current: **$482.83** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement, intermediate support"
+    },
+    {
+      "ts": "2026-07-31T19:42:32.725000+00:00",
+      "time": "03:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $832.81** Current: **$832.80** | Strength: 5/5 Fib 0.650 (605.47\u21921255); golden pocket lower band confluent with recent 1"
+    },
+    {
+      "ts": "2026-07-31T19:29:56.811000+00:00",
+      "time": "03:29 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $841.8** Current: **$842.09** | Strength: 4/5 \u2014 Today's high; immediate intraday resistance"
+    },
+    {
+      "ts": "2026-07-31T19:29:56.321000+00:00",
+      "time": "03:29 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $840.51** Current: **$842.09** | Strength: 4/5 10-day daily low; psychological $840 round"
+    },
+    {
+      "ts": "2026-07-31T19:27:48.756000+00:00",
+      "time": "03:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $353.21** Current: **$353.11** | Strength: 4/5 2 days ago daily close + swing high from 60d series"
+    },
     {
       "ts": "2026-07-31T19:27:48.024000+00:00",
       "time": "03:27 PM ET",
@@ -30,36 +60,6 @@
       "time": "03:24 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $155.29** Current: **$155.32** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T19:23:33.411000+00:00",
-      "time": "03:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $200.97** Current: **$200.79** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T19:22:30.193000+00:00",
-      "time": "03:22 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S3 $840.51** Current: **$839.59** | Strength: 4/5 10-day daily low; psychological $840 round"
-    },
-    {
-      "ts": "2026-07-31T19:22:29.613000+00:00",
-      "time": "03:22 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $200.97** Current: **$201.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-07-31T19:22:28.325000+00:00",
-      "time": "03:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $353.21** Current: **$353.31** | Strength: 4/5 2 days ago daily close + swing high from 60d series"
-    },
-    {
-      "ts": "2026-07-31T19:21:27.139000+00:00",
-      "time": "03:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW STOP $305.02** Current: **$304.97** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
