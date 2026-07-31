@@ -5732,7 +5732,7 @@
     ]
   },
   "NVDA": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5801,9 +5801,9 @@
         "price": 199.34,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.786 (approaching/support on pullback)",
+        "reason": "0.786 fib retracement; mid-zone pullback target",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6021,9 +6021,9 @@
         "price": 191.14,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low (intraday floor), 60-day support cluster, psychological round",
+        "reason": "Today's low; 1H floor; intraday support formed in last 3 bars",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6031,9 +6031,9 @@
         "price": 189.8,
         "type": "S2",
         "strength": 5,
-        "reason": "60-day low, swing low cluster (189.8/191.14 tight), extension base",
+        "reason": "60-day low; swing low anchor; **critical support**",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6101,9 +6101,9 @@
         "price": 202.87,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior swing low (HL), daily swing point, confluence with MA20 zone",
+        "reason": "20-day VWAP; price currently below; acts as dynamic resistance on bounces",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6371,9 +6371,9 @@
         "price": 207.65,
         "type": "R3",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket start); MA50 $207.12; confluence zone \u2014 TRUE RESISTANCE",
+        "reason": "**Golden Pocket (0.618 fib)** + MA50 proximity ($206.57); invalidation level for bearish bias",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6494,6 +6494,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 206.84,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Recent swing high (2 closes ago); confluence with 0.650 fib zone ($206.16)",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
