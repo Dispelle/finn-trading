@@ -3957,9 +3957,9 @@
         "price": 141.8,
         "type": "R3",
         "strength": 5,
-        "reason": "0.382 Fibonacci retracement; confluence with prior swing high zone",
+        "reason": "\u2014 0.382 Fibonacci retracement; secondary supply zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3967,9 +3967,9 @@
         "price": 122.02,
         "type": "S1",
         "strength": 5,
-        "reason": "Recent daily low (day 6); hourly support cluster; psychological round",
+        "reason": "\u2014 **Current price = immediate micro-support (1H low consolidation)**",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3987,9 +3987,9 @@
         "price": 118.64,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.786 retracement (deep fib rejection zone)",
+        "reason": "\u2014 0.786 Fibonacci retracement (extended decline support); prior 60-day swing low area",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4197,9 +4197,9 @@
         "price": 135.03,
         "type": "R2",
         "strength": 5,
-        "reason": "Recent daily high (2 bars ago); MA20 proximity; structural HL attempt",
+        "reason": "\u2014 0.500 Fibonacci retracement (106.37\u2192163.70); prior daily swing high rejection zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4417,9 +4417,9 @@
         "price": 129.28,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP (price rejected here 8 of last 10 days); major pivot",
+        "reason": "\u2014 20-day VWAP; volume-weighted anchor; 1st micro-resistance",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4580,6 +4580,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.27,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 1H + 1D recent low; psychological level",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
