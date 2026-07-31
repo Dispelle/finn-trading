@@ -13862,7 +13862,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13891,9 +13891,9 @@
         "price": 748.65,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day high; breakout target if structure flips bullish",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13941,9 +13941,9 @@
         "price": 676.29,
         "type": "S3",
         "strength": 5,
-        "reason": "0.786 Fib retracement; 60-day relative low cluster",
+        "reason": "Recent 1H support cluster (multiple hourly closes 677.3\u2013677.91); micro-bounce zone",
         "status": "active",
-        "source_brief": "2026-07-27",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14031,9 +14031,9 @@
         "price": 726.92,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.236 retracement; below recent swing high cluster (737.62\u2013745.45)**",
+        "reason": "Fib 0.236; prior swing high support-turned-resistance",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14391,9 +14391,9 @@
         "price": 660.69,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day low (Fib baseline); swing low cluster; psychological support",
+        "reason": "Session low in 60-day range; Fib swing base",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14401,9 +14401,9 @@
         "price": 705.98,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.500 (midpoint 661.14\u2192748.65) + near 20-day VWAP ($700.07) + daily MA20 at $702.17 = triple confluence",
+        "reason": "Fib 0.500 retracement (748.65\u2192661.14); psychological midpoint",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14451,9 +14451,9 @@
         "price": 695.9,
         "type": "S2",
         "strength": 5,
-        "reason": "**0.618 Fib (GOLDEN POCKET CENTER)** \u2014 Fibonacci golden ratio; natural pullback target in downtrends; psychological",
+        "reason": "Fib 0.618 golden pocket (start); daily close support",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14521,9 +14521,9 @@
         "price": 715.22,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 0.382 + MA50 ($715.33) + prior swing high/consolidation zone",
+        "reason": "Fib 0.382 retracement; coincides with MA50 $715.36",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14591,9 +14591,9 @@
         "price": 679.87,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.786 retracement; exact support-demand zone**",
+        "reason": "Fib 0.786 retracement (golden zone bottom); tightly tested intraday (1H low $673.30 today)",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14604,6 +14604,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 699.42,
+        "type": "R1",
+        "strength": 5,
+        "reason": "20-day VWAP (distribution anchor); price has rejected above this 3x",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
