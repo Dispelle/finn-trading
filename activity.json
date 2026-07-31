@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-31T22:36:46.734354+00:00",
+  "generated_at": "2026-07-31T22:51:47.704388+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T22:45:08.452000+00:00",
+      "time": "06:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,879** | P&L: **-22"
+    },
     {
       "ts": "2026-07-31T22:15:12.551000+00:00",
       "time": "06:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $309.03** Current: **$309.89** | Strength: 5/5 \u2014 0.382 Fib retracement + confluence with MA50 ($305.47) tight zone"
-    },
-    {
-      "ts": "2026-07-31T19:58:29.102000+00:00",
-      "time": "03:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $542.67** Current: **$541.76** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
     }
   ]
 }
