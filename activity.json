@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-31T16:20:13.830435+00:00",
+  "generated_at": "2026-07-31T16:34:58.947295+00:00",
   "items": [
+    {
+      "ts": "2026-07-31T16:24:21.807000+00:00",
+      "time": "12:24 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62844.29** Current: **$62860.07** | Strength: 5/5 0.618 Fibonacci golden pocket (golden pocket = **golden rejection zo"
+    },
     {
       "ts": "2026-07-31T16:15:09.801000+00:00",
       "time": "12:15 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:50 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $300.8** Current: **$300.44** | Strength: 5/5 0.618 Fib (golden pocket) \u2014 **immediate critical level**"
-    },
-    {
-      "ts": "2026-07-31T15:48:28.552000+00:00",
-      "time": "11:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $11.83** Current: **$11.83** | Strength: 5/5 Prior 60d swing low; 1H support cluster (last 20 bars show multiple bounce"
     }
   ]
 }
