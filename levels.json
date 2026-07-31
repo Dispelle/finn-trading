@@ -14620,7 +14620,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14749,9 +14749,9 @@
         "price": 309.03,
         "type": "S3",
         "strength": 5,
-        "reason": "0.500 Fibonacci (golden mid-point), MA50 zone ($309.27), major structural support",
+        "reason": "Fibonacci 0.500 (midpoint of $273.75\u2013$344.57); MA50 at $309.30 (near-exact confluence)",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14849,9 +14849,9 @@
         "price": 344.5,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day swing high, tested 2 days ago. Psychological round number. Strong rejection zone.",
+        "reason": "60-day swing high; psychological; strong previous resistance turned support attempt",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15309,9 +15309,9 @@
         "price": 363.83,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension from swing $273.75\u2192$344.57. Targets an aggressive bull move. Fib confluence.",
+        "reason": "Fibonacci 1.272 extension (273.75 \u2192 344.57); strong asymmetric target",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15339,9 +15339,9 @@
         "price": 327.86,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fib 0.236 retracement, 50% of recent range. First pullback target.",
+        "reason": "Fibonacci 0.236 retracement (golden zone start); prior daily support zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15378,10 +15378,20 @@
       {
         "price": 347.0,
         "type": "R2",
-        "strength": 3,
-        "reason": "\u2014 Confluence of round number + fib 1.272 extension at $363.83 (midway psychological support). Minor resistance.",
+        "strength": 4,
+        "reason": "52-week high proximity (52w range = $223.78\u2013$344.57); round number; extension zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 317.52,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Fibonacci 0.382 retracement; MA50 proximity ($309.30 is 8.22 points lower, but $317.52 is confluence)",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
