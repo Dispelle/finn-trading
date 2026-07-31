@@ -12995,9 +12995,9 @@
         "price": 17.68,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **Golden pocket** (Fib 0.618 = $17.68; HL = $17.68 exact confluence). Tested 5 days ago, held. This is the primary sup",
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket)** + MA20 slope; strong confluence",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13065,9 +13065,9 @@
         "price": 16.3,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement; 60-day swing low cluster (16.3 tested 60d ago). Break here = major breakdown.",
+        "reason": "\u2014 0.786 Fibonacci; extended support; psychological (below recent lows)",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13235,9 +13235,9 @@
         "price": 19.63,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement + prior daily pivot; confluence of technical mean reversion",
+        "reason": "\u2014 0.382 Fibonacci retrace (14.53\u219222.78); double-tested; supply zone",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13245,9 +13245,9 @@
         "price": 20.44,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (2 weeks back); Fib 0.382 at $19.63 clusters near",
+        "reason": "\u2014 60-day swing high; prior higher high; psychological resistance",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13488,6 +13488,26 @@
         "reason": "\u2014 Weekly MA20, exact slope-up anchor; prior swing high proximity ($18.83 is 6bp away). **This is the first gatekeeper.**",
         "status": "active",
         "source_brief": "2026-07-30",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 22.26,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Highest swing high in 60-day window; major supply; breakout would signal reversal",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.6,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low; defined structure floor",
+        "status": "active",
+        "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
       }
