@@ -694,6 +694,56 @@
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 498.84,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension from 349.20\u2192466.84 swing",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 539.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.618 extension (golden ratio profit-taking zone)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 461.61,
+        "type": "S1",
+        "strength": 4,
+        "reason": "\u2014 1H prior low (intraday swing support)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 449.55,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Yesterday's daily low + prior swing high from 2 days ago",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 432.44,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day swing low (major structural support)",
+        "status": "active",
+        "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
