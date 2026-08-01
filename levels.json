@@ -14046,7 +14046,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-07-31",
+    "last_updated": "2026-08-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14065,9 +14065,9 @@
         "price": 18.64,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fib retrace (22.78\u219214.53); psychological pivot; last daily high cluster $18.64",
+        "reason": "50% Fib retracement (14.53\u219222.66); *psychological midpoint of 60d range*; daily volume node",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14095,9 +14095,9 @@
         "price": 17.68,
         "type": "S1",
         "strength": 5,
-        "reason": "Fib 0.618 (golden pocket); VWAP-adjacent; 60-day swing low retest",
+        "reason": "61.8% Fib (golden pocket); 20-day VWAP; last 1H lows cluster here",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14165,9 +14165,9 @@
         "price": 16.3,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.786; support confluence zone",
+        "reason": "78.6% Fib retracement; daily MA200 projected lower",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14185,9 +14185,9 @@
         "price": 17.42,
         "type": "S2",
         "strength": 5,
-        "reason": "0.650 Fib retracement; psychological $17.40 round; support zone floor",
+        "reason": "65% Fib retracement; *just below* current daily structure",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14425,9 +14425,9 @@
         "price": 18.83,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Recent swing high (3 bars ago); failed breakout point; proximity to daily MA20 slope resistance",
+        "reason": "Swing high from ~8 days ago; last confirmed *higher* high before recent lower-high formation",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14658,6 +14658,16 @@
         "reason": "\u2014 Golden pocket (0.618 Fib) + 1H/Daily consolidation floor",
         "status": "active",
         "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 19.55,
+        "type": "R3",
+        "strength": 5,
+        "reason": "38.2% Fib retracement; confluence with MA200 proximity ($19.18); prior swing high zone",
+        "status": "active",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       }
