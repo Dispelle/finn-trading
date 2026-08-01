@@ -3680,7 +3680,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-07-31",
+    "last_updated": "2026-08-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3769,9 +3769,9 @@
         "price": 1238.0,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 **Recent swing high (4 bars back on daily)**",
+        "reason": "Prior swing high (60d); next supply zone",
         "status": "active",
-        "source_brief": "2026-07-25",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3779,9 +3779,9 @@
         "price": 1097.05,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fibonacci retracement (golden pocket zone: 0.618\u20130.650)**",
+        "reason": "0.500 Fib (midpoint swing 943.26\u21921249.45); daily low target if reversal",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3809,9 +3809,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **All-time 60-day high / Weekly resistance / 0.236 fib**",
+        "reason": "60-day high / 0.000 Fib extension; major resistance; breakout target",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3899,9 +3899,9 @@
         "price": 1049.98,
         "type": "S3",
         "strength": 4,
-        "reason": "0.650 Fib; long-term support cluster",
+        "reason": "0.650 Fib; support cluster",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4179,9 +4179,9 @@
         "price": 1060.22,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci (golden pocket lower bound)**",
+        "reason": "0.618 Fib (\"golden pocket\"); major support, confluence with Fib zone",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4269,9 +4269,9 @@
         "price": 1134.4,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 recent 60-day swing low (5 bars ago); now TESTED TODAY at $1119.00 (below it)",
+        "reason": "Last swing low (higher low is in place); loss of structure below = bearish",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4319,9 +4319,9 @@
         "price": 1220.66,
         "type": "R3",
         "strength": 4,
-        "reason": "3-day high; recent lower high in deteriorating structure",
+        "reason": "Recent daily close high (4 bars ago); interim resistance; next swing target",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4352,6 +4352,36 @@
         "reason": "\u2014 **Current price / 1H close consolidation zone**",
         "status": "active",
         "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1177.19,
+        "type": "R1",
+        "strength": 5,
+        "reason": "0.236 Fib retracement + prior swing high; recent rejection zone (10-day closes orbit here)",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1184.78,
+        "type": "R2",
+        "strength": 4,
+        "reason": "MA20 (20-period moving average); prior daily support; psychological round",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1119.0,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Today's intraday low; psychological $1120 round; near 0.382 Fib ($1132.49)",
+        "status": "active",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       }
