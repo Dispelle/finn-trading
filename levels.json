@@ -2394,7 +2394,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-07-31",
+    "last_updated": "2026-08-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2403,9 +2403,9 @@
         "price": 163.68,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day swing high (recent resistance); Fibonacci 1.272 extension ($171.49 is extended)",
+        "reason": "60-day swing high; recent resistance; psychologically tested",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2563,9 +2563,9 @@
         "price": 152.71,
         "type": "S2",
         "strength": 5,
-        "reason": "0.382 Fib retrace; prior daily low cluster ($152.14, $152.50)",
+        "reason": "Fib 0.382 retracement (38.2% key retracement); tested multiple times",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2573,9 +2573,9 @@
         "price": 149.31,
         "type": "S3",
         "strength": 5,
-        "reason": "0.500 Fib midpoint; 20-day VWAP at $148.13 (nearby)",
+        "reason": "Fib 0.500 (midpoint); **Golden Pocket start ($145.92\u2013$145.01 at 0.618)** confluence; 20-day MA ($148.42) pivot",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2593,9 +2593,9 @@
         "price": 156.9,
         "type": "S1",
         "strength": 5,
-        "reason": "0.236 Fib retracement; **current price AT this level**; first pullback target if reversal initiates",
+        "reason": "Fib 0.236 retracement (23.6% pullback zone); minor support",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2665,7 +2665,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2916,6 +2916,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 176.41,
+        "type": "R3",
+        "strength": 5,
+        "reason": "52-week high; ultimate resistance; volume shelf",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 141.1,
+        "type": "S3",
+        "strength": 3,
+        "reason": "Fib 0.786; extended support",
+        "status": "active",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       }
