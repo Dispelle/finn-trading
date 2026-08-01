@@ -758,7 +758,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-07-31",
+    "last_updated": "2026-08-01",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1396,10 +1396,10 @@
       {
         "price": 647.95,
         "type": "R3",
-        "strength": 4,
-        "reason": "\u2014 0.236 Fib + prior swing high",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 (shallow retracement) + recent daily swing high ($643.81) + 60-day range midpoint",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1517,9 +1517,9 @@
         "price": 605.29,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: **0.500 Fib retracement + psychological confluence**",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint) + daily MA20 proximity ($620.80 declining) + psychological pivot",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1530,6 +1530,46 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 586.22,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket) + 60-day swing high cluster + confluence with MA50 zone",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 559.07,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.786 (steep correction level) + 1H chart recent swing low cluster ($550.08\u2013$558.33) + current price proximi",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 540.24,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Intraday low (TODAY's candle) + 60-day swing low support zone ($540.18\u2013$557.01) + psychological round number",
+        "status": "active",
+        "source_brief": "2026-08-01",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 524.49,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 60-day absolute low + Fibonacci 0.000 (swing point origin) + major support line",
+        "status": "active",
+        "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
       }
