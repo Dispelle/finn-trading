@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-01T23:54:48.153975+00:00",
+  "generated_at": "2026-08-02T00:09:49.103873+00:00",
   "items": [
+    {
+      "ts": "2026-08-02T00:00:02.362000+00:00",
+      "time": "08:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sat, Aug 1 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $62,770 \u25bc-0.07% | MCap $1259B \ud83d\udd37 ETH $1,843.36 \u25bc-0.92%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+    },
     {
       "ts": "2026-08-01T20:00:02.226000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "08:00 PM ET",
       "type": "analysis",
       "message": "\ud83d\udcca **PRICE ALERT** \u2014 Fri, Jul 31 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $62,812 \u25bc-2.97% | MCap $1260B \ud83d\udd37 ETH $1,860.34 \u25bc-3.00%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72%"
-    },
-    {
-      "ts": "2026-07-31T23:45:12.046000+00:00",
-      "time": "07:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,878** | P&L: **-22"
     }
   ]
 }
