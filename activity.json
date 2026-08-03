@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-03T20:36:56.613813+00:00",
+  "generated_at": "2026-08-03T20:51:48.629007+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T20:45:07.338000+00:00",
+      "time": "04:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,869**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-03T20:30:07.648000+00:00",
       "time": "04:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:33 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $207.65** Current: **$207.61** | Strength: 5/5 0.618 Fibonacci (golden pocket); 1H recent high-low confluence; micro-p"
-    },
-    {
-      "ts": "2026-08-03T19:29:14.100000+00:00",
-      "time": "03:29 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.88** Current: **$371.73** | Strength: 4/5 60-day swing low cluster"
     }
   ]
 }
