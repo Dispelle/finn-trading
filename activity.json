@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-03T17:42:06.177701+00:00",
+  "generated_at": "2026-08-03T17:56:53.544689+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T17:56:12.695000+00:00",
+      "time": "01:56 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $486.8** Current: **$487.98** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-03T17:56:12.003000+00:00",
+      "time": "01:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $832.81** Current: **$834.44** | Strength: 5/5 Fib 0.650 (605.47\u21921255); golden pocket lower band confluent with recent 1"
+    },
+    {
+      "ts": "2026-08-03T17:50:54.522000+00:00",
+      "time": "01:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $370.0** Current: **$369.92** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-03T17:45:10.698000+00:00",
+      "time": "01:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,837**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-03T17:41:25.037000+00:00",
       "time": "01:41 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:25 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63900.0** Current: **$63868.76** | Strength: 5/5 \u2014 Today's low, 1H lows clustering (64,180 \u2192 63,991 \u2192 63,982), micro-s"
-    },
-    {
-      "ts": "2026-08-03T17:24:29.730000+00:00",
-      "time": "01:24 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63900.0** Current: **$63920.10** | Strength: 5/5 \u2014 Today's low, 1H lows clustering (64,180 \u2192 63,991 \u2192 63,982), micro-s"
-    },
-    {
-      "ts": "2026-08-03T17:23:27.748000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP1 $699.39** Current: **$699.46** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-03T17:23:27.111000+00:00",
-      "time": "01:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $699.42** Current: **$699.46** | Strength: 5/5 20-day VWAP (current 20d accumulation zone); recent demand anchor"
-    },
-    {
-      "ts": "2026-08-03T17:19:12.102000+00:00",
-      "time": "01:19 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $207.65** Current: **$207.70** | Strength: 5/5 0.618 Fib \"golden pocket\" (natural demand zone); only \u22120.47% away (tigh"
     }
   ]
 }
