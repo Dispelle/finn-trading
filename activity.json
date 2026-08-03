@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-03T14:55:04.559296+00:00",
+  "generated_at": "2026-08-03T15:11:42.583388+00:00",
   "items": [
     {
-      "ts": "2026-08-03T14:53:24.264000+00:00",
-      "time": "10:53 AM ET",
+      "ts": "2026-08-03T15:11:28.589000+00:00",
+      "time": "11:11 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $544.61** Current: **$544.57** | Strength: 4/5 |"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $541.39** Current: **$541.19** | Strength: 5/5 \u2014 Weekly MA20 (slope downward); dynamic resistance; 5% above"
     },
     {
-      "ts": "2026-08-03T14:52:20.300000+00:00",
-      "time": "10:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $544.61** Current: **$544.91** | Strength: 4/5 |"
+      "ts": "2026-08-03T15:10:25.670000+00:00",
+      "time": "11:10 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **COPX \u2014 BROKE BELOW S3 $79.04** Current: **$79.02** | Strength: 3/5 Fibonacci 0.650 (buffer zone between mid-range and golden pocket)"
     },
     {
-      "ts": "2026-08-03T14:51:17.565000+00:00",
-      "time": "10:51 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE S3 $79.04** Current: **$79.08** | Strength: 3/5 Fibonacci 0.650 (buffer zone between mid-range and golden pocket)"
+      "ts": "2026-08-03T15:10:24.427000+00:00",
+      "time": "11:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S3 $542.67** Current: **$541.77** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
     },
     {
-      "ts": "2026-08-03T14:51:16.621000+00:00",
-      "time": "10:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $824.11** Current: **$824.76** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket), prior 1H/daily support cluster, psycho"
+      "ts": "2026-08-03T15:08:19.266000+00:00",
+      "time": "11:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $755.0** Current: **$755.00** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-03T14:50:13.983000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R1 $696.15** Current: **$696.17** | Strength: 5/5 Fibonacci 0.618 (golden pocket start) + Fib 0.650 zone ($691.77\u2013$694.57)"
+      "ts": "2026-08-03T15:07:13.540000+00:00",
+      "time": "11:07 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $483.17** Current: **$483.10** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement, intermediate support"
     },
     {
-      "ts": "2026-08-03T14:50:12.281000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $483.17** Current: **$483.76** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement, intermediate support"
+      "ts": "2026-08-03T15:07:12.563000+00:00",
+      "time": "11:07 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $206.84** Current: **$206.47** | Strength: 5/5 \u2014 Last weekly close; recent swing high from 5 bars ago; supply cluster"
     },
     {
-      "ts": "2026-08-03T14:50:11.301000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $542.67** Current: **$543.12** | Strength: 5/5 \u2014 60-day swing low (prior support cluster); next structural support if $"
+      "ts": "2026-08-03T15:06:09.746000+00:00",
+      "time": "11:06 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $755.0** Current: **$754.93** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-03T14:49:09.010000+00:00",
-      "time": "10:49 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $695.9** Current: **$695.91** | Strength: 5/5 **Fibonacci 0.618 (GOLDEN POCKET)** \u2014 price is *exactly here*; prior swin"
+      "ts": "2026-08-03T15:06:06.523000+00:00",
+      "time": "11:06 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $155.29** Current: **$155.32** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-03T14:49:07.331000+00:00",
-      "time": "10:49 AM ET",
+      "ts": "2026-08-03T15:05:03.460000+00:00",
+      "time": "11:05 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $820.53** Current: **$821.07** | Strength: 4/5 Weekly close from last week; intraday base; 1H close baseline"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $206.84** Current: **$207.13** | Strength: 5/5 \u2014 Last weekly close; recent swing high from 5 bars ago; supply cluster"
     },
     {
-      "ts": "2026-08-03T14:49:06.649000+00:00",
-      "time": "10:49 AM ET",
+      "ts": "2026-08-03T15:00:49.302000+00:00",
+      "time": "11:00 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $541.39** Current: **$542.00** | Strength: 5/5 \u2014 Weekly MA20 (slope downward); dynamic resistance; 5% above"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $121.33** Current: **$121.56** | Strength: 4/5 20-day VWAP; volume-weighted entry; strong demand zone"
     }
   ]
 }
