@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-03T18:12:04.366616+00:00",
+  "generated_at": "2026-08-03T18:26:56.042989+00:00",
   "items": [
     {
-      "ts": "2026-08-03T18:11:05.016000+00:00",
-      "time": "02:11 PM ET",
+      "ts": "2026-08-03T18:25:53.369000+00:00",
+      "time": "02:25 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $548.0** Current: **$548.28** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $486.8** Current: **$486.71** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-03T18:10:01.095000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-08-03T18:18:31.610000+00:00",
+      "time": "02:18 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $370.0** Current: **$370.25** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $832.81** Current: **$832.33** | Strength: 5/5 Fib 0.650 (605.47\u21921255); golden pocket lower band confluent with recent 1"
     },
     {
-      "ts": "2026-08-03T18:07:52.376000+00:00",
-      "time": "02:07 PM ET",
+      "ts": "2026-08-03T18:17:28.848000+00:00",
+      "time": "02:17 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $154.77** Current: **$154.86** | Strength: 5/5 3 days ago daily close; micro support"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $52.3** Current: **$52.30** | Strength: 4/5 Prior daily low (recent support cluster 52.3\u201352.57), 1H pivot"
     },
     {
-      "ts": "2026-08-03T18:06:49.839000+00:00",
-      "time": "02:06 PM ET",
+      "ts": "2026-08-03T18:17:27.228000+00:00",
+      "time": "02:17 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $548.0** Current: **$547.53** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $126.0** Current: **$125.99** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-03T18:06:48.070000+00:00",
-      "time": "02:06 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $154.77** Current: **$154.72** | Strength: 5/5 3 days ago daily close; micro support"
-    },
-    {
-      "ts": "2026-08-03T18:05:46.253000+00:00",
-      "time": "02:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S3 $121.33** Current: **$121.30** | Strength: 4/5 20-day VWAP; volume-weighted entry; strong demand zone"
-    },
-    {
-      "ts": "2026-08-03T18:05:43.572000+00:00",
-      "time": "02:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1119.0** Current: **$1118.62** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-03T18:02:34.287000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $489.04** Current: **$488.69** | Strength: 5/5 Fibonacci 0.500 (golden zone midpoint); recent swing low $486.80; daily "
-    },
-    {
-      "ts": "2026-08-03T18:00:26.157000+00:00",
-      "time": "02:00 PM ET",
+      "ts": "2026-08-03T18:16:24.242000+00:00",
+      "time": "02:16 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $489.04** Current: **$489.51** | Strength: 5/5 Fibonacci 0.500 (golden zone midpoint); recent swing low $486.80; daily "
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $488.42** Current: **$489.05** | Strength: 5/5 0.500 fib retracement (mid-range of swing); daily support cluster"
     },
     {
-      "ts": "2026-08-03T18:00:11.467000+00:00",
-      "time": "02:00 PM ET",
+      "ts": "2026-08-03T18:16:22.759000+00:00",
+      "time": "02:16 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,854** | P&L: **-21"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $126.0** Current: **$126.00** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-03T18:15:20.178000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $488.42** Current: **$488.40** | Strength: 5/5 0.500 fib retracement (mid-range of swing); daily support cluster"
+    },
+    {
+      "ts": "2026-08-03T18:15:10.537000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,915**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-03T18:12:10.390000+00:00",
+      "time": "02:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $52.3** Current: **$52.28** | Strength: 4/5 Prior daily low (recent support cluster 52.3\u201352.57), 1H pivot"
+    },
+    {
+      "ts": "2026-08-03T18:12:09.407000+00:00",
+      "time": "02:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $490.75** Current: **$489.48** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement + daily MA20 proximity; psychological supp"
     }
   ]
 }
