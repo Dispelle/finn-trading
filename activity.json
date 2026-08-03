@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-03T19:52:05.316436+00:00",
+  "generated_at": "2026-08-03T20:06:43.372482+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T20:00:31.638000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,818**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-03T20:00:02.235000+00:00",
+      "time": "04:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Aug 3 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $63,856 \u25b2+0.73% | MCap $1281B \ud83d\udd37 ETH $1,869.57 \u25bc-0.58%  **Indices** \ud83d\udcca SPY $757.58 \u25b2+1.41% "
+    },
+    {
+      "ts": "2026-08-03T19:59:47.418000+00:00",
+      "time": "03:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $352.58** Current: **$352.73** | Strength: 5/5 Recent swing low (3 days ago), key daily support, tested in last 1H clos"
+    },
+    {
+      "ts": "2026-08-03T19:55:35.076000+00:00",
+      "time": "03:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $206.16** Current: **$206.26** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement (189.80 \u2192 236.54)"
+    },
+    {
+      "ts": "2026-08-03T19:54:31.811000+00:00",
+      "time": "03:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $206.16** Current: **$206.12** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement (189.80 \u2192 236.54)"
+    },
+    {
+      "ts": "2026-08-03T19:53:28.286000+00:00",
+      "time": "03:53 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $206.84** Current: **$206.67** | Strength: 5/5 \u2014 Last weekly close; recent swing high from 5 bars ago; supply cluster"
+    },
     {
       "ts": "2026-08-03T19:45:10.995000+00:00",
       "time": "03:45 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:28 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $371.88** Current: **$371.89** | Strength: 4/5 60-day swing low cluster"
-    },
-    {
-      "ts": "2026-08-03T19:21:25.170000+00:00",
-      "time": "03:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,879**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-03T19:11:20.403000+00:00",
-      "time": "03:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1119.0** Current: **$1119.01** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-03T19:02:56.337000+00:00",
-      "time": "03:02 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $305.47** Current: **$305.57** | Strength: 5/5 \u2014 20-day VWAP; price currently $321.66 (16.10 above); represents weight"
-    },
-    {
-      "ts": "2026-08-03T19:00:48.465000+00:00",
-      "time": "03:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $371.03** Current: **$371.10** | Strength: 5/5 \u2014 reason: **Yesterday's daily close cluster**, daily VWAP at $372.67 (ne"
-    },
-    {
-      "ts": "2026-08-03T19:00:47.532000+00:00",
-      "time": "03:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $824.11** Current: **$824.96** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket), prior 1H/daily support cluster, psycho"
-    },
-    {
-      "ts": "2026-08-03T19:00:10.770000+00:00",
-      "time": "03:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,820** | P&L: **-21"
     }
   ]
 }
