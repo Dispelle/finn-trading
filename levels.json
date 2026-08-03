@@ -12352,7 +12352,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-01",
+    "last_updated": "2026-08-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12362,7 +12362,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "\u2014 1H recent high cluster, local swing high from last 3\u20135 days",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
@@ -12492,7 +12492,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "(extrapolated) \u2014 **Extension level estimate below $49.61 support** (1.618x decline from $80.86). INSUFFICIENT DATA on ol",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12522,7 +12522,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12542,7 +12542,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12592,7 +12592,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12602,7 +12602,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12622,7 +12622,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 52-week support, early 2024 structure low (deep invalidation only)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -12893,7 +12893,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
