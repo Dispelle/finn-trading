@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-03T19:22:14.803925+00:00",
+  "generated_at": "2026-08-03T19:36:41.519399+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T19:33:26.597000+00:00",
+      "time": "03:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $207.65** Current: **$207.61** | Strength: 5/5 0.618 Fibonacci (golden pocket); 1H recent high-low confluence; micro-p"
+    },
+    {
+      "ts": "2026-08-03T19:29:14.100000+00:00",
+      "time": "03:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.88** Current: **$371.73** | Strength: 4/5 60-day swing low cluster"
+    },
+    {
+      "ts": "2026-08-03T19:28:10.621000+00:00",
+      "time": "03:28 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $371.88** Current: **$371.89** | Strength: 4/5 60-day swing low cluster"
+    },
     {
       "ts": "2026-08-03T19:21:25.170000+00:00",
       "time": "03:21 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:51 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $593.41** Current: **$593.35** | Strength: 5/5 \u2014"
-    },
-    {
-      "ts": "2026-08-03T18:50:11.843000+00:00",
-      "time": "02:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $491.37** Current: **$491.26** | Strength: 5/5 \u2014 60-day swing high (yesterday's high, current resistance)"
-    },
-    {
-      "ts": "2026-08-03T18:49:08.679000+00:00",
-      "time": "02:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63756.0** Current: **$63775.25** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-03T18:48:04.386000+00:00",
-      "time": "02:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $593.41** Current: **$593.67** | Strength: 5/5 \u2014"
     }
   ]
 }
