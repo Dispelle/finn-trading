@@ -5964,7 +5964,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-08-01",
+    "last_updated": "2026-08-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -6013,9 +6013,9 @@
         "price": 62489.45,
         "type": "S2",
         "strength": 5,
-        "reason": "0.650 Fibonacci; confluence with recent 4-bar consolidation low ($62,714.80 on day 7)",
+        "reason": "0.500 Fib retracement (mid-point); psychological zone",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6044,7 +6044,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -6073,9 +6073,9 @@
         "price": 61275.83,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Swing low (60-day); prior bounce point; likely deep liquidity grab zone if broken",
+        "reason": "0.618 Fib retracement (golden pocket); major support if broken below",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6094,7 +6094,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
@@ -6134,7 +6134,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "10-bar daily low outlier; 60-day secondary pivot; below this = trend invalidation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -6154,7 +6154,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -6184,7 +6184,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 0.382 Fib retracement (57,747 \u2192 74,460) + psychological zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -6393,9 +6393,9 @@
         "price": 63512.54,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's daily low; 1H support cluster; congestion zone (daily lows: 63,753.03, 63,562.48)",
+        "reason": "0.382 Fib retracement; strong confluence level",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6433,9 +6433,9 @@
         "price": 65735.72,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Last lower high (swing high 60-day), psychological pivot, structure break point.",
+        "reason": "Swing high (10d ago); invalidates bearish structure if broken",
         "status": "active",
-        "source_brief": "2026-08-01",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6465,7 +6465,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-07-28",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6503,9 +6503,9 @@
         "price": 64387.05,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP, acting as overhead congestion ceiling. Price rejected here multiple times in last 5 days.",
+        "reason": "MA20 weekly; slope downward; price below = bearish rejection zone",
         "status": "active",
-        "source_brief": "2026-08-01",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6836,6 +6836,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-07-31",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 65006.05,
+        "type": "R2",
+        "strength": 4,
+        "reason": "0.236 Fib retracement (primary); prior support now resistance",
+        "status": "active",
+        "source_brief": "2026-08-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62497.95,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
       }
