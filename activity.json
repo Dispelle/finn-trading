@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-03T15:57:39.595476+00:00",
+  "generated_at": "2026-08-03T16:11:47.042024+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T16:00:08.476000+00:00",
+      "time": "12:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,639** | P&L: **-21"
+    },
+    {
+      "ts": "2026-08-03T16:00:02.261000+00:00",
+      "time": "12:00 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Aug 3 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $63,614 \u25b2+0.89% | MCap $1277B \ud83d\udd37 ETH $1,859.92 \u25b2+0.17%  **Indices** \ud83d\udcca SPY $755.98 \u25b2+1.20% "
+    },
     {
       "ts": "2026-08-03T15:52:51.230000+00:00",
       "time": "11:52 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:30 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,648** | P&L: **-21"
-    },
-    {
-      "ts": "2026-08-03T15:29:27.824000+00:00",
-      "time": "11:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $696.15** Current: **$695.94** | Strength: 5/5 Fibonacci 0.618 (golden pocket start) + Fib 0.650 zone ($691.77\u2013$694.57)"
-    },
-    {
-      "ts": "2026-08-03T15:28:22.202000+00:00",
-      "time": "11:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $12.11** Current: **$12.10** | Strength: 4/5 Today's low; 1H support cluster; minor support"
     }
   ]
 }
