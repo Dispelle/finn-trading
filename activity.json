@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-03T15:42:03.702749+00:00",
+  "generated_at": "2026-08-03T15:42:27.974808+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T15:42:14.089000+00:00",
+      "time": "11:42 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.12** Current: **$12.10** | Strength: 5/5 Today's low; recent swing low (daily); psychological 12.1x floor"
+    },
     {
       "ts": "2026-08-03T15:40:06.665000+00:00",
       "time": "11:40 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:13 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.05** Current: **$12.05** | Strength: 5/5 Today's low; 1H micro-support; recent bounce anchor"
-    },
-    {
-      "ts": "2026-08-03T15:11:28.589000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $541.39** Current: **$541.19** | Strength: 5/5 \u2014 Weekly MA20 (slope downward); dynamic resistance; 5% above"
     }
   ]
 }
