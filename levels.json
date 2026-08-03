@@ -1746,7 +1746,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-08-01",
+    "last_updated": "2026-08-03",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1756,7 +1756,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
@@ -1846,7 +1846,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Prior swing low + daily higher-low invalidation level; 20-day VWAP touch zone ($385.30)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-25",
         "hit_count": 0,
         "last_hit": null
@@ -1886,7 +1886,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "60-day swing low (prior support level) \u2014 Only relevant if reversal develops",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -1896,7 +1896,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 Psychological round; INSUFFICIENT DATA for prior support here, but round-number capitulation target",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -1906,7 +1906,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -1926,7 +1926,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "\u2014 0.650 Fibonacci retracement (swing 306.51\u2192453.40); minor bounce support from 1H; weak demand zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
@@ -1936,7 +1936,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-26",
         "hit_count": 0,
         "last_hit": null
