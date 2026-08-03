@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-03T13:24:58.012755+00:00",
+  "generated_at": "2026-08-03T13:40:00.076900+00:00",
   "items": [
     {
-      "ts": "2026-08-03T12:00:02.442000+00:00",
-      "time": "08:00 AM ET",
+      "ts": "2026-08-03T13:39:20.075000+00:00",
+      "time": "09:39 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Aug 3 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,493 \u25bc-0.73% | MCap $1254B \ud83d\udd37 ETH $1,838.12 \u25bc-0.61%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $368.95** Current: **$369.25** | Strength: 5/5 \u2014 Today's daily low + 1H recent low floor. Tight micro support. **"
     },
     {
-      "ts": "2026-08-03T08:00:02.271000+00:00",
-      "time": "04:00 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Aug 3 04:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,527 \u25bc-1.44% | MCap $1255B \ud83d\udd37 ETH $1,841.53 \u25bc-1.75%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "ts": "2026-08-03T13:39:18.224000+00:00",
+      "time": "09:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1134.4** Current: **$1130.48** | Strength: 5/5 Fib 0.382 retracement; swing low adjacent ($1134.4 within 2 pts)"
     },
     {
-      "ts": "2026-08-03T04:00:02.315000+00:00",
-      "time": "12:00 AM ET",
+      "ts": "2026-08-03T13:39:17.077000+00:00",
+      "time": "09:39 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Mon, Aug 3 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,859 \u25bc-0.85% | MCap $1261B \ud83d\udd37 ETH $1,857.02 \u25bc-0.98%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S3 $577.07** Current: **$577.27** | Strength: 4/5 \u2014 60-day swing low, prior consolidation base"
     },
     {
-      "ts": "2026-08-03T00:00:02.374000+00:00",
-      "time": "08:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $63,464 \u25b2+1.10% | MCap $1273B \ud83d\udd37 ETH $1,881.89 \u25b2+2.08%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "ts": "2026-08-03T13:38:15.170000+00:00",
+      "time": "09:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $368.95** Current: **$368.74** | Strength: 5/5 \u2014 Today's daily low + 1H recent low floor. Tight micro support. **"
     },
     {
-      "ts": "2026-08-02T20:00:02.379000+00:00",
-      "time": "04:00 PM ET",
+      "ts": "2026-08-03T13:38:12.069000+00:00",
+      "time": "09:38 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 04:00 PM ET  **Crypto** \ud83d\udfe0 BTC $63,391 \u25b2+1.45% | MCap $1272B \ud83d\udd37 ETH $1,880.28 \u25b2+2.40%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $317.0** Current: **$317.12** | Strength: 4/5 |"
     },
     {
-      "ts": "2026-08-02T16:00:02.110000+00:00",
-      "time": "12:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 12:00 PM ET  **Crypto** \ud83d\udfe0 BTC $63,054 \u25b2+0.14% | MCap $1265B \ud83d\udd37 ETH $1,856.61 \u25bc-0.66%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "ts": "2026-08-03T13:37:10.718000+00:00",
+      "time": "09:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $17.6** Current: **$17.61** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-02T12:00:02.098000+00:00",
-      "time": "08:00 AM ET",
+      "ts": "2026-08-03T13:37:09.676000+00:00",
+      "time": "09:37 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 08:00 AM ET  **Crypto** \ud83d\udfe0 BTC $62,952 \u25bc-0.11% | MCap $1263B \ud83d\udd37 ETH $1,849.43 \u25bc-0.84%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $77.9** Current: **$78.00** | Strength: 4/5 Prior daily close (2 days ago); Fib 0.786 zone ($75.94\u2013$79.04) floor resis"
     },
     {
-      "ts": "2026-08-02T08:00:02.269000+00:00",
-      "time": "04:00 AM ET",
+      "ts": "2026-08-03T13:37:08.901000+00:00",
+      "time": "09:37 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 04:00 AM ET  **Crypto** \ud83d\udfe0 BTC $63,440 \u25b2+0.71% | MCap $1273B \ud83d\udd37 ETH $1,874.25 \u25b2+0.34%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S2 $51.19** Current: **$51.21** | Strength: 5/5 \u2014 Recent 60-day swing low (third swing in series); prior intraday support"
     },
     {
-      "ts": "2026-08-02T04:00:02.274000+00:00",
-      "time": "12:00 AM ET",
+      "ts": "2026-08-03T13:37:07.927000+00:00",
+      "time": "09:37 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sun, Aug 2 12:00 AM ET  **Crypto** \ud83d\udfe0 BTC $63,381 \u25b2+0.70% | MCap $1272B \ud83d\udd37 ETH $1,874.57 \u25b2+0.36%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $464.8** Current: **$466.20** | Strength: 5/5 **0.500 Fibonacci** (midpoint of 60d swing; psychological equilibrium) + "
     },
     {
-      "ts": "2026-08-02T00:00:02.362000+00:00",
-      "time": "08:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udcca **PRICE ALERT** \u2014 Sat, Aug 1 08:00 PM ET  **Crypto** \ud83d\udfe0 BTC $62,770 \u25bc-0.07% | MCap $1259B \ud83d\udd37 ETH $1,843.36 \u25bc-0.92%  **Indices** \ud83d\udcca SPY $747.03 \u25b2+0.72% "
+      "ts": "2026-08-03T13:37:07.192000+00:00",
+      "time": "09:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $465.0** Current: **$466.20** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
