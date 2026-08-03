@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-03T20:21:54.819892+00:00",
+  "generated_at": "2026-08-03T20:36:47.332223+00:00",
   "items": [
+    {
+      "ts": "2026-08-03T20:30:07.648000+00:00",
+      "time": "04:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,896** | P&L: **-21"
+    },
     {
       "ts": "2026-08-03T20:00:31.638000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:29 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $371.88** Current: **$371.73** | Strength: 4/5 60-day swing low cluster"
-    },
-    {
-      "ts": "2026-08-03T19:28:10.621000+00:00",
-      "time": "03:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $371.88** Current: **$371.89** | Strength: 4/5 60-day swing low cluster"
     }
   ]
 }
