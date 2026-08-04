@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-04T17:30:00.777612+00:00",
+  "generated_at": "2026-08-04T17:44:37.632780+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T17:44:04.176000+00:00",
+      "time": "01:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $528.0** Current: **$527.78** | Strength: 5/5 **0.236 Fib retracement** (from $344.88 \u2192 $584.73); also proximity to MA2"
+    },
+    {
+      "ts": "2026-08-04T17:43:00.725000+00:00",
+      "time": "01:43 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $528.0** Current: **$528.04** | Strength: 5/5 **0.236 Fib retracement** (from $344.88 \u2192 $584.73); also proximity to MA2"
+    },
+    {
+      "ts": "2026-08-04T17:41:56.885000+00:00",
+      "time": "01:41 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $527.48** Current: **$527.54** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement; weekly MA20 ($425.18) below, but this is "
+    },
+    {
+      "ts": "2026-08-04T17:40:52.508000+00:00",
+      "time": "01:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $526.67** Current: **$527.38** | Strength: 5/5 0.236 Fibonacci retracement (light resistance, initial bounce target)"
+    },
+    {
+      "ts": "2026-08-04T17:40:51.922000+00:00",
+      "time": "01:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $526.92** Current: **$527.38** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-04T17:30:26.250000+00:00",
+      "time": "01:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,059** | P&L: **-21"
+    },
     {
       "ts": "2026-08-04T17:25:05.372000+00:00",
       "time": "01:25 PM ET",
@@ -24,42 +60,6 @@
       "time": "01:10 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $587.0** Current: **$587.02** | Strength: 5/5 \u2014"
-    },
-    {
-      "ts": "2026-08-04T17:08:10.185000+00:00",
-      "time": "01:08 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $586.22** Current: **$586.43** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket (start) + 1H recent rejection zone**"
-    },
-    {
-      "ts": "2026-08-04T17:08:09.716000+00:00",
-      "time": "01:08 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R2 $586.24** Current: **$586.43** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-04T17:05:02.311000+00:00",
-      "time": "01:05 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $309.16** Current: **$309.30** | Strength: 5/5 Fib 0.500 retracement (exact midpoint of 273.75\u2192344.57 move)"
-    },
-    {
-      "ts": "2026-08-04T17:05:01.808000+00:00",
-      "time": "01:05 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S3 $309.03** Current: **$309.30** | Strength: 5/5 **Fib 0.500 (midpoint)**; MA50 vicinity ($309.30); major support zone i"
-    },
-    {
-      "ts": "2026-08-04T17:03:57.505000+00:00",
-      "time": "01:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $376.0** Current: **$376.08** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-04T17:00:47.239000+00:00",
-      "time": "01:00 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R3 $574.22** Current: **$574.77** | Strength: 5/5 |"
     }
   ]
 }
