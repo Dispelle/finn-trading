@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-04T14:22:15.950424+00:00",
+  "generated_at": "2026-08-04T14:36:38.291420+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T14:35:46.205000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.71** Current: **$152.73** | Strength: 5/5 Fibonacci 0.382 (demand zone); recent consolidation base"
+    },
+    {
+      "ts": "2026-08-04T14:30:07.374000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,850**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-04T14:23:07.966000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $306.9** Current: **$306.71** | Strength: 5/5 Today's intraday high; 1H high coincides; immediate supply"
+    },
+    {
+      "ts": "2026-08-04T14:23:06.418000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $374.49** Current: **$374.48** | Strength: 5/5 \u2014 Prior daily swing high (5 bars ago); confluent with upper band of curr"
+    },
     {
       "ts": "2026-08-04T14:22:02.828000+00:00",
       "time": "10:22 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:12 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R3 $715.22** Current: **$715.51** | Strength: 5/5 0.382 Fibonacci golden zone; MA50 $715.09 convergence; prior swing low $"
-    },
-    {
-      "ts": "2026-08-04T14:09:18.060000+00:00",
-      "time": "10:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R3 $715.22** Current: **$715.11** | Strength: 5/5 0.382 Fibonacci golden zone; MA50 $715.09 convergence; prior swing low $"
-    },
-    {
-      "ts": "2026-08-04T14:07:09.481000+00:00",
-      "time": "10:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $517.17** Current: **$516.54** | Strength: 5/5 1H recent high (today's candle); MA20 daily ($515.06); 0.382 fib retrace"
-    },
-    {
-      "ts": "2026-08-04T14:06:06.710000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **QQQ \u2014 BROKE ABOVE TP2 $714.83** Current: **$714.90** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-04T14:06:04.953000+00:00",
-      "time": "10:06 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $517.17** Current: **$517.25** | Strength: 5/5 1H recent high (today's candle); MA20 daily ($515.06); 0.382 fib retrace"
     }
   ]
 }
