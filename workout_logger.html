@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Lift Logger</title>
+    <!-- Fix 1: Apply theme immediately before CSS to prevent flash -->
+    <script>
+        (function() {
+            var saved = localStorage.getItem('liftLoggerTheme') || 'dark';
+            document.documentElement.className = 'theme-' + saved;
+        })();
+    </script>
+    <style>
+        /* Fix 1: CSS variables for theming */
+        :root {
+            --bg: #0a0a0a;
+            --bg2: #1a1a1a;
+            --bg3: #222;
+            --border: #333;
+            --text: #fff;
+            --text2: #aaa;
+            --text3: #888;
+            --accent: #00ff00;
+            --header-bg: #0a0a0a;
+        }
+        html.theme-light {
+            --bg: #f5f5f5;
+            --bg2: #e8e8e8;
+            --bg3: #ddd;
+            --border: #ccc;
+            --text: #111;
+            --text2: #444;
+            --text3: #666;
+            --accent: #009900;
+            --header-bg: #f5f5f5;
+        }
+        html.theme-rainbow {
+            --bg: #0a0010;
+            --bg2: #150025;
+            --bg3: #1a0030;
+            --border: #440066;
+            --text: #fff;
+            --text2: #dd88ff;
+            --text3: #aa55cc;
+            --accent: #ff00ff;
+            --header-bg: #0a0010;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            padding-bottom: 20px;
+        }
+
+        @keyframes rotate-slow {
+            from { transform: translate(-50%, -50%) rotate(0deg); }
+            to   { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        @keyframes rotate-rev {
+            from { transform: rotate(0deg); }
+            to   { transform: rotate(-360deg); }
+        }
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 0.03; }
+            50%       { opacity: 0.07; }
+        }
+        @keyframes rainbow-spin {
+            0%   { filter: hue-rotate(0deg); }
+            100% { filter: hue-rotate(360deg); }
+        }
+
+        /* Big plate ring — top right */
+        body::before {
+            content: '';
+            position: fixed;
+            top: -60px;
+            right: -60px;
+            width: 340px;
+            height: 340px;
+            border-radius: 50%;
+            border: 32px solid rgba(0, 255, 80, 0.06);
+            box-shadow: inset 0 0 0 12px rgba(0,255,80,0.03),
+                        inset 0 0 0 22px rgba(0,255,80,0.015);
+            animation: rotate-rev 25s linear infinite, pulse-glow 6s ease-in-out infinite;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Second plate ring — bottom left */
+        body::after {
+            content: '';
+            position: fixed;
+            bottom: -80px;
+            left: -80px;
+            width: 280px;
+            height: 280px;
+            border-radius: 50%;
+            border: 24px solid rgba(255, 255, 255, 0.04);
+            box-shadow: inset 0 0 0 10px rgba(255,255,255,0.015);
+            animation: rotate-rev 18s linear infinite reverse;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        html.theme-rainbow body::before {
+            border-color: rgba(255, 0, 255, 0.2);
+            animation: rotate-rev 25s linear infinite, rainbow-spin 3s linear infinite;
+        }
+        html.theme-rainbow body::after {
+            border-color: rgba(0, 255, 255, 0.15);
+            animation: rotate-rev 18s linear infinite reverse, rainbow-spin 2s linear infinite;
+        }
+
+        /* Barbell bar — horizontal accent across middle */
+        .gym-bar {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 320px;
+            height: 8px;
+            background: linear-gradient(
+                to right,
+                transparent 0%,
+                rgba(255,255,255,0.04) 15%,
+                rgba(255,255,255,0.06) 30%,
+                rgba(255,255,255,0.06) 70%,
+                rgba(255,255,255,0.04) 85%,
+                transparent 100%
+            );
+            border-radius: 4px;
+            pointer-events: none;
+            z-index: 0;
+            animation: pulse-glow 8s ease-in-out infinite;
+        }
+        .gym-bar::before, .gym-bar::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            border: 8px solid rgba(255,255,255,0.05);
+        }
+        .gym-bar::before { left: -50px; }
+        .gym-bar::after  { right: -50px; }
+
+        .container { position: relative; z-index: 1; }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 0 16px;
+        }
+
+        header {
+            padding: 20px 0;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 20px;
+            position: sticky;
+            top: 0;
+            background: var(--header-bg);
+            z-index: 100;
+        }
+
+        header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        header p {
+            font-size: 12px;
+            color: var(--text3);
+        }
+
+        .tabs {
+            display: flex;
+            gap: 4px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0;
+            overflow-x: auto;
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 12px 8px;
+            background: none;
+            border: none;
+            color: var(--text3);
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .tab-btn.active {
+            color: var(--text);
+            border-bottom-color: var(--accent);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* LOG WORKOUT FORM */
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        label {
+            display: block;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text2);
+            margin-bottom: 6px;
+            text-transform: uppercase;
+        }
+
+        /* Fix 12: font-size 16px prevents iOS zoom on focus */
+        input, select, textarea {
+            width: 100%;
+            padding: 12px;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            color: var(--text);
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 16px;
+            transition: border-color 0.2s;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .exercise-row {
+            background: var(--bg2);
+            padding: 12px;
+            margin-bottom: 12px;
+            border-radius: 4px;
+            border-left: 3px solid var(--border);
+        }
+
+        .exercise-row.pr {
+            border-left-color: var(--accent);
+        }
+
+        .exercise-row input {
+            margin-bottom: 8px;
+        }
+
+        .remove-exercise {
+            background: var(--bg3);
+            color: var(--text3);
+            border: none;
+            padding: 8px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            margin-top: 8px;
+            transition: all 0.2s;
+        }
+
+        .remove-exercise:hover {
+            background: #ff3333;
+            color: #fff;
+        }
+
+        button.primary {
+            width: 100%;
+            padding: 14px;
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 4px;
+            font-weight: 700;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        button.primary:hover {
+            opacity: 0.85;
+        }
+
+        button.secondary {
+            width: 100%;
+            padding: 12px;
+            background: var(--bg2);
+            color: var(--text);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            margin-bottom: 8px;
+            transition: all 0.2s;
+        }
+
+        button.secondary:hover {
+            border-color: var(--accent);
+        }
+
+        /* HISTORY */
+        .session {
+            background: var(--bg2);
+            padding: 16px;
+            margin-bottom: 16px;
+            border-radius: 4px;
+            border-left: 3px solid #444;
+        }
+
+        .session-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .session-date {
+            font-weight: 700;
+            font-size: 16px;
+            color: var(--text);
+        }
+
+        .session-muscle {
+            font-size: 12px;
+            color: var(--text3);
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .session-actions {
+            display: flex;
+            gap: 4px;
+        }
+
+        .session-btn {
+            padding: 6px 8px;
+            background: var(--bg3);
+            border: none;
+            color: var(--text2);
+            font-size: 11px;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .session-btn:hover {
+            background: #444;
+            color: var(--text);
+        }
+
+        .session-btn.delete:hover {
+            background: #ff3333;
+            color: #fff;
+        }
+
+        .exercise-log {
+            margin-bottom: 12px;
+        }
+
+        .exercise-name {
+            font-weight: 600;
+            margin-bottom: 4px;
+            font-size: 14px;
+            color: var(--text);
+        }
+
+        .exercise-stats {
+            font-size: 13px;
+            color: var(--text2);
+        }
+
+        .pr-badge {
+            display: inline-block;
+            background: var(--accent);
+            color: #000;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: 700;
+            margin-left: 6px;
+        }
+
+        .comparison {
+            font-size: 11px;
+            color: var(--text3);
+            margin-top: 4px;
+        }
+
+        .comparison.green {
+            color: var(--accent);
+        }
+
+        .comparison.red {
+            color: #ff6b6b;
+        }
+
+        /* STATS */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: var(--bg2);
+            padding: 16px;
+            border-radius: 4px;
+            border-left: 3px solid var(--accent);
+        }
+
+        .stat-label {
+            font-size: 11px;
+            color: var(--text3);
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text);
+        }
+
+        .exercise-history {
+            background: var(--bg2);
+            padding: 16px;
+            margin-bottom: 12px;
+            border-radius: 4px;
+        }
+
+        .exercise-history h4 {
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 12px;
+            color: var(--text);
+        }
+
+        .history-entry {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+        }
+
+        .history-entry:last-child {
+            border-bottom: none;
+        }
+
+        .history-date {
+            color: var(--text3);
+        }
+
+        .history-weight {
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        .history-weight.pr {
+            color: var(--accent);
+        }
+
+        /* IMPORT/EXPORT */
+        .import-box {
+            background: var(--bg2);
+            padding: 16px;
+            border-radius: 4px;
+            margin-bottom: 16px;
+        }
+
+        .import-box textarea {
+            height: 200px;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            margin-bottom: 12px;
+        }
+
+        .note {
+            background: var(--bg3);
+            padding: 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            color: var(--text3);
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+
+        .success {
+            background: #1a3a1a;
+            color: #00ff00;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+
+        .error {
+            background: #3a1a1a;
+            color: #ff6b6b;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+        }
+
+        /* Fix 13: DATA TAB */
+        .data-section {
+            background: var(--bg2);
+            padding: 16px;
+            border-radius: 4px;
+            margin-bottom: 16px;
+        }
+        .data-section h3 {
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text2);
+            margin-bottom: 12px;
+        }
+        .data-stats {
+            font-size: 14px;
+            color: var(--text3);
+            margin-bottom: 16px;
+            line-height: 1.8;
+        }
+        .data-stats strong {
+            color: var(--text);
+        }
+
+        /* Theme toggle button */
+        .theme-btn {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text3);
+            border-radius: 4px;
+            padding: 6px 10px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .theme-btn:hover {
+            border-color: var(--accent);
+            color: var(--text);
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 12px;
+            }
+
+            header {
+                padding: 16px 0;
+            }
+
+            header h1 {
+                font-size: 24px;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .tab-btn {
+                font-size: 10px;
+                padding: 10px 6px;
+            }
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text3);
+        }
+
+        .empty-state p {
+            font-size: 14px;
+            margin-bottom: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="gym-bar"></div>
+    <div class="container">
+        <header>
+            <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+                <div>
+                    <h1>🏋️ Lift Logger</h1>
+                    <p id="stats-summary"></p>
+                    <p style="font-size:10px; color:#444; margin-top:4px;">v2.0 · Aug 4, 2026</p>
+                </div>
+                <!-- Fix 1: theme toggle + Fix 5: removed auto-reload, kept manual button -->
+                <div style="display:flex; gap:4px; margin-top:4px;">
+                    <button class="theme-btn" id="theme-btn" onclick="cycleTheme()" title="Toggle theme">🌙</button>
+                    <button onclick="location.reload()" style="background:none; border:1px solid var(--border); color:var(--text3); border-radius:4px; padding:6px 10px; font-size:18px; cursor:pointer;" title="Reload app">↻</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Fix 6: switchTab(tabName, this) on all buttons -->
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('log', this)">LOG</button>
+            <button class="tab-btn" onclick="switchTab('history', this)">HISTORY</button>
+            <button class="tab-btn" onclick="switchTab('stats', this)">STATS</button>
+            <button class="tab-btn" onclick="switchTab('import', this)">IMPORT</button>
+            <!-- Fix 13: DATA tab -->
+            <button class="tab-btn" onclick="switchTab('data', this)">DATA</button>
+        </div>
+
+        <!-- LOG WORKOUT TAB -->
+        <div id="log" class="tab-content active">
+            <form onsubmit="logWorkout(event)">
+                <div class="form-group">
+                    <label>Date</label>
+                    <input type="date" id="workoutDate" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Muscle Group</label>
+                    <input type="text" id="muscleGroup" placeholder="e.g., LEGS, CHEST, BACK" required>
+                </div>
+
+                <div id="exercises-container"></div>
+
+                <button type="button" class="secondary" onclick="addExerciseRow()">+ ADD EXERCISE</button>
+
+                <div style="margin-top: 20px;">
+                    <button type="submit" class="primary">LOG WORKOUT</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- HISTORY TAB -->
+        <div id="history" class="tab-content">
+            <div id="history-container"></div>
+        </div>
+
+        <!-- STATS TAB -->
+        <div id="stats" class="tab-content">
+            <div id="stats-container"></div>
+        </div>
+
+        <!-- IMPORT TAB -->
+        <div id="import" class="tab-content">
+            <div class="import-box">
+                <label>Paste Your Workout Notes</label>
+                <textarea id="importText" placeholder="Paste your 8 months of workouts here..."></textarea>
+                <button type="button" class="primary" onclick="importWorkouts()">IMPORT WORKOUTS</button>
+            </div>
+            <div id="import-status"></div>
+        </div>
+
+        <!-- Fix 13: DATA TAB -->
+        <div id="data" class="tab-content">
+            <div class="data-section">
+                <h3>📦 Data Stats</h3>
+                <div id="data-stats" class="data-stats">Loading…</div>
+            </div>
+            <div class="data-section">
+                <h3>⬇ Export Backup</h3>
+                <p style="font-size:13px; color:var(--text3); margin-bottom:12px;">Download all your workout data as a JSON file.</p>
+                <button type="button" class="primary" onclick="exportData()">EXPORT JSON BACKUP</button>
+            </div>
+            <div class="data-section">
+                <h3>⬆ Restore from Backup</h3>
+                <p style="font-size:13px; color:var(--text3); margin-bottom:12px;">Select a previously exported JSON file to restore.</p>
+                <input type="file" id="restore-file" accept=".json" onchange="importDataFile(this)">
+                <div id="data-status" style="margin-top:12px;"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ─── FIX 1: THEME ──────────────────────────────────────────────────────────
+        const THEMES = ['dark', 'light', 'rainbow'];
+        const THEME_ICONS = { dark: '🌙', light: '☀️', rainbow: '🌈' };
+
+        function getTheme() {
+            return localStorage.getItem('liftLoggerTheme') || 'dark';
+        }
+
+        function applyTheme(theme) {
+            document.documentElement.className = 'theme-' + theme;
+            localStorage.setItem('liftLoggerTheme', theme);
+            var btn = document.getElementById('theme-btn');
+            if (btn) btn.textContent = THEME_ICONS[theme] || '🌙';
+        }
+
+        function cycleTheme() {
+            var current = getTheme();
+            var next = THEMES[(THEMES.indexOf(current) + 1) % THEMES.length];
+            applyTheme(next);
+        }
+
+        // Sync button icon on load (theme class already applied by inline head script)
+        applyTheme(getTheme());
+
+        // ─── FIX 2: STORAGE (safe load/save with backup) ──────────────────────────
+        var STORAGE_KEY = 'liftLoggerData';
+        var BACKUP_KEY = 'liftLoggerData_bak';
+
+        function loadData() {
+            try {
+                var raw = localStorage.getItem(STORAGE_KEY);
+                if (raw) return JSON.parse(raw);
+            } catch (e) {
+                console.warn('Primary data corrupt, trying backup:', e);
+                try {
+                    var bak = localStorage.getItem(BACKUP_KEY);
+                    if (bak) return JSON.parse(bak);
+                } catch (e2) {
+                    console.error('Backup also failed:', e2);
+                }
+            }
+            return [];
+        }
+
+        function saveData(data) {
+            // Prevent overwriting real data with empty array
+            if (!data || data.length === 0) {
+                var existing = loadData();
+                if (existing.length > 0) return;
+            }
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+            // Also write backup
+            localStorage.setItem(BACKUP_KEY, JSON.stringify(data));
+        }
+
+        // ─── FIX 8: PARSEWEIGHT (handles "2p+10" correctly) ──────────────────────
+        function parseWeight(notation) {
+            if (!notation) return 0;
+            notation = String(notation).trim().toLowerCase();
+            // Handle combined plate+pounds e.g. "2p+10" = 90+10 = 100
+            if (notation.includes('p') && notation.includes('+')) {
+                var parts = notation.split('+');
+                return parts.reduce(function(sum, part) {
+                    part = part.trim();
+                    if (part.includes('p')) return sum + (parseFloat(part.replace('p', '')) || 0) * 45;
+                    return sum + (parseFloat(part) || 0);
+                }, 0);
+            }
+            if (notation.includes('p')) {
+                return (parseFloat(notation.replace('p', '')) || 0) * 45;
+            }
+            if (notation.includes('+')) {
+                return notation.split('+').reduce(function(sum, p) {
+                    return sum + (parseFloat(p.trim()) || 0);
+                }, 0);
+            }
+            return parseFloat(notation) || 0;
+        }
+
+        // Fix 2: formatWeight guard for null/NaN
+        function formatWeight(weight) {
+            if (!weight || isNaN(weight)) return '?';
+            if (weight % 45 === 0 && weight >= 45) {
+                var plates = weight / 45;
+                return plates % 1 === 0 ? Math.floor(plates) + 'p' : plates.toFixed(1) + 'p';
+            }
+            return weight.toString();
+        }
+
+        // ─── FIX 10: XSS ESCAPE HELPER ────────────────────────────────────────────
+        function esc(str) {
+            return String(str == null ? '' : str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        // ─── FIX 9: DATE HELPERS (local time, no UTC shift) ──────────────────────
+        function localDateStr(isoStr) {
+            var parts = isoStr.split('-');
+            return new Date(+parts[0], +parts[1] - 1, +parts[2])
+                .toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+        }
+
+        function todayISO() {
+            var d = new Date();
+            return d.getFullYear() + '-' +
+                String(d.getMonth() + 1).padStart(2, '0') + '-' +
+                String(d.getDate()).padStart(2, '0');
+        }
+
+        // ─── FIX 11: EXERCISE ROWS (counter instead of Date.now) ─────────────────
+        var _rowCounter = 0;
+        function addExerciseRow() {
+            var container = document.getElementById('exercises-container');
+            var rowId = 'exercise-' + (++_rowCounter);
+
+            var row = document.createElement('div');
+            row.className = 'exercise-row';
+            row.id = rowId;
+            row.innerHTML =
+                '<input type="text" class="exercise-name" placeholder="Exercise name" required>' +
+                '<input type="text" class="exercise-weight" placeholder="Weight (e.g., 195, 5p, 1.5p, 45+25, 2p+10)" required>' +
+                '<input type="number" class="exercise-reps" placeholder="Reps" min="1" required>' +
+                '<input type="number" class="exercise-sets" placeholder="Sets (default 1)" min="1" value="1">' +
+                '<textarea class="exercise-notes" placeholder="Notes (optional)" style="height: 60px;"></textarea>' +
+                '<button type="button" class="remove-exercise" onclick="document.getElementById(\'' + rowId + '\').remove()">Remove</button>';
+
+            container.appendChild(row);
+        }
+
+        // ─── NORMALIZE EXERCISE NAME ───────────────────────────────────────────────
+        function normalizeName(name) {
+            if (!name || typeof name !== 'string') return '';
+            var n = name.trim().toLowerCase().replace(/\s+/g, ' ');
+            n = n.replace(/\b([a-z]{4,})s\b/g, '$1');
+            return n;
+        }
+
+        // ─── FIX 4: getPreviousBest (no early return, excludes self by id) ────────
+        function getPreviousBest(exerciseName, excludeWorkoutId) {
+            var workouts = loadData();
+            var targetNorm = normalizeName(exerciseName);
+            var best = null;
+            var bestDate = null;
+            for (var i = 0; i < workouts.length; i++) {
+                var workout = workouts[i];
+                if (workout.id === excludeWorkoutId) continue;
+                for (var j = 0; j < workout.exercises.length; j++) {
+                    var ex = workout.exercises[j];
+                    if (normalizeName(ex.name) === targetNorm) {
+                        if (best === null || ex.weight > best) {
+                            best = ex.weight;
+                            bestDate = workout.date;
+                        }
+                    }
+                }
+            }
+            return best !== null ? { weight: best, date: bestDate } : null;
+        }
+
+        // ─── LOG WORKOUT ───────────────────────────────────────────────────────────
+        function logWorkout(event) {
+            event.preventDefault();
+
+            var date = document.getElementById('workoutDate').value;
+            var muscleGroup = document.getElementById('muscleGroup').value.toUpperCase();
+            var exercises = [];
+
+            document.querySelectorAll('.exercise-row').forEach(function(row) {
+                var name = row.querySelector('.exercise-name').value;
+                var weight = parseWeight(row.querySelector('.exercise-weight').value);
+                var reps = parseInt(row.querySelector('.exercise-reps').value);
+                var sets = parseInt(row.querySelector('.exercise-sets').value) || 1;
+                var notes = row.querySelector('.exercise-notes').value;
+                exercises.push({ name: name, weight: weight, reps: reps, sets: sets, notes: notes });
+            });
+
+            if (exercises.length === 0) {
+                alert('Add at least one exercise');
+                return;
+            }
+
+            var workouts = loadData();
+            // Fix 3: stable id on each workout
+            var newWorkout = {
+                id: Date.now() + '-' + Math.random().toString(36).slice(2),
+                date: date,
+                muscleGroup: muscleGroup,
+                exercises: exercises
+            };
+            workouts.push(newWorkout);
+            saveData(workouts);
+
+            // Reset form
+            document.getElementById('muscleGroup').value = '';
+            document.getElementById('exercises-container').innerHTML = '';
+            _rowCounter = 0;
+            addExerciseRow();
+            // Fix 9: set date with local time
+            document.getElementById('workoutDate').value = todayISO();
+
+            alert('Workout logged!');
+            displayHistory();
+            updateStats();
+        }
+
+        // ─── DISPLAY HISTORY ───────────────────────────────────────────────────────
+        function displayHistory() {
+            var workouts = loadData();
+            var container = document.getElementById('history-container');
+
+            if (workouts.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>No workouts logged yet. Start by logging your first workout!</p></div>';
+                return;
+            }
+
+            // Fix 3: use workout.id for delete, not array index on reversed array
+            var reversed = workouts.slice().reverse();
+
+            container.innerHTML = reversed.map(function(workout) {
+                var exercisesHtml = workout.exercises.map(function(ex) {
+                    // Fix 4: pass workout.id as second arg
+                    var previous = getPreviousBest(ex.name, workout.id);
+                    var isPR = !previous || ex.weight > previous.weight;
+                    var comparison = previous && ex.weight !== previous.weight
+                        ? (ex.weight > previous.weight ? '↑' : '↓') + ' vs ' + formatWeight(previous.weight) + ' (' + localDateStr(previous.date) + ')'
+                        : '';
+                    var compClass = (previous && ex.weight > previous.weight) ? 'green' : 'red';
+
+                    return '<div class="exercise-log">' +
+                        '<div class="exercise-name">' + esc(ex.name) +
+                        (isPR && previous ? ' <span class="pr-badge">🔥 PR</span>' : '') +
+                        '</div>' +
+                        '<div class="exercise-stats">' +
+                        esc(formatWeight(ex.weight)) + ' × ' + esc(String(ex.reps || 0)) +
+                        (ex.sets > 1 ? ' × ' + esc(String(ex.sets)) : '') +
+                        (ex.notes ? '<br><em>' + esc(ex.notes) + '</em>' : '') +
+                        '</div>' +
+                        (comparison ? '<div class="comparison ' + compClass + '">' + esc(comparison) + '</div>' : '') +
+                        '</div>';
+                }).join('');
+
+                // Fix 3: pass workout.id (escaped) to deleteWorkout
+                var safeId = esc(workout.id || '');
+                return '<div class="session">' +
+                    '<div class="session-header">' +
+                    '<div>' +
+                    '<div class="session-date">' + esc(localDateStr(workout.date)) + '</div>' +
+                    '<div class="session-muscle">' + esc(workout.muscleGroup) + '</div>' +
+                    '</div>' +
+                    '<div class="session-actions">' +
+                    '<button class="session-btn delete" onclick="deleteWorkout(\'' + safeId + '\')">Delete</button>' +
+                    '</div>' +
+                    '</div>' +
+                    exercisesHtml +
+                    '</div>';
+            }).join('');
+        }
+
+        // Fix 3: deleteWorkout filters by id, not splice by index
+        function deleteWorkout(id) {
+            if (confirm('Delete this workout?')) {
+                var workouts = loadData();
+                if (id) {
+                    workouts = workouts.filter(function(w) { return w.id !== id; });
+                }
+                saveData(workouts);
+                displayHistory();
+                updateStats();
+            }
+        }
+
+        // ─── UPDATE STATS ──────────────────────────────────────────────────────────
+        function updateStats() {
+            var workouts = loadData();
+            var container = document.getElementById('stats-container');
+            var summary = document.getElementById('stats-summary');
+
+            if (workouts.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>Log some workouts to see stats!</p></div>';
+                if (summary) summary.textContent = '';
+                return;
+            }
+
+            var totalWorkouts = workouts.length;
+            var allExercises = {};
+            var muscleGroups = {};
+
+            workouts.forEach(function(workout) {
+                muscleGroups[workout.muscleGroup] = (muscleGroups[workout.muscleGroup] || 0) + 1;
+                workout.exercises.forEach(function(ex) {
+                    var key = normalizeName(ex.name);
+                    if (!allExercises[key]) {
+                        allExercises[key] = { name: ex.name, maxWeight: ex.weight, entries: [] };
+                    }
+                    allExercises[key].maxWeight = Math.max(allExercises[key].maxWeight, ex.weight);
+                    allExercises[key].entries.push({ date: workout.date, weight: ex.weight, reps: ex.reps });
+                });
+            });
+
+            if (summary) summary.textContent = totalWorkouts + ' workouts · ' + Object.keys(allExercises).length + ' exercises';
+
+            var html = '<div class="stats-grid">' +
+                '<div class="stat-card"><div class="stat-label">Total Workouts</div><div class="stat-value">' + totalWorkouts + '</div></div>' +
+                '<div class="stat-card"><div class="stat-label">Unique Exercises</div><div class="stat-value">' + Object.keys(allExercises).length + '</div></div>' +
+                '</div>' +
+                '<h3 style="margin:20px 0 12px; font-size:14px; font-weight:700; text-transform:uppercase; color:var(--text3);">Muscle Groups</h3>';
+
+            Object.entries(muscleGroups).forEach(function(entry) {
+                html += '<div style="display:flex; justify-content:space-between; padding:8px 0; border-bottom:1px solid var(--border); font-size:14px; color:var(--text);">' +
+                    '<span>' + esc(entry[0]) + '</span><span style="color:var(--accent); font-weight:600;">' + entry[1] + '</span></div>';
+            });
+
+            html += '<h3 style="margin:20px 0 12px; font-size:14px; font-weight:700; text-transform:uppercase; color:var(--text3);">Exercise Maxes</h3>';
+
+            Object.values(allExercises).sort(function(a, b) { return b.maxWeight - a.maxWeight; }).forEach(function(ex) {
+                var recentDate = ex.entries[ex.entries.length - 1] && ex.entries[ex.entries.length - 1].date;
+                html += '<div class="exercise-history">' +
+                    '<h4>' + esc(ex.name) + '</h4>' +
+                    '<div style="font-size:18px; font-weight:700; color:var(--accent); margin-bottom:8px;">' + esc(formatWeight(ex.maxWeight)) + '</div>' +
+                    '<div style="font-size:12px; color:var(--text3);">Last logged: ' + (recentDate ? esc(localDateStr(recentDate)) : 'unknown') + '</div>' +
+                    '</div>';
+            });
+
+            container.innerHTML = html;
+        }
+
+        // ─── IMPORT WORKOUTS ───────────────────────────────────────────────────────
+        function importWorkouts() {
+            var text = document.getElementById('importText').value;
+            var statusDiv = document.getElementById('import-status');
+
+            if (!text.trim()) {
+                statusDiv.innerHTML = '<div class="error">Please paste your workout notes</div>';
+                return;
+            }
+
+            try {
+                var workouts = parseWorkoutText(text);
+                var existingData = loadData();
+                var allWorkouts = existingData.concat(workouts);
+                saveData(allWorkouts);
+
+                statusDiv.innerHTML = '<div class="success">✓ Imported ' + workouts.length + ' workouts!</div>';
+                document.getElementById('importText').value = '';
+                setTimeout(function() {
+                    displayHistory();
+                    updateStats();
+                }, 500);
+            } catch (e) {
+                statusDiv.innerHTML = '<div class="error">Error: ' + esc(e.message) + '</div>';
+            }
+        }
+
+        // ─── PARSE WORKOUT TEXT ────────────────────────────────────────────────────
+        function parseWorkoutText(text) {
+            var workouts = [];
+            var lines = text.split('\n').map(function(l) { return l.trim(); }).filter(function(l) { return l; });
+
+            var currentDate = null;
+            var currentMuscle = null;
+            var currentExercises = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+
+                if (/^\d{1,2}\/\d{1,2}\/\d{2}$/.test(line)) {
+                    if (currentDate && currentExercises.length > 0) {
+                        workouts.push({
+                            id: Date.now() + '-' + Math.random().toString(36).slice(2),
+                            date: formatDateString(currentDate),
+                            muscleGroup: currentMuscle || 'UNKNOWN',
+                            exercises: currentExercises
+                        });
+                    }
+                    currentDate = line;
+                    currentExercises = [];
+                // Fix 7: improved muscle-group regex
+                } else if (line === line.toUpperCase() && /^[A-Z]/.test(line) && !/^\d/.test(line)) {
+                    currentMuscle = line;
+                } else if (currentDate && line.length > 0) {
+                    var exercise = parseExerciseLine(line);
+                    if (exercise) currentExercises.push(exercise);
+                }
+            }
+
+            if (currentDate && currentExercises.length > 0) {
+                workouts.push({
+                    id: Date.now() + '-' + Math.random().toString(36).slice(2),
+                    date: formatDateString(currentDate),
+                    muscleGroup: currentMuscle || 'UNKNOWN',
+                    exercises: currentExercises
+                });
+            }
+
+            return workouts;
+        }
+
+        // ─── PARSE EXERCISE LINE ───────────────────────────────────────────────────
+        function parseExerciseLine(line) {
+            var match = line.match(/^([a-z][a-z\s/()'-]*)\s+([0-9p.+]+)\s*x\s*(\d+)(.*)$/i);
+
+            if (!match) {
+                match = line.match(/^([a-z][a-z\s/()'-]*)\s+([0-9p.+]+)\s+(\d+)(.*)$/i);
+            }
+
+            if (!match) {
+                var m2 = line.match(/^([a-z][a-z\s/()'-]*)\s+([0-9p.+]+)\s*(.*)$/i);
+                if (m2) {
+                    return {
+                        name: m2[1].trim(),
+                        weight: parseWeight(m2[2]),
+                        reps: 0,
+                        sets: 1,
+                        notes: m2[3].trim()
+                    };
+                }
+            }
+
+            if (match) {
+                var name = match[1].trim();
+                var weight = parseWeight(match[2]);
+                var reps = parseInt(match[3]);
+                var notes = match[4].trim();
+                if (!weight || weight <= 0) return null;
+                return { name: name, weight: weight, reps: reps, sets: 1, notes: notes };
+            }
+
+            return null;
+        }
+
+        // ─── FORMAT DATE STRING ────────────────────────────────────────────────────
+        function formatDateString(dateStr) {
+            var parts = dateStr.split('/');
+            var month = parts[0], day = parts[1], year = parts[2];
+            var fullYear = parseInt(year) < 50 ? 2000 + parseInt(year) : 1900 + parseInt(year);
+            var candidate = new Date(fullYear, parseInt(month) - 1, parseInt(day));
+            if (candidate > new Date(Date.now() + 30 * 86400000)) {
+                fullYear -= 1;
+            }
+            return fullYear + '-' + String(month).padStart(2, '0') + '-' + String(day).padStart(2, '0');
+        }
+
+        // ─── FIX 6: switchTab with explicit btn param ──────────────────────────────
+        function switchTab(tabName, btn) {
+            document.querySelectorAll('.tab-content').forEach(function(el) { el.classList.remove('active'); });
+            document.querySelectorAll('.tab-btn').forEach(function(el) { el.classList.remove('active'); });
+            document.getElementById(tabName).classList.add('active');
+            btn.classList.add('active');
+
+            if (tabName === 'history') displayHistory();
+            else if (tabName === 'stats') updateStats();
+            else if (tabName === 'data') updateDataTab();
+        }
+
+        // ─── FIX 13: DATA TAB ─────────────────────────────────────────────────────
+        function updateDataTab() {
+            var workouts = loadData();
+            var statsDiv = document.getElementById('data-stats');
+            var raw = localStorage.getItem(STORAGE_KEY) || '[]';
+            var kb = (new Blob([raw]).size / 1024).toFixed(1);
+            statsDiv.innerHTML = '<strong>' + workouts.length + '</strong> workouts stored &nbsp;·&nbsp; <strong>' + kb + ' KB</strong> used';
+        }
+
+        function exportData() {
+            var data = loadData();
+            var json = JSON.stringify(data, null, 2);
+            var blob = new Blob([json], { type: 'application/json' });
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = 'liftlogger-backup-' + todayISO() + '.json';
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function importDataFile(input) {
+            var file = input.files[0];
+            if (!file) return;
+            var statusDiv = document.getElementById('data-status');
+            var reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    var imported = JSON.parse(e.target.result);
+                    if (!Array.isArray(imported)) throw new Error('Invalid backup format — expected a JSON array');
+                    var existing = loadData();
+                    if (existing.length > 0) {
+                        if (!confirm('You have ' + existing.length + ' existing workouts. Replace with ' + imported.length + ' from backup? This will overwrite your current data.')) {
+                            input.value = '';
+                            return;
+                        }
+                    }
+                    localStorage.setItem(STORAGE_KEY, JSON.stringify(imported));
+                    localStorage.setItem(BACKUP_KEY, JSON.stringify(imported));
+                    statusDiv.innerHTML = '<div class="success">✓ Restored ' + imported.length + ' workouts from backup!</div>';
+                    updateDataTab();
+                    input.value = '';
+                } catch (err) {
+                    statusDiv.innerHTML = '<div class="error">Error: ' + esc(err.message) + '</div>';
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // ─── FIX 14: CROSS-TAB SYNC ───────────────────────────────────────────────
+        window.addEventListener('storage', function(e) {
+            if (e.key === STORAGE_KEY) {
+                try { displayHistory(); updateStats(); } catch (err) {}
+            }
+        });
+
+        // ─── INITIALIZE ────────────────────────────────────────────────────────────
+        // Fix 9: set today's date using local time
+        document.getElementById('workoutDate').value = todayISO();
+
+        addExerciseRow();
+        try { displayHistory(); } catch(e) { console.error('History error:', e); }
+        try { updateStats(); } catch(e) { console.error('Stats error:', e); }
+    </script>
+</body>
+</html>
