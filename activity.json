@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-04T17:59:38.844719+00:00",
+  "generated_at": "2026-08-04T18:00:27.092565+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T17:59:59.196000+00:00",
+      "time": "01:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R2 $526.67** Current: **$526.28** | Strength: 5/5 0.236 Fibonacci retracement (light resistance, initial bounce target)"
+    },
     {
       "ts": "2026-08-04T17:54:41.759000+00:00",
       "time": "01:54 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:50 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $212.06** Current: **$211.81** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-04T17:50:23.566000+00:00",
-      "time": "01:50 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $360.0** Current: **$359.95** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
