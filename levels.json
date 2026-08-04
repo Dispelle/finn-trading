@@ -928,7 +928,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-08-03",
+    "last_updated": "2026-08-04",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -948,7 +948,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP (daily rejected here twice in last 3 days)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1148,7 +1148,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1158,7 +1158,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1168,7 +1168,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1178,7 +1178,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "20-day VWAP; near MA20($621.48) \u2014 volume anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1238,7 +1238,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1248,7 +1248,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-27",
         "hit_count": 0,
         "last_hit": null
@@ -1840,6 +1840,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 632.35,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       }
