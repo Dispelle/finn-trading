@@ -15844,7 +15844,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-08-03",
+    "last_updated": "2026-08-04",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16353,9 +16353,9 @@
         "price": 760.4,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high / recent cycle peak / psychological round number",
+        "reason": "\u2014 60-day high, recent swing high, tested intraday today (H: $758.58). Psychological resistance; 2.73pt above current.",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16373,9 +16373,9 @@
         "price": 750.06,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement + daily support cluster (prior 10-day lows avg ~749\u2013750)",
+        "reason": "\u2014 Today's low; intraday support (tight). If breached intraday, watch $747.03.",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16383,9 +16383,9 @@
         "price": 743.66,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 MA50 + MA20 (746.01) overlap zone",
+        "reason": "\u2014 20-day VWAP + confluence with MA20 ($746.01). Critical demand zone; buyers cluster here.",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16403,9 +16403,9 @@
         "price": 772.32,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40 swing), natural breakout target if 760 breaks.",
+        "reason": "\u2014 1.272 Fibonacci extension (swing 716.58\u2192760.40). Round-number confluence; typical extension target on breakout.",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16413,9 +16413,9 @@
         "price": 787.48,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.618 extension, measured move objective, 2nd target zone for extended bullish run.",
+        "reason": "\u2014 1.618 Fibonacci extension. Measured move target on sustained breakout above $760.40.",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16426,6 +16426,16 @@
         "reason": "\u2014 Fibonacci 0.500 (midpoint of swing) + prior daily close cluster",
         "status": "active",
         "source_brief": "2026-08-03",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 743.66,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fibonacci retracement (golden zone start). Confluence with prior swing low structure. Break below confirms deepe",
+        "status": "active",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       }
