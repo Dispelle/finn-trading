@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-04T15:32:12.467014+00:00",
+  "generated_at": "2026-08-04T15:47:14.855993+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T15:45:08.210000+00:00",
+      "time": "11:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,077** | P&L: **-21"
+    },
+    {
+      "ts": "2026-08-04T15:41:35.975000+00:00",
+      "time": "11:41 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $718.75** Current: **$718.65** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-04T15:39:28.481000+00:00",
+      "time": "11:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $718.75** Current: **$718.98** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-04T15:39:27.592000+00:00",
+      "time": "11:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $115.74** Current: **$115.33** | Strength: 5/5 \u2014 **Today's low + 1H support cluster**"
+    },
+    {
+      "ts": "2026-08-04T15:38:23.222000+00:00",
+      "time": "11:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $897.34** Current: **$896.74** | Strength: 5/5 \u2014 reason: 20-day VWAP (MA confluence zone); psychological support that fl"
+    },
+    {
+      "ts": "2026-08-04T15:35:12.630000+00:00",
+      "time": "11:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $897.34** Current: **$897.56** | Strength: 5/5 \u2014 reason: 20-day VWAP (MA confluence zone); psychological support that fl"
+    },
+    {
+      "ts": "2026-08-04T15:34:09.582000+00:00",
+      "time": "11:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R2 $717.8** Current: **$717.69** | Strength: 5/5 0.382 Fib; MA50 ($716.08) confluence; prior swing support turned resistan"
+    },
     {
       "ts": "2026-08-04T15:30:07.537000+00:00",
       "time": "11:30 AM ET",
@@ -18,48 +60,6 @@
       "time": "11:28 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $896.01** Current: **$896.14** | Strength: 5/5 \u2014 20-day VWAP (recently breached below; acts as daily resistance now)"
-    },
-    {
-      "ts": "2026-08-04T15:27:46.694000+00:00",
-      "time": "11:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $519.92** Current: **$519.73** | Strength: 5/5 \u2014 Daily MA20 (slope down); strong resistance; confluent with 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-04T15:27:44.320000+00:00",
-      "time": "11:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $498.84** Current: **$498.77** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-04T15:26:42.056000+00:00",
-      "time": "11:26 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $520.0** Current: **$519.99** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-04T15:22:26.200000+00:00",
-      "time": "11:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $498.84** Current: **$498.93** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-04T15:21:24.641000+00:00",
-      "time": "11:21 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $519.92** Current: **$520.00** | Strength: 5/5 \u2014 Daily MA20 (slope down); strong resistance; confluent with 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-04T15:21:24.089000+00:00",
-      "time": "11:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $520.0** Current: **$520.00** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-04T15:20:21.170000+00:00",
-      "time": "11:20 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R2 $717.8** Current: **$717.97** | Strength: 5/5 0.382 Fib; MA50 ($716.08) confluence; prior swing support turned resistan"
     }
   ]
 }
