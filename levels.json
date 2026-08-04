@@ -19280,10 +19280,10 @@
       {
         "price": 694.57,
         "type": "S3",
-        "strength": 4,
-        "reason": "0.618 Fib (golden pocket); key pullback target if downtrend resumes",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket), critical demand level, prior swing low $695.25",
         "status": "active",
-        "source_brief": "2026-07-30",
+        "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19522,6 +19522,56 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 748.65,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high, recent pivot, Fibonacci 1.272 extension entry point",
+        "status": "active",
+        "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 745.45,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Secondary swing high (60d), confluence with psychological resistance",
+        "status": "active",
+        "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 772.45,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.272 extension (761.14 \u2192 748.65), psychological round, next supply zone",
+        "status": "active",
+        "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 715.22,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement (golden zone), daily MA50 confluence, prior swing high",
+        "status": "active",
+        "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 704.9,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.500 (mid-point), daily MA20 ($700.60 nearby), psychological support",
         "status": "active",
         "source_brief": "2026-08-04",
         "hit_count": 0,
