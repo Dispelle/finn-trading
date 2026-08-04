@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-04T17:44:37.632780+00:00",
+  "generated_at": "2026-08-04T17:59:38.844719+00:00",
   "items": [
     {
-      "ts": "2026-08-04T17:44:04.176000+00:00",
-      "time": "01:44 PM ET",
+      "ts": "2026-08-04T17:54:41.759000+00:00",
+      "time": "01:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $528.0** Current: **$527.78** | Strength: 5/5 **0.236 Fib retracement** (from $344.88 \u2192 $584.73); also proximity to MA2"
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $12.0** Current: **$12.00** | Strength: 5/5 \u2014 **Immediate support cluster**; daily lows converged 6 of last 10 days at "
     },
     {
-      "ts": "2026-08-04T17:43:00.725000+00:00",
-      "time": "01:43 PM ET",
+      "ts": "2026-08-04T17:53:38.620000+00:00",
+      "time": "01:53 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $528.0** Current: **$528.04** | Strength: 5/5 **0.236 Fib retracement** (from $344.88 \u2192 $584.73); also proximity to MA2"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63900.0** Current: **$63904.00** | Strength: 5/5 \u2014 Today's low, 1H lows clustering (64,180 \u2192 63,991 \u2192 63,982), micro-s"
     },
     {
-      "ts": "2026-08-04T17:41:56.885000+00:00",
-      "time": "01:41 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R3 $527.48** Current: **$527.54** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement; weekly MA20 ($425.18) below, but this is "
-    },
-    {
-      "ts": "2026-08-04T17:40:52.508000+00:00",
-      "time": "01:40 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R2 $526.67** Current: **$527.38** | Strength: 5/5 0.236 Fibonacci retracement (light resistance, initial bounce target)"
-    },
-    {
-      "ts": "2026-08-04T17:40:51.922000+00:00",
-      "time": "01:40 PM ET",
+      "ts": "2026-08-04T17:52:35.586000+00:00",
+      "time": "01:52 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $526.92** Current: **$527.38** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $527.48** Current: **$526.75** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement; weekly MA20 ($425.18) below, but this is "
     },
     {
-      "ts": "2026-08-04T17:30:26.250000+00:00",
-      "time": "01:30 PM ET",
+      "ts": "2026-08-04T17:52:34.805000+00:00",
+      "time": "01:52 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,059** | P&L: **-21"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $526.92** Current: **$526.75** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-04T17:25:05.372000+00:00",
-      "time": "01:25 PM ET",
+      "ts": "2026-08-04T17:52:33.641000+00:00",
+      "time": "01:52 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $309.16** Current: **$308.93** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63900.0** Current: **$63880.45** | Strength: 5/5 \u2014 Today's low, 1H lows clustering (64,180 \u2192 63,991 \u2192 63,982), micro-s"
     },
     {
-      "ts": "2026-08-04T17:25:04.693000+00:00",
-      "time": "01:25 PM ET",
+      "ts": "2026-08-04T17:51:31.261000+00:00",
+      "time": "01:51 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S3 $309.03** Current: **$308.93** | Strength: 5/5 **Fib 0.500 (midpoint)**; MA50 vicinity ($309.30); major support zone i"
+      "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP3 $772.32** Current: **$771.76** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-08-04T17:11:22.792000+00:00",
-      "time": "01:11 PM ET",
+      "ts": "2026-08-04T17:51:28.625000+00:00",
+      "time": "01:51 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $376.0** Current: **$375.99** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "\ud83d\udd34 **PLTR \u2014 BROKE BELOW R3 $163.7** Current: **$163.57** | Strength: 3/5 **60d high, extension reversal point** \u2014 supply zone"
     },
     {
-      "ts": "2026-08-04T17:10:17.516000+00:00",
-      "time": "01:10 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $587.0** Current: **$587.02** | Strength: 5/5 \u2014"
+      "ts": "2026-08-04T17:50:25.795000+00:00",
+      "time": "01:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R3 $529.07** Current: **$528.69** | Strength: 5/5 0.236 Fib retrace from $344.88\u2192$584.73; minor resistance cluster"
+    },
+    {
+      "ts": "2026-08-04T17:50:24.612000+00:00",
+      "time": "01:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $212.06** Current: **$211.81** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-04T17:50:23.566000+00:00",
+      "time": "01:50 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $360.0** Current: **$359.95** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
