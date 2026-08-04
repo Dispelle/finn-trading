@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-04T14:38:02.638749+00:00",
+  "generated_at": "2026-08-04T14:51:40.001203+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T14:49:33.011000+00:00",
+      "time": "10:49 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $361.5** Current: **$361.84** | Strength: 4/5 \u2014 Round number (psychological); extension target $1.272 fib (377.15) too "
+    },
+    {
+      "ts": "2026-08-04T14:47:26.258000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $64039.61** Current: **$64009.80** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** \u2014 Critical technical level; al"
+    },
+    {
+      "ts": "2026-08-04T14:45:15.631000+00:00",
+      "time": "10:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,056** | P&L: **-21"
+    },
+    {
+      "ts": "2026-08-04T14:42:07.457000+00:00",
+      "time": "10:42 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $64039.61** Current: **$64087.00** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** \u2014 Critical technical level; al"
+    },
     {
       "ts": "2026-08-04T14:35:46.205000+00:00",
       "time": "10:35 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:20 AM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **QQQ \u2014 BROKE BELOW TP2 $714.83** Current: **$714.78** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-04T14:20:57.898000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $765.0** Current: **$764.88** | Strength: 4/5 \u2014 psychological round number + gap extension zone (1\u20132% above current)"
-    },
-    {
-      "ts": "2026-08-04T14:17:46.136000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $765.0** Current: **$765.27** | Strength: 4/5 \u2014 psychological round number + gap extension zone (1\u20132% above current)"
-    },
-    {
-      "ts": "2026-08-04T14:15:07.629000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,740** | P&L: **-21"
-    },
-    {
-      "ts": "2026-08-04T14:12:29.868000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE R3 $715.22** Current: **$715.51** | Strength: 5/5 0.382 Fibonacci golden zone; MA50 $715.09 convergence; prior swing low $"
     }
   ]
 }
