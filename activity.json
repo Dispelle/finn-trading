@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-04T14:21:49.255987+00:00",
+  "generated_at": "2026-08-04T14:22:15.950424+00:00",
   "items": [
+    {
+      "ts": "2026-08-04T14:22:02.828000+00:00",
+      "time": "10:22 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $306.9** Current: **$307.08** | Strength: 5/5 Today's intraday high; 1H high coincides; immediate supply"
+    },
     {
       "ts": "2026-08-04T14:20:58.431000+00:00",
       "time": "10:20 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:06 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $517.17** Current: **$517.25** | Strength: 5/5 1H recent high (today's candle); MA20 daily ($515.06); 0.382 fib retrace"
-    },
-    {
-      "ts": "2026-08-04T14:05:01.653000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.75** Current: **$17.75** | Strength: 5/5 Recent HL (6 bars); 20-day VWAP $17.40 just below; active demand"
     }
   ]
 }
