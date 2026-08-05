@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-05T15:18:09.163674+00:00",
+  "generated_at": "2026-08-05T15:18:20.324660+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T15:18:17.271000+00:00",
+      "time": "11:18 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP3 $772.32** Current: **$772.00** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-05T15:18:14.643000+00:00",
+      "time": "11:18 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $159.03** Current: **$158.55** | Strength: 5/5 \u2014 **CRITICAL** \u2014 Today's low; only $0.31 margin of safety. Structure in"
+    },
+    {
+      "ts": "2026-08-05T15:18:11.323000+00:00",
+      "time": "11:18 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $360.0** Current: **$359.89** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-05T15:17:53.703000+00:00",
       "time": "11:17 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:06 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1141.44** Current: **$1140.97** | Strength: 4/5 MA50; confluence with swing low $1134.40 (4% below)"
-    },
-    {
-      "ts": "2026-08-05T15:06:31.022000+00:00",
-      "time": "11:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1141.54** Current: **$1140.97** | Strength: 5/5 MA50 (daily) \u2014 major dynamic support; above MA200; historically held i"
-    },
-    {
-      "ts": "2026-08-05T15:01:00.283000+00:00",
-      "time": "11:01 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1148.84** Current: **$1146.89** | Strength: 3/5 \u2014 **Current price / 1H close consolidation zone**"
-    },
-    {
-      "ts": "2026-08-05T15:00:58.512000+00:00",
-      "time": "11:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $491.64** Current: **$491.80** | Strength: 5/5 | 60-day / session high; psychological round; Fib 0.236 ($458) cluster "
     }
   ]
 }
