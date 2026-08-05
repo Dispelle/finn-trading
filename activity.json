@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-05T16:03:12.013319+00:00",
+  "generated_at": "2026-08-05T16:18:17.514536+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T16:13:56.729000+00:00",
+      "time": "12:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $581.05** Current: **$581.51** | Strength: 5/5 0.650 Fibonacci zone (golden pocket lower band); tested twice in last 5"
+    },
+    {
+      "ts": "2026-08-05T16:13:55.940000+00:00",
+      "time": "12:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R2 $581.07** Current: **$581.51** | Strength: 5/5 \u2014 0.650 Fib + prior swing low cluster confluence"
+    },
+    {
+      "ts": "2026-08-05T16:12:50.015000+00:00",
+      "time": "12:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $581.05** Current: **$580.75** | Strength: 5/5 0.650 Fibonacci zone (golden pocket lower band); tested twice in last 5"
+    },
+    {
+      "ts": "2026-08-05T16:12:49.514000+00:00",
+      "time": "12:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R2 $581.07** Current: **$580.75** | Strength: 5/5 \u2014 0.650 Fib + prior swing low cluster confluence"
+    },
+    {
+      "ts": "2026-08-05T16:05:09.164000+00:00",
+      "time": "12:05 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $582.22** Current: **$582.28** | Strength: 5/5 \u2014 0.650 Fibonacci retracement; 1H low from yesterday (578.25); daily su"
+    },
     {
       "ts": "2026-08-05T16:01:57.064000+00:00",
       "time": "12:01 PM ET",
@@ -30,36 +60,6 @@
       "time": "11:32 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R3 $574.22** Current: **$574.65** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-05T15:32:01.610000+00:00",
-      "time": "11:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $574.14** Current: **$574.65** | Strength: 4/5 20-day MA, downslope (trend rejection likely here)"
-    },
-    {
-      "ts": "2026-08-05T15:30:10.385000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,455**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-05T15:29:52.999000+00:00",
-      "time": "11:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $586.22** Current: **$585.99** | Strength: 5/5 \u2014 **Fibonacci 0.618 golden pocket (start) + 1H recent rejection zone**"
-    },
-    {
-      "ts": "2026-08-05T15:29:52.443000+00:00",
-      "time": "11:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R2 $586.24** Current: **$585.99** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-05T15:27:45.176000+00:00",
-      "time": "11:27 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $587.0** Current: **$586.71** | Strength: 5/5 \u2014"
     }
   ]
 }
