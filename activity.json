@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-05T17:20:32.935009+00:00",
+  "generated_at": "2026-08-05T17:20:53.482962+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T17:20:43.223000+00:00",
+      "time": "01:20 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $113.95** Current: **$113.95** | Strength: 5/5 \u2014 **Today's low + prior daily support clustering (114.86, 114.53, 114.88"
+    },
     {
       "ts": "2026-08-05T17:20:18.878000+00:00",
       "time": "01:20 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:29 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $927.67** Current: **$928.30** | Strength: 4/5 \u2014 20-day VWAP (anchored to recent high)"
-    },
-    {
-      "ts": "2026-08-05T16:23:33.328000+00:00",
-      "time": "12:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.0** Current: **$18.01** | Strength: 4/5 \u2014 Psychological round number; intraday support from last 10 daily lows aver"
     }
   ]
 }
