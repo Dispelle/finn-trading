@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-05T22:19:23.656447+00:00",
+  "generated_at": "2026-08-05T22:33:57.582000+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T22:30:09.746000+00:00",
+      "time": "06:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,671** | P&L: **-20"
+    },
     {
       "ts": "2026-08-05T22:00:09.755000+00:00",
       "time": "06:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:59 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $896.01** Current: **$895.62** | Strength: 5/5 \u2014 20-day VWAP (recently breached below; acts as daily resistance now)"
-    },
-    {
-      "ts": "2026-08-05T19:58:36.916000+00:00",
-      "time": "03:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW STOP $718.75** Current: **$718.63** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
