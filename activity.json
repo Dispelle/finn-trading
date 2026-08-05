@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-05T18:21:44.804986+00:00",
+  "generated_at": "2026-08-05T18:35:41.392496+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T18:30:47.913000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $488.42** Current: **$487.33** | Strength: 5/5 0.500 fib retracement (mid-range of swing); daily support cluster"
+    },
+    {
+      "ts": "2026-08-05T18:30:08.844000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,649**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-05T18:24:28.334000+00:00",
+      "time": "02:24 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $920.95** Current: **$920.98** | Strength: 5/5 \u2014 20-day MA zone (MA20 = $946.31 trailing); prior 7-day swing high; previ"
+    },
+    {
+      "ts": "2026-08-05T18:23:25.157000+00:00",
+      "time": "02:23 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R2 $56.3** Current: **$56.34** | Strength: 5/5 \u2014 reason: Fibonacci 0.786 retracement (golden zone confluence), prior swing"
+    },
     {
       "ts": "2026-08-05T18:17:04.055000+00:00",
       "time": "02:17 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:02 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $486.8** Current: **$486.65** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-05T18:01:04.257000+00:00",
-      "time": "02:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.14** Current: **$152.16** | Strength: 5/5 Prior higher low (most recent structure support), breached today to $149"
-    },
-    {
-      "ts": "2026-08-05T18:00:07.051000+00:00",
-      "time": "02:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,700**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-05T17:56:52.580000+00:00",
-      "time": "01:56 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $919.31** Current: **$919.51** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-05T17:55:48.743000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $919.31** Current: **$918.93** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
