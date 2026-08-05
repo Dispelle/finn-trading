@@ -13674,7 +13674,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13683,9 +13683,9 @@
         "price": 379.18,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.786 retracement (golden pocket lower band); also prior swing high confluence",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13734,7 +13734,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 **MA20 weekly** (overhead cloud from higher timeframe); 52-week resistance layer; psychological $400 level nearby",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -13773,9 +13773,9 @@
         "price": 409.11,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.382 retracement; prior intraswing resistance",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13803,9 +13803,9 @@
         "price": 363.32,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "60-day absolute low; fib swing origin point",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13853,9 +13853,9 @@
         "price": 391.63,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "Fibonacci 0.618 (golden pocket center) \u2014 psychological and structural resistance",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13873,9 +13873,9 @@
         "price": 370.53,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "Prior daily close (Nov/early Dec pattern); psychological level",
         "status": "active",
-        "source_brief": "2026-07-31",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13883,9 +13883,9 @@
         "price": 368.41,
         "type": "S3",
         "strength": 5,
-        "reason": "| Last HL (higher low); structural support for uptrend thesis",
+        "reason": "60-day swing low; represents current structure support",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13893,9 +13893,9 @@
         "price": 365.77,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "Recent lower low; secondary structure support",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14083,9 +14083,9 @@
         "price": 372.91,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: **20-day VWAP + 1H support cluster**",
+        "reason": "20-day VWAP; acting as dynamic support; price currently 1.96 pts above",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14124,7 +14124,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -14134,7 +14134,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high. Former support-turned-resistance. Psychological + technical barrier.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -14143,9 +14143,9 @@
         "price": 383.6,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "Prior swing high; sits near MA50 ($383.51) \u2014 major moving average resistance",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14376,6 +14376,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 421.82,
+        "type": "R3",
+        "strength": 5,
+        "reason": "60-day swing high; **invalidation level for bearish bias**",
+        "status": "active",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       }
