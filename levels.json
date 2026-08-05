@@ -6612,6 +6612,66 @@
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 166.06,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior 60-day high (micro-cycle resistance, tested 2 days ago, rejected on low volume)",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 172.4,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 (Golden pocket Fib 0.618 confluence at $129.17 inverted, psychological round + 8% extended move from R1)",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 182.3,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.272 extension (106.37\u2192166.06 swing) + psychological $180 level",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 159.03,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **CRITICAL** \u2014 Today's low; only $0.31 margin of safety. Structure invalidation level.",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 143.28,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Yesterday's gap-open low (4% gap down from $162.66 close); strong structural support if $159 breaks",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 136.22,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.500 retracement (106.37\u2192166.06); coincides with MA50 ($131.44) zone; major weekly support",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
