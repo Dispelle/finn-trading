@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-05T13:33:25.158392+00:00",
+  "generated_at": "2026-08-05T13:48:22.168529+00:00",
   "items": [
     {
-      "ts": "2026-08-05T13:33:09.662000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.75** Current: **$17.71** | Strength: 5/5 \u2014 reason: 20-day VWAP (technical pivot), Fib 0.618 golden pocket at $17.48"
-    },
-    {
-      "ts": "2026-08-05T13:33:09.018000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $115.74** Current: **$115.66** | Strength: 5/5 \u2014 **Today's low + 1H support cluster**"
-    },
-    {
-      "ts": "2026-08-05T13:33:07.937000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-08-05T13:47:46.719000+00:00",
+      "time": "09:47 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R2 $385.28** Current: **$385.36** | Strength: 5/5 \u2014 reason: MA50 (50-period moving average) + coincides with 0.618 Fib zon"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $495.76** Current: **$495.99** | Strength: 5/5 \u2014 Prior daily close (tested 3\u00d7 in last 6 closes); swing low retest zone;"
     },
     {
-      "ts": "2026-08-05T13:33:06.933000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $485.0** Current: **$487.04** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-05T13:33:05.135000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $486.8** Current: **$487.04** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-05T13:33:02.782000+00:00",
-      "time": "09:33 AM ET",
+      "ts": "2026-08-05T13:47:45.926000+00:00",
+      "time": "09:47 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $891.66** Current: **$892.00** | Strength: 5/5 Daily swing low (CRITICAL); recent LL; if broken = CHoCH"
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $495.35** Current: **$495.99** | Strength: 5/5 Last swing low / prior support / daily consolidation anchor"
     },
     {
-      "ts": "2026-08-05T13:33:00.900000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $64039.61** Current: **$63862.34** | Strength: 5/5 \u2014 **Fibonacci 0.618 (golden pocket)** \u2014 Critical technical level; al"
+      "ts": "2026-08-05T13:47:44.845000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $582.09** Current: **$582.87** | Strength: 5/5 20-day VWAP; psychological round; overlaps 0.500 Fib ($586.49 nearby)"
     },
     {
-      "ts": "2026-08-05T13:33:00.233000+00:00",
-      "time": "09:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63900.0** Current: **$63862.34** | Strength: 5/5 \u2014 Today's low, 1H lows clustering (64,180 \u2192 63,991 \u2192 63,982), micro-s"
+      "ts": "2026-08-05T13:46:40.843000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $912.34** Current: **$916.12** | Strength: 5/5 \u2014 MA20 daily (downward sloping, but major pivot; break here = trend shift"
     },
     {
-      "ts": "2026-08-05T13:32:59.388000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $11.83** Current: **$11.81** | Strength: 5/5 Intraday low today; last 10-day low; micro-structure support from hourly c"
+      "ts": "2026-08-05T13:46:40.126000+00:00",
+      "time": "09:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $911.84** Current: **$916.12** | Strength: 5/5 \u2014 Weekly MA20 (downsloping but recent support/resistance pivot)"
     },
     {
-      "ts": "2026-08-05T13:32:58.593000+00:00",
-      "time": "09:32 AM ET",
+      "ts": "2026-08-05T13:46:38.067000+00:00",
+      "time": "09:46 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.81** Current: **$11.81** | Strength: 5/5 |"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1184.78** Current: **$1182.00** | Strength: 5/5 MA20 daily, slope downward; psychological barrier to resume uptrend"
+    },
+    {
+      "ts": "2026-08-05T13:46:37.260000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1184.5** Current: **$1182.00** | Strength: 5/5 MA20 daily, slope-down (barrier); closes reject this all week"
+    },
+    {
+      "ts": "2026-08-05T13:46:36.561000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1186.07** Current: **$1182.00** | Strength: 5/5 20-day VWAP; price resting just above; key zone for consolidation brea"
+    },
+    {
+      "ts": "2026-08-05T13:46:34.996000+00:00",
+      "time": "09:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $491.37** Current: **$491.30** | Strength: 5/5 \u2014 60-day swing high (yesterday's high, current resistance)"
+    },
+    {
+      "ts": "2026-08-05T13:45:31.135000+00:00",
+      "time": "09:45 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1186.5** Current: **$1186.49** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
