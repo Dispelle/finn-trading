@@ -4071,9 +4071,9 @@
         "price": 352.58,
         "type": "S1",
         "strength": 5,
-        "reason": "Wed close, daily VWAP anchor, recent swing low",
+        "reason": "\u2014 Prior daily close (2 bars ago); 4H intermediate support; confluence with hourly band",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4160,10 +4160,10 @@
       {
         "price": 351.72,
         "type": "S2",
-        "strength": 4,
-        "reason": "Prior weekly close; intraday low floor (multiple touches in 1H); MA20 nearby at $346.07",
+        "strength": 5,
+        "reason": "\u2014 Recent daily low; critical higher-low structure point; **invalidation if breached**",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4371,9 +4371,9 @@
         "price": 368.5,
         "type": "R2",
         "strength": 4,
-        "reason": "Round number + estimated 1.272 Fib extension zone",
+        "reason": "\u2014 1% above R1; first extension of bullish move; fib extension 1.272 @ $381.86 proximity",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4451,9 +4451,9 @@
         "price": 363.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **",
+        "reason": "\u2014 60-day and recent intraday high; psychological round number; supply cluster",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4461,9 +4461,9 @@
         "price": 381.86,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 **",
+        "reason": "\u2014 Fibonacci 1.272 extension (from $293.67\u2192$363.00 swing); structural target",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4534,6 +4534,16 @@
         "reason": "\u2014 **",
         "status": "active",
         "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 344.71,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Daily low 4 bars ago; 7-day support zone; MA20 ($345.88) nearby",
+        "status": "active",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       }
