@@ -17016,7 +17016,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -17276,7 +17276,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low / confluence with lower edge of recent 1H consolidation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -17376,7 +17376,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP; MA20 currently at $17.19 (will sink to here); accumulation benchmark",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -17395,9 +17395,9 @@
         "price": 18.83,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (4 days ago); weekly structure breakpoint; HH invalidation level",
+        "reason": "\u2014 reason: 60-day swing high, market structure inflection, failed breakout point",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17416,7 +17416,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -17465,9 +17465,9 @@
         "price": 17.75,
         "type": "S1",
         "strength": 5,
-        "reason": "Recent HL (6 bars); 20-day VWAP $17.40 just below; active demand",
+        "reason": "\u2014 reason: 20-day VWAP (technical pivot), Fib 0.618 golden pocket at $17.48\u2013$17.75, today's daily low",
         "status": "active",
-        "source_brief": "2026-07-29",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17655,9 +17655,9 @@
         "price": 18.39,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement (psychological 50% level; prior rejection point; 52 pips above price)",
+        "reason": "\u2014 reason: Prior swing high (Jan 5\u20136), 100% recent daily rejection level",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17665,9 +17665,9 @@
         "price": 17.48,
         "type": "S2",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket); psychological level",
+        "reason": "\u2014 reason: **GOLDEN POCKET** Fib 0.618 (highest probability retest), daily support cluster",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17675,9 +17675,9 @@
         "price": 16.18,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci + prior swing low; weekly structure support; 169 pips below (major consolidation floor)",
+        "reason": "\u2014 reason: Fib 0.786 (deep retracement), 52-week swing low repeat, psychological floor",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17785,9 +17785,9 @@
         "price": 19.31,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement + MA200 proximity ($19.11); major supply zone",
+        "reason": "\u2014 reason: Fibonacci 0.382 retracement ($14.53\u2192$22.26), MA50 proximity, psychological barrier",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
