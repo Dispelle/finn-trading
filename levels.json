@@ -1138,7 +1138,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1167,9 +1167,9 @@
         "price": 625.66,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement ($524.49\u2192$686.08); MA50 nearby ($601.89); daily support-turned-resistance from last week's",
+        "reason": "\u2014 0.382 Fibonacci retracement; also aligns with **MA50 $601.50 + $23 buffer** and prior daily lows that held in recovery",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1178,7 +1178,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **0.618 Fibonacci (golden pocket)** + prior swing low confluence (592.6) nearby. This is the PRIMARY support.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -1198,7 +1198,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.382 retracement (540.18 \u2192 686.08), major supply zone, weekly invalidation point",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -1218,7 +1218,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **0.650 Fibonacci** + 60-day low ($540.18) context. Acts as hard floor.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -1308,7 +1308,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 60-day swing high (prior support turned resistance, 8 days ago)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -1488,7 +1488,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Last confirmed higher low (daily), psychological barrier",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-28",
         "hit_count": 0,
         "last_hit": null
@@ -1507,9 +1507,9 @@
         "price": 606.85,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci retracement (mid-point of $524.49\u2013$686.08 swing) + psychological round number + confluence with 20-day",
+        "reason": "\u2014 0.500 Fibonacci retracement (524.49 \u2192 686.08); psychological round number; confluent with daily **open at 581.16 + $24",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1627,9 +1627,9 @@
         "price": 582.22,
         "type": "S1",
         "strength": 5,
-        "reason": "Fib 0.650 retracement; minor swing low ($577.07 nearby); psychological round",
+        "reason": "\u2014 **0.650 Fibonacci retracement (golden zone confluence)**; also **1H recent low cluster 578.25\u2013581.05**; very tight sup",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1777,9 +1777,9 @@
         "price": 647.95,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement of full 60-day range ($524.49\u2192$686.08)",
+        "reason": "\u2014 0.236 Fibonacci retracement; **prior swing low support turned resistance** (557.01 + confluence); break above here sig",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1947,9 +1947,9 @@
         "price": 524.49,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **52-week low + extreme swing low**",
+        "reason": "\u2014 **60-day low; capitulation flush zone; major psychological support $520\u2013$525 (52-week low $520.26)**; this is the **li",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2017,9 +2017,9 @@
         "price": 559.07,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.786 retracement; aligns with swing low ($557.01); tested multiple times",
+        "reason": "\u2014 **0.786 Fibonacci retracement**; **daily low from 8 bars ago (539.03 pivot point)**; psychological $560 level",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
