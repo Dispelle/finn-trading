@@ -19353,9 +19353,9 @@
         "price": 747.67,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.382 retracement + Daily MA20",
+        "reason": "20-day VWAP ($747.20 nearby); prior swing high; MA20 confluence",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19524,6 +19524,76 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **Fib 1.272 extension (716.58\u2192773.41), round number ($790)**",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 776.85,
+        "type": "R1",
+        "strength": 5,
+        "reason": "60-day high (today's high); 52-week high; 1.272 Fib extension confluent; psychological round",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 793.24,
+        "type": "R2",
+        "strength": 4,
+        "reason": "1.272 Fibonacci extension (from $716.58 \u2192 $776.85 swing); extension breakout territory",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 814.1,
+        "type": "R3",
+        "strength": 4,
+        "reason": "1.618 Fibonacci extension; longer-term bull target if $776.85 breaks decisively",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 772.58,
+        "type": "S1",
+        "strength": 4,
+        "reason": "Today's daily low; strong support formed this session",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 760.52,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Last daily low (10d ago); swing structure anchor; loss of this = BOS downward",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 785.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 793.24,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-05",
         "hit_count": 0,
