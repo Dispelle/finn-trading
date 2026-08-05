@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-05T14:18:17.306429+00:00",
+  "generated_at": "2026-08-05T14:33:17.938808+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T14:31:00.671000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $574.22** Current: **$573.34** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-05T14:31:00.092000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $574.14** Current: **$573.34** | Strength: 4/5 20-day MA, downslope (trend rejection likely here)"
+    },
+    {
+      "ts": "2026-08-05T14:30:08.216000+00:00",
+      "time": "10:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,296**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-05T14:23:35.196000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1155.49** Current: **$1153.90** | Strength: 4/5 Today's low (intraday floor); last 4H low; tightening support band"
+    },
+    {
+      "ts": "2026-08-05T14:23:34.522000+00:00",
+      "time": "10:23 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1155.3** Current: **$1153.90** | Strength: 5/5 Today's low; intraday support formed at close; 1H test of recent base"
+    },
+    {
+      "ts": "2026-08-05T14:22:29.061000+00:00",
+      "time": "10:22 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64387.05** Current: **$64364.83** | Strength: 5/5 20-day VWAP \u2014 price currently sitting AT this level; volume-weighted"
+    },
+    {
+      "ts": "2026-08-05T14:21:21.479000+00:00",
+      "time": "10:21 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $361.5** Current: **$361.31** | Strength: 4/5 \u2014 Round number (psychological); extension target $1.272 fib (377.15) too "
+    },
     {
       "ts": "2026-08-05T14:15:10.030000+00:00",
       "time": "10:15 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:13 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S3 $1177.19** Current: **$1175.94** | Strength: 4/5 \u2014 Fibonacci 0.236 retracement (shallow). Also prior daily lows cluster"
-    },
-    {
-      "ts": "2026-08-05T14:11:18.024000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $114.86** Current: **$114.98** | Strength: 5/5 \u2014 **Today's low + 60-day swing low cluster**"
-    },
-    {
-      "ts": "2026-08-05T14:11:16.939000+00:00",
-      "time": "10:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $388.0** Current: **$388.26** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-05T14:09:08.312000+00:00",
-      "time": "10:09 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $487.65** Current: **$487.73** | Strength: 5/5 \u2014 Yesterday's daily close, very recent support. First pullback zone."
-    },
-    {
-      "ts": "2026-08-05T14:08:04.258000+00:00",
-      "time": "10:08 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $361.5** Current: **$361.56** | Strength: 4/5 \u2014 Round number (psychological); extension target $1.272 fib (377.15) too "
-    },
-    {
-      "ts": "2026-08-05T14:08:03.219000+00:00",
-      "time": "10:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $487.65** Current: **$487.36** | Strength: 5/5 \u2014 Yesterday's daily close, very recent support. First pullback zone."
-    },
-    {
-      "ts": "2026-08-05T14:05:57.741000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $114.86** Current: **$114.56** | Strength: 5/5 \u2014 **Today's low + 60-day swing low cluster**"
-    },
-    {
-      "ts": "2026-08-05T14:05:55.853000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R1 $64387.05** Current: **$64473.81** | Strength: 5/5 20-day VWAP \u2014 price currently sitting AT this level; volume-weighted"
     }
   ]
 }
