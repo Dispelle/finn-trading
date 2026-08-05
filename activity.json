@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-05T16:48:47.429832+00:00",
+  "generated_at": "2026-08-05T17:20:32.935009+00:00",
   "items": [
+    {
+      "ts": "2026-08-05T17:20:18.878000+00:00",
+      "time": "01:20 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,514**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-05T17:19:39.219000+00:00",
+      "time": "01:19 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S2 $113.95** Current: **$113.93** | Strength: 5/5 \u2014 **Today's low + prior daily support clustering (114.86, 114.53, 114.88"
+    },
+    {
+      "ts": "2026-08-05T17:01:11.357000+00:00",
+      "time": "01:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,588** | P&L: **-20"
+    },
     {
       "ts": "2026-08-05T16:45:20.197000+00:00",
       "time": "12:45 PM ET",
@@ -42,24 +60,6 @@
       "time": "12:23 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.0** Current: **$18.01** | Strength: 4/5 \u2014 Psychological round number; intraday support from last 10 daily lows aver"
-    },
-    {
-      "ts": "2026-08-05T16:23:32.206000+00:00",
-      "time": "12:23 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $388.77** Current: **$388.93** | Strength: 5/5 0.650 Fib (golden pocket start); 1H low cluster 384\u2013388"
-    },
-    {
-      "ts": "2026-08-05T16:13:56.729000+00:00",
-      "time": "12:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $581.05** Current: **$581.51** | Strength: 5/5 0.650 Fibonacci zone (golden pocket lower band); tested twice in last 5"
-    },
-    {
-      "ts": "2026-08-05T16:13:55.940000+00:00",
-      "time": "12:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R2 $581.07** Current: **$581.51** | Strength: 5/5 \u2014 0.650 Fib + prior swing low cluster confluence"
     }
   ]
 }
