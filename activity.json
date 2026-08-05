@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-05T13:48:51.760298+00:00",
+  "generated_at": "2026-08-05T14:03:15.872860+00:00",
   "items": [
     {
-      "ts": "2026-08-05T13:48:51.359000+00:00",
-      "time": "09:48 AM ET",
+      "ts": "2026-08-05T14:02:38.876000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1182.0** Current: **$1176.23** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $912.34** Current: **$905.74** | Strength: 5/5 \u2014 MA20 daily (downward sloping, but major pivot; break here = trend shift"
     },
     {
-      "ts": "2026-08-05T13:48:50.817000+00:00",
-      "time": "09:48 AM ET",
+      "ts": "2026-08-05T14:02:36.605000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1180.0** Current: **$1176.23** | Strength: 5/5 Fib 0.236 retracement (943.26 \u2192 1249.45); first bounce target if sellin"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $911.84** Current: **$905.74** | Strength: 5/5 \u2014 Weekly MA20 (downsloping but recent support/resistance pivot)"
     },
     {
-      "ts": "2026-08-05T13:47:46.719000+00:00",
-      "time": "09:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $495.76** Current: **$495.99** | Strength: 5/5 \u2014 Prior daily close (tested 3\u00d7 in last 6 closes); swing low retest zone;"
-    },
-    {
-      "ts": "2026-08-05T13:47:45.926000+00:00",
-      "time": "09:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $495.35** Current: **$495.99** | Strength: 5/5 Last swing low / prior support / daily consolidation anchor"
-    },
-    {
-      "ts": "2026-08-05T13:47:44.845000+00:00",
-      "time": "09:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $582.09** Current: **$582.87** | Strength: 5/5 20-day VWAP; psychological round; overlaps 0.500 Fib ($586.49 nearby)"
-    },
-    {
-      "ts": "2026-08-05T13:46:40.843000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $912.34** Current: **$916.12** | Strength: 5/5 \u2014 MA20 daily (downward sloping, but major pivot; break here = trend shift"
-    },
-    {
-      "ts": "2026-08-05T13:46:40.126000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $911.84** Current: **$916.12** | Strength: 5/5 \u2014 Weekly MA20 (downsloping but recent support/resistance pivot)"
-    },
-    {
-      "ts": "2026-08-05T13:46:38.067000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-08-05T14:02:34.706000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1184.78** Current: **$1182.00** | Strength: 5/5 MA20 daily, slope downward; psychological barrier to resume uptrend"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $906.38** Current: **$905.74** | Strength: 5/5 Fib 0.500 midpoint of 557.76\u21921255.00 swing; MA20 trend resistance; daily "
     },
     {
-      "ts": "2026-08-05T13:46:37.260000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-08-05T14:02:33.499000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1184.5** Current: **$1182.00** | Strength: 5/5 MA20 daily, slope-down (barrier); closes reject this all week"
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R3 $578.3** Current: **$577.67** | Strength: 5/5 \u2014 Weekly MA20 (slope down). Psychological resistance. Daily price rejecti"
     },
     {
-      "ts": "2026-08-05T13:46:36.561000+00:00",
-      "time": "09:46 AM ET",
+      "ts": "2026-08-05T14:02:32.172000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1186.07** Current: **$1182.00** | Strength: 5/5 20-day VWAP; price resting just above; key zone for consolidation brea"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $64296.0** Current: **$64293.56** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-05T14:00:09.312000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,355**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-05T13:59:05.154000+00:00",
+      "time": "09:59 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R2 $56.3** Current: **$56.31** | Strength: 5/5 \u2014 reason: Fibonacci 0.786 retracement (golden zone confluence), prior swing"
+    },
+    {
+      "ts": "2026-08-05T13:57:57.664000+00:00",
+      "time": "09:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $64296.0** Current: **$64328.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-05T13:55:32.972000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.71** Current: **$152.83** | Strength: 5/5 0.382 Fib retracement (golden zone entry); prior daily lows clustering ("
+    },
+    {
+      "ts": "2026-08-05T13:54:19.937000+00:00",
+      "time": "09:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.14** Current: **$152.56** | Strength: 5/5 Prior higher low (most recent structure support), breached today to $149"
     }
   ]
 }
