@@ -3213,9 +3213,9 @@
         "price": 149.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci (50% retrace, psychological midpoint of swing). Also overlaps today's low $149.09. **CRITICAL SUPPORT ",
+        "reason": "20-day VWAP confluence ($149.69) + fib 0.500 ($149.31), major mean reversion zone, golden pocket entry",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3223,9 +3223,9 @@
         "price": 145.92,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci (golden pocket start); aligns with MA200 proximity and 20-day VWAP downside. If broken, trend structur",
+        "reason": "Fib 0.618 golden pocket floor, MA200 proxy (~$150.84 but fib more precise), next institutional support if $149.31 breaks",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3253,9 +3253,9 @@
         "price": 171.49,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 1.272 extension from 134.95\u2192163.68 swing; psychological round number; prior breakout target",
+        "reason": "Fib extension 1.272 (from $134.95\u2192$163.68 swing), target for acceleration above $163.68",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3263,9 +3263,9 @@
         "price": 158.71,
         "type": "R1",
         "strength": 5,
-        "reason": "Prior swing high (daily), 60-day structure peak, tested twice in last 10 bars",
+        "reason": "Prior swing high (6 days ago), 60-day swing high, fib 0.236 confluence at $156.90 \u2014 major supply zone",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3273,9 +3273,9 @@
         "price": 163.68,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day absolute high, breakout resistance, Fib extension confluence zone (1.272 @ $171.49 beyond)",
+        "reason": "60-day absolute high, recent swing extreme, psychological level",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3716,6 +3716,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 152.14,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Prior higher low (most recent structure support), breached today to $149.09 \u2014 **now broken**",
+        "status": "active",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       }
