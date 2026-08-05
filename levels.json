@@ -6036,10 +6036,10 @@
       {
         "price": 128.27,
         "type": "S3",
-        "strength": 4,
-        "reason": "0.618 Fibonacci (golden pocket end); strong reversal zone if structure breaks",
+        "strength": 5,
+        "reason": "0.618 Fib (golden pocket deep); weekly MA20 support ($137 nearby); strong demand zone",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6256,10 +6256,10 @@
       {
         "price": 207.52,
         "type": "R3",
-        "strength": 3,
-        "reason": "52-week absolute high",
+        "strength": 4,
+        "reason": "52-week all-time high; major resistance cluster",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6310,6 +6310,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-04",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 180.34,
+        "type": "R1",
+        "strength": 5,
+        "reason": "1.272 Fib extension (106.37\u2192164.52); psychological round + breakout target",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 200.46,
+        "type": "R2",
+        "strength": 5,
+        "reason": "1.618 Fib extension (golden ratio target for impulsive moves); 52w upper bound test",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 150.8,
+        "type": "S1",
+        "strength": 4,
+        "reason": "0.236 Fib (minor pullback support); daily VWAP proximity",
+        "status": "active",
+        "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 142.31,
+        "type": "S2",
+        "strength": 5,
+        "reason": "0.382 Fib (golden pocket zone); daily higher low invalidation point",
+        "status": "active",
+        "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
       }
