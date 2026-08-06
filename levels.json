@@ -12946,7 +12946,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -13025,9 +13025,9 @@
         "price": 584.73,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high, prior range resistance (now far away)",
+        "reason": "60-day all-time high; round number; prior swing high; psychological resistance",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13146,7 +13146,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13245,9 +13245,9 @@
         "price": 539.69,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci (the \"first profit zone\" on a retrace); coincides with recent swing high at $539.69",
+        "reason": "0.236 Fib + recent swing high ($539.69 daily close 10d ago); prior support-turned-resistance",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -13436,7 +13436,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Last daily close / last lower high / intraday swing",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13536,7 +13536,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 MA20 daily (slope downward but still 7.5 pts above; psychological 20-period moving average holds sellers)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13666,7 +13666,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Swing low 5d ago; rejected today at $472.75 (1H high); prior support flip",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13706,7 +13706,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "1H low from today / recent daily low anchor / psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13726,7 +13726,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Last swing low / prior support / daily consolidation anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13746,7 +13746,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fib 0.618 (golden pocket); confluent support zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13756,7 +13756,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13766,7 +13766,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13776,7 +13776,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "Fib 1.272 extension (bullish target if HTF bias holds)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -13886,7 +13886,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 MA200 (long-term support); price still above this, bullish structurally",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -14125,9 +14125,9 @@
         "price": 393.36,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low; structural support (extreme); unlikely target unless macro shock",
+        "reason": "60-day absolute low; MA200 at $369.19 well below; support only if panic selloff",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14215,9 +14215,9 @@
         "price": 434.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.786 Fibonacci; prior swing low at $424.03 nearby; psychological support",
+        "reason": "0.786 Fib; prior swing low zone ($437.23); below 20-day VWAP ($507.49)",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14225,9 +14225,9 @@
         "price": 512.21,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; **confluence with MA50 $514.62**; prior swing support now resistance",
+        "reason": "0.382 Fib (major retracement zone); MA20 and MA50 confluence; 20-day VWAP at $507.49",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -14235,9 +14235,9 @@
         "price": 466.46,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci (golden pocket)**; strong mean-reversion magnet; aligns with swing lows at $460.21 and $437.23",
+        "reason": "0.618 Fib golden pocket (CRITICAL); recent swing low cluster ($460.21\u2013$455.30); psychological round",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
