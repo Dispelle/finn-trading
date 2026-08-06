@@ -1,6 +1,6 @@
 {
   "MSFT": {
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -30,7 +30,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 50% Fibonacci retracement (349.2\u2192466.32); psychological round; last time buyers committed here before rollover",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -100,7 +100,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -150,7 +150,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -210,7 +210,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: 10-day swing high (6 days ago). Last true resistance before the gap up to $427. This is a **supply zone**.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -300,7 +300,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's daily low, 20-day VWAP ($388.02), Fib 0.650 ($390.19) \u2014 TIGHT CLUSTER",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -440,7 +440,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 60-day swing high, Fib 0.236 extension zone ($438.68 nearby), significant supply cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -450,7 +450,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -460,7 +460,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -470,7 +470,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior 1H/daily high + 1H close = immediate overhead",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -490,7 +490,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **GOLDEN POCKET** (Fib 0.618 retracement, $349.20\u2192$466.32). **CRITICAL.** MA20 ($390.14) + 0.650 Fib level ($390.19) *",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -500,7 +500,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 20-day VWAP; daily accumulation baseline; breaks here = weekly close below VWAP",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
