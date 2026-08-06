@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-06T21:22:26.979331+00:00",
+  "generated_at": "2026-08-06T21:36:55.391223+00:00",
   "items": [
+    {
+      "ts": "2026-08-06T21:30:09.011000+00:00",
+      "time": "05:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,397**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-06T21:21:38.439000+00:00",
       "time": "05:21 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $882.6** Current: **$882.10** | Strength: 5/5 \u2014 **FIBONACCI 0.618 (GOLDEN POCKET)** \u2014 exact confluence with Fib golden z"
-    },
-    {
-      "ts": "2026-08-06T19:57:59.831000+00:00",
-      "time": "03:57 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1188.58** Current: **$1189.64** | Strength: 5/5 \u2014 Recent swing high (10d ago); 20-day VWAP nearby at $1,170.86; cluste"
     }
   ]
 }
