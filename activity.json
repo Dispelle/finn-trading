@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-06T17:50:47.804637+00:00",
+  "generated_at": "2026-08-06T18:05:35.267202+00:00",
   "items": [
+    {
+      "ts": "2026-08-06T18:00:06.788000+00:00",
+      "time": "02:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,559**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-06T17:53:53.730000+00:00",
+      "time": "01:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R2 $389.26** Current: **$389.49** | Strength: 5/5 \u2014 Fib 0.650 retracement + psychological level + middle of consolidation "
+    },
     {
       "ts": "2026-08-06T17:46:29.895000+00:00",
       "time": "01:46 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:21 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $355.41** Current: **$355.09** | Strength: 5/5 **TODAY'S LOW; Recent HL; critical structural support** \u2014 **if broken = "
-    },
-    {
-      "ts": "2026-08-06T17:20:13.359000+00:00",
-      "time": "01:20 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,664**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-06T17:02:57.640000+00:00",
-      "time": "01:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $495.76** Current: **$495.52** | Strength: 5/5 \u2014 Prior daily close (tested 3\u00d7 in last 6 closes); swing low retest zone;"
     }
   ]
 }
