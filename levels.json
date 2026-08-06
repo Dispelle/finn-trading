@@ -4959,9 +4959,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day / Fib 1.0 (swing apex); invalidation level for weekly bias",
+        "reason": "\u2014 60-day ATH; psychological round; Fibonacci extension zone start; market leader resistance ***",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5589,9 +5589,9 @@
         "price": 1232.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (60d); confluence with failed retest zone; psychological supply",
+        "reason": "\u2014 Prior swing high (5 bars ago); critical inflection point; if broken daily confirms bull bias ***",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5739,9 +5739,39 @@
         "price": 1168.79,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (liquid mean reversion anchor); equals today's close = support formation",
+        "reason": "\u2014 20-day VWAP (dynamic support); price currently at close $1169.86 = **AT VWAP**; tight rejection = bounce zone ***",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1216.94,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Today's daily high; intraday swing resistance; tested multiple times in 1H; ***",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1148.84,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Weekly close 6 bars ago; swing low that defined HL; tested 3 times in last 10 days = confluence zone ***",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1109.15,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 9-day swing low; next structural support; Fibonacci 0.500 at $1096.35 just below = major support band ***",
+        "status": "active",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       }
