@@ -6866,7 +6866,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6875,9 +6875,9 @@
         "price": 12.6,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.786 Fib retracement + convergence zone (prior swing, MA200 resistance when retested from below)",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6975,9 +6975,9 @@
         "price": 14.33,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.500 Fibonacci midpoint** (50% retracement); if breached, signals potential trend exhaustion; coincides with struct",
+        "reason": "\u2014 0.500 mid-point retracement, prior swing high, psychological",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7065,9 +7065,9 @@
         "price": 13.62,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (Golden Pocket) + psychological breakeven",
+        "reason": "\u2014 0.618 golden pocket (Fib retracement), supply zone from $13.27\u2013$13.62",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7105,9 +7105,9 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **52-week low + psychological round number + support capitulation**",
+        "reason": "\u2014 60-day low, foundational support, 0.000 Fib origin",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7176,7 +7176,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "1.272 Fibonacci extension (11.31 base). Unlikely but represents maximum downside scenario if breakdown accelerates.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -7196,7 +7196,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "\u2014 **1H recent low (20 candles ago)** + intraday support from this morning's reversal ($11.68 L \u2192 $12.20 C). Minor suppor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -7216,7 +7216,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "Round number; psychological floor; untested but likely major support if breached",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -7226,7 +7226,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 **0.382 Fib retracement** + **confluence with prior swing low cluster** ($15.49, $14.45 cluster zone). Previous resist",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -7245,9 +7245,9 @@
         "price": 13.01,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 Recent swing high (60-day analysis), psychological support/resistance flip",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7266,7 +7266,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -7275,9 +7275,9 @@
         "price": 11.83,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Swing low cluster (3x tested on daily chart, 60-day pattern)",
+        "reason": "\u2014 Recent swing low (formed 2 days ago), daily chart support",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
