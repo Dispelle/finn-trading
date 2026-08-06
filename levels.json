@@ -15512,7 +15512,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -15602,7 +15602,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Last week's close and recurring daily support (appears in 8 of last 10 daily closes within $50.78\u2013$52.21). Psychologic",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -15672,7 +15672,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 52-week low; white swan support (psychological, not immediate risk)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -15732,7 +15732,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 20-day VWAP + daily MA20 convergence. Tested multiple times last 5 days; rejected.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -15962,7 +15962,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -16072,7 +16072,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 60-day low, 0% retracement floor (swing low anchor). Psychological round.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -16092,7 +16092,7 @@
         "type": "R3",
         "strength": 3,
         "reason": "\u2014 0.236 Fibonacci; lower-conviction resistance, but if price rallies past $65.24, this becomes secondary target before $",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
