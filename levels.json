@@ -14694,7 +14694,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -14834,7 +14834,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior daily swing high (5 bars ago); confluent with upper band of current consolidation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -14954,7 +14954,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 60-day swing low (capitulation anchor; double-tested, held both times)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-29",
         "hit_count": 0,
         "last_hit": null
@@ -15093,9 +15093,9 @@
         "price": 419.93,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fib retracement (23.6% of swing) + 60d swing high cluster ($418.42, $421.82 nearby)",
+        "reason": "\u2014 0.236 Fib retracement + prior swing high ($418.42) + 50% above 60-day low",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15433,9 +15433,9 @@
         "price": 399.68,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fib retracement (50% of 363.32\u2192436.04 swing) + psychological level",
+        "reason": "\u2014 0.500 Fib retracement + midpoint of 60-day range",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15443,9 +15443,9 @@
         "price": 408.26,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fib retracement (38.2% of swing) + prior 60d swing resistance zone",
+        "reason": "\u2014 0.382 Fib retracement + prior swing high clustering zone",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15453,9 +15453,9 @@
         "price": 388.77,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.650 Fib retracement (golden pocket extension, confluent with 20-day VWAP $373.92 zone)",
+        "reason": "\u2014 0.650 Fib retracement (very close to current price; **immediate support**)",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15463,9 +15463,9 @@
         "price": 378.88,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.786 Fib retracement (deep retrace level) + MA20 weekly ($401.26 initial slope, stepping down)",
+        "reason": "\u2014 0.786 Fib retracement + upper boundary of 5-week consolidation range",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -15493,9 +15493,9 @@
         "price": 373.92,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; MA20 at $373.22 just below; structural 4H support",
+        "reason": "\u2014 20-day VWAP + MA20 ($373.22) zone",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
