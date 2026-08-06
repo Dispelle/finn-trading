@@ -1139,9 +1139,9 @@
         "price": 510.0,
         "type": "R2",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 Round number + Fibonacci 1.272 extension zone ($543.00 is too far; intermediate target)",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1240,6 +1240,46 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 501.55,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior 60-day high; today's high; major swing point; psychological round",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 520.0,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 Psychological + confluence with potential weekly close above all-time structure",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 492.81,
+        "type": "S1",
+        "strength": 3,
+        "reason": "\u2014 Prior daily close (Dec candle); minor support",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 488.52,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Today's low; Fibonacci 0.236 ($465.60) too far away; 0.382 at $443.36 is major",
         "status": "active",
         "source_brief": "2026-08-06",
         "hit_count": 0,
