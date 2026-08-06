@@ -6925,7 +6925,7 @@
         "price": 12.6,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.786 Fib retracement + convergence zone (prior swing, MA200 resistance when retested from below)",
+        "reason": "\u2014 0.786 Fibonacci retracement + MA20 daily average + 1H local cluster high",
         "status": "active",
         "source_brief": "2026-08-06",
         "hit_count": 0,
@@ -6965,9 +6965,9 @@
         "price": 13.62,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci golden pocket** (highest probability reversal zone); MA20 weekly below here; psychological breakpoin",
+        "reason": "\u2014 0.618 Fibonacci golden pocket + psychological round level + prior swing low confluence",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6975,9 +6975,9 @@
         "price": 15.04,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.382 Fibonacci retracement + 38.2% of entire 60-day swing + mid-zone supply",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7155,7 +7155,7 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day low, foundational support, 0.000 Fib origin",
+        "reason": "\u2014 52-week low + psychological major support + 0.000 Fibonacci reference",
         "status": "active",
         "source_brief": "2026-08-06",
         "hit_count": 0,
@@ -7177,7 +7177,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7548,6 +7548,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-05",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.78,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Today's low + 1H support cluster + tight daily consolidation base",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.31,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 10.5,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.31,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-06",
         "hit_count": 0,
         "last_hit": null
       }
