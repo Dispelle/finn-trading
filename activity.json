@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-06T22:37:03.039322+00:00",
+  "generated_at": "2026-08-06T22:52:01.705818+00:00",
   "items": [
+    {
+      "ts": "2026-08-06T22:45:07.154000+00:00",
+      "time": "06:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.0% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,288**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-06T22:30:09.636000+00:00",
       "time": "06:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:59 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R3 $715.22** Current: **$714.93** | Strength: 5/5 0.382 Fibonacci golden zone; MA50 $715.09 convergence; prior swing low $"
-    },
-    {
-      "ts": "2026-08-06T19:59:06.284000+00:00",
-      "time": "03:59 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1190.74** Current: **$1191.83** | Strength: 5/5 \u2014 **MA20 (weekly), dynamic support, currently 19pts below price**"
     }
   ]
 }
