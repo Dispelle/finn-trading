@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T15:27:12.366805+00:00",
+  "generated_at": "2026-08-07T15:42:13.858660+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T15:35:42.748000+00:00",
+      "time": "11:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $773.41** Current: **$773.39** | Strength: 5/5 \u2014 **52-week high, today's high, swing high**"
+    },
     {
       "ts": "2026-08-07T15:26:57.581000+00:00",
       "time": "11:26 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:52 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $223.63** Current: **$223.51** | Strength: 5/5 1H High today; tested 3x in last 20 hourly candles; minor supply zone"
-    },
-    {
-      "ts": "2026-08-07T14:51:18.146000+00:00",
-      "time": "10:51 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$223.66** | Strength: 5/5 1H High today; tested 3x in last 20 hourly candles; minor supply zone"
     }
   ]
 }
