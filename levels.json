@@ -5180,7 +5180,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-08-06",
+    "last_updated": "2026-08-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5190,7 +5190,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 60d ATH / recent swing high. Psychological resistance at \"all-time weekly high.\" Supply zone.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5430,7 +5430,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fibonacci 0.236 retracement (golden zone start); swing low cluster support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5530,7 +5530,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **MA20 (weekly), dynamic support, currently 19pts below price**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5570,7 +5570,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **Last higher low (HL); swing low ~2 weeks ago; last weekly close dip before recovery**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5590,7 +5590,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "\u2014 Fibonacci 1.272 extension from 943.26\u21921249.45 swing. Next major cluster zone if breakout sustained.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5600,7 +5600,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "\u2014 Fibonacci 1.618 extension (golden ratio target). Longer-term bull objective if momentum sustains.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5610,7 +5610,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Today's 4H low / intraday support. Confluence with 10-day VWAP cluster. Immediate invalidation risk.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5620,7 +5620,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 20-day VWAP. MA20 proximity ($1,189.87). Key decision line. Break = structure flip.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5630,7 +5630,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 Fibonacci 0.236 retracement (shallow). Also prior daily lows cluster (1,175\u20131,179). Intermediate support.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5670,7 +5670,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fibonacci 1.272 extension (943.26 \u2192 1249.45); psychological level for bullish breakout",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5720,7 +5720,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "MA20 ($1189.87) + prior weekly close ($1196.03) + daily support zone (last 5 closes hover 1196\u20131210)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -5790,7 +5790,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "MA200 (ultimate long-term support; price near +11% above it)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
