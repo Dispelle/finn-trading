@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-07T13:53:17.168608+00:00",
+  "generated_at": "2026-08-07T14:08:07.339907+00:00",
   "items": [
     {
-      "ts": "2026-08-07T13:52:37.853000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $166.08** Current: **$166.38** | Strength: 5/5 \u2014 60-day swing high; Fib 1.272 extension target ($182.32) starts above;"
-    },
-    {
-      "ts": "2026-08-07T13:52:37.468000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $166.06** Current: **$166.38** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-08-07T13:52:36.611000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1177.19** Current: **$1178.55** | Strength: 5/5 \u2014 Fib 0.236 retracement + MA20 ($1171.13 nearby) confluence. First pul"
-    },
-    {
-      "ts": "2026-08-07T13:52:35.313000+00:00",
-      "time": "09:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $505.0** Current: **$505.07** | Strength: 4/5 Round number; 1.272 Fib extension (implied $540.31 is too far); psycholo"
-    },
-    {
-      "ts": "2026-08-07T13:48:24.930000+00:00",
-      "time": "09:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $311.91** Current: **$311.92** | Strength: 5/5 Swing low (broken) = now resistance; 4-day pivot"
-    },
-    {
-      "ts": "2026-08-07T13:46:14.366000+00:00",
-      "time": "09:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.14** Current: **$152.41** | Strength: 5/5 Prior higher low (most recent structure support), breached today to $149"
-    },
-    {
-      "ts": "2026-08-07T13:45:13.239000+00:00",
-      "time": "09:45 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $311.8** Current: **$311.89** | Strength: 5/5 Today's 4H high = immediate resistance; confluence with recent swing poi"
-    },
-    {
-      "ts": "2026-08-07T13:45:11.218000+00:00",
-      "time": "09:45 AM ET",
+      "ts": "2026-08-07T14:05:35.445000+00:00",
+      "time": "10:05 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $490.75** Current: **$491.01** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.54** Current: **$11.52** | Strength: 4/5 \u2014 Today's daily low, intraday support"
     },
     {
-      "ts": "2026-08-07T13:44:06.460000+00:00",
-      "time": "09:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $489.04** Current: **$489.26** | Strength: 5/5 Fibonacci 0.500 (golden zone midpoint); recent swing low $486.80; daily "
+      "ts": "2026-08-07T14:04:33.065000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $118.48** Current: **$118.52** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-07T13:44:05.985000+00:00",
-      "time": "09:44 AM ET",
+      "ts": "2026-08-07T14:04:32.540000+00:00",
+      "time": "10:04 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $488.42** Current: **$489.26** | Strength: 5/5 Fibonacci 0.500 (midpoint swing); recent 4H low cluster ($486\u2013$488); psy"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S2 $118.49** Current: **$118.52** | Strength: 5/5 \u2014 60-day swing low, prior breakpoint"
+    },
+    {
+      "ts": "2026-08-07T14:04:31.289000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $398.15** Current: **$397.74** | Strength: 5/5 0.500 Fibonacci (golden zone midpoint); prior daily resistance; 20-bar s"
+    },
+    {
+      "ts": "2026-08-07T14:04:30.266000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $575.71** Current: **$575.13** | Strength: 5/5 Prior weekly swing low / 1H recent high cluster / mini-pivot"
+    },
+    {
+      "ts": "2026-08-07T14:03:27.077000+00:00",
+      "time": "10:03 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S3 $118.42** Current: **$118.45** | Strength: 5/5 \u2014 Daily low from 6 days ago; minor swing point"
+    },
+    {
+      "ts": "2026-08-07T14:01:18.642000+00:00",
+      "time": "10:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $863.19** Current: **$862.00** | Strength: 5/5 \u2014 0.650 Fib retracement, psychological round level"
+    },
+    {
+      "ts": "2026-08-07T14:00:11.762000+00:00",
+      "time": "10:00 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1188.58** Current: **$1189.23** | Strength: 5/5 \u2014 Recent swing high (10d ago); 20-day VWAP nearby at $1,170.86; cluste"
+    },
+    {
+      "ts": "2026-08-07T14:00:11.145000+00:00",
+      "time": "10:00 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1188.53** Current: **$1189.23** | Strength: 5/5 Prior daily high (4 days ago; 1197.53 close nearby); 20-day VWAP = $1,"
+    },
+    {
+      "ts": "2026-08-07T14:00:08.977000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,931** | P&L: **-20"
     }
   ]
 }
