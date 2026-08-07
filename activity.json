@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-07T16:57:38.565515+00:00",
+  "generated_at": "2026-08-07T17:28:27.566893+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T17:28:10.094000+00:00",
+      "time": "01:28 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,558**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-07T17:25:17.270000+00:00",
+      "time": "01:25 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $499.12** Current: **$499.44** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW**, structural support, CRITICAL invalidation leve"
+    },
+    {
+      "ts": "2026-08-07T17:24:13.845000+00:00",
+      "time": "01:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $499.12** Current: **$499.03** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW**, structural support, CRITICAL invalidation leve"
+    },
+    {
+      "ts": "2026-08-07T17:23:11.216000+00:00",
+      "time": "01:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64610.61** Current: **$64599.17** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-07T17:01:05.216000+00:00",
+      "time": "01:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.22** Current: **$18.21** | Strength: 4/5 Today's intraday low (L$18.22), recent support, 1H chart shows bounces"
+    },
+    {
+      "ts": "2026-08-07T17:00:26.774000+00:00",
+      "time": "01:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,773** | P&L: **-20"
+    },
     {
       "ts": "2026-08-07T16:45:10.899000+00:00",
       "time": "12:45 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:36 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $357.31** Current: **$357.32** | Strength: 5/5 \u2014 Last meaningful higher low (daily chart 9 days), critical pivot"
-    },
-    {
-      "ts": "2026-08-07T16:33:41.009000+00:00",
-      "time": "12:33 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE TP1 $397.9** Current: **$397.98** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-07T16:32:36.894000+00:00",
-      "time": "12:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $476.15** Current: **$476.67** | Strength: 5/5 Today's low, recent 1H low, 4H session floor"
-    },
-    {
-      "ts": "2026-08-07T16:31:33.316000+00:00",
-      "time": "12:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $57.12** Current: **$57.11** | Strength: 5/5 \u2014 **50-day moving average** + psychological whole number | **"
-    },
-    {
-      "ts": "2026-08-07T16:31:32.595000+00:00",
-      "time": "12:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $476.15** Current: **$476.12** | Strength: 5/5 Today's low, recent 1H low, 4H session floor"
-    },
-    {
-      "ts": "2026-08-07T16:30:10.232000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,885** | P&L: **-20"
-    },
-    {
-      "ts": "2026-08-07T16:25:12.217000+00:00",
-      "time": "12:25 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **GLD \u2014 BROKE BELOW TP1 $397.9** Current: **$397.72** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
