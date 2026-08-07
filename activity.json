@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-07T18:58:39.849540+00:00",
+  "generated_at": "2026-08-07T19:22:46.520218+00:00",
   "items": [
     {
-      "ts": "2026-08-07T18:55:09.755000+00:00",
-      "time": "02:55 PM ET",
+      "ts": "2026-08-07T19:22:30.550000+00:00",
+      "time": "03:22 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1182.0** Current: **$1180.87** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,878** | P&L: **-20"
     },
     {
-      "ts": "2026-08-07T18:54:05.780000+00:00",
-      "time": "02:54 PM ET",
+      "ts": "2026-08-07T19:19:43.226000+00:00",
+      "time": "03:19 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $152.71** Current: **$152.62** | Strength: 5/5 Fib 0.382 retracement (golden zone start); MA20 at $152.07 nearby; intra"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S3 $118.42** Current: **$118.34** | Strength: 5/5 \u2014 Daily low from 6 days ago; minor swing point"
     },
     {
-      "ts": "2026-08-07T18:53:01.800000+00:00",
-      "time": "02:53 PM ET",
+      "ts": "2026-08-07T19:17:35.921000+00:00",
+      "time": "03:17 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1182.0** Current: **$1182.18** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW STOP $118.48** Current: **$118.45** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-07T18:48:50.148000+00:00",
-      "time": "02:48 PM ET",
+      "ts": "2026-08-07T19:17:35.325000+00:00",
+      "time": "03:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S2 $118.49** Current: **$118.45** | Strength: 5/5 \u2014 60-day swing low, prior breakpoint"
+    },
+    {
+      "ts": "2026-08-07T19:16:25.428000+00:00",
+      "time": "03:16 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $500.82** Current: **$500.80** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-07T19:15:21.352000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE STOP $500.82** Current: **$501.02** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-07T19:10:06.596000+00:00",
+      "time": "03:10 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $478.2** Current: **$478.28** | Strength: 5/5 Today's daily low; intraday support; 1H chart floor"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $772.58** Current: **$772.83** | Strength: 4/5 Today's daily low; strong support formed this session"
     },
     {
-      "ts": "2026-08-07T18:46:43.836000+00:00",
-      "time": "02:46 PM ET",
+      "ts": "2026-08-07T19:02:43.350000+00:00",
+      "time": "03:02 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $478.2** Current: **$478.19** | Strength: 5/5 Today's daily low; intraday support; 1H chart floor"
+      "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP3 $772.32** Current: **$772.04** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-08-07T18:45:07.792000+00:00",
-      "time": "02:45 PM ET",
+      "ts": "2026-08-07T19:02:41.900000+00:00",
+      "time": "03:02 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,677** | P&L: **-20"
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $480.44** Current: **$480.21** | Strength: 5/5 \u2014 **1H technical low (recent anchor)** \u2014 tested twice in last 3 sessions"
     },
     {
-      "ts": "2026-08-07T18:40:22.074000+00:00",
-      "time": "02:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1180.84** Current: **$1180.53** | Strength: 5/5 \u2014 MA20 daily (4-period slope DOWN; price rejected here multiple times "
-    },
-    {
-      "ts": "2026-08-07T18:37:11.378000+00:00",
-      "time": "02:37 PM ET",
+      "ts": "2026-08-07T19:01:39.041000+00:00",
+      "time": "03:01 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1180.84** Current: **$1181.44** | Strength: 5/5 \u2014 MA20 daily (4-period slope DOWN; price rejected here multiple times "
-    },
-    {
-      "ts": "2026-08-07T18:35:05.720000+00:00",
-      "time": "02:35 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $311.8** Current: **$311.82** | Strength: 5/5 Today's 4H high = immediate resistance; confluence with recent swing poi"
-    },
-    {
-      "ts": "2026-08-07T18:31:55.825000+00:00",
-      "time": "02:31 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $311.8** Current: **$311.76** | Strength: 5/5 Today's 4H high = immediate resistance; confluence with recent swing poi"
+      "message": "\ud83d\udfe2 **SPY \u2014 BROKE ABOVE TP3 $772.32** Current: **$772.34** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
