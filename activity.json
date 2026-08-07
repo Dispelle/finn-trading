@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-07T19:52:57.104494+00:00",
+  "generated_at": "2026-08-07T20:07:47.744229+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T20:00:30.932000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,921**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-07T19:59:01.767000+00:00",
+      "time": "03:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $773.41** Current: **$773.56** | Strength: 5/5 \u2014 **52-week high, today's high, swing high**"
+    },
+    {
+      "ts": "2026-08-07T19:59:00.203000+00:00",
+      "time": "03:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $483.0** Current: **$483.24** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-07T19:58:58.196000+00:00",
+      "time": "03:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $152.71** Current: **$152.81** | Strength: 5/5 Fib 0.382 retracement (golden zone start); MA20 at $152.07 nearby; intra"
+    },
+    {
+      "ts": "2026-08-07T19:57:55.221000+00:00",
+      "time": "03:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $482.05** Current: **$482.69** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-07T19:57:54.090000+00:00",
+      "time": "03:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$224.03** | Strength: 5/5 1H High today; tested 3x in last 20 hourly candles; minor supply zone"
+    },
     {
       "ts": "2026-08-07T19:52:36.359000+00:00",
       "time": "03:52 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:35 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1186.5** Current: **$1185.29** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-07T19:35:40.005000+00:00",
-      "time": "03:35 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1186.07** Current: **$1185.29** | Strength: 5/5 Fibonacci 0.236 retracement; confluence with today's low proximity ($1"
-    },
-    {
-      "ts": "2026-08-07T19:33:28.308000+00:00",
-      "time": "03:33 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE STOP $1186.5** Current: **$1186.69** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-07T19:33:27.787000+00:00",
-      "time": "03:33 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1186.07** Current: **$1186.69** | Strength: 5/5 Fibonacci 0.236 retracement; confluence with today's low proximity ($1"
-    },
-    {
-      "ts": "2026-08-07T19:31:20.817000+00:00",
-      "time": "03:31 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1184.78** Current: **$1185.12** | Strength: 5/5 MA20 daily, slope downward; psychological barrier to resume uptrend"
-    },
-    {
-      "ts": "2026-08-07T19:30:16.182000+00:00",
-      "time": "03:30 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1184.5** Current: **$1184.57** | Strength: 5/5 MA20 daily, slope-down (barrier); closes reject this all week"
-    },
-    {
-      "ts": "2026-08-07T19:30:08.355000+00:00",
-      "time": "03:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,905**  \u23f0 **YOU "
     }
   ]
 }
