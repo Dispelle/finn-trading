@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-07T20:53:32.622017+00:00",
+  "generated_at": "2026-08-07T21:22:42.479139+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T21:22:27.620000+00:00",
+      "time": "05:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,922**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-07T21:00:09.629000+00:00",
+      "time": "05:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,936** | P&L: **-20"
+    },
     {
       "ts": "2026-08-07T20:45:08.306000+00:00",
       "time": "04:45 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:57 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$224.03** | Strength: 5/5 1H High today; tested 3x in last 20 hourly candles; minor supply zone"
-    },
-    {
-      "ts": "2026-08-07T19:52:36.359000+00:00",
-      "time": "03:52 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1184.5** Current: **$1184.11** | Strength: 5/5 MA20 daily, slope-down (barrier); closes reject this all week"
-    },
-    {
-      "ts": "2026-08-07T19:45:09.351000+00:00",
-      "time": "03:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,932** | P&L: **-20"
     }
   ]
 }
