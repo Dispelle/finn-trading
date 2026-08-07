@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:12:14.540502+00:00",
+  "generated_at": "2026-08-07T16:27:17.895663+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T16:25:12.217000+00:00",
+      "time": "12:25 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **GLD \u2014 BROKE BELOW TP1 $397.9** Current: **$397.72** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-07T16:00:58.856000+00:00",
       "time": "12:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:11 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $867.25** Current: **$867.53** | Strength: 5/5 \u2014 **0.618 Fibonacci (Golden Pocket)** from the 627.58 \u2192 1,255 swing. Stro"
-    },
-    {
-      "ts": "2026-08-07T15:07:11.298000+00:00",
-      "time": "11:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $330.77** Current: **$330.53** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
