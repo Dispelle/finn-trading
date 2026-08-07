@@ -17811,7 +17811,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18349,9 +18349,9 @@
         "price": 108.01,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.618 extension, measured move target, secondary resistance",
+        "reason": "\u2014 Fibonacci 1.618 extension; secondary target if breakout continues",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18469,9 +18469,9 @@
         "price": 93.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Recent 60-day swing high, prior breakout peak, psychological round number",
+        "reason": "\u2014 60-day swing high; most recent major supply zone; Fibonacci 0.236 at $88.50 already breached",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18479,9 +18479,9 @@
         "price": 100.1,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (71.05\u219293.89), clean psychological level, gap-fill target",
+        "reason": "\u2014 52-week high; psychological round number; Fibonacci 1.272 extension at $100.10 nearby",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18509,7 +18509,7 @@
         "price": 82.47,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.500 (midpoint); MA50 daily = $80.69 + fib confluence",
+        "reason": "\u2014 Fibonacci 0.500 midpoint; also aligns with recent daily lower bounds ($82.33 swing low)",
         "status": "active",
         "source_brief": "2026-08-07",
         "hit_count": 0,
@@ -18519,7 +18519,7 @@
         "price": 79.77,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.618 (golden pocket); MA20 weekly = $81.69 + support zone",
+        "reason": "\u2014 Fibonacci 0.618 golden pocket; psychological confluence with MA20 trend line ($78.41)",
         "status": "active",
         "source_brief": "2026-08-07",
         "hit_count": 0,
@@ -18538,10 +18538,10 @@
       {
         "price": 85.17,
         "type": "S1",
-        "strength": 3,
-        "reason": "Fibonacci 0.382 retracement (minor support, fib grid anchor)",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.382 retracement; near-term pullback target if momentum stalls",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18592,6 +18592,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 93.89,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 99.99,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       }
