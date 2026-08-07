@@ -15604,7 +15604,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-08-06",
+    "last_updated": "2026-08-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -15733,9 +15733,9 @@
         "price": 363.32,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day low; swing low base",
+        "reason": "\u2014 (60-day swing low; Fibonacci base of retracement; key macro support)",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16044,7 +16044,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -16104,7 +16104,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -16115,7 +16115,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16154,7 +16154,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -16174,7 +16174,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Fib 0.618 on the way down (support on extension)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -16363,9 +16363,9 @@
         "price": 388.77,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: **0.650 Fibonacci retracement (golden pocket end) \u2014 CRITICAL**",
+        "reason": "\u2014 (0.650 Fibonacci retracement; CRITICAL golden pocket lower bound $389.93 \u2013 $387.70; immediate support TODAY)",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16373,9 +16373,9 @@
         "price": 378.88,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **0.786 Fibonacci retracement + daily MA20 ($373.80 nearby)**",
+        "reason": "\u2014 (0.786 Fibonacci retracement; coincides with 60-day swing low cluster; psychological support)",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16443,9 +16443,9 @@
         "price": 402.04,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Weekly MA20 + prior swing high cluster + psychological",
+        "reason": "\u2014 (Weekly MA20 + 60-day swing high; prior resistance tested 2\u20133 weeks ago; psychological round number)",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -16536,6 +16536,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 416.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 (0.236 Fibonacci retracement; coincides with 60-day swing high cluster $418.42; supply zone)",
+        "status": "active",
+        "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 432.98,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 (60-day high; swing point high; Fibonacci extension 1.272 at $451.93 nearby)",
+        "status": "active",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       }
