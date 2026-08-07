@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T21:37:54.720409+00:00",
+  "generated_at": "2026-08-07T21:52:46.048535+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T21:45:09.106000+00:00",
+      "time": "05:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,999** | P&L: **-20"
+    },
     {
       "ts": "2026-08-07T21:22:27.620000+00:00",
       "time": "05:22 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:57 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $482.05** Current: **$482.69** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-07T19:57:54.090000+00:00",
-      "time": "03:57 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$224.03** | Strength: 5/5 1H High today; tested 3x in last 20 hourly candles; minor supply zone"
     }
   ]
 }
