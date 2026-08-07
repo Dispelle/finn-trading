@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-07T19:37:58.764784+00:00",
+  "generated_at": "2026-08-07T19:52:46.453633+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T19:52:36.359000+00:00",
+      "time": "03:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1184.5** Current: **$1184.11** | Strength: 5/5 MA20 daily, slope-down (barrier); closes reject this all week"
+    },
+    {
+      "ts": "2026-08-07T19:45:09.351000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,932** | P&L: **-20"
+    },
+    {
+      "ts": "2026-08-07T19:39:55.118000+00:00",
+      "time": "03:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1184.78** Current: **$1184.77** | Strength: 5/5 MA20 daily, slope downward; psychological barrier to resume uptrend"
+    },
     {
       "ts": "2026-08-07T19:35:40.858000+00:00",
       "time": "03:35 PM ET",
@@ -42,24 +60,6 @@
       "time": "03:30 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,905**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-07T19:28:08.871000+00:00",
-      "time": "03:28 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW TP1 $501.56** Current: **$501.48** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-07T19:28:08.270000+00:00",
-      "time": "03:28 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $501.55** Current: **$501.48** | Strength: 5/5 60-day high (1H high today), double-top confirmation zone"
-    },
-    {
-      "ts": "2026-08-07T19:22:51.294000+00:00",
-      "time": "03:22 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE TP1 $501.56** Current: **$501.61** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
