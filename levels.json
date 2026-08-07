@@ -7426,7 +7426,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-08-06",
+    "last_updated": "2026-08-07",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -7665,9 +7665,9 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day low (Fibonacci swing origin point) + psychological round number",
+        "reason": "\u2014 52-week low, absolute floor",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7796,7 +7796,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "60-day swing high; recent cycle top; extension target if breakout occurs",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-30",
         "hit_count": 0,
         "last_hit": null
@@ -8168,6 +8168,26 @@
         "reason": "\u2014 Today's daily low, intraday support",
         "status": "active",
         "source_brief": "2026-08-06",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 13.01,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 60-day swing high (Sept 2024), psychological round",
+        "status": "active",
+        "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 10.72,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 Fib extension 1.272 (if $11.31 breaks; bearish scenario)",
+        "status": "active",
+        "source_brief": "2026-08-07",
         "hit_count": 0,
         "last_hit": null
       }
