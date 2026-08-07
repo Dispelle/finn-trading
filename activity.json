@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-07T19:22:46.520218+00:00",
+  "generated_at": "2026-08-07T19:22:57.659400+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T19:22:51.294000+00:00",
+      "time": "03:22 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE TP1 $501.56** Current: **$501.61** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-07T19:22:50.879000+00:00",
+      "time": "03:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $501.55** Current: **$501.61** | Strength: 5/5 60-day high (1H high today), double-top confirmation zone"
+    },
     {
       "ts": "2026-08-07T19:22:30.550000+00:00",
       "time": "03:22 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:02 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **SPY \u2014 BROKE BELOW TP3 $772.32** Current: **$772.04** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-07T19:02:41.900000+00:00",
-      "time": "03:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $480.44** Current: **$480.21** | Strength: 5/5 \u2014 **1H technical low (recent anchor)** \u2014 tested twice in last 3 sessions"
-    },
-    {
-      "ts": "2026-08-07T19:01:39.041000+00:00",
-      "time": "03:01 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **SPY \u2014 BROKE ABOVE TP3 $772.32** Current: **$772.34** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
