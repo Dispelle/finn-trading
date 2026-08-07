@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:43:37.828642+00:00",
+  "generated_at": "2026-08-07T17:44:23.902402+00:00",
   "items": [
+    {
+      "ts": "2026-08-07T17:44:22.723000+00:00",
+      "time": "01:44 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $580.43** Current: **$580.51** | Strength: 5/5 1H high today; recent daily high; swing resistance"
+    },
     {
       "ts": "2026-08-07T17:42:17.190000+00:00",
       "time": "01:42 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:25 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $499.12** Current: **$499.44** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW**, structural support, CRITICAL invalidation leve"
-    },
-    {
-      "ts": "2026-08-07T17:24:13.845000+00:00",
-      "time": "01:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $499.12** Current: **$499.03** | Strength: 5/5 \u2014 **TODAY'S DAILY LOW**, structural support, CRITICAL invalidation leve"
     }
   ]
 }
