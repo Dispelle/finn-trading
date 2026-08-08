@@ -3894,7 +3894,7 @@
     ]
   },
   "XOM": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3983,9 +3983,9 @@
         "price": 149.31,
         "type": "S2",
         "strength": 5,
-        "reason": "0.500 Fib (mid-point); key retracement zone",
+        "reason": "\u2014 **0.500 Fibonacci retracement** + psychological round",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3993,9 +3993,9 @@
         "price": 145.92,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.618 golden pocket (start); psychological $146 MA50 close",
+        "reason": "\u2014 **0.618 Golden Pocket** + invalidation level for bullish thesis",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4054,7 +4054,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Intraday support from last 10 days (5th candle low); tight confluent zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4134,7 +4134,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4144,7 +4144,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4154,7 +4154,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4223,9 +4223,9 @@
         "price": 156.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 *0.236 Fibonacci (weak/first retracement level); prior swing high zone; confluent with recent daily structure*",
+        "reason": "\u2014 **0.236 Fibonacci retracement** + prior swing high vicinity",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4233,9 +4233,9 @@
         "price": 158.57,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 **Prior swing high (60-day)** + psychological round",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4243,9 +4243,9 @@
         "price": 163.68,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 *60-day ALL-TIME high in current swing; extension magnet (1.272 = $171.49, but price likely stalls here first); breako",
+        "reason": "\u2014 **60-day high / recent swing high** + extension target zone",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4314,7 +4314,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "3 days ago daily close; micro support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4404,7 +4404,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Extrapolated from recent momentum; 1.272 Fib extension (134.95\u2192163.68 = $171.49, but $168.50 is psychological / energy-b",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -4583,9 +4583,9 @@
         "price": 151.32,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 *20-day VWAP; price currently $1.47 above it; strong mean-reversion magnet; most likely first test*",
+        "reason": "\u2014 **20-day VWAP** + consolidation floor (recent lows cluster)",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
