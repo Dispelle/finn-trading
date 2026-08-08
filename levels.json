@@ -20258,7 +20258,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20597,9 +20597,9 @@
         "price": 102.42,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute low, 0% Fibonacci, trend-defining support (weekly bias if breached = full reversal)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20658,7 +20658,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Last daily close (8 days); failed breakout ceiling",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -20777,9 +20777,9 @@
         "price": 128.25,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.5 Fibonacci (midpoint), prior daily support now resistance, structure repair level",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20978,7 +20978,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -20988,7 +20988,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "1H recent low (today); intrabar micro-support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -20998,7 +20998,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -21038,7 +21038,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "1H recent high; prior daily intrabar resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -21068,7 +21068,7 @@
         "type": "S2",
         "strength": 3,
         "reason": "\u2014 Prior daily low (3 days ago); micro-structure support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -21088,7 +21088,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Swing high (50d ago); sits between recent consolidation highs; strong supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -21337,9 +21337,9 @@
         "price": 113.95,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low, 0.786 Fibonacci, prior reversal zone",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21427,9 +21427,9 @@
         "price": 116.19,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Today's daily low + 1H anchor",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21477,9 +21477,9 @@
         "price": 124.45,
         "type": "R1",
         "strength": 5,
-        "reason": "MA20 daily (slope rising but still a ceiling); prior swing close; VWAP proximity",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21600,6 +21600,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 126.91,
+        "type": "R2",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-08-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 126.91,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       }
