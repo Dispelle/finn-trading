@@ -8336,7 +8336,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -8416,7 +8416,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "10-day swing low; 60d micro-floor; repeat test level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8476,7 +8476,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "0.618 Fibonacci golden pocket (50% confluence with prior swing highs); psychological hold",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8776,7 +8776,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 MA50 + confluence with prior swing high; first barrier to trend reversal",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8786,7 +8786,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Today's low; 1H micro-support; recent bounce anchor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8806,7 +8806,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8816,7 +8816,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Weekly MA20 (slope up but lagging price); 60d swing cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8826,7 +8826,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 MA50 (50-period moving average)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -8836,7 +8836,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "20-day VWAP; MA20 weekly nearby; prior daily close cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
