@@ -1,6 +1,6 @@
 {
   "MSFT": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -180,7 +180,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -510,7 +510,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -530,7 +530,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "60-day swing high; psychological barrier; confluence with 1.272 Fib ext (498.18 above, so prior swing is active resistan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -540,7 +540,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "1.272 Fib extension (349.20 \u2192 466.32); round number proximity ($500); major supply if reached",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -590,7 +590,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "60-day swing high; recent tested, nipped but held",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -620,7 +620,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Fibonacci 0.618 (golden pocket); MA20 at $393.15 (slope up); weekly close level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -630,7 +630,7 @@
         "type": "R1",
         "strength": 3,
         "reason": "Today's intraday high; tested 3x in last 6 hours; minor supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -690,7 +690,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -720,7 +720,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 1H prior low (intraday swing support)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -730,7 +730,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Yesterday's daily low + prior swing high from 2 days ago",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -1279,9 +1279,9 @@
         "price": 488.52,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 4-day support cluster, HH/HL invalidation line",
+        "reason": "Prior daily close (9 days ago); intermediate daily support",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1449,9 +1449,9 @@
         "price": 505.18,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day high, today's intrabar peak, supply exhaustion level",
+        "reason": "60-day high (today's high); natural supply resistance; intraday swing high",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1459,9 +1459,9 @@
         "price": 499.12,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 TODAY's low, fresh daily support, tight pivot",
+        "reason": "Today's intraday low; tightest support; 1H consolidation base",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1499,9 +1499,9 @@
         "price": 445.6,
         "type": "S3",
         "strength": 4,
-        "reason": "Fib 0.382 retracement (golden pocket), prior swing high support, strong confluence",
+        "reason": "0.382 Fibonacci retracement; psychological round level; prior daily swing high",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1531,7 +1531,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1549,9 +1549,9 @@
         "price": 547.61,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.272 extension (349.20 \u2192 505.18); prior supply zone",
+        "reason": "1.272 Fibonacci extension (349.20\u2192505.18); major profit-taking zone",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1582,6 +1582,46 @@
         "reason": "\u2014 Fibonacci 1.272 extension (349.20 \u2192 505.18), psychologically clean, extension target",
         "status": "active",
         "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 527.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Psychological round level; 1.272 Fibonacci extension ($547.61) nearby; prior 52w resistance zone",
+        "status": "active",
+        "source_brief": "2026-08-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 527.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 547.61,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-08",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 570.0,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       }
