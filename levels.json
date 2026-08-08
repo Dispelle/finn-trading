@@ -19190,7 +19190,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19889,9 +19889,9 @@
         "price": 100.1,
         "type": "R3",
         "strength": 5,
-        "reason": "Fib 1.272 extension (71.05\u219293.89 measured move); gap to next supply",
+        "reason": "1.272 fib extension from 71.05\u219293.89 swing; psychological pivot",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19919,9 +19919,9 @@
         "price": 93.89,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high; psychological resistance; previous local top",
+        "reason": "60-day swing high (concrete resistance, tested 9d ago, rejected)",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20242,6 +20242,16 @@
         "reason": "Fib 0.500 (50% retracement, key mean reversion zone)",
         "status": "active",
         "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 85.45,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       }
