@@ -5859,9 +5859,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 reason: 60-day / ATH within recent range + Fibonacci 1.272 extension at $1323 beyond it",
+        "reason": "\u2014 60-day range high; all-time recent peak; psychological barrier",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6489,9 +6489,9 @@
         "price": 1232.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: 10-day swing high (2 bars ago) + failed breakout test = now resistance",
+        "reason": "\u2014 60-day swing high (recent rejection zone from $1,230.88 daily high); tested 3x in last 10 days",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6639,9 +6639,9 @@
         "price": 1168.79,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: 20-day VWAP (dynamic support) + middle of recent range",
+        "reason": "\u2014 20-day VWAP (the \"fair value anchor\" for recent 20d consolidation); 0.14% below current; extremely tight",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6659,9 +6659,9 @@
         "price": 1148.84,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: Fibonacci 0.382 retracement (378.58 point move from $978.87 low) + prior daily swing low $1148.84",
+        "reason": "\u2014 0.382 Fib (golden retracement zone start); 60-day swing low cluster at $1,134\u2013$1,146",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6689,9 +6689,9 @@
         "price": 1115.68,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.500 (midpoint of entire swing); psychological barrier; daily support from 10-period low structure",
+        "reason": "\u2014 0.500 Fib (critical 50% mean reversion level); psychological round; **invalidation point for bullish structure**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6782,6 +6782,16 @@
         "reason": "Round psychological level; between last swing highs (1189.07, 1182.73); daily resistance cluster",
         "status": "active",
         "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1210.0,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 prior swing high (10-day lookback); psychological round; 1.5% above current",
+        "status": "active",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       }
