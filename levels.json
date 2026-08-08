@@ -2686,7 +2686,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3016,7 +3016,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "0.786 Fib (golden zone lower bound) + intermediate swing low cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3126,7 +3126,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: Today's daily low, minor intraday swing support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3305,9 +3305,9 @@
         "price": 356.98,
         "type": "R2",
         "strength": 5,
-        "reason": "0.618 Fibonacci (golden pocket) \u2014 confluent with psychology; classic bounce target from $297.38 swing",
+        "reason": "\u2014 0.618 Fib (golden pocket); confluence with 0.650 at $351.99; historically strong rejection zone in downtrends",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3315,9 +3315,9 @@
         "price": 375.39,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 + MA20 daily ($347.29) + psychological 380 zone",
+        "reason": "\u2014 0.500 Fib midpoint; 60-day MA resistance; major inflection before reaching MA20",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3325,9 +3325,9 @@
         "price": 393.8,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci; MA50 ($380.53) + MA20 weekly ($381.31) confluence; prior swing low",
+        "reason": "\u2014 0.382 Fib; prior swing low support zone; significant psychological level",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3376,7 +3376,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "0.786 Full Fib level \u2014 **reversal invalidation threshold**; prior swing support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3436,7 +3436,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "Extension gap (1.272 Fib = $495.84, inverse bear mode); psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3446,7 +3446,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3456,7 +3456,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -3665,9 +3665,9 @@
         "price": 297.38,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day structural low; ultimate support floor \u2014 breakdown below = trend acceleration",
+        "reason": "\u2014 60-day low; **CRITICAL SUPPORT**; only 10.5% below current price; if broken, major capitulation signal",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3685,9 +3685,9 @@
         "price": 320.79,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's intraday low; 1H support & prior day's low",
+        "reason": "\u2014 Today's 1H low; intraday support forming; recent daily close at $328.58",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3725,9 +3725,9 @@
         "price": 381.41,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Weekly MA20 + swing high at $380.15",
+        "reason": "\u2014 Weekly MA20; death cross formation in progress; weekly close above this = structural break",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3745,9 +3745,9 @@
         "price": 315.74,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 10-day low; daily structure support; round psychological level",
+        "reason": "\u2014 5-day low; 1H structure support; weak but multi-timeframe touch",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3835,9 +3835,9 @@
         "price": 338.42,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP \u2014 major volume-weighted equilibrium; natural magnet",
+        "reason": "\u2014 20-day VWAP; price recently tested and holding just below; natural pivot",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3878,6 +3878,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-07",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 310.43,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 6-day low; daily MA interaction zone; below this = re-test of $297.38 likely",
+        "status": "active",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       }
