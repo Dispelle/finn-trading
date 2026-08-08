@@ -18052,7 +18052,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -18152,7 +18152,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **CRITICAL:** 60-day structural low; this is the **line in the sand** for the downtrend; break here = major breakdown",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18402,7 +18402,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18593,7 +18593,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-03",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18642,7 +18642,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18662,7 +18662,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 Swing low from 60-day range, confirmed rejection",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18742,7 +18742,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "\u2014 Daily MA20, slope down. Price has tested this 4x in last 10 days; repeatedly rejected.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18752,7 +18752,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "(implied from range) \u2014 Psychological round number + extrapolated support if $49.61 breaches; INSUFFICIENT DATA on lower ",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-07-31",
         "hit_count": 0,
         "last_hit": null
@@ -18801,9 +18801,9 @@
         "price": 51.19,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 reason: **60-day swing low + prior support cluster**",
+        "reason": "\u2014 **Recent swing low + 60-day low cluster**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18921,9 +18921,9 @@
         "price": 61.55,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fib 0.618 (golden pocket); also 0.650 at $60.55 cluster",
+        "reason": "\u2014 **0.618 Fib (golden pocket start)**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18931,9 +18931,9 @@
         "price": 65.24,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500; also MA200 at $65.26",
+        "reason": "\u2014 **0.500 Fib retracement + MA200 convergence**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19011,9 +19011,9 @@
         "price": 56.3,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 *0.786 Fib retracement (deep support), bounced here intraday; invalidation level*",
+        "reason": "\u2014 **0.786 Fib retracement**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19151,19 +19151,19 @@
         "price": 55.08,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 *recent swing low (60d), recent consolidation floor, MA close to this level*",
+        "reason": "\u2014 **Prior daily low (3 days ago) + lower low zone**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 73.49,
         "type": "R3",
-        "strength": 3,
-        "reason": "\u2014 *0.236 Fib extension, 60-day structural resistance*",
+        "strength": 4,
+        "reason": "\u2014 **0.236 Fib extension + 60-day resistance cluster**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19171,9 +19171,9 @@
         "price": 52.97,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 *MA20 daily, strong support, volume pivot*",
+        "reason": "\u2014 **MA20 (weekly) + prior consolidation zone**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-08",
         "hit_count": 0,
         "last_hit": null
       },
