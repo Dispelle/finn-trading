@@ -25870,7 +25870,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -26049,9 +26049,9 @@
         "price": 328.73,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement (primary inflection); overlap with MA20 $323.43 zone",
+        "reason": "\u2014 0.236 Fib retracement (273.75 \u2192 344.57). Psychological cluster from March swing highs.",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26070,7 +26070,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 60-day swing high; trapped sellers above here.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -26759,9 +26759,9 @@
         "price": 288.91,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.786 fib; MA200 at $285.81 proximity; secondary support",
+        "reason": "\u2014 0.786 Fib, MA200 nearby ($285.81). Weekly support; capitulation zone if broken.",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26829,9 +26829,9 @@
         "price": 300.8,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.618 Fib (golden pocket start), prior swing low cluster (303.2, 300.0). Major technical floor.",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26849,9 +26849,9 @@
         "price": 334.99,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (pre-breakdown peak)",
+        "reason": "\u2014 Last swing high (60d), MA20 target, **invalidation level** for short bias.",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26859,9 +26859,9 @@
         "price": 309.16,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 0.500 Fib (golden zone anchor), MA50 ($309.79) confluence. **Active support zone.**",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -26900,7 +26900,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 60-day swing low; 0.786 Fibonacci.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -26920,7 +26920,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 Prior 3-day swing high; coincides with MA20 ($324.37) and VWAP ($323.26). Triple-confluence zone.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -26959,9 +26959,9 @@
         "price": 322.71,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP; price trading below this; prior close cluster $323.33\u2013$333.74",
+        "reason": "\u2014 20-day VWAP, prior swing high cluster (317.4 + 316.94), acted as price magnet.",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
