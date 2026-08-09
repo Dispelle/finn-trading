@@ -9664,7 +9664,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -9733,9 +9733,9 @@
         "price": 67248.13,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day absolute high; fib extension 1.272 target zone ($69,832) begins here; if broken = new HH",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9773,9 +9773,9 @@
         "price": 61275.83,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.618 golden pocket (major supply/demand reversal zone)",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9803,9 +9803,9 @@
         "price": 65507.59,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Cluster of swing highs (60d zone); convergence of resistance",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -9913,9 +9913,9 @@
         "price": 65507.59,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (60-day, tested multiple times); psychological round $65,500",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10033,9 +10033,9 @@
         "price": 63512.54,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.382 retracement (golden zone proximity) + recent daily support zone",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10174,7 +10174,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.236 (fib retracement from 57,747 \u2192 67,402). Confluence with prior support-turned-resistance in 60-day rang",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -10504,7 +10504,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Fibonacci 0.500 (mid-retracement), psychological barrier, prior swing low confluence zone.",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -10673,9 +10673,9 @@
         "price": 64371.35,
         "type": "S1",
         "strength": 5,
-        "reason": "|",
+        "reason": "",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
