@@ -20010,7 +20010,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -20079,9 +20079,9 @@
         "price": 74.88,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day swing low; breakout level that triggered rally into $93.89",
+        "reason": "Last daily swing low; 0.786 fib retrace at $75.94; major institutional support zone; 60d range low at $71.05",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20160,7 +20160,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -20610,7 +20610,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "MA50 (daily); prior zone of support rejection; psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -20629,9 +20629,9 @@
         "price": 79.77,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.618 (golden pocket start) \u2014 major confluence with weekly trend",
+        "reason": "**0.618 Fibonacci golden pocket**; equals 20-day VWAP ($79.67); weekly MA20 sits at $81.85 (very close); critical suppor",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20719,9 +20719,9 @@
         "price": 108.01,
         "type": "R3",
         "strength": 4,
-        "reason": "|",
+        "reason": "1.618 Fibonacci extension; 52-week resistance if broken above $99.99; structural target for blow-off phase",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20839,9 +20839,9 @@
         "price": 93.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high, tested twice, rejected; major supply cluster",
+        "reason": "60-day swing high; prior week's peak; tested 2x in last 10 days; technical ceiling",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20849,9 +20849,9 @@
         "price": 100.1,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (71.05\u219293.89), round number, psychological barrier",
+        "reason": "1.272 Fibonacci extension (from $71.05\u2192$93.89 swing); round psychological level; key target for extended bull",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20909,9 +20909,9 @@
         "price": 85.17,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement (golden pocket zone start)",
+        "reason": "0.382 Fibonacci retrace; confluent with daily MA20 slope; minor pullback hold zone",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
