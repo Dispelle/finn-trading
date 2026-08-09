@@ -15726,7 +15726,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16096,7 +16096,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Prior weekly close (HL) + last higher low (structure pivot); 0.382 fib ($511.63) nearby",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -16116,7 +16116,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 Recent swing low; tested twice in last 5 days; psychological hold level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -16186,7 +16186,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -16676,7 +16676,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -17026,7 +17026,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Fibonacci 0.500 (golden zone midpoint); recent swing low $486.80; daily support-turned-resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -17076,7 +17076,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -17627,7 +17627,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
