@@ -4742,7 +4742,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -4842,7 +4842,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -5003,7 +5003,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5062,7 +5062,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 1.618 Fibonacci extension; **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -5172,7 +5172,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -5402,7 +5402,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -5432,7 +5432,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-01",
         "hit_count": 0,
         "last_hit": null
@@ -5451,9 +5451,9 @@
         "price": 348.5,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (institutional anchor, mean reversion magnet)",
+        "reason": "20-day VWAP; moving average cluster (near MA20 $349.40); daily support",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5491,9 +5491,9 @@
         "price": 363.0,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day high, swing point, psychological resistance at range top",
+        "reason": "60-day high; swing high; psychological round; extension point of last impulsive move",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5611,9 +5611,9 @@
         "price": 381.86,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 **Fibonacci extension 1.272 (293.67 \u2192 363.00).** Confluence with structural target if breakout above $363 confirmed.",
+        "reason": "Fibonacci 1.272 extension (293.67\u2192363.00); projected upside if breakout holds",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5621,9 +5621,9 @@
         "price": 405.85,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 **Fibonacci extension 1.618.** Long-term bull target; very extended from current levels.",
+        "reason": "Fibonacci 1.618 extension; invalidates bearish alternate only if reached with volume",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5681,9 +5681,9 @@
         "price": 320.15,
         "type": "S3",
         "strength": 4,
-        "reason": "Fibonacci 0.618 golden pocket; historically strong demand",
+        "reason": "Fibonacci 0.618 (golden pocket); MA200 $314.11 + 0.618 fib = major weekly support zone",
         "status": "active",
-        "source_brief": "2026-08-06",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5821,9 +5821,9 @@
         "price": 336.52,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement + prior swing high/consolidation zone",
+        "reason": "Fibonacci 0.382 retracement (50% of last leg down); prior daily support",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-09",
         "hit_count": 0,
         "last_hit": null
       }
