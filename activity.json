@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-10T14:46:14.820442+00:00",
+  "generated_at": "2026-08-10T15:14:39.245979+00:00",
   "items": [
     {
-      "ts": "2026-08-10T14:46:02.210000+00:00",
-      "time": "10:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $220.66** Current: **$220.79** | Strength: 5/5 Today's daily low; intraday support; recent consolidation base"
-    },
-    {
-      "ts": "2026-08-10T14:46:01.158000+00:00",
-      "time": "10:46 AM ET",
+      "ts": "2026-08-10T15:13:43.717000+00:00",
+      "time": "11:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $179.29** Current: **$179.13** | Strength: 4/5 1.272x Fibonacci extension (106.37 \u2192 163.70); next logical extension ta"
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S2 $17.95** Current: **$17.89** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
     },
     {
-      "ts": "2026-08-10T14:45:08.293000+00:00",
-      "time": "10:45 AM ET",
+      "ts": "2026-08-10T15:13:43.201000+00:00",
+      "time": "11:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.4% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,774**  \u23f0 **YOU "
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.94** Current: **$17.89** | Strength: 5/5 20-day VWAP; daily MA20 ($17.95); psychological hold"
     },
     {
-      "ts": "2026-08-10T14:44:57.371000+00:00",
-      "time": "10:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $179.29** Current: **$179.44** | Strength: 4/5 1.272x Fibonacci extension (106.37 \u2192 163.70); next logical extension ta"
-    },
-    {
-      "ts": "2026-08-10T14:44:55.885000+00:00",
-      "time": "10:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $606.85** Current: **$607.26** | Strength: 5/5 0.500 Fib retracement + MA50 ($599.76 nearby). Psychological hold point"
-    },
-    {
-      "ts": "2026-08-10T14:43:54.863000+00:00",
-      "time": "10:43 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R3 $774.55** Current: **$774.56** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (from 716.58 \u2192 760.40 swing)"
-    },
-    {
-      "ts": "2026-08-10T14:42:48.577000+00:00",
-      "time": "10:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R1 $604.92** Current: **$606.01** | Strength: 5/5 20-day VWAP; price currently $12.82 below; zone of fair value / potenti"
-    },
-    {
-      "ts": "2026-08-10T14:42:48.145000+00:00",
-      "time": "10:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE R2 $605.29** Current: **$606.01** | Strength: 5/5 \u2014 **Fibonacci 0.500 midpoint + psychological round + MA confluence**"
-    },
-    {
-      "ts": "2026-08-10T14:37:32.402000+00:00",
-      "time": "10:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $178.5** Current: **$178.63** | Strength: 5/5 Fibonacci 1.272 extension (106.37\u2192172.41 swing); psychological cluster a"
-    },
-    {
-      "ts": "2026-08-10T14:34:24.743000+00:00",
-      "time": "10:34 AM ET",
+      "ts": "2026-08-10T15:13:42.766000+00:00",
+      "time": "11:13 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $774.5** Current: **$774.36** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$17.89** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+    },
+    {
+      "ts": "2026-08-10T15:12:37.616000+00:00",
+      "time": "11:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $219.22** Current: **$218.97** | Strength: 5/5 Fib 0.382 retracement; minor confluence"
+    },
+    {
+      "ts": "2026-08-10T15:11:35.081000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $123.96** Current: **$123.95** | Strength: 5/5 Prior weekly high (3 weeks ago) + MA20 weekly nearby ($126.25) \u2014 would b"
+    },
+    {
+      "ts": "2026-08-10T15:10:28.932000+00:00",
+      "time": "11:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $359.3** Current: **$359.28** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-08-10T15:09:24.586000+00:00",
+      "time": "11:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $219.5** Current: **$219.39** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-10T15:09:23.428000+00:00",
+      "time": "11:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $359.3** Current: **$359.32** | Strength: 4/5"
+    },
+    {
+      "ts": "2026-08-10T15:08:20.257000+00:00",
+      "time": "11:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1216.94** Current: **$1215.18** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
+    },
+    {
+      "ts": "2026-08-10T15:07:16.241000+00:00",
+      "time": "11:07 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1216.94** Current: **$1217.60** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
     }
   ]
 }
