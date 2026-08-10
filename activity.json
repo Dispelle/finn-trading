@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-10T19:32:18.167107+00:00",
+  "generated_at": "2026-08-10T19:46:34.896292+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T19:45:49.168000+00:00",
+      "time": "03:45 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP1 $358.85** Current: **$358.84** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T19:44:46.708000+00:00",
+      "time": "03:44 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **MU \u2014 BROKE BELOW S1 $872.5** Current: **$872.49** | Strength: 3/5 Recent 1H low (12\u201313 candles ago); micro support; just 0.5% below price"
+    },
+    {
+      "ts": "2026-08-10T19:43:42.260000+00:00",
+      "time": "03:43 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **JPM \u2014 BROKE ABOVE TP1 $358.85** Current: **$358.88** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T19:39:28.848000+00:00",
+      "time": "03:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $474.5** Current: **$474.49** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-10T19:38:24.609000+00:00",
+      "time": "03:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.42** Current: **$11.41** | Strength: 4/5 \u2014 **Current price + consolidation base**"
+    },
+    {
+      "ts": "2026-08-10T19:35:15.123000+00:00",
+      "time": "03:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $402.49** Current: **$402.48** | Strength: 5/5 **MA20 weekly** (first structural resistance); below/above this level = "
+    },
+    {
+      "ts": "2026-08-10T19:34:11.248000+00:00",
+      "time": "03:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $877.57** Current: **$877.32** | Strength: 5/5 \u2014 20-day VWAP (very tight, ~$3 below entry); day's VWAP anchor"
+    },
+    {
+      "ts": "2026-08-10T19:34:10.119000+00:00",
+      "time": "03:34 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.42** Current: **$11.43** | Strength: 4/5 \u2014 **Current price + consolidation base**"
+    },
     {
       "ts": "2026-08-10T19:32:04.170000+00:00",
       "time": "03:32 PM ET",
@@ -12,54 +60,6 @@
       "time": "03:29 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $89.5** Current: **$89.44** | Strength: 4/5 \u2014 Prior 1H resistance cluster (multiple 1H highs $88.43\u2013$88.56); psycholog"
-    },
-    {
-      "ts": "2026-08-10T19:26:47.262000+00:00",
-      "time": "03:26 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $877.57** Current: **$878.48** | Strength: 5/5 \u2014 20-day VWAP (very tight, ~$3 below entry); day's VWAP anchor"
-    },
-    {
-      "ts": "2026-08-10T19:24:40.208000+00:00",
-      "time": "03:24 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $402.34** Current: **$402.51** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-10T19:24:39.395000+00:00",
-      "time": "03:24 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $402.49** Current: **$402.51** | Strength: 5/5 **MA20 weekly** (first structural resistance); below/above this level = "
-    },
-    {
-      "ts": "2026-08-10T19:20:26.715000+00:00",
-      "time": "03:20 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.88** Current: **$17.89** | Strength: 5/5 \u2014 20-day VWAP; MA20 slope breakpoint"
-    },
-    {
-      "ts": "2026-08-10T19:17:16.033000+00:00",
-      "time": "03:17 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $219.22** Current: **$219.08** | Strength: 5/5 Fib 0.382 retracement; minor confluence"
-    },
-    {
-      "ts": "2026-08-10T19:15:09.434000+00:00",
-      "time": "03:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $402.04** Current: **$402.03** | Strength: 5/5 \u2014 Prior 60-day swing high; exact pivot; breached today but not decisivel"
-    },
-    {
-      "ts": "2026-08-10T19:14:05.616000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $89.5** Current: **$89.52** | Strength: 4/5 \u2014 Prior 1H resistance cluster (multiple 1H highs $88.43\u2013$88.56); psycholog"
-    },
-    {
-      "ts": "2026-08-10T19:14:04.769000+00:00",
-      "time": "03:14 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $402.04** Current: **$402.06** | Strength: 5/5 \u2014 Prior 60-day swing high; exact pivot; breached today but not decisivel"
     }
   ]
 }
