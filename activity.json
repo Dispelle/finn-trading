@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-10T18:53:00.610033+00:00",
+  "generated_at": "2026-08-10T19:16:30.098630+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T19:15:09.434000+00:00",
+      "time": "03:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $402.04** Current: **$402.03** | Strength: 5/5 \u2014 Prior 60-day swing high; exact pivot; breached today but not decisivel"
+    },
+    {
+      "ts": "2026-08-10T19:14:05.616000+00:00",
+      "time": "03:14 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $89.5** Current: **$89.52** | Strength: 4/5 \u2014 Prior 1H resistance cluster (multiple 1H highs $88.43\u2013$88.56); psycholog"
+    },
+    {
+      "ts": "2026-08-10T19:14:04.769000+00:00",
+      "time": "03:14 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $402.04** Current: **$402.06** | Strength: 5/5 \u2014 Prior 60-day swing high; exact pivot; breached today but not decisivel"
+    },
+    {
+      "ts": "2026-08-10T19:01:13.113000+00:00",
+      "time": "03:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,847**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-10T18:46:45.259000+00:00",
       "time": "02:46 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:18 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $125.93** Current: **$125.97** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
-    },
-    {
-      "ts": "2026-08-10T18:17:14.115000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $505.0** Current: **$505.15** | Strength: 4/5 Round number; 1.272 Fib extension (implied $540.31 is too far); psycholo"
-    },
-    {
-      "ts": "2026-08-10T18:13:02.913000+00:00",
-      "time": "02:13 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $476.06** Current: **$475.81** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-10T18:13:00.562000+00:00",
-      "time": "02:13 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $505.0** Current: **$504.96** | Strength: 4/5 Round number; 1.272 Fib extension (implied $540.31 is too far); psycholo"
-    },
-    {
-      "ts": "2026-08-10T18:08:48.683000+00:00",
-      "time": "02:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.00** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
     }
   ]
 }
