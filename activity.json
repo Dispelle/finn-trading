@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-10T16:59:47.622017+00:00",
+  "generated_at": "2026-08-10T17:22:43.800239+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T17:21:19.322000+00:00",
+      "time": "01:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $357.2** Current: **$357.15** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-10T17:21:18.718000+00:00",
+      "time": "01:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $357.31** Current: **$357.15** | Strength: 5/5 \u2014 Last meaningful higher low (daily chart 9 days), critical pivot"
+    },
+    {
+      "ts": "2026-08-10T17:17:06.242000+00:00",
+      "time": "01:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $218.69** Current: **$218.81** | Strength: 5/5 Fib 0.382 (retracement of 189.80\u2192236.54); strong confluence; prior swin"
+    },
+    {
+      "ts": "2026-08-10T17:09:45.867000+00:00",
+      "time": "01:09 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **NVDA \u2014 BROKE ABOVE TP2 $218.0** Current: **$218.18** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T17:01:40.645000+00:00",
+      "time": "01:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,827** | P&L: **-21"
+    },
     {
       "ts": "2026-08-10T16:59:13.850000+00:00",
       "time": "12:59 PM ET",
@@ -30,36 +60,6 @@
       "time": "12:48 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $158.57** Current: **$158.58** | Strength: 5/5 Recent swing high (3 candles back); proven resistance"
-    },
-    {
-      "ts": "2026-08-10T16:47:40.137000+00:00",
-      "time": "12:47 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $772.32** Current: **$772.38** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
-    },
-    {
-      "ts": "2026-08-10T16:46:16.176000+00:00",
-      "time": "12:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,854**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-10T16:45:32.197000+00:00",
-      "time": "12:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $217.27** Current: **$217.31** | Strength: 4/5 Today's low; immediate intraday floor; likely support floor next 1\u20132 se"
-    },
-    {
-      "ts": "2026-08-10T16:45:31.467000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $217.0** Current: **$217.31** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-10T16:43:26.523000+00:00",
-      "time": "12:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $772.32** Current: **$772.28** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
     }
   ]
 }
