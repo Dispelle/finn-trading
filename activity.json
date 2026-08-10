@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-10T18:23:52.283913+00:00",
+  "generated_at": "2026-08-10T18:37:49.965940+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T18:36:11.712000+00:00",
+      "time": "02:36 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **XOM \u2014 BROKE BELOW TP2 $160.0** Current: **$159.97** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T18:33:03.464000+00:00",
+      "time": "02:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $476.15** Current: **$476.09** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-10T18:31:59.853000+00:00",
+      "time": "02:31 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $476.06** Current: **$476.18** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T18:31:59.221000+00:00",
+      "time": "02:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $476.15** Current: **$476.18** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-08-10T18:18:20.142000+00:00",
       "time": "02:18 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:07 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1220.66** Current: **$1220.73** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-10T18:07:44.044000+00:00",
-      "time": "02:07 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1220.0** Current: **$1220.73** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
-    },
-    {
-      "ts": "2026-08-10T18:07:43.061000+00:00",
-      "time": "02:07 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP2 $160.0** Current: **$160.04** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-10T18:06:38.825000+00:00",
-      "time": "02:06 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $505.18** Current: **$505.27** | Strength: 5/5 60-day high (today's high); 1H micro-resistance; immediate supply zone"
-    },
-    {
-      "ts": "2026-08-10T18:05:35.128000+00:00",
-      "time": "02:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $505.18** Current: **$505.11** | Strength: 5/5 60-day high (today's high); 1H micro-resistance; immediate supply zone"
     }
   ]
 }
