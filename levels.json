@@ -23266,7 +23266,7 @@
     ]
   },
   "ETH": {
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -23405,9 +23405,9 @@
         "price": 17.42,
         "type": "S2",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 **Fibonacci 0.618 (GOLDEN POCKET)** \u2014 Critical fib level",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23545,9 +23545,9 @@
         "price": 17.17,
         "type": "S3",
         "strength": 5,
-        "reason": "",
+        "reason": "\u2014 Fibonacci 0.650 + prior swing low (17.17) confluence",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23635,9 +23635,9 @@
         "price": 18.83,
         "type": "R1",
         "strength": 5,
-        "reason": "60d swing high; tested 3x in last 8 weeks; psychological cluster",
+        "reason": "\u2014 Prior swing high (60d), failed to break; structural HH",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24235,9 +24235,9 @@
         "price": 19.16,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (14.53\u219222.02); confluence with MA200 zone ($19.09).",
+        "reason": "\u2014 Fibonacci 0.382 (golden zone start), + prior daily high proximity",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24275,9 +24275,9 @@
         "price": 20.26,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 0.236 (top of potential pullback zone); 60-day high at $22.02 beyond.",
+        "reason": "\u2014 Fibonacci 0.236 retracement, psychological extension",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24474,10 +24474,10 @@
       {
         "price": 18.17,
         "type": "S1",
-        "strength": 4,
-        "reason": "Today's daily low; 1H support cluster (last 3 candles near $18.17\u2013$18.20).",
+        "strength": 5,
+        "reason": "\u2014 Prior daily low (recent support, 1H holding this as floor)",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
