@@ -6060,7 +6060,7 @@
     ]
   },
   "LLY": {
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -6189,9 +6189,9 @@
         "price": 1249.45,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **60-day and weekly swing high; ATH in this run** \u2014 Supply exhaustion point; Fibonacci 1.272 extension ($1323.05) well",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6819,9 +6819,9 @@
         "price": 1232.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior daily high (5 days ago); swing high that price recently rejected at $1196.80",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6969,9 +6969,9 @@
         "price": 1168.79,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **20-day VWAP; price currently $17 above**; major volume-weighted level; breakout of consolidation likely first test",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -6991,7 +6991,7 @@
         "strength": 5,
         "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7079,9 +7079,9 @@
         "price": 1082.23,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **Fibonacci 0.618 (golden pocket); Weekly MA20 at $1082.09 sits *exactly* here**; this is the critical decision point ",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7202,6 +7202,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1205.05,
+        "type": "R1",
+        "strength": 5,
+        "reason": "|",
+        "status": "active",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       }
