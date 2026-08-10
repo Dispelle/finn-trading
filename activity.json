@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:31:06.210398+00:00",
+  "generated_at": "2026-08-10T14:31:32.918027+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T14:31:08.851000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1213.91** Current: **$1213.49** | Strength: 5/5 \u2014 Weekly close 2 weeks ago; acted as resistance on recent rallies (dai"
+    },
     {
       "ts": "2026-08-10T14:30:08.797000+00:00",
       "time": "10:30 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:26 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $177.5** Current: **$177.35** | Strength: 5/5 \u2014 reason: **Psychological round + 1.272 Fib extension ($190.37 target pr"
-    },
-    {
-      "ts": "2026-08-10T14:25:49.261000+00:00",
-      "time": "10:25 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $58.18** Current: **$58.27** | Strength: 5/5 Last 1H high; daily high today; immediate pivot"
     }
   ]
 }
