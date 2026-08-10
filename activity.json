@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-10T16:44:57.456968+00:00",
+  "generated_at": "2026-08-10T16:59:47.622017+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T16:59:13.850000+00:00",
+      "time": "12:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $159.07** Current: **$159.05** | Strength: 5/5 60-day swing high (second strongest resistance in uptrend); 0.236 Fib re"
+    },
+    {
+      "ts": "2026-08-10T16:58:10.339000+00:00",
+      "time": "12:58 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $159.07** Current: **$159.09** | Strength: 5/5 60-day swing high (second strongest resistance in uptrend); 0.236 Fib re"
+    },
+    {
+      "ts": "2026-08-10T16:56:05.811000+00:00",
+      "time": "12:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $772.58** Current: **$772.59** | Strength: 4/5 Today's daily low; strong support formed this session"
+    },
+    {
+      "ts": "2026-08-10T16:55:00.245000+00:00",
+      "time": "12:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.71** Current: **$158.73** | Strength: 5/5 Prior daily swing high (10 days ago); within 60d high cluster"
+    },
+    {
+      "ts": "2026-08-10T16:48:41.599000+00:00",
+      "time": "12:48 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $158.57** Current: **$158.58** | Strength: 5/5 Recent swing high (3 candles back); proven resistance"
+    },
+    {
+      "ts": "2026-08-10T16:47:40.137000+00:00",
+      "time": "12:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $772.32** Current: **$772.38** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
+    },
+    {
+      "ts": "2026-08-10T16:46:16.176000+00:00",
+      "time": "12:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.5% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,854**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-10T16:45:32.197000+00:00",
+      "time": "12:45 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $217.27** Current: **$217.31** | Strength: 4/5 Today's low; immediate intraday floor; likely support floor next 1\u20132 se"
+    },
+    {
+      "ts": "2026-08-10T16:45:31.467000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $217.0** Current: **$217.31** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-10T16:43:26.523000+00:00",
       "time": "12:43 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $772.32** Current: **$772.28** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
-    },
-    {
-      "ts": "2026-08-10T16:40:15.779000+00:00",
-      "time": "12:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $772.58** Current: **$772.49** | Strength: 4/5 Today's daily low; strong support formed this session"
-    },
-    {
-      "ts": "2026-08-10T16:38:07.854000+00:00",
-      "time": "12:38 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $217.0** Current: **$216.87** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-10T16:37:04.340000+00:00",
-      "time": "12:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $217.27** Current: **$217.02** | Strength: 4/5 Today's low; immediate intraday floor; likely support floor next 1\u20132 se"
-    },
-    {
-      "ts": "2026-08-10T16:33:55.082000+00:00",
-      "time": "12:33 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **NVDA \u2014 BROKE BELOW TP2 $218.0** Current: **$217.97** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-10T16:30:44.952000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $218.69** Current: **$218.34** | Strength: 5/5 Fib 0.382 (retracement of 189.80\u2192236.54); strong confluence; prior swin"
-    },
-    {
-      "ts": "2026-08-10T16:30:22.694000+00:00",
-      "time": "12:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,052** | P&L: **-21"
-    },
-    {
-      "ts": "2026-08-10T16:12:51.995000+00:00",
-      "time": "12:12 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $400.37** Current: **$400.28** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
-    },
-    {
-      "ts": "2026-08-10T16:11:48.245000+00:00",
-      "time": "12:11 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $400.37** Current: **$400.38** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
-    },
-    {
-      "ts": "2026-08-10T16:00:41.499000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,192**  \u23f0 **YOU "
     }
   ]
 }
