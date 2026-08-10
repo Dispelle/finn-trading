@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-10T16:00:42.483837+00:00",
+  "generated_at": "2026-08-10T16:14:45.322282+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T16:12:51.995000+00:00",
+      "time": "12:12 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $400.37** Current: **$400.28** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
+    },
+    {
+      "ts": "2026-08-10T16:11:48.245000+00:00",
+      "time": "12:11 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $400.37** Current: **$400.38** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
+    },
     {
       "ts": "2026-08-10T16:00:41.499000+00:00",
       "time": "12:00 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:27 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $64296.0** Current: **$64305.58** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-10T15:26:25.596000+00:00",
-      "time": "11:26 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $124.55** Current: **$124.59** | Strength: 5/5 \u2014 **Weekly MA20** + psychological barrier"
-    },
-    {
-      "ts": "2026-08-10T15:26:23.954000+00:00",
-      "time": "11:26 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $64296.0** Current: **$64284.97** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
