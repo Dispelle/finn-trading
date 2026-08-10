@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-10T15:29:57.694125+00:00",
+  "generated_at": "2026-08-10T15:44:42.989936+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T15:30:42.102000+00:00",
+      "time": "11:30 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.42** Current: **$11.43** | Strength: 4/5 \u2014 **Current price + consolidation base**"
+    },
     {
       "ts": "2026-08-10T15:28:35.440000+00:00",
       "time": "11:28 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:25 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64387.05** Current: **$64327.48** | Strength: 5/5 MA20 (daily) \u2014 slope up but price below; recapture here = first mome"
-    },
-    {
-      "ts": "2026-08-10T15:24:14.806000+00:00",
-      "time": "11:24 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.42** Current: **$11.42** | Strength: 4/5 \u2014 **Current price + consolidation base**"
     }
   ]
 }
