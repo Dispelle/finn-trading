@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-10T19:16:30.098630+00:00",
+  "generated_at": "2026-08-10T19:31:37.711033+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T19:29:56.884000+00:00",
+      "time": "03:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $89.5** Current: **$89.44** | Strength: 4/5 \u2014 Prior 1H resistance cluster (multiple 1H highs $88.43\u2013$88.56); psycholog"
+    },
+    {
+      "ts": "2026-08-10T19:26:47.262000+00:00",
+      "time": "03:26 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $877.57** Current: **$878.48** | Strength: 5/5 \u2014 20-day VWAP (very tight, ~$3 below entry); day's VWAP anchor"
+    },
+    {
+      "ts": "2026-08-10T19:24:40.208000+00:00",
+      "time": "03:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE STOP $402.34** Current: **$402.51** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-10T19:24:39.395000+00:00",
+      "time": "03:24 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $402.49** Current: **$402.51** | Strength: 5/5 **MA20 weekly** (first structural resistance); below/above this level = "
+    },
+    {
+      "ts": "2026-08-10T19:20:26.715000+00:00",
+      "time": "03:20 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.88** Current: **$17.89** | Strength: 5/5 \u2014 20-day VWAP; MA20 slope breakpoint"
+    },
+    {
+      "ts": "2026-08-10T19:17:16.033000+00:00",
+      "time": "03:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $219.22** Current: **$219.08** | Strength: 5/5 Fib 0.382 retracement; minor confluence"
+    },
     {
       "ts": "2026-08-10T19:15:09.434000+00:00",
       "time": "03:15 PM ET",
@@ -24,42 +60,6 @@
       "time": "03:01 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.6% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,847**  \u23f0 **YOU "
-    },
-    {
-      "ts": "2026-08-10T18:46:45.259000+00:00",
-      "time": "02:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $125.93** Current: **$125.91** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
-    },
-    {
-      "ts": "2026-08-10T18:36:11.712000+00:00",
-      "time": "02:36 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **XOM \u2014 BROKE BELOW TP2 $160.0** Current: **$159.97** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-10T18:33:03.464000+00:00",
-      "time": "02:33 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $476.15** Current: **$476.09** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-10T18:31:59.853000+00:00",
-      "time": "02:31 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $476.06** Current: **$476.18** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-10T18:31:59.221000+00:00",
-      "time": "02:31 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $476.15** Current: **$476.18** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-10T18:18:20.142000+00:00",
-      "time": "02:18 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $125.93** Current: **$125.97** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
     }
   ]
 }
