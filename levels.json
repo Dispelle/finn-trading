@@ -27299,7 +27299,7 @@
         "price": 328.73,
         "type": "R3",
         "strength": 5,
-        "reason": "0.236 Fib retracement; prior swing high ($316.94); psychological barrier",
+        "reason": "23.6% Fibonacci (extreme reversal zone) + daily VWAP ($321.62) cluster + supply at prior swing highs ($316.29, $316.94)",
         "status": "active",
         "source_brief": "2026-08-10",
         "hit_count": 0,
@@ -28049,9 +28049,9 @@
         "price": 300.8,
         "type": "S1",
         "strength": 5,
-        "reason": "**0.618 Fib (Golden Pocket)**; psychological round; recent 1H low",
+        "reason": "61.8% Fibonacci golden pocket (KEY SUPPORT) + recent swing low ($300.0) + psychological round",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28249,9 +28249,9 @@
         "price": 317.52,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (golden zone entry); daily pullback target; MA20 proximity",
+        "reason": "38.2% Fibonacci retracement + prior swing high proximity + psychological round",
         "status": "active",
-        "source_brief": "2026-08-04",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28349,9 +28349,9 @@
         "price": 285.31,
         "type": "S3",
         "strength": 5,
-        "reason": "MA200; structural support for bullish regime",
+        "reason": "MA200 (long-term support) + 200-day moving average hold \u2014 invalidates entire downtrend if broken below",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -28582,6 +28582,36 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 309.16,
+        "type": "R1",
+        "strength": 5,
+        "reason": "50% Fibonacci retracement (golden zone) + MA50 confluence + recent swing high support (daily HL)",
+        "status": "active",
+        "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 294.91,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Prior swing low (60d) + 78.6% Fibonacci retracement",
+        "status": "active",
+        "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 313.33,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       }
