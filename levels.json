@@ -21479,9 +21479,9 @@
         "price": 108.01,
         "type": "R3",
         "strength": 5,
-        "reason": "|",
+        "reason": "1.618 Fibonacci extension; secondary supply zone",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21599,9 +21599,9 @@
         "price": 93.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high, 7.5% above current; volume resistance; round psychological; **",
+        "reason": "60-day swing high; prior resistance, 1.272 extension target",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21609,9 +21609,9 @@
         "price": 100.1,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (71.05\u219293.89); psychological round; extension confluence; **",
+        "reason": "1.272 Fibonacci extension (71.05\u219293.89); psychological round",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21639,9 +21639,9 @@
         "price": 82.47,
         "type": "S2",
         "strength": 5,
-        "reason": "|",
+        "reason": "50% Fib (golden zone start); MA50 near $80.73",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21649,9 +21649,9 @@
         "price": 79.77,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "0.618 Fib (golden pocket); MA20 $78.98 + VWAP $79.67",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21669,9 +21669,9 @@
         "price": 85.17,
         "type": "S1",
         "strength": 5,
-        "reason": "Fib 0.382 retracement; tested 2 days ago as daily low, held",
+        "reason": "0.382 Fibonacci retracement; recent daily pivot",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21731,7 +21731,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21741,7 +21741,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -21932,6 +21932,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 82.2,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 108.01,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       }
