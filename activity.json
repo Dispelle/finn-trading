@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-10T17:37:47.160181+00:00",
+  "generated_at": "2026-08-10T17:52:48.341275+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T17:47:40.999000+00:00",
+      "time": "01:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $125.55** Current: **$125.56** | Strength: 4/5 20-day VWAP; recent pivot"
+    },
     {
       "ts": "2026-08-10T17:21:19.322000+00:00",
       "time": "01:21 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:55 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.71** Current: **$158.73** | Strength: 5/5 Prior daily swing high (10 days ago); within 60d high cluster"
-    },
-    {
-      "ts": "2026-08-10T16:48:41.599000+00:00",
-      "time": "12:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $158.57** Current: **$158.58** | Strength: 5/5 Recent swing high (3 candles back); proven resistance"
     }
   ]
 }
