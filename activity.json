@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-10T15:14:39.245979+00:00",
+  "generated_at": "2026-08-10T15:29:42.632156+00:00",
   "items": [
     {
-      "ts": "2026-08-10T15:13:43.717000+00:00",
-      "time": "11:13 AM ET",
+      "ts": "2026-08-10T15:28:35.440000+00:00",
+      "time": "11:28 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S2 $17.95** Current: **$17.89** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $124.45** Current: **$124.39** | Strength: 5/5 \u2014 MA20 weekly, currently acting as overhead pressure; slope upward but p"
     },
     {
-      "ts": "2026-08-10T15:13:43.201000+00:00",
-      "time": "11:13 AM ET",
+      "ts": "2026-08-10T15:27:31.617000+00:00",
+      "time": "11:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.94** Current: **$17.89** | Strength: 5/5 20-day VWAP; daily MA20 ($17.95); psychological hold"
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $124.55** Current: **$124.51** | Strength: 5/5 \u2014 **Weekly MA20** + psychological barrier"
     },
     {
-      "ts": "2026-08-10T15:13:42.766000+00:00",
-      "time": "11:13 AM ET",
+      "ts": "2026-08-10T15:27:29.998000+00:00",
+      "time": "11:27 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$17.89** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $64296.0** Current: **$64305.58** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-10T15:12:37.616000+00:00",
-      "time": "11:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $219.22** Current: **$218.97** | Strength: 5/5 Fib 0.382 retracement; minor confluence"
-    },
-    {
-      "ts": "2026-08-10T15:11:35.081000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $123.96** Current: **$123.95** | Strength: 5/5 Prior weekly high (3 weeks ago) + MA20 weekly nearby ($126.25) \u2014 would b"
-    },
-    {
-      "ts": "2026-08-10T15:10:28.932000+00:00",
-      "time": "11:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R3 $359.3** Current: **$359.28** | Strength: 4/5"
-    },
-    {
-      "ts": "2026-08-10T15:09:24.586000+00:00",
-      "time": "11:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $219.5** Current: **$219.39** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-10T15:09:23.428000+00:00",
-      "time": "11:09 AM ET",
+      "ts": "2026-08-10T15:26:25.596000+00:00",
+      "time": "11:26 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R3 $359.3** Current: **$359.32** | Strength: 4/5"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $124.55** Current: **$124.59** | Strength: 5/5 \u2014 **Weekly MA20** + psychological barrier"
     },
     {
-      "ts": "2026-08-10T15:08:20.257000+00:00",
-      "time": "11:08 AM ET",
+      "ts": "2026-08-10T15:26:23.954000+00:00",
+      "time": "11:26 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1216.94** Current: **$1215.18** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $64296.0** Current: **$64284.97** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-10T15:07:16.241000+00:00",
-      "time": "11:07 AM ET",
+      "ts": "2026-08-10T15:25:21.674000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.88** Current: **$17.87** | Strength: 5/5 \u2014 20-day VWAP; MA20 slope breakpoint"
+    },
+    {
+      "ts": "2026-08-10T15:25:20.703000+00:00",
+      "time": "11:25 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1216.94** Current: **$1217.60** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $124.45** Current: **$124.47** | Strength: 5/5 \u2014 MA20 weekly, currently acting as overhead pressure; slope upward but p"
+    },
+    {
+      "ts": "2026-08-10T15:25:19.026000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64371.35** Current: **$64327.48** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-10T15:25:18.548000+00:00",
+      "time": "11:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64387.05** Current: **$64327.48** | Strength: 5/5 MA20 (daily) \u2014 slope up but price below; recapture here = first mome"
+    },
+    {
+      "ts": "2026-08-10T15:24:14.806000+00:00",
+      "time": "11:24 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.42** Current: **$11.42** | Strength: 4/5 \u2014 **Current price + consolidation base**"
     }
   ]
 }
