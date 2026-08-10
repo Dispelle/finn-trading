@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-10T18:37:49.965940+00:00",
+  "generated_at": "2026-08-10T18:52:50.391704+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T18:46:45.259000+00:00",
+      "time": "02:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $125.93** Current: **$125.91** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
+    },
     {
       "ts": "2026-08-10T18:36:11.712000+00:00",
       "time": "02:36 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:08 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.00** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-10T18:07:44.678000+00:00",
-      "time": "02:07 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1220.66** Current: **$1220.73** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
     }
   ]
 }
