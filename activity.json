@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-10T18:07:48.536098+00:00",
+  "generated_at": "2026-08-10T18:22:50.617440+00:00",
   "items": [
+    {
+      "ts": "2026-08-10T18:18:20.142000+00:00",
+      "time": "02:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $125.93** Current: **$125.97** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
+    },
+    {
+      "ts": "2026-08-10T18:17:14.115000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R2 $505.0** Current: **$505.15** | Strength: 4/5 Round number; 1.272 Fib extension (implied $540.31 is too far); psycholo"
+    },
+    {
+      "ts": "2026-08-10T18:13:02.913000+00:00",
+      "time": "02:13 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $476.06** Current: **$475.81** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-10T18:13:00.562000+00:00",
+      "time": "02:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R2 $505.0** Current: **$504.96** | Strength: 4/5 Round number; 1.272 Fib extension (implied $540.31 is too far); psycholo"
+    },
+    {
+      "ts": "2026-08-10T18:08:48.683000+00:00",
+      "time": "02:08 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.00** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
+    },
     {
       "ts": "2026-08-10T18:07:44.678000+00:00",
       "time": "02:07 PM ET",
@@ -30,36 +60,6 @@
       "time": "02:05 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $505.18** Current: **$505.11** | Strength: 5/5 60-day high (today's high); 1H micro-resistance; immediate supply zone"
-    },
-    {
-      "ts": "2026-08-10T18:03:29.300000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1220.0** Current: **$1219.42** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
-    },
-    {
-      "ts": "2026-08-10T18:01:23.115000+00:00",
-      "time": "02:01 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $176.5** Current: **$176.41** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-10T17:53:59.561000+00:00",
-      "time": "01:53 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $125.55** Current: **$125.47** | Strength: 4/5 20-day VWAP; recent pivot"
-    },
-    {
-      "ts": "2026-08-10T17:47:40.999000+00:00",
-      "time": "01:47 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $125.55** Current: **$125.56** | Strength: 4/5 20-day VWAP; recent pivot"
-    },
-    {
-      "ts": "2026-08-10T17:21:19.322000+00:00",
-      "time": "01:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $357.2** Current: **$357.15** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
