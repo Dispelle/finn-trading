@@ -7218,7 +7218,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -8637,9 +8637,9 @@
         "price": 207.52,
         "type": "R2",
         "strength": 5,
-        "reason": "52-week all-time high; psychological round number + supply zone",
+        "reason": "52-week all-time high; major supply zone",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8687,9 +8687,9 @@
         "price": 190.37,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (106.37 \u2192 172.41) + psychological round",
+        "reason": "Fibonacci 1.272 extension (106.37 \u2192 172.41 swing) + psychological round number",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8737,9 +8737,9 @@
         "price": 163.7,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Swing high from 5 days ago (last major consolidation high)",
+        "reason": "60-day swing high (session 5-6 days back); prior resistance turned support",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8747,9 +8747,9 @@
         "price": 156.82,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement (106.37 \u2192 172.41)",
+        "reason": "Fibonacci 0.236 retracement; confluence with daily 4-bar breakdown low (~$155.92)",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8777,9 +8777,9 @@
         "price": 213.22,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.618 extension (golden extension); next major supply cluster",
+        "reason": "Fibonacci 1.618 extension; long-term target",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8787,9 +8787,9 @@
         "price": 147.18,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement + prior swing low ($147\u2013148 area)",
+        "reason": "Fibonacci 0.382 retracement; aligns with recent daily support zone (125\u2013157 base)",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8799,7 +8799,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8960,6 +8960,36 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 181.5,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 190.37,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 207.52,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       }
