@@ -1,6 +1,6 @@
 {
   "MSFT": {
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -569,9 +569,9 @@
         "price": 407.76,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.618 golden pocket; 20-day VWAP confluence ($427.99 nearby); MA50 ($405.27) cluster",
+        "reason": "Fibonacci 0.618 \"golden pocket\" start; MA200 ($403.57) + MA50 ($407.01) cluster; major buy zone if reached",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -979,9 +979,9 @@
         "price": 487.65,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Last week's daily close / 4-day swing low",
+        "reason": "Recent daily low; **KEY INVALIDATION LEVEL**; prior support hold point; if breached, HL pattern breaks",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1449,9 +1449,9 @@
         "price": 505.18,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day swing high (today's print); psychological round $505; intraday supply cluster",
+        "reason": "60-day high, touched today intraday; psychological round number; supply cluster in 1H candles around 503-505",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1539,9 +1539,9 @@
         "price": 520.0,
         "type": "R2",
         "strength": 4,
-        "reason": "\u2014 Round number (psychological), aligns with prior 52-week structure; extension target",
+        "reason": "Round psychological level; sits between current price and Fib ext. 1.272 ($547.61); historical supply cluster",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1549,9 +1549,9 @@
         "price": 547.61,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (349.20 \u2192 505.18); natural target after break above R1",
+        "reason": "Fibonacci 1.272 extension (349.20\u2192505.18); represents 27% move above recent highs; extension target",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1732,6 +1732,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-09",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 445.6,
+        "type": "S2",
+        "strength": 4,
+        "reason": "Fibonacci 0.382 retracement (50% of prior move); prior swing high $432.70 nearby; psychological zone",
+        "status": "active",
+        "source_brief": "2026-08-10",
         "hit_count": 0,
         "last_hit": null
       }
