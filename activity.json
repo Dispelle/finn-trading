@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-11T18:53:22.453570+00:00",
+  "generated_at": "2026-08-11T19:10:10.032948+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T19:02:29.457000+00:00",
+      "time": "03:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,285** | P&L: **-22"
+    },
+    {
+      "ts": "2026-08-11T19:00:43.122000+00:00",
+      "time": "03:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1220.0** Current: **$1218.68** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
+    },
+    {
+      "ts": "2026-08-11T18:59:39.581000+00:00",
+      "time": "02:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1220.79** Current: **$1220.48** | Strength: 5/5 \u2014 1-hour swing low (from last 20 candles); also daily high from 2 days"
+    },
+    {
+      "ts": "2026-08-11T18:59:39.005000+00:00",
+      "time": "02:59 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.48** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
+    },
     {
       "ts": "2026-08-11T18:52:15.214000+00:00",
       "time": "02:52 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:35 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63331.0** Current: **$63412.87** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-11T18:34:18.456000+00:00",
-      "time": "02:34 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63331.0** Current: **$63321.24** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-11T18:32:13.588000+00:00",
-      "time": "02:32 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $769.92** Current: **$769.93** | Strength: 5/5 \u2014 Last higher low, daily consolidation base, psychological support"
-    },
-    {
-      "ts": "2026-08-11T18:32:10.629000+00:00",
-      "time": "02:32 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $330.77** Current: **$331.09** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-11T18:30:42.846000+00:00",
-      "time": "02:30 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $330.77** Current: **$330.68** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
