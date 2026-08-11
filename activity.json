@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:03:15.800014+00:00",
+  "generated_at": "2026-08-11T16:18:17.461806+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T16:04:11.976000+00:00",
+      "time": "12:04 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.75** Current: **$17.76** | Strength: 5/5 \u2014 Last daily low (today); immediate support, confluent with last 5 days tr"
+    },
     {
       "ts": "2026-08-11T16:03:08.244000+00:00",
       "time": "12:03 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:37 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.75** Current: **$17.72** | Strength: 5/5 \u2014 Last daily low (today); immediate support, confluent with last 5 days tr"
-    },
-    {
-      "ts": "2026-08-11T15:35:44.961000+00:00",
-      "time": "11:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $126.91** Current: **$127.09** | Strength: 5/5 |"
     }
   ]
 }
