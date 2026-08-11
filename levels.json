@@ -18904,7 +18904,7 @@
     ]
   },
   "GLD": {
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-08-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -19154,7 +19154,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -19544,7 +19544,7 @@
         "type": "R1",
         "strength": 4,
         "reason": "20-day VWAP; daily EMA20 at $372.54; prior 1H pivot",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -19933,9 +19933,9 @@
         "price": 397.9,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 midpoint (golden reference); also near 1H recent lows; critical hold point",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint of 363.32 \u2192 431.54 range); *critical zone*; price is only ~$5 above this",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19943,9 +19943,9 @@
         "price": 389.74,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket); psychological support; near MA20 daily upslope",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); daily 20-MA proximity (~$376 on daily, but 4H MA likely near $390); psychological rou",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19953,9 +19953,9 @@
         "price": 377.0,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786; near MA20 weekly ($403.12); represents weekly trend anchor",
+        "reason": "\u2014 Fibonacci 0.786 retracement; aligns with daily MA20 ($376.64); prior swing low support",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19963,9 +19963,9 @@
         "price": 416.17,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement + prior swing high cluster",
+        "reason": "\u2014 Fibonacci 0.236 retracement (363.32 \u2192 431.54); aligns with 60-day volatility band; prior swing resistance zone",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -19983,9 +19983,9 @@
         "price": 418.42,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **CRITICAL**: Highest swing high in 60 days; major supply level; if broken with daily close, new uptrend confirmed (bu",
+        "reason": "\u2014 60-day swing high (prior HH); structural barrier; break needed to confirm bullish CHoCH",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -20053,9 +20053,9 @@
         "price": 431.54,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; former resistance, now supply",
+        "reason": "\u2014 60-day absolute high; zone of prior strong resistance; aligns with Fib 0.000 extension",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
