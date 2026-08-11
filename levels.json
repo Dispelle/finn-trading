@@ -26612,7 +26612,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-08-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -27432,7 +27432,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -27492,7 +27492,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -27502,7 +27502,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -27512,7 +27512,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
