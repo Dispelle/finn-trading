@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T10:53:20.840546+00:00",
+  "generated_at": "2026-08-11T11:08:12.129343+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T11:02:46.785000+00:00",
+      "time": "07:02 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,298** | P&L: **-21"
+    },
     {
       "ts": "2026-08-10T23:01:17.768000+00:00",
       "time": "07:01 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:56 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $867.25** Current: **$867.15** | Strength: 5/5 \u2014 **0.618 Fibonacci (Golden Pocket)** from the 627.58 \u2192 1,255 swing. Stro"
-    },
-    {
-      "ts": "2026-08-10T19:55:23.429000+00:00",
-      "time": "03:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $868.57** Current: **$867.55** | Strength: 4/5 \u2014 1H prior close; daily low clustering ($854.79, $847.02); near-term buy "
     }
   ]
 }
