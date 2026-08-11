@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T18:37:18.270408+00:00",
+  "generated_at": "2026-08-11T18:37:55.242682+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T18:37:28.217000+00:00",
+      "time": "02:37 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $502.5** Current: **$502.69** | Strength: 5/5 Today's low; recent swing low (daily timeframe)"
+    },
     {
       "ts": "2026-08-11T18:35:22.662000+00:00",
       "time": "02:35 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:29 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.31** Current: **$11.29** | Strength: 5/5 \u2014 52-week low + psychological round number"
-    },
-    {
-      "ts": "2026-08-11T18:28:24.817000+00:00",
-      "time": "02:28 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $854.79** Current: **$854.44** | Strength: 5/5 \u2014 Today's intraday low; 0.650 Fibonacci retracement"
     }
   ]
 }
