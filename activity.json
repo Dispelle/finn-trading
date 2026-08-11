@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T17:37:51.799796+00:00",
+  "generated_at": "2026-08-11T17:52:17.328571+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T17:39:55.351000+00:00",
+      "time": "01:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $466.46** Current: **$466.32** | Strength: 5/5 \u2014 **0.618 Fibonacci (Golden Pocket start)** \u2014 price currently pinned HER"
+    },
     {
       "ts": "2026-08-11T17:30:25.694000+00:00",
       "time": "01:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:26 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $572.33** Current: **$572.33** | Strength: 5/5 Today's low (1H); recent swing low; intraday anchor"
-    },
-    {
-      "ts": "2026-08-11T16:25:03.052000+00:00",
-      "time": "12:25 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $604.92** Current: **$604.66** | Strength: 5/5 20-day VWAP; price currently $12.82 below; zone of fair value / potenti"
     }
   ]
 }
