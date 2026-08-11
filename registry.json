@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:03:30.586151+00:00",
+  "generated_at": "2026-08-11T16:18:31.761201+00:00",
   "overall_status": "green",
   "overdue_count": 0,
   "total_jobs": 0,
@@ -136,6 +136,11 @@
       "active": false
     },
     {
+      "id": "P4xcD8sr",
+      "name": "APIFY",
+      "active": false
+    },
+    {
       "id": "Q2RH1V8x",
       "name": "ANNIE \u2014 Inbound SMS Handler",
       "active": false
@@ -248,11 +253,6 @@
     {
       "id": "mbNODcxO",
       "name": "PS Quote Sent to Airtable",
-      "active": false
-    },
-    {
-      "id": "n7VptjT5",
-      "name": "UPA - Email Agent",
       "active": false
     }
   ],
