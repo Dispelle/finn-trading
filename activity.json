@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-11T19:10:10.032948+00:00",
+  "generated_at": "2026-08-11T19:25:13.755344+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T19:23:56.229000+00:00",
+      "time": "03:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $474.5** Current: **$474.01** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-11T19:23:54.029000+00:00",
+      "time": "03:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $601.0** Current: **$600.86** | Strength: 5/5 Prior daily highs (repeated 2x in last 5 candles) + swing high within ra"
+    },
+    {
+      "ts": "2026-08-11T19:22:52.183000+00:00",
+      "time": "03:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $474.5** Current: **$474.65** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-11T19:22:50.536000+00:00",
+      "time": "03:22 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **XOM \u2014 BROKE BELOW TP2 $160.0** Current: **$159.95** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-11T19:21:47.970000+00:00",
+      "time": "03:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $571.63** Current: **$571.74** | Strength: 5/5 MA20 (downsloping but critical mean reversion line)"
+    },
+    {
+      "ts": "2026-08-11T19:19:40.360000+00:00",
+      "time": "03:19 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP2 $160.0** Current: **$160.06** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-11T19:17:34.373000+00:00",
+      "time": "03:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R1 $1216.94** Current: **$1217.25** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
+    },
+    {
+      "ts": "2026-08-11T19:13:21.272000+00:00",
+      "time": "03:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1216.94** Current: **$1216.82** | Strength: 5/5 \u2014 reason: recent daily swing high + 20-day VWAP proximity ($1168.45) +"
+    },
     {
       "ts": "2026-08-11T19:02:29.457000+00:00",
       "time": "03:02 PM ET",
@@ -12,54 +60,6 @@
       "time": "03:00 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1220.0** Current: **$1218.68** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
-    },
-    {
-      "ts": "2026-08-11T18:59:39.581000+00:00",
-      "time": "02:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1220.79** Current: **$1220.48** | Strength: 5/5 \u2014 1-hour swing low (from last 20 candles); also daily high from 2 days"
-    },
-    {
-      "ts": "2026-08-11T18:59:39.005000+00:00",
-      "time": "02:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.48** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-11T18:52:15.214000+00:00",
-      "time": "02:52 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $363.0** Current: **$362.65** | Strength: 5/5 60-day high (swing high), psychological round, resistance tested 2x in la"
-    },
-    {
-      "ts": "2026-08-11T18:51:11.138000+00:00",
-      "time": "02:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $503.5** Current: **$503.40** | Strength: 4/5 60-day high extension + psychological round (500 breakout target)"
-    },
-    {
-      "ts": "2026-08-11T18:49:04.564000+00:00",
-      "time": "02:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $363.0** Current: **$363.07** | Strength: 5/5 60-day high (swing high), psychological round, resistance tested 2x in la"
-    },
-    {
-      "ts": "2026-08-11T18:49:03.603000+00:00",
-      "time": "02:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $503.5** Current: **$503.56** | Strength: 4/5 60-day high extension + psychological round (500 breakout target)"
-    },
-    {
-      "ts": "2026-08-11T18:37:28.217000+00:00",
-      "time": "02:37 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $502.5** Current: **$502.69** | Strength: 5/5 Today's low; recent swing low (daily timeframe)"
-    },
-    {
-      "ts": "2026-08-11T18:35:22.662000+00:00",
-      "time": "02:35 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63331.0** Current: **$63412.87** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
