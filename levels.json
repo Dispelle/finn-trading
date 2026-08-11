@@ -11552,7 +11552,7 @@
     ]
   },
   "NVDA": {
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-08-11",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -11621,9 +11621,9 @@
         "price": 199.34,
         "type": "S3",
         "strength": 5,
-        "reason": "Recent 60-day swing low, higher-low anchor",
+        "reason": "\u2014 Fibonacci 0.786; overlaps with 60-day swing low cluster ($189.80\u2013$199.34). This is the \"2nd line of defense\" if golden",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11631,9 +11631,9 @@
         "price": 236.54,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high, recent resistance cap, symmetry breakpoint",
+        "reason": "\u2014 60-day high / 52-week high equivalent; psychological barrier; Fibonacci extension zone begins here ($249.25 = 1.272). ",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11662,7 +11662,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP; daily MA20 ($203.95) \u2014 demand zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -11972,7 +11972,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -12363,7 +12363,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-05",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12472,7 +12472,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "20-day VWAP, price rejection zone, close to MA20",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-03",
         "hit_count": 0,
         "last_hit": null
@@ -12531,9 +12531,9 @@
         "price": 225.51,
         "type": "R1",
         "strength": 5,
-        "reason": "0.236 Fib (189.8\u2192236.54); 1H recent high cluster; prior intraday high $224.76",
+        "reason": "\u2014 Fibonacci 0.236 retracement; also proximity to recent intraday high cluster ($223.96\u2013$224.76). Acts as supply zone fro",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12651,9 +12651,9 @@
         "price": 227.4,
         "type": "R2",
         "strength": 5,
-        "reason": "Swing high (60d) \u2014 major structure inflection",
+        "reason": "\u2014 Swing high (60-day); intermediate resistance; volume likely clustered here.",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12671,9 +12671,9 @@
         "price": 213.17,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.500 (exact midpoint 189.80\u2192236.54), daily demand",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint of swing 189.80 \u2192 236.54); also near daily MA20 projected value. Acts as \"pullback floor\" in",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12681,9 +12681,9 @@
         "price": 207.65,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.618 (golden pocket start), MA20 weekly at $205.63 nearby",
+        "reason": "\u2014 **Golden Pocket (Fib 0.618)** \u2014 THE critical zone; also overlaps with 20-day VWAP ($207.02) and MA50 ($206.14). This i",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
