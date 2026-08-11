@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-11T16:18:17.461806+00:00",
+  "generated_at": "2026-08-11T16:33:18.620900+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T16:26:07.712000+00:00",
+      "time": "12:26 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $572.33** Current: **$572.33** | Strength: 5/5 Today's low (1H); recent swing low; intraday anchor"
+    },
+    {
+      "ts": "2026-08-11T16:25:03.052000+00:00",
+      "time": "12:25 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $604.92** Current: **$604.66** | Strength: 5/5 20-day VWAP; price currently $12.82 below; zone of fair value / potenti"
+    },
+    {
+      "ts": "2026-08-11T16:24:01.569000+00:00",
+      "time": "12:24 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $126.67** Current: **$126.63** | Strength: 5/5 \u2014 Weekly MA20, slope upward but acting as dynamic cap"
+    },
     {
       "ts": "2026-08-11T16:04:11.976000+00:00",
       "time": "12:04 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:44 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $88.17** Current: **$88.25** | Strength: 5/5 \u2014 Yesterday's daily low; 1H PA bounced from here twice in last 20 candles"
-    },
-    {
-      "ts": "2026-08-11T15:38:54.686000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $88.17** Current: **$88.16** | Strength: 5/5 \u2014 Yesterday's daily low; 1H PA bounced from here twice in last 20 candles"
-    },
-    {
-      "ts": "2026-08-11T15:38:53.225000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63512.54** Current: **$63481.96** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-11T15:37:51.294000+00:00",
-      "time": "11:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.75** Current: **$17.72** | Strength: 5/5 \u2014 Last daily low (today); immediate support, confluent with last 5 days tr"
     }
   ]
 }
