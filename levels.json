@@ -1109,9 +1109,9 @@
         "price": 475.0,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **Prior daily low (from 10 days ago). Psychological round number. Fibonacci 0.236 retracement sits at $465.60 (not far",
+        "reason": "\u2014 **Fibonacci 0.236 retracement ($349.20\u2192$513.73); also psychological round**",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1459,9 +1459,9 @@
         "price": 499.12,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's low; intraday demand zone; 1H consolidation base",
+        "reason": "\u2014 **Last intraday low (2 days ago); last HL in structure**",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1749,9 +1749,9 @@
         "price": 513.73,
         "type": "R1",
         "strength": 5,
-        "reason": "60-day high + today's high; recent swing high; tested this morning; psychological round",
+        "reason": "\u2014 **60-day swing high, printed TODAY at 1H peak**",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1842,6 +1842,36 @@
         "reason": "\u2014 10-day swing high / daily high (Jan 16), secondary support cluster, MA20 area ($429.57 is too far, not relevant short-",
         "status": "active",
         "source_brief": "2026-08-10",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 558.48,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 **Fibonacci 1.272 extension of $349.20\u2192$513.73 swing**",
+        "status": "active",
+        "source_brief": "2026-08-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 615.4,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 **Fibonacci 1.618 extension (golden extension)**",
+        "status": "active",
+        "source_brief": "2026-08-11",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 450.88,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 **Fibonacci 0.382 retracement; also near prior 60d swing high**",
+        "status": "active",
+        "source_brief": "2026-08-11",
         "hit_count": 0,
         "last_hit": null
       }
