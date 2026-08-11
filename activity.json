@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-11T15:34:06.081690+00:00",
+  "generated_at": "2026-08-11T15:48:15.199363+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T15:46:15.552000+00:00",
+      "time": "11:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $63512.54** Current: **$63520.32** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-11T15:44:10.303000+00:00",
+      "time": "11:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $88.17** Current: **$88.25** | Strength: 5/5 \u2014 Yesterday's daily low; 1H PA bounced from here twice in last 20 candles"
+    },
+    {
+      "ts": "2026-08-11T15:38:54.686000+00:00",
+      "time": "11:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $88.17** Current: **$88.16** | Strength: 5/5 \u2014 Yesterday's daily low; 1H PA bounced from here twice in last 20 candles"
+    },
+    {
+      "ts": "2026-08-11T15:38:53.225000+00:00",
+      "time": "11:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63512.54** Current: **$63481.96** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-11T15:37:51.294000+00:00",
+      "time": "11:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.75** Current: **$17.72** | Strength: 5/5 \u2014 Last daily low (today); immediate support, confluent with last 5 days tr"
+    },
+    {
+      "ts": "2026-08-11T15:35:44.961000+00:00",
+      "time": "11:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $126.91** Current: **$127.09** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-11T15:34:41.466000+00:00",
+      "time": "11:34 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $126.67** Current: **$126.79** | Strength: 5/5 \u2014 Weekly MA20, slope upward but acting as dynamic cap"
+    },
     {
       "ts": "2026-08-11T15:32:34.602000+00:00",
       "time": "11:32 AM ET",
@@ -18,48 +60,6 @@
       "time": "11:22 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $772.58** Current: **$772.76** | Strength: 5/5 Today's low, 4H consolidation floor, psychological support"
-    },
-    {
-      "ts": "2026-08-11T15:19:52.775000+00:00",
-      "time": "11:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R2 $772.32** Current: **$772.48** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
-    },
-    {
-      "ts": "2026-08-11T15:18:49.409000+00:00",
-      "time": "11:18 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R2 $772.32** Current: **$772.28** | Strength: 4/5 \u2014 Fibonacci 1.272 extension (716.58 \u2192 760.40). Next structural target if"
-    },
-    {
-      "ts": "2026-08-11T15:15:38.651000+00:00",
-      "time": "11:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $772.58** Current: **$772.53** | Strength: 5/5 Today's low, 4H consolidation floor, psychological support"
-    },
-    {
-      "ts": "2026-08-11T15:15:36.430000+00:00",
-      "time": "11:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $218.69** Current: **$218.65** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-11T15:11:22.501000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $606.85** Current: **$606.61** | Strength: 5/5 \u2014 today's intraday high; MA20 (weekly) at $608.39 directly overhead"
-    },
-    {
-      "ts": "2026-08-11T15:09:17.275000+00:00",
-      "time": "11:09 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $88.5** Current: **$88.52** | Strength: 4/5 \u2014 0.236 Fibonacci retracement; secondary supply cluster from $88\u2013$92 range"
-    },
-    {
-      "ts": "2026-08-11T15:08:12.781000+00:00",
-      "time": "11:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $88.5** Current: **$88.48** | Strength: 4/5 \u2014 0.236 Fibonacci retracement; secondary supply cluster from $88\u2013$92 range"
     }
   ]
 }
