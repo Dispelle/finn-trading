@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T17:52:17.328571+00:00",
+  "generated_at": "2026-08-11T18:07:18.459500+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T18:04:08.337000+00:00",
+      "time": "02:04 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $400.37** Current: **$400.53** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
+    },
     {
       "ts": "2026-08-11T17:39:55.351000+00:00",
       "time": "01:39 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:51 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **NVDA \u2014 BROKE BELOW TP2 $218.0** Current: **$217.97** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-11T16:26:07.712000+00:00",
-      "time": "12:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $572.33** Current: **$572.33** | Strength: 5/5 Today's low (1H); recent swing low; intraday anchor"
     }
   ]
 }
