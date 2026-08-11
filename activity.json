@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-11T16:48:33.845431+00:00",
+  "generated_at": "2026-08-11T17:07:10.587249+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T17:02:29.700000+00:00",
+      "time": "01:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.1% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,441**  \u23f0 **YOU "
+    },
+    {
+      "ts": "2026-08-11T17:00:54.684000+00:00",
+      "time": "01:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $571.63** Current: **$571.50** | Strength: 5/5 MA20 (downsloping but critical mean reversion line)"
+    },
+    {
+      "ts": "2026-08-11T16:51:25.820000+00:00",
+      "time": "12:51 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **NVDA \u2014 BROKE BELOW TP2 $218.0** Current: **$217.97** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-11T16:26:07.712000+00:00",
       "time": "12:26 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:50 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $173.5** Current: **$173.62** | Strength: 4/5 Intraday extension + round number / psychological resistance"
-    },
-    {
-      "ts": "2026-08-11T15:48:21.899000+00:00",
-      "time": "11:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $173.5** Current: **$173.34** | Strength: 4/5 Intraday extension + round number / psychological resistance"
-    },
-    {
-      "ts": "2026-08-11T15:46:15.552000+00:00",
-      "time": "11:46 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S2 $63512.54** Current: **$63520.32** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-11T15:44:10.303000+00:00",
-      "time": "11:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $88.17** Current: **$88.25** | Strength: 5/5 \u2014 Yesterday's daily low; 1H PA bounced from here twice in last 20 candles"
     }
   ]
 }
