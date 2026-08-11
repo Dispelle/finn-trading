@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-11T18:23:04.662321+00:00",
+  "generated_at": "2026-08-11T18:37:18.270408+00:00",
   "items": [
     {
-      "ts": "2026-08-11T18:19:59.729000+00:00",
-      "time": "02:19 PM ET",
+      "ts": "2026-08-11T18:35:22.662000+00:00",
+      "time": "02:35 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $472.0** Current: **$471.58** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63331.0** Current: **$63412.87** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-11T18:16:47.646000+00:00",
-      "time": "02:16 PM ET",
+      "ts": "2026-08-11T18:34:18.456000+00:00",
+      "time": "02:34 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $472.0** Current: **$472.29** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63331.0** Current: **$63321.24** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-11T18:13:39.674000+00:00",
-      "time": "02:13 PM ET",
+      "ts": "2026-08-11T18:32:13.588000+00:00",
+      "time": "02:32 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S2 $305.02** Current: **$305.05** | Strength: 5/5 \u2014 Recent swing low (4 days ago), daily low"
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $769.92** Current: **$769.93** | Strength: 5/5 \u2014 Last higher low, daily consolidation base, psychological support"
     },
     {
-      "ts": "2026-08-11T18:10:29.139000+00:00",
-      "time": "02:10 PM ET",
+      "ts": "2026-08-11T18:32:10.629000+00:00",
+      "time": "02:32 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $305.02** Current: **$304.96** | Strength: 5/5 Swing low from 60d, intraday support at $305.67 \u2248 same zone"
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $330.77** Current: **$331.09** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-11T18:07:18.975000+00:00",
-      "time": "02:07 PM ET",
+      "ts": "2026-08-11T18:30:42.846000+00:00",
+      "time": "02:30 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $400.37** Current: **$400.18** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $330.77** Current: **$330.68** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-11T18:04:08.337000+00:00",
-      "time": "02:04 PM ET",
+      "ts": "2026-08-11T18:30:33.307000+00:00",
+      "time": "02:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $502.5** Current: **$502.04** | Strength: 5/5 Today's low; recent swing low (daily timeframe)"
+    },
+    {
+      "ts": "2026-08-11T18:29:30.249000+00:00",
+      "time": "02:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $769.92** Current: **$769.87** | Strength: 5/5 \u2014 Last higher low, daily consolidation base, psychological support"
+    },
+    {
+      "ts": "2026-08-11T18:29:28.914000+00:00",
+      "time": "02:29 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $400.37** Current: **$400.53** | Strength: 5/5 \u2014 Fib 0.500 retracement + gap-fill zone from early 60-day move"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $854.79** Current: **$854.93** | Strength: 5/5 \u2014 Today's intraday low; 0.650 Fibonacci retracement"
     },
     {
-      "ts": "2026-08-11T17:39:55.351000+00:00",
-      "time": "01:39 PM ET",
+      "ts": "2026-08-11T18:29:27.757000+00:00",
+      "time": "02:29 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $466.46** Current: **$466.32** | Strength: 5/5 \u2014 **0.618 Fibonacci (Golden Pocket start)** \u2014 price currently pinned HER"
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.31** Current: **$11.29** | Strength: 5/5 \u2014 52-week low + psychological round number"
     },
     {
-      "ts": "2026-08-11T17:30:25.694000+00:00",
-      "time": "01:30 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.31** Current: **$11.33** | Strength: 5/5 \u2014 52-week low + psychological round number"
-    },
-    {
-      "ts": "2026-08-11T17:22:01.332000+00:00",
-      "time": "01:22 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $217.27** Current: **$217.38** | Strength: 5/5 TODAY's low; the point of maximum pain from prior strength; tested NOW;"
-    },
-    {
-      "ts": "2026-08-11T17:19:54.544000+00:00",
-      "time": "01:19 PM ET",
+      "ts": "2026-08-11T18:28:24.817000+00:00",
+      "time": "02:28 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $217.0** Current: **$217.09** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $854.79** Current: **$854.44** | Strength: 5/5 \u2014 Today's intraday low; 0.650 Fibonacci retracement"
     }
   ]
 }
