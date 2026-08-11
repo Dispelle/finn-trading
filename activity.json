@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-11T14:55:29.436941+00:00",
+  "generated_at": "2026-08-11T15:18:10.316623+00:00",
   "items": [
+    {
+      "ts": "2026-08-11T15:15:38.651000+00:00",
+      "time": "11:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $772.58** Current: **$772.53** | Strength: 5/5 Today's low, 4H consolidation floor, psychological support"
+    },
+    {
+      "ts": "2026-08-11T15:15:36.430000+00:00",
+      "time": "11:15 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $218.69** Current: **$218.65** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-11T15:11:22.501000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW R1 $606.85** Current: **$606.61** | Strength: 5/5 \u2014 today's intraday high; MA20 (weekly) at $608.39 directly overhead"
+    },
+    {
+      "ts": "2026-08-11T15:09:17.275000+00:00",
+      "time": "11:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R3 $88.5** Current: **$88.52** | Strength: 4/5 \u2014 0.236 Fibonacci retracement; secondary supply cluster from $88\u2013$92 range"
+    },
+    {
+      "ts": "2026-08-11T15:08:12.781000+00:00",
+      "time": "11:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R3 $88.5** Current: **$88.48** | Strength: 4/5 \u2014 0.236 Fibonacci retracement; secondary supply cluster from $88\u2013$92 range"
+    },
+    {
+      "ts": "2026-08-11T15:02:25.130000+00:00",
+      "time": "11:02 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,726** | P&L: **-21"
+    },
+    {
+      "ts": "2026-08-11T14:59:47.147000+00:00",
+      "time": "10:59 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $126.46** Current: **$126.37** | Strength: 5/5 MA20 slope-up; dynamic support-flip"
+    },
+    {
+      "ts": "2026-08-11T14:58:43.499000+00:00",
+      "time": "10:58 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $126.46** Current: **$126.49** | Strength: 5/5 MA20 slope-up; dynamic support-flip"
+    },
     {
       "ts": "2026-08-11T14:51:10.721000+00:00",
       "time": "10:51 AM ET",
@@ -12,54 +60,6 @@
       "time": "10:49 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1220.79** Current: **$1221.13** | Strength: 5/5 \u2014 1-hour swing low (from last 20 candles); also daily high from 2 days"
-    },
-    {
-      "ts": "2026-08-11T14:49:02.982000+00:00",
-      "time": "10:49 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1220.66** Current: **$1221.13** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-11T14:49:02.431000+00:00",
-      "time": "10:49 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1220.0** Current: **$1221.13** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
-    },
-    {
-      "ts": "2026-08-11T14:47:59.007000+00:00",
-      "time": "10:47 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $177.5** Current: **$177.47** | Strength: 5/5 \u2014 reason: **Psychological round + 1.272 Fib extension ($190.37 target pr"
-    },
-    {
-      "ts": "2026-08-11T14:46:57.234000+00:00",
-      "time": "10:46 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $125.93** Current: **$125.91** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
-    },
-    {
-      "ts": "2026-08-11T14:45:51.510000+00:00",
-      "time": "10:45 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $177.5** Current: **$177.54** | Strength: 5/5 \u2014 reason: **Psychological round + 1.272 Fib extension ($190.37 target pr"
-    },
-    {
-      "ts": "2026-08-11T14:42:38.952000+00:00",
-      "time": "10:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $11.2** Current: **$11.21** | Strength: 4/5 \u2014 Round number (psychological) + ~$0.11 below major support"
-    },
-    {
-      "ts": "2026-08-11T14:41:36.754000+00:00",
-      "time": "10:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.88** Current: **$17.88** | Strength: 5/5 \u2014 Current price / recent daily close / 1H support"
-    },
-    {
-      "ts": "2026-08-11T14:41:36.123000+00:00",
-      "time": "10:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $125.93** Current: **$125.97** | Strength: 5/5 \u2014 Weekly MA20 (moving average of 20-week closes; overhead resistance in "
     }
   ]
 }
