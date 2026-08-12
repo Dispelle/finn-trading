@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-12T18:37:51.555179+00:00",
+  "generated_at": "2026-08-12T18:52:55.006932+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T18:50:13.790000+00:00",
+      "time": "02:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $492.81** Current: **$492.81** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-08-12T18:48:08.290000+00:00",
+      "time": "02:48 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $170.5** Current: **$170.54** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-08-12T18:44:58.412000+00:00",
+      "time": "02:44 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $170.5** Current: **$170.37** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-08-12T18:43:56.442000+00:00",
+      "time": "02:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$17.99** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+    },
+    {
+      "ts": "2026-08-12T18:43:54.184000+00:00",
+      "time": "02:43 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $170.87** Current: **$170.62** | Strength: 4/5 \u2014 Today's daily low / intraday reversal point; tight support"
+    },
     {
       "ts": "2026-08-12T18:34:27.042000+00:00",
       "time": "02:34 PM ET",
@@ -30,36 +60,6 @@
       "time": "02:24 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $928.95** Current: **$928.49** | Strength: 5/5 \u2014 Daily swing high (9 days ago); structure-critical level; breaks here = "
-    },
-    {
-      "ts": "2026-08-12T18:20:38.707000+00:00",
-      "time": "02:20 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **XOM \u2014 BROKE BELOW TP2 $160.0** Current: **$159.97** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T18:19:36.381000+00:00",
-      "time": "02:19 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $486.8** Current: **$486.85** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-12T18:18:32.625000+00:00",
-      "time": "02:18 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $486.8** Current: **$486.75** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-12T18:18:30.631000+00:00",
-      "time": "02:18 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP2 $160.0** Current: **$160.02** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T18:11:09.011000+00:00",
-      "time": "02:11 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$223.70** | Strength: 5/5 Today's 1H high; prior daily high (9 periods ago); intraday consolidati"
     }
   ]
 }
