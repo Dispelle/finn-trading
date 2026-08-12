@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-12T16:11:28.415951+00:00",
+  "generated_at": "2026-08-12T16:26:03.974244+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T16:13:55.186000+00:00",
+      "time": "12:13 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $581.05** Current: **$581.68** | Strength: 5/5 \u2014 0.650 Fibonacci, secondary golden pocket."
+    },
     {
       "ts": "2026-08-12T16:10:45.074000+00:00",
       "time": "12:10 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:28 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R3 $1220.66** Current: **$1221.00** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-12T15:25:14.418000+00:00",
-      "time": "11:25 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1220.0** Current: **$1220.34** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
     }
   ]
 }
