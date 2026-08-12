@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-12T10:50:37.170523+00:00",
+  "generated_at": "2026-08-12T11:18:22.145673+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T11:03:13.783000+00:00",
+      "time": "07:03 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -21.3% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,089**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-11T23:02:43.821000+00:00",
       "time": "07:02 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:56 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $361.5** Current: **$361.42** | Strength: 4/5 Daily swing high (2 days ago), psychological $362 zone"
-    },
-    {
-      "ts": "2026-08-11T19:53:45.864000+00:00",
-      "time": "03:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.88** Current: **$17.89** | Strength: 5/5 \u2014 Current price / recent daily close / 1H support"
     }
   ]
 }
