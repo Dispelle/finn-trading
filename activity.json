@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-12T17:52:49.288110+00:00",
+  "generated_at": "2026-08-12T18:07:53.018283+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T18:06:56.333000+00:00",
+      "time": "02:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $930.88** Current: **$930.18** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-12T18:06:55.868000+00:00",
+      "time": "02:06 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $930.23** Current: **$930.18** | Strength: 5/5 9-day daily swing high; prior higher high from recent swing structure"
+    },
+    {
+      "ts": "2026-08-12T18:04:49.204000+00:00",
+      "time": "02:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $587.73** Current: **$587.57** | Strength: 5/5 Yesterday's swing high; recent intraday high; rejection from $586+ zone "
+    },
+    {
+      "ts": "2026-08-12T18:03:43.956000+00:00",
+      "time": "02:03 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $580.0** Current: **$580.50** | Strength: 5/5 \u2014 **Round psychological level** + sits near 1H low cluster (587.0, 580.1"
+    },
+    {
+      "ts": "2026-08-12T18:01:37.480000+00:00",
+      "time": "02:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $223.63** Current: **$223.52** | Strength: 5/5 Today's 1H high; prior daily high (9 periods ago); intraday consolidati"
+    },
+    {
+      "ts": "2026-08-12T17:54:14.272000+00:00",
+      "time": "01:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $935.0** Current: **$934.64** | Strength: 5/5 10-day daily high; confluent with 1H resistance band $928\u2013$935"
+    },
+    {
+      "ts": "2026-08-12T17:54:13.068000+00:00",
+      "time": "01:54 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $172.01** Current: **$172.12** | Strength: 5/5 \u2014 **Daily swing low (set 3 days ago), recent HL.**"
+    },
+    {
+      "ts": "2026-08-12T17:53:10.365000+00:00",
+      "time": "01:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $935.0** Current: **$935.22** | Strength: 5/5 10-day daily high; confluent with 1H resistance band $928\u2013$935"
+    },
+    {
+      "ts": "2026-08-12T17:53:08.829000+00:00",
+      "time": "01:53 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $172.01** Current: **$171.95** | Strength: 5/5 \u2014 **Daily swing low (set 3 days ago), recent HL.**"
+    },
     {
       "ts": "2026-08-12T17:52:06.090000+00:00",
       "time": "01:52 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $404.01** Current: **$404.05** | Strength: 5/5 Today's daily high + yesterday's daily high ($403.24); fresh intraday re"
-    },
-    {
-      "ts": "2026-08-12T17:51:01.306000+00:00",
-      "time": "01:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $172.41** Current: **$172.41** | Strength: 5/5 Today's high, 60-day peak, intraday resistance"
-    },
-    {
-      "ts": "2026-08-12T17:51:00.790000+00:00",
-      "time": "01:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $172.4** Current: **$172.41** | Strength: 4/5 \u2014 Psychological + minor daily cluster from prior attempts."
-    },
-    {
-      "ts": "2026-08-12T17:45:45.026000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $172.41** Current: **$172.40** | Strength: 5/5 Today's high, 60-day peak, intraday resistance"
-    },
-    {
-      "ts": "2026-08-12T17:45:44.415000+00:00",
-      "time": "01:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $172.4** Current: **$172.40** | Strength: 4/5 \u2014 Psychological + minor daily cluster from prior attempts."
-    },
-    {
-      "ts": "2026-08-12T17:41:31.195000+00:00",
-      "time": "01:41 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $580.0** Current: **$579.53** | Strength: 5/5 \u2014 **Round psychological level** + sits near 1H low cluster (587.0, 580.1"
-    },
-    {
-      "ts": "2026-08-12T17:40:28.281000+00:00",
-      "time": "01:40 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $172.72** Current: **$172.56** | Strength: 5/5 Today's low, intraday support, 1H swing low"
-    },
-    {
-      "ts": "2026-08-12T17:39:24.811000+00:00",
-      "time": "01:39 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $172.72** Current: **$172.72** | Strength: 5/5 Today's low, intraday support, 1H swing low"
-    },
-    {
-      "ts": "2026-08-12T17:38:21.808000+00:00",
-      "time": "01:38 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $930.88** Current: **$931.65** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-12T17:37:18.456000+00:00",
-      "time": "01:37 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.0** Current: **$18.01** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
     }
   ]
 }
