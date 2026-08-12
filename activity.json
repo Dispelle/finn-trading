@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-12T17:22:48.633330+00:00",
+  "generated_at": "2026-08-12T17:37:48.614785+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T17:37:18.456000+00:00",
+      "time": "01:37 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $18.0** Current: **$18.01** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+    },
+    {
+      "ts": "2026-08-12T17:37:17.006000+00:00",
+      "time": "01:37 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $930.23** Current: **$930.49** | Strength: 5/5 9-day daily swing high; prior higher high from recent swing structure"
+    },
     {
       "ts": "2026-08-12T17:22:31.819000+00:00",
       "time": "01:22 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:49 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $404.01** Current: **$403.89** | Strength: 5/5 Today's daily high + yesterday's daily high ($403.24); fresh intraday re"
-    },
-    {
-      "ts": "2026-08-12T16:46:36.956000+00:00",
-      "time": "12:46 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $11.26** Current: **$11.27** | Strength: 5/5 \u2014 52-week low + 60-day low + today's low-of-day"
-    },
-    {
-      "ts": "2026-08-12T16:46:36.178000+00:00",
-      "time": "12:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $171.5** Current: **$171.64** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
