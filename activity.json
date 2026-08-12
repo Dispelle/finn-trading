@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-12T18:52:55.006932+00:00",
+  "generated_at": "2026-08-12T19:20:50.450767+00:00",
   "items": [
     {
-      "ts": "2026-08-12T18:50:13.790000+00:00",
-      "time": "02:50 PM ET",
+      "ts": "2026-08-12T19:19:50.931000+00:00",
+      "time": "03:19 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $920.95** Current: **$920.38** | Strength: 5/5 \u2014 **Prior weekly close + recent daily high cluster**"
+    },
+    {
+      "ts": "2026-08-12T19:17:44.636000+00:00",
+      "time": "03:17 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $492.81** Current: **$492.81** | Strength: 5/5"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $17.95** Current: **$17.97** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
     },
     {
-      "ts": "2026-08-12T18:48:08.290000+00:00",
-      "time": "02:48 PM ET",
+      "ts": "2026-08-12T19:13:29.231000+00:00",
+      "time": "03:13 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $170.5** Current: **$170.54** | Strength: 4/5 |"
+      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE TP1 $586.91** Current: **$587.19** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-08-12T18:44:58.412000+00:00",
-      "time": "02:44 PM ET",
+      "ts": "2026-08-12T19:12:25.473000+00:00",
+      "time": "03:12 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $170.5** Current: **$170.37** | Strength: 4/5 |"
+      "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP1 $586.91** Current: **$586.81** | Strength: 3/5 Take profit target from trade plan"
     },
     {
-      "ts": "2026-08-12T18:43:56.442000+00:00",
-      "time": "02:43 PM ET",
+      "ts": "2026-08-12T19:12:23.926000+00:00",
+      "time": "03:12 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$17.99** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $365.82** Current: **$365.77** | Strength: 5/5 \u2014 60-day high + 52-week high + today's session high. **Tested but reject"
     },
     {
-      "ts": "2026-08-12T18:43:54.184000+00:00",
-      "time": "02:43 PM ET",
+      "ts": "2026-08-12T19:05:02.746000+00:00",
+      "time": "03:05 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $170.87** Current: **$170.62** | Strength: 4/5 \u2014 Today's daily low / intraday reversal point; tight support"
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63331.0** Current: **$63345.59** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-12T18:34:27.042000+00:00",
-      "time": "02:34 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW R1 $773.41** Current: **$773.37** | Strength: 5/5 \u2014 **52-week high, today's high, swing high**"
-    },
-    {
-      "ts": "2026-08-12T18:33:23.752000+00:00",
-      "time": "02:33 PM ET",
+      "ts": "2026-08-12T19:05:01.331000+00:00",
+      "time": "03:05 PM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE R1 $773.41** Current: **$773.44** | Strength: 5/5 \u2014 **52-week high, today's high, swing high**"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $365.82** Current: **$365.85** | Strength: 5/5 \u2014 60-day high + 52-week high + today's session high. **Tested but reject"
     },
     {
-      "ts": "2026-08-12T18:28:04.869000+00:00",
-      "time": "02:28 PM ET",
+      "ts": "2026-08-12T19:03:51.118000+00:00",
+      "time": "03:03 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $171.43** Current: **$171.32** | Strength: 5/5 \u2014 60-day swing high, today's high, psychological pivot"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,325**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-08-12T18:27:01.328000+00:00",
-      "time": "02:27 PM ET",
+      "ts": "2026-08-12T19:02:55.013000+00:00",
+      "time": "03:02 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $171.5** Current: **$171.48** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63331.0** Current: **$63325.52** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-12T18:24:55.251000+00:00",
-      "time": "02:24 PM ET",
+      "ts": "2026-08-12T18:54:27.641000+00:00",
+      "time": "02:54 PM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $928.95** Current: **$928.49** | Strength: 5/5 \u2014 Daily swing high (9 days ago); structure-critical level; breaks here = "
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $492.81** Current: **$492.62** | Strength: 5/5"
     }
   ]
 }
