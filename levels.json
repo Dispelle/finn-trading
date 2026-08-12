@@ -11115,9 +11115,9 @@
         "price": 11.05,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 Sub-support (psychological round, gap support level if exists)",
+        "reason": "\u2014 1H low from consolidation + psychological support",
         "status": "active",
-        "source_brief": "2026-08-10",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11256,6 +11256,26 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 Psychological round number, likely institutional bid zone",
+        "status": "active",
+        "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.34,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fibonacci retracement + 60-day swing high + MA20 confluence",
+        "status": "active",
+        "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 11.26,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 52-week low + 60-day low + today's low-of-day",
         "status": "active",
         "source_brief": "2026-08-12",
         "hit_count": 0,
