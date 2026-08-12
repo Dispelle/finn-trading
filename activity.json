@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-12T22:56:16.845713+00:00",
+  "generated_at": "2026-08-12T23:11:05.307141+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T23:03:33.382000+00:00",
+      "time": "07:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.2% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$63,327**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-12T21:03:58.012000+00:00",
       "time": "05:03 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:49 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $920.0** Current: **$920.47** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-12T19:49:41.235000+00:00",
-      "time": "03:49 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $223.0** Current: **$223.03** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
