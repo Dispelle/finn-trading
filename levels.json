@@ -3066,7 +3066,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-08-11",
+    "last_updated": "2026-08-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3646,7 +3646,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **52-week low + 60-day swing low + Market Structure Floor**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -3806,7 +3806,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "10-day prior close; initial support below current range",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -3876,7 +3876,7 @@
         "type": "S2",
         "strength": 4,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -3996,7 +3996,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "1H recent low; intraday consolidation base (last 10 1H closes clust around $307\u2013$311); immediate floor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -4006,7 +4006,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -4016,7 +4016,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Round number; 2.618 Fib extension ($705.84 \u2212 $453.40) inverse projection; psychological",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -4045,9 +4045,9 @@
         "price": 297.38,
         "type": "S3",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 52-week low / absolute swing low (60-day)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4125,9 +4125,9 @@
         "price": 315.74,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 60-day swing low; daily support zone; round number ($315)",
+        "reason": "\u2014 Recent swing low (60-day structure); Daily close support",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4425,9 +4425,9 @@
         "price": 328.58,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 (golden pocket low-end); 1H consolidation low range; **CRITICAL**",
+        "reason": "\u2014 Fibonacci 0.786 (confluence with recent 1H lows $328.33\u2013$329.31)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4495,9 +4495,9 @@
         "price": 354.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket); major fib confluence; psychological level",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket start); psychological round level",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4505,9 +4505,19 @@
         "price": 371.49,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint 297.38\u2192445.60); MA50 proximity ($376.16); strong supply zone",
+        "reason": "\u2014 Fibonacci 0.500; Daily MA50 downtrend proximity ($376.16)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 336.97,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Daily MA20 with downward slope; previous 4H candle high confluences",
+        "status": "active",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       }
