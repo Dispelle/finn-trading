@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-12T16:41:05.610333+00:00",
+  "generated_at": "2026-08-12T16:56:04.023631+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T16:49:48.496000+00:00",
+      "time": "12:49 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $404.01** Current: **$403.89** | Strength: 5/5 Today's daily high + yesterday's daily high ($403.24); fresh intraday re"
+    },
+    {
+      "ts": "2026-08-12T16:46:36.956000+00:00",
+      "time": "12:46 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $11.26** Current: **$11.27** | Strength: 5/5 \u2014 52-week low + 60-day low + today's low-of-day"
+    },
+    {
+      "ts": "2026-08-12T16:46:36.178000+00:00",
+      "time": "12:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $171.5** Current: **$171.64** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-12T16:46:35.596000+00:00",
+      "time": "12:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1220.0** Current: **$1219.62** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
+    },
+    {
+      "ts": "2026-08-12T16:45:31.562000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.60** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
+    },
+    {
+      "ts": "2026-08-12T16:44:28.181000+00:00",
+      "time": "12:44 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $171.43** Current: **$171.44** | Strength: 5/5 \u2014 60-day swing high, today's high, psychological pivot"
+    },
     {
       "ts": "2026-08-12T16:33:56.966000+00:00",
       "time": "12:33 PM ET",
@@ -24,42 +60,6 @@
       "time": "12:01 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $326.15** Current: **$326.37** | Strength: 4/5 \u2014 Prior 1H low (today's session) + psychological $325 level"
-    },
-    {
-      "ts": "2026-08-12T15:42:15.858000+00:00",
-      "time": "11:42 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $582.22** Current: **$582.70** | Strength: 5/5 0.650 Fib retracement (golden pocket start); recent swing low cluster"
-    },
-    {
-      "ts": "2026-08-12T15:40:11.344000+00:00",
-      "time": "11:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW R1 $723.3** Current: **$723.17** | Strength: 4/5 Intraday high (today's OHLC); recent 1H/daily swing high; psychological r"
-    },
-    {
-      "ts": "2026-08-12T15:40:07.533000+00:00",
-      "time": "11:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $582.22** Current: **$581.81** | Strength: 5/5 0.650 Fib retracement (golden pocket start); recent swing low cluster"
-    },
-    {
-      "ts": "2026-08-12T15:35:57.141000+00:00",
-      "time": "11:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $300.8** Current: **$301.18** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start); within 0.27% of current price; "
-    },
-    {
-      "ts": "2026-08-12T15:32:45.964000+00:00",
-      "time": "11:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $300.8** Current: **$300.74** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start); within 0.27% of current price; "
-    },
-    {
-      "ts": "2026-08-12T15:28:27.917000+00:00",
-      "time": "11:28 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1220.79** Current: **$1221.00** | Strength: 5/5 \u2014 1-hour swing low (from last 20 candles); also daily high from 2 days"
     }
   ]
 }
