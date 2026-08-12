@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-12T16:56:04.023631+00:00",
+  "generated_at": "2026-08-12T17:22:48.633330+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T17:22:31.819000+00:00",
+      "time": "01:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW STOP $11.25** Current: **$11.24** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-12T17:17:14.871000+00:00",
+      "time": "01:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE STOP $11.25** Current: **$11.26** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-12T17:16:10.896000+00:00",
+      "time": "01:16 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $11.26** Current: **$11.25** | Strength: 5/5 \u2014 52-week low + 60-day low + today's low-of-day"
+    },
+    {
+      "ts": "2026-08-12T17:16:09.930000+00:00",
+      "time": "01:16 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1213.91** Current: **$1213.85** | Strength: 5/5 \u2014 Weekly close 2 weeks ago; acted as resistance on recent rallies (dai"
+    },
+    {
+      "ts": "2026-08-12T17:03:04.874000+00:00",
+      "time": "01:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,440** | P&L: **-22"
+    },
+    {
+      "ts": "2026-08-12T16:59:18.209000+00:00",
+      "time": "12:59 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $88.5** Current: **$88.57** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, tested intraday today, round number psychol"
+    },
+    {
+      "ts": "2026-08-12T16:57:11.084000+00:00",
+      "time": "12:57 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $88.5** Current: **$88.46** | Strength: 5/5 \u2014 Fibonacci 0.236 retracement, tested intraday today, round number psychol"
+    },
     {
       "ts": "2026-08-12T16:49:48.496000+00:00",
       "time": "12:49 PM ET",
@@ -18,48 +60,6 @@
       "time": "12:46 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $171.5** Current: **$171.64** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-12T16:46:35.596000+00:00",
-      "time": "12:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1220.0** Current: **$1219.62** | Strength: 5/5 Daily close (10-bar lookback); psychological round"
-    },
-    {
-      "ts": "2026-08-12T16:45:31.562000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R3 $1220.66** Current: **$1220.60** | Strength: 4/5 \u2014 Recent daily close; midpoint between $1216.94 (today's high) and $12"
-    },
-    {
-      "ts": "2026-08-12T16:44:28.181000+00:00",
-      "time": "12:44 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $171.43** Current: **$171.44** | Strength: 5/5 \u2014 60-day swing high, today's high, psychological pivot"
-    },
-    {
-      "ts": "2026-08-12T16:33:56.966000+00:00",
-      "time": "12:33 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1220.79** Current: **$1220.71** | Strength: 5/5 \u2014 1-hour swing low (from last 20 candles); also daily high from 2 days"
-    },
-    {
-      "ts": "2026-08-12T16:13:55.186000+00:00",
-      "time": "12:13 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $581.05** Current: **$581.68** | Strength: 5/5 \u2014 0.650 Fibonacci, secondary golden pocket."
-    },
-    {
-      "ts": "2026-08-12T16:10:45.074000+00:00",
-      "time": "12:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $581.05** Current: **$581.02** | Strength: 5/5 \u2014 0.650 Fibonacci, secondary golden pocket."
-    },
-    {
-      "ts": "2026-08-12T16:01:14.360000+00:00",
-      "time": "12:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE S1 $326.15** Current: **$326.37** | Strength: 4/5 \u2014 Prior 1H low (today's session) + psychological $325 level"
     }
   ]
 }
