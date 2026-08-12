@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-12T14:24:01.957521+00:00",
+  "generated_at": "2026-08-12T14:38:11.605570+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T14:35:32.687000+00:00",
+      "time": "10:35 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S2 $1212.96** Current: **$1213.70** | Strength: 4/5 \u2014 1H prior swing low; **second-tier intraday support**"
+    },
+    {
+      "ts": "2026-08-12T14:31:21.484000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$18.00** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
+    },
+    {
+      "ts": "2026-08-12T14:31:19.145000+00:00",
+      "time": "10:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63512.54** Current: **$63474.89** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-12T14:29:10.872000+00:00",
+      "time": "10:29 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $326.15** Current: **$326.08** | Strength: 4/5 \u2014 Prior 1H low (today's session) + psychological $325 level"
+    },
+    {
+      "ts": "2026-08-12T14:26:01.554000+00:00",
+      "time": "10:26 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP2 $489.0** Current: **$488.99** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-12T14:26:00.926000+00:00",
+      "time": "10:26 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $489.04** Current: **$488.99** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-12T14:25:59.121000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP2 $365.0** Current: **$364.96** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-12T14:24:56.864000+00:00",
+      "time": "10:24 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP2 $489.0** Current: **$489.69** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-12T14:24:56.257000+00:00",
+      "time": "10:24 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $489.04** Current: **$489.69** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-12T14:23:52.694000+00:00",
       "time": "10:23 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $488.42** Current: **$488.53** | Strength: 5/5 0.500 Fib retracement; psychological $490; daily pivot"
-    },
-    {
-      "ts": "2026-08-12T14:23:50.919000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **JPM \u2014 BROKE ABOVE TP2 $365.0** Current: **$365.42** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:16:26.919000+00:00",
-      "time": "10:16 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $587.0** Current: **$587.09** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (524.49 \u2192 686.08)"
-    },
-    {
-      "ts": "2026-08-12T14:15:22.480000+00:00",
-      "time": "10:15 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $587.0** Current: **$586.81** | Strength: 5/5 \u2014 Fibonacci 0.618 golden pocket (524.49 \u2192 686.08)"
-    },
-    {
-      "ts": "2026-08-12T14:12:11.690000+00:00",
-      "time": "10:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $495.0** Current: **$495.39** | Strength: 5/5 \u2014 Round number + 1H recent candle support (multiple 1H closes near $499\u2013"
-    },
-    {
-      "ts": "2026-08-12T14:11:07.385000+00:00",
-      "time": "10:11 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $159.07** Current: **$159.12** | Strength: 5/5 60-day swing high (second strongest resistance in uptrend); 0.236 Fib re"
-    },
-    {
-      "ts": "2026-08-12T14:10:04.071000+00:00",
-      "time": "10:10 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S3 $11.31** Current: **$11.33** | Strength: 5/5 \u2014 52-week low + psychological round number"
-    },
-    {
-      "ts": "2026-08-12T14:06:54.332000+00:00",
-      "time": "10:06 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.31** Current: **$11.30** | Strength: 5/5 \u2014 52-week low + psychological round number"
-    },
-    {
-      "ts": "2026-08-12T14:05:50.494000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $170.5** Current: **$170.62** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-08-12T14:05:48.818000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $492.81** Current: **$493.13** | Strength: 3/5 \u2014 Prior daily close (Dec candle); minor support"
     }
   ]
 }
