@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-12T13:53:07.950535+00:00",
+  "generated_at": "2026-08-12T14:08:08.042508+00:00",
   "items": [
     {
-      "ts": "2026-08-12T13:53:04.142000+00:00",
-      "time": "09:53 AM ET",
+      "ts": "2026-08-12T14:06:54.332000+00:00",
+      "time": "10:06 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $59.72** Current: **$59.64** | Strength: 5/5 \u2014 Recent 1H swing high (12 bars ago); failed breakout point; psychological"
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S3 $11.31** Current: **$11.30** | Strength: 5/5 \u2014 52-week low + psychological round number"
     },
     {
-      "ts": "2026-08-12T13:53:03.371000+00:00",
-      "time": "09:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R2 $406.37** Current: **$406.20** | Strength: 5/5 0.382 Fib retracement (363.32\u2192431.54); psychological round number"
-    },
-    {
-      "ts": "2026-08-12T13:53:01.426000+00:00",
-      "time": "09:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $170.5** Current: **$170.09** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-08-12T13:51:58.580000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:05:50.494000+00:00",
+      "time": "10:05 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $59.72** Current: **$59.79** | Strength: 5/5 \u2014 Recent 1H swing high (12 bars ago); failed breakout point; psychological"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $170.5** Current: **$170.62** | Strength: 4/5 |"
     },
     {
-      "ts": "2026-08-12T13:51:57.694000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:05:48.818000+00:00",
+      "time": "10:05 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R2 $406.37** Current: **$406.40** | Strength: 5/5 0.382 Fib retracement (363.32\u2192431.54); psychological round number"
+      "message": "\ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $492.81** Current: **$493.13** | Strength: 3/5 \u2014 Prior daily close (Dec candle); minor support"
     },
     {
-      "ts": "2026-08-12T13:51:56.811000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:02:37.715000+00:00",
+      "time": "10:02 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $928.95** Current: **$926.97** | Strength: 5/5 \u2014 Daily swing high (9 days ago); structure-critical level; breaks here = "
+      "message": "\ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $492.81** Current: **$492.80** | Strength: 3/5 \u2014 Prior daily close (Dec candle); minor support"
     },
     {
-      "ts": "2026-08-12T13:51:55.944000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:01:35.541000+00:00",
+      "time": "10:01 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $590.0** Current: **$589.42** | Strength: 5/5 \u2014 reason: **Psychological round + halfway to 671.83 high**"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $920.0** Current: **$918.73** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-12T13:51:55.048000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:01:33.460000+00:00",
+      "time": "10:01 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $223.0** Current: **$223.13** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $159.0** Current: **$159.02** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-12T13:51:52.182000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:00:31.125000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $328.8** Current: **$328.28** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $406.07** Current: **$405.82** | Strength: 5/5 \u2014 0.382 Fibonacci retracement (from 363.32\u2013431.54); prior 4H resistance"
     },
     {
-      "ts": "2026-08-12T13:51:51.218000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-12T14:00:29.696000+00:00",
+      "time": "10:00 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $328.58** Current: **$328.28** | Strength: 5/5 \u2014 0.786 Fibonacci retracement (deepest retracement, strong floor)"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $920.95** Current: **$920.50** | Strength: 5/5 \u2014 **Prior weekly close + recent daily high cluster**"
+    },
+    {
+      "ts": "2026-08-12T14:00:28.608000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $223.63** Current: **$223.42** | Strength: 5/5 Today's 1H high; prior daily high (9 periods ago); intraday consolidati"
+    },
+    {
+      "ts": "2026-08-12T13:59:24.649000+00:00",
+      "time": "09:59 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $223.63** Current: **$223.73** | Strength: 5/5 Today's 1H high; prior daily high (9 periods ago); intraday consolidati"
     }
   ]
 }
