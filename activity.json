@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-12T14:38:11.605570+00:00",
+  "generated_at": "2026-08-12T14:53:10.756537+00:00",
   "items": [
+    {
+      "ts": "2026-08-12T14:45:04.301000+00:00",
+      "time": "10:45 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S2 $586.22** Current: **$586.24** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start); Fib support zone also near 20-"
+    },
+    {
+      "ts": "2026-08-12T14:42:58.808000+00:00",
+      "time": "10:42 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $224.76** Current: **$224.59** | Strength: 5/5 \u2014 Prior 2-day swing high, recent intraday rejection level, within 1H su"
+    },
+    {
+      "ts": "2026-08-12T14:41:55.095000+00:00",
+      "time": "10:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R1 $224.76** Current: **$224.79** | Strength: 5/5 \u2014 Prior 2-day swing high, recent intraday rejection level, within 1H su"
+    },
+    {
+      "ts": "2026-08-12T14:39:47.748000+00:00",
+      "time": "10:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1213.91** Current: **$1214.14** | Strength: 5/5 \u2014 Weekly close 2 weeks ago; acted as resistance on recent rallies (dai"
+    },
+    {
+      "ts": "2026-08-12T14:38:43.444000+00:00",
+      "time": "10:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S2 $586.22** Current: **$585.88** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket start); Fib support zone also near 20-"
+    },
     {
       "ts": "2026-08-12T14:35:32.687000+00:00",
       "time": "10:35 AM ET",
@@ -30,36 +60,6 @@
       "time": "10:26 AM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP2 $489.0** Current: **$488.99** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:26:00.926000+00:00",
-      "time": "10:26 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP1 $489.04** Current: **$488.99** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:25:59.121000+00:00",
-      "time": "10:25 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **JPM \u2014 BROKE BELOW TP2 $365.0** Current: **$364.96** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:24:56.864000+00:00",
-      "time": "10:24 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP2 $489.0** Current: **$489.69** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:24:56.257000+00:00",
-      "time": "10:24 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP1 $489.04** Current: **$489.69** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-12T14:23:52.694000+00:00",
-      "time": "10:23 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $488.42** Current: **$488.53** | Strength: 5/5 0.500 Fib retracement; psychological $490; daily pivot"
     }
   ]
 }
