@@ -10974,7 +10974,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-08-11",
+    "last_updated": "2026-08-12",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -11023,9 +11023,9 @@
         "price": 62489.45,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.500 (midpoint of 57,748 \u2192 67,248 swing)",
+        "reason": "\u2014 Fibonacci 0.500 (midpoint) / psychological $62.5k level",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11043,9 +11043,9 @@
         "price": 67248.13,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high + extension breakout point + prior major resistance",
+        "reason": "\u2014 60-day swing high (weekly resistance)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11083,9 +11083,9 @@
         "price": 61275.83,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.618 golden pocket + 60-day swing low $61,275 + accumulation zone",
+        "reason": "\u2014 **Fibonacci 0.618 golden pocket**",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11113,9 +11113,9 @@
         "price": 65507.59,
         "type": "R2",
         "strength": 5,
-        "reason": "Last daily swing high (2 days ago); failed reclaim attempt here",
+        "reason": "\u2014 60-day swing high cluster / psychological level",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11403,9 +11403,9 @@
         "price": 63512.54,
         "type": "S1",
         "strength": 5,
-        "reason": "Daily MA50 (moving average support) + psychological round",
+        "reason": "\u2014 MA50 (intermediate moving average)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11444,7 +11444,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 Last 10-day swing high, multi-test zone, psychological barrier",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11474,7 +11474,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11524,7 +11524,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Recent daily low (2 days ago); short-term demand zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11584,7 +11584,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11654,7 +11654,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Prior 10-day low, swing low, psychological round",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11893,9 +11893,9 @@
         "price": 65006.05,
         "type": "R1",
         "strength": 5,
-        "reason": "Recent daily swing high (4 days ago) + daily MA20 rejection zone ($64,134)",
+        "reason": "\u2014 Prior daily high / recent swing (2 days ago)",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-12",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11944,7 +11944,7 @@
         "type": "TP3",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
@@ -11954,7 +11954,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "MA200 (long-term resistance); major structural ceiling",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-04",
         "hit_count": 0,
         "last_hit": null
