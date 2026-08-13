@@ -430,5 +430,12 @@
     "last_seen_price": 0,
     "ticker_source": "watchlist",
     "levels": []
+  },
+  "TSLA": {
+    "last_updated": "2026-08-13",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": []
   }
 }
