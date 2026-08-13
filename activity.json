@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-13T16:02:13.846677+00:00",
+  "generated_at": "2026-08-13T16:02:25.454574+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T16:02:23.292000+00:00",
+      "time": "12:02 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $11.2** Current: **$11.21** | Strength: 4/5 \u2014 Round number (psychological) + ~$0.11 below major support"
+    },
     {
       "ts": "2026-08-13T16:00:17.273000+00:00",
       "time": "12:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:28 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $126.55** Current: **$126.58** | Strength: 4/5 **Recent swing low (2\u20133 days), now dynamic support-turned-resistance**"
-    },
-    {
-      "ts": "2026-08-13T15:28:35.686000+00:00",
-      "time": "11:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE STOP $126.5** Current: **$126.58** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
