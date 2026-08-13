@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-13T16:16:42.581837+00:00",
+  "generated_at": "2026-08-13T16:31:34.191956+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T16:30:58.313000+00:00",
+      "time": "12:30 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE STOP $63331.0** Current: **$63348.61** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T16:29:54.637000+00:00",
+      "time": "12:29 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW STOP $63331.0** Current: **$63286.96** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T16:24:38.533000+00:00",
+      "time": "12:24 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S1 $399.47** Current: **$399.59** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement (61.8% below current); confluent with rece"
+    },
+    {
+      "ts": "2026-08-13T16:17:14.984000+00:00",
+      "time": "12:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1213.91** Current: **$1215.57** | Strength: 5/5 \u2014 Weekly close 2 weeks ago; acted as resistance on recent rallies (dai"
+    },
     {
       "ts": "2026-08-13T16:14:04.462000+00:00",
       "time": "12:14 PM ET",
@@ -36,30 +60,6 @@
       "time": "12:09 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1215.3** Current: **$1214.59** | Strength: 5/5 \u2014 Today's low, 1H recent support cluster, higher low of recent structur"
-    },
-    {
-      "ts": "2026-08-13T16:07:41.078000+00:00",
-      "time": "12:07 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.2** Current: **$11.20** | Strength: 4/5 \u2014 Round number (psychological) + ~$0.11 below major support"
-    },
-    {
-      "ts": "2026-08-13T16:02:23.292000+00:00",
-      "time": "12:02 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S2 $11.2** Current: **$11.21** | Strength: 4/5 \u2014 Round number (psychological) + ~$0.11 below major support"
-    },
-    {
-      "ts": "2026-08-13T16:00:17.273000+00:00",
-      "time": "12:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.94** Current: **$17.93** | Strength: 5/5 20-day VWAP; daily MA20 ($17.95); psychological hold"
-    },
-    {
-      "ts": "2026-08-13T15:59:12.902000+00:00",
-      "time": "11:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S2 $17.95** Current: **$17.95** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
     }
   ]
 }
