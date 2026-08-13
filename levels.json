@@ -164,5 +164,73 @@
         "last_hit": null
       }
     ]
+  },
+  "ETH": {
+    "last_updated": "2026-08-13",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 18.64,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Weekly MA20 + 0.236 Fib retracement ($19.05 nearby); psychological pivot",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 18.83,
+        "type": "R2",
+        "strength": 5,
+        "reason": "Prior swing high (HH); critical structure point \u2014 break here flips bias",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 20.44,
+        "type": "R3",
+        "strength": 4,
+        "reason": "60-day high; extension of recent upswing; Fib 1.272 at $22.05 beyond",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.5,
+        "type": "S1",
+        "strength": 5,
+        "reason": "0.500 Fib retracement; prior HL (higher low); daily support cluster",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.17,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Recent LL (lower low); 60-day swing low; MA50 ($17.01) near support",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 16.79,
+        "type": "S3",
+        "strength": 4,
+        "reason": "**0.618 Fib Golden Pocket** \u2014 historically strong bounce zone; psychological",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
