@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-13T15:01:58.515715+00:00",
+  "generated_at": "2026-08-13T15:16:25.530492+00:00",
   "items": [
     {
-      "ts": "2026-08-13T14:47:15.575000+00:00",
-      "time": "10:47 AM ET",
+      "ts": "2026-08-13T15:14:50.093000+00:00",
+      "time": "11:14 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $953.61** Current: **$956.64** | Strength: 5/5 0.500 Fibonacci retracement (golden zone); 20-day VWAP ($874.84) + strong"
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $125.92** Current: **$125.94** | Strength: 5/5 Today's low; intraday demand zone; 1H support"
     },
     {
-      "ts": "2026-08-13T14:44:05.198000+00:00",
-      "time": "10:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $952.11** Current: **$952.91** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-13T14:38:43.269000+00:00",
-      "time": "10:38 AM ET",
+      "ts": "2026-08-13T15:14:48.652000+00:00",
+      "time": "11:14 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $595.95** Current: **$595.47** | Strength: 5/5 \u2014 MA50 (dynamic resistance; was support, flipped to supply)"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $965.44** Current: **$964.38** | Strength: 5/5 MA50 (daily); major moving average; broken below from above"
     },
     {
-      "ts": "2026-08-13T14:38:42.674000+00:00",
-      "time": "10:38 AM ET",
+      "ts": "2026-08-13T15:14:48.067000+00:00",
+      "time": "11:14 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $595.94** Current: **$595.47** | Strength: 5/5 \u2014 MA50 (dynamic resistance)"
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $965.41** Current: **$964.38** | Strength: 5/5 MA50 (50-period moving average); overhead resistance from prior support z"
     },
     {
-      "ts": "2026-08-13T14:37:38.268000+00:00",
-      "time": "10:37 AM ET",
+      "ts": "2026-08-13T15:14:46.175000+00:00",
+      "time": "11:14 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R3 $175.23** Current: **$175.16** | Strength: 4/5 Prior daily close high, round psychological level, 1H resistance cluste"
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $362.0** Current: **$362.20** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-13T14:35:31.754000+00:00",
-      "time": "10:35 AM ET",
+      "ts": "2026-08-13T15:13:43.790000+00:00",
+      "time": "11:13 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R2 $595.95** Current: **$596.29** | Strength: 5/5 \u2014 MA50 (dynamic resistance; was support, flipped to supply)"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $965.44** Current: **$966.72** | Strength: 5/5 MA50 (daily); major moving average; broken below from above"
     },
     {
-      "ts": "2026-08-13T14:35:31.159000+00:00",
-      "time": "10:35 AM ET",
+      "ts": "2026-08-13T15:13:43.250000+00:00",
+      "time": "11:13 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE R1 $595.94** Current: **$596.29** | Strength: 5/5 \u2014 MA50 (dynamic resistance)"
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $965.41** Current: **$966.72** | Strength: 5/5 MA50 (50-period moving average); overhead resistance from prior support z"
     },
     {
-      "ts": "2026-08-13T14:32:20.814000+00:00",
-      "time": "10:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $86.09** Current: **$86.17** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-13T14:31:15.446000+00:00",
-      "time": "10:31 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE TP1 $595.2** Current: **$595.32** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-13T14:30:10.487000+00:00",
-      "time": "10:30 AM ET",
+      "ts": "2026-08-13T15:13:41.575000+00:00",
+      "time": "11:13 AM ET",
       "type": "alert",
-      "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP1 $595.2** Current: **$594.98** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW STOP $362.0** Current: **$361.99** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T15:12:39.768000+00:00",
+      "time": "11:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $125.55** Current: **$125.60** | Strength: 4/5 20-day VWAP; recent pivot"
+    },
+    {
+      "ts": "2026-08-13T15:08:23.773000+00:00",
+      "time": "11:08 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $496.5** Current: **$496.48** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T15:04:01.142000+00:00",
+      "time": "11:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,845** | P&L: **-21"
     }
   ]
 }
