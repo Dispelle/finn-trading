@@ -10356,7 +10356,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10446,7 +10446,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "\u2014 52-week low + psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -10486,7 +10486,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -10586,7 +10586,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -10595,9 +10595,9 @@
         "price": 11.31,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 **60-day low; Fibonacci 0.000 (swing base)**; hard anchor; prior support held twice; critical macro support",
+        "reason": "\u2014 60d swing low (interior pivot); first retest zone if $11.08 breaks",
         "status": "active",
-        "source_brief": "2026-08-07",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10675,9 +10675,9 @@
         "price": 10.5,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 INSUFFICIENT DATA (52w low $11.08 is only data point; projecting extension). Conservative: assume $11.08 = hard floor ",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10696,7 +10696,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -10866,7 +10866,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Prior swing high; invalidation of downtrend if reclaimed decisively",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -10986,7 +10986,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -11455,9 +11455,9 @@
         "price": 11.08,
         "type": "S1",
         "strength": 5,
-        "reason": "**60-day absolute low (TODAY's 1H low), hard floor**",
+        "reason": "\u2014 60-day low (TODAY's touch); critical pivot point; break here = new structure failure",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11648,6 +11648,46 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.04,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.786 retracement + MA20 weekly (dual confluence); nearest rejection zone",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.79,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.618 golden pocket; psychological clustering of swing lows ($12.79\u2013$13.01); if broken, trend weakens",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 13.85,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.382 + 60d swing high cluster ($13.27\u2013$14.45 zone); major supply zone; breakout confirmation level",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 13.85,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
