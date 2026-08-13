@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-13T18:48:15.697267+00:00",
+  "generated_at": "2026-08-13T19:02:38.343724+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T18:53:48.545000+00:00",
+      "time": "02:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S2 $17.95** Current: **$17.96** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
+    },
+    {
+      "ts": "2026-08-13T18:53:48.022000+00:00",
+      "time": "02:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE S1 $17.94** Current: **$17.96** | Strength: 5/5 20-day VWAP; daily MA20 ($17.95); psychological hold"
+    },
+    {
+      "ts": "2026-08-13T18:53:44.604000+00:00",
+      "time": "02:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $63236.05** Current: **$63242.67** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-13T18:53:43.860000+00:00",
+      "time": "02:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $11.26** Current: **$11.27** | Strength: 5/5 52-week LOW (hard floor) + 0.000 Fib anchor + test zone"
+    },
+    {
+      "ts": "2026-08-13T18:52:41.678000+00:00",
+      "time": "02:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $85.17** Current: **$85.14** | Strength: 5/5 \u2014 Fib 0.382 retracement, immediate support, 1H lows testing ($85.71 is ve"
+    },
+    {
+      "ts": "2026-08-13T18:52:38.879000+00:00",
+      "time": "02:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R2 $340.14** Current: **$339.87** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-13T18:52:38.381000+00:00",
+      "time": "02:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $340.07** Current: **$339.87** | Strength: 5/5 \u2014 MA20 daily (downsloping) + prior swing support"
+    },
+    {
+      "ts": "2026-08-13T18:51:34.435000+00:00",
+      "time": "02:51 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $340.07** Current: **$340.14** | Strength: 5/5 \u2014 MA20 daily (downsloping) + prior swing support"
+    },
     {
       "ts": "2026-08-13T18:46:19.371000+00:00",
       "time": "02:46 PM ET",
@@ -12,54 +60,6 @@
       "time": "02:46 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $594.33** Current: **$594.46** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-13T18:46:17.850000+00:00",
-      "time": "02:46 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $178.5** Current: **$178.26** | Strength: 5/5 Fibonacci 1.272 extension (106.37\u2192172.41 swing); psychological cluster a"
-    },
-    {
-      "ts": "2026-08-13T18:45:14.654000+00:00",
-      "time": "02:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $593.81** Current: **$593.72** | Strength: 5/5 \u2014 MA50 (50-day average); major moving average confluence"
-    },
-    {
-      "ts": "2026-08-13T18:45:13.106000+00:00",
-      "time": "02:45 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $178.5** Current: **$178.55** | Strength: 5/5 Fibonacci 1.272 extension (106.37\u2192172.41 swing); psychological cluster a"
-    },
-    {
-      "ts": "2026-08-13T18:44:10.774000+00:00",
-      "time": "02:44 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $124.55** Current: **$124.66** | Strength: 5/5 \u2014 **Weekly MA20** + psychological barrier"
-    },
-    {
-      "ts": "2026-08-13T18:44:09.375000+00:00",
-      "time": "02:44 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $594.33** Current: **$594.21** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-13T18:42:03.573000+00:00",
-      "time": "02:42 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R2 $124.55** Current: **$124.54** | Strength: 5/5 \u2014 **Weekly MA20** + psychological barrier"
-    },
-    {
-      "ts": "2026-08-13T18:42:01.483000+00:00",
-      "time": "02:42 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R2 $177.94** Current: **$178.18** | Strength: 4/5 Prior daily high (2 days ago), rejection zone, 1H highs cluster $177\u201317"
-    },
-    {
-      "ts": "2026-08-13T18:39:52.610000+00:00",
-      "time": "02:39 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE STOP $496.5** Current: **$496.57** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
