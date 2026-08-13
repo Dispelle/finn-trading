@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-13T14:46:27.363946+00:00",
+  "generated_at": "2026-08-13T15:01:26.399862+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T14:47:15.575000+00:00",
+      "time": "10:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R3 $953.61** Current: **$956.64** | Strength: 5/5 0.500 Fibonacci retracement (golden zone); 20-day VWAP ($874.84) + strong"
+    },
     {
       "ts": "2026-08-13T14:44:05.198000+00:00",
       "time": "10:44 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:30 AM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **SMH \u2014 BROKE BELOW TP1 $595.2** Current: **$594.98** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-13T14:28:02.088000+00:00",
-      "time": "10:28 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $365.82** Current: **$365.78** | Strength: 5/5 \u2014 **"
     }
   ]
 }
