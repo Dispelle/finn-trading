@@ -11694,7 +11694,7 @@
     ]
   },
   "BTC": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -11743,9 +11743,9 @@
         "price": 62489.45,
         "type": "S2",
         "strength": 5,
-        "reason": "**Fibonacci 0.500 retracement** (57,747 \u2192 67,248); psychological round level; prior swing low zone",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -11803,9 +11803,9 @@
         "price": 61275.83,
         "type": "S3",
         "strength": 5,
-        "reason": "**Fibonacci 0.618 Golden Pocket**; 60-day swing low ($61,275.83) nearby; major capitulation zone",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12573,9 +12573,9 @@
         "price": 65006.05,
         "type": "R2",
         "strength": 5,
-        "reason": "2-day prior close; recent intraday HH (2 days); supply cluster",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12584,7 +12584,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -12593,9 +12593,9 @@
         "price": 65507.59,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high / recent LH invalidator",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12654,7 +12654,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -12813,9 +12813,9 @@
         "price": 64144.17,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (price anchor, fair value mean)",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12843,9 +12843,9 @@
         "price": 63236.05,
         "type": "S1",
         "strength": 5,
-        "reason": "Today's daily low; 1H support (recent test); minor swing low",
+        "reason": "|",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12855,7 +12855,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12905,7 +12905,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -12916,6 +12916,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62497.0,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
