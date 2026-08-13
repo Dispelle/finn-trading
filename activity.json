@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-13T16:02:37.584466+00:00",
+  "generated_at": "2026-08-13T16:16:32.259000+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T16:14:04.462000+00:00",
+      "time": "12:14 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $399.47** Current: **$399.43** | Strength: 5/5 \u2014 Fibonacci 0.382 retracement (61.8% below current); confluent with rece"
+    },
+    {
+      "ts": "2026-08-13T16:11:57.359000+00:00",
+      "time": "12:11 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $399.68** Current: **$399.75** | Strength: 5/5 \u2014 prior 1H high today; psychological round; tested 2x in last 20 1H cand"
+    },
+    {
+      "ts": "2026-08-13T16:10:53.510000+00:00",
+      "time": "12:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $399.68** Current: **$399.50** | Strength: 5/5 \u2014 prior 1H high today; psychological round; tested 2x in last 20 1H cand"
+    },
+    {
+      "ts": "2026-08-13T16:10:51.654000+00:00",
+      "time": "12:10 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1215.3** Current: **$1215.48** | Strength: 5/5 \u2014 Today's low, 1H recent support cluster, higher low of recent structur"
+    },
+    {
+      "ts": "2026-08-13T16:09:49.393000+00:00",
+      "time": "12:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $86.01** Current: **$85.97** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T16:09:47.618000+00:00",
+      "time": "12:09 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1215.3** Current: **$1214.59** | Strength: 5/5 \u2014 Today's low, 1H recent support cluster, higher low of recent structur"
+    },
+    {
+      "ts": "2026-08-13T16:07:41.078000+00:00",
+      "time": "12:07 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S2 $11.2** Current: **$11.20** | Strength: 4/5 \u2014 Round number (psychological) + ~$0.11 below major support"
+    },
     {
       "ts": "2026-08-13T16:02:23.292000+00:00",
       "time": "12:02 PM ET",
@@ -18,48 +60,6 @@
       "time": "11:59 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S2 $17.95** Current: **$17.95** | Strength: 5/5 \u2014 MA20 daily + recent higher low + Fibonacci 0.650 proximity"
-    },
-    {
-      "ts": "2026-08-13T15:57:04.921000+00:00",
-      "time": "11:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $63512.54** Current: **$63500.00** | Strength: 5/5 \u2014 Fibonacci 0.382 (golden zone start)"
-    },
-    {
-      "ts": "2026-08-13T15:51:50.095000+00:00",
-      "time": "11:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $86.09** Current: **$86.08** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-13T15:32:50.761000+00:00",
-      "time": "11:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R3 $970.49** Current: **$968.79** | Strength: 5/5 \u2014 MA50(D); confluence of moving average + prior support structure"
-    },
-    {
-      "ts": "2026-08-13T15:31:46.870000+00:00",
-      "time": "11:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $972.25** Current: **$972.07** | Strength: 5/5 \u2014 MA50 (intermediate moving average); represents zone where bulls need re"
-    },
-    {
-      "ts": "2026-08-13T15:29:40.706000+00:00",
-      "time": "11:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $18.0** Current: **$17.96** | Strength: 5/5 \u2014 20-day VWAP level, MA20 (daily slope up)"
-    },
-    {
-      "ts": "2026-08-13T15:29:40.062000+00:00",
-      "time": "11:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $126.91** Current: **$126.93** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-13T15:28:36.345000+00:00",
-      "time": "11:28 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $126.55** Current: **$126.58** | Strength: 4/5 **Recent swing low (2\u20133 days), now dynamic support-turned-resistance**"
     }
   ]
 }
