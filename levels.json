@@ -76,5 +76,93 @@
         "last_hit": null
       }
     ]
+  },
+  "USO": {
+    "last_updated": "2026-08-13",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 127.85,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high (most recent); 1H rejection point (last 5 bars). **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 130.98,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 10-day swing high; first barrier to invalidate lower-highs structure. **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 133.99,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fibonacci retracement (102.42 \u2192 153.50 swing); confluence with historic pivot. **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 123.19,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 1H low (today); recent intraday floor. **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 121.93,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 0.618 Fibonacci (golden pocket); MA200 sits at 121.00 (ultra-strong confluence). **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 120.3,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 0.650 Fib + MA50 (120.64). **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 118.48,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 60-day swing low; psychological round (118 handle). **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.35,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 0.786 Fibonacci; intermediate support if 121.93 breaks. **",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
