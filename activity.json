@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-13T16:32:12.312670+00:00",
+  "generated_at": "2026-08-13T16:46:39.436259+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T16:39:25.594000+00:00",
+      "time": "12:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW S1 $17.88** Current: **$17.80** | Strength: 5/5 \u2014 Fibonacci 0.500 (exact midpoint 14.53\u219221.33); daily 10-bar low cluster; "
+    },
+    {
+      "ts": "2026-08-13T16:38:20.304000+00:00",
+      "time": "12:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $63236.05** Current: **$63199.98** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-13T16:35:11.687000+00:00",
+      "time": "12:35 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $86.01** Current: **$86.02** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-13T16:30:58.313000+00:00",
       "time": "12:30 PM ET",
@@ -42,24 +60,6 @@
       "time": "12:10 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $399.68** Current: **$399.50** | Strength: 5/5 \u2014 prior 1H high today; psychological round; tested 2x in last 20 1H cand"
-    },
-    {
-      "ts": "2026-08-13T16:10:51.654000+00:00",
-      "time": "12:10 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1215.3** Current: **$1215.48** | Strength: 5/5 \u2014 Today's low, 1H recent support cluster, higher low of recent structur"
-    },
-    {
-      "ts": "2026-08-13T16:09:49.393000+00:00",
-      "time": "12:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $86.01** Current: **$85.97** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-13T16:09:47.618000+00:00",
-      "time": "12:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1215.3** Current: **$1214.59** | Strength: 5/5 \u2014 Today's low, 1H recent support cluster, higher low of recent structur"
     }
   ]
 }
