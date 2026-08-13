@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-13T18:18:21.159899+00:00",
+  "generated_at": "2026-08-13T18:32:35.935281+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T18:32:28.820000+00:00",
+      "time": "02:32 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **SMH \u2014 BROKE ABOVE TP1 $595.2** Current: **$595.38** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-13T18:27:10.473000+00:00",
+      "time": "02:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $338.53** Current: **$338.46** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T18:26:06.596000+00:00",
+      "time": "02:26 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $338.53** Current: **$338.60** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-13T18:23:59.610000+00:00",
+      "time": "02:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R2 $363.5** Current: **$363.43** | Strength: 5/5 60-day high / 52-week high retest zone; psychological round; extension en"
+    },
+    {
+      "ts": "2026-08-13T18:23:58.921000+00:00",
+      "time": "02:23 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $338.42** Current: **$338.39** | Strength: 5/5 \u2014 20-day VWAP (supply pocket; price consolidated here 8 bars ago; psych"
+    },
+    {
+      "ts": "2026-08-13T18:22:54.542000+00:00",
+      "time": "02:22 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $338.42** Current: **$338.48** | Strength: 5/5 \u2014 20-day VWAP (supply pocket; price consolidated here 8 bars ago; psych"
+    },
+    {
+      "ts": "2026-08-13T18:18:41.653000+00:00",
+      "time": "02:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $158.57** Current: **$158.62** | Strength: 5/5 Recent swing high (3 candles back); proven resistance"
+    },
     {
       "ts": "2026-08-13T18:13:26.241000+00:00",
       "time": "02:13 PM ET",
@@ -18,48 +60,6 @@
       "time": "02:10 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $125.0** Current: **$124.96** | Strength: 5/5 MA20 (slope up); VWAP ($126.34) proximity; today's open"
-    },
-    {
-      "ts": "2026-08-13T18:10:14.545000+00:00",
-      "time": "02:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $158.71** Current: **$158.59** | Strength: 5/5 Prior daily swing high (10 days ago); within 60d high cluster"
-    },
-    {
-      "ts": "2026-08-13T18:09:11.202000+00:00",
-      "time": "02:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $176.5** Current: **$176.52** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-13T18:04:56.929000+00:00",
-      "time": "02:04 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R2 $363.5** Current: **$363.55** | Strength: 5/5 60-day high / 52-week high retest zone; psychological round; extension en"
-    },
-    {
-      "ts": "2026-08-13T18:01:47.489000+00:00",
-      "time": "02:01 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $158.71** Current: **$158.75** | Strength: 5/5 Prior daily swing high (10 days ago); within 60d high cluster"
-    },
-    {
-      "ts": "2026-08-13T18:00:45.038000+00:00",
-      "time": "02:00 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $125.55** Current: **$125.41** | Strength: 4/5 20-day VWAP; recent pivot"
-    },
-    {
-      "ts": "2026-08-13T17:59:41.239000+00:00",
-      "time": "01:59 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $85.45** Current: **$85.46** | Strength: 5/5 Daily swing low (4 days ago); confluent with Fib 0.382 at $85.17"
-    },
-    {
-      "ts": "2026-08-13T17:54:25.181000+00:00",
-      "time": "01:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $85.45** Current: **$85.44** | Strength: 5/5 Daily swing low (4 days ago); confluent with Fib 0.382 at $85.17"
     }
   ]
 }
