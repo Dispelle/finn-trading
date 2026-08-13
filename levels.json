@@ -12852,7 +12852,7 @@
     ]
   },
   "NVDA": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -12872,7 +12872,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 reason: Today's intraday high + 0.500 Fibonacci ($213.17 vs $213.06 = coincidence) + prior 60-day swing high cluster",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -12882,7 +12882,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fib 0.382 (retracement of 189.80\u2192236.54); strong confluence; prior swing high resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -12892,7 +12892,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fib 0.236 (extension into prior range); gap-up target if $218 breaks; major supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -12902,7 +12902,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: **0.618 GOLDEN POCKET (Fibonacci)** + current price is at $211.94 (only ~$4 away) + MA50 proximity ($205.69 on",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -13292,7 +13292,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 reason: 0.786 Fibonacci retracement + sits at prior swing low cluster ($197.97, $199.34) + 20-day VWAP($203.96) is abo",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -13892,7 +13892,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "20-day VWAP; daily MA20 ($204.60 nearby); key mean reversion zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -13902,7 +13902,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Prior swing high (1 day ago); psychological; real rejection zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -13912,7 +13912,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "60-day swing high (intraday resistance cluster); tested 3x in 4 days",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
