@@ -24449,9 +24449,9 @@
         "price": 100.1,
         "type": "R3",
         "strength": 5,
-        "reason": "Fibonacci 1.272 extension (from $71.05 \u2192 $93.89); round psychological level",
+        "reason": "\u2014 Fibonacci 1.272 extension from 71.05 \u2192 93.89 swing. Psychological round; next structural resistance if $93.89 breaks.",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24479,9 +24479,9 @@
         "price": 93.89,
         "type": "R2",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day absolute high; strong swing high; convergence with Fib 1.272 extension zone entry point.",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24799,9 +24799,9 @@
         "price": 82.47,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.500 (midpoint of $71.05 \u2192 $93.89); MA20 weekly at $82.45 confluence",
+        "reason": "\u2014 Fibonacci 0.500 midpoint; weekly MA20 ($82.43) sits here; major structural support. Losing this = daily trend break.",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24829,9 +24829,9 @@
         "price": 85.17,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement; prior daily support from 4 sessions ago.",
+        "reason": "\u2014 Fibonacci 0.382 retracement; daily MA50 convergence zone; held in last pullback.",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -24939,9 +24939,9 @@
         "price": 88.17,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Yesterday's daily low + 1H swing low cluster (micro support, very near)",
+        "reason": "\u2014 Yesterday's daily low; current base-building support; tight 1H range floor.",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -25092,6 +25092,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 90.25,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior 1H high today; 60-day high confluence intraday. Daily failed to close above.",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
