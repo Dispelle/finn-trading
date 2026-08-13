@@ -1255,7 +1255,68 @@
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
-    "levels": []
+    "levels": [
+      {
+        "price": 227.4,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior swing high (60d data); tested today, rejected",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 232.28,
+        "type": "R2",
+        "strength": 5,
+        "reason": "**60-day high; Fib 1.272 extension confluence zone**",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 236.54,
+        "type": "R3",
+        "strength": 5,
+        "reason": "**52-week high; psychological round number ($236\u2013$237)**",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 223.71,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's low; intraday support, immediate pullback target",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.66,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Recent daily low (3d ago); **recent higher low** \u2014 HL of structure",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 216.05,
+        "type": "S3",
+        "strength": 5,
+        "reason": "**Fib 0.382 retracement; 20-day VWAP at $208.58 nearby**",
+        "status": "active",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   },
   "SMH": {
     "last_updated": "2026-08-13",
