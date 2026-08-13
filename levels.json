@@ -27994,7 +27994,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -28564,7 +28564,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fibonacci 1.272 extension (716.58 \u2192 773.41) / major projection level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28584,7 +28584,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "Fibonacci 0.500 (midpoint of swing) / daily VWAP ($746.42 near)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28764,7 +28764,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 **Fib 1.618 extension, macro resistance**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28784,7 +28784,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Fibonacci 1.272 extension (716.58\u2192773.41); psychological round number; uncharted territory but mathematically confluent ",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28794,7 +28794,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fibonacci 1.618 extension; golden ratio resistance; next major target if momentum sustains",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28804,7 +28804,7 @@
         "type": "R3",
         "strength": 4,
         "reason": "Fibonacci 2.618 extension; ultra-extended target; macro resistance zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28834,7 +28834,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 **52-week high, today's high, swing high**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28844,7 +28844,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "Fibonacci 0.786 retracement / weekly MA20 ($733.60 nearby)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -28854,7 +28854,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 **Fib 1.272 extension (716.58\u2192773.41), round number ($790)**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
