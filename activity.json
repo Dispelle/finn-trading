@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-13T17:46:49.244539+00:00",
+  "generated_at": "2026-08-13T17:47:27.028434+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T17:46:56.964000+00:00",
+      "time": "01:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1210.39** Current: **$1210.26** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-13T17:46:56.273000+00:00",
+      "time": "01:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $363.0** Current: **$362.88** | Strength: 5/5 60-day high + intraday high today (swing point) + psychological resistanc"
+    },
+    {
+      "ts": "2026-08-13T17:46:55.556000+00:00",
+      "time": "01:46 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $336.97** Current: **$336.99** | Strength: 4/5 \u2014 today's intraday high; 1-hour high; recent local resistance"
+    },
     {
       "ts": "2026-08-13T17:45:52.654000+00:00",
       "time": "01:45 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:37 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $125.92** Current: **$125.85** | Strength: 5/5 Today's low; intraday demand zone; 1H support"
-    },
-    {
-      "ts": "2026-08-13T17:36:20.230000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $159.0** Current: **$158.96** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-13T17:35:16.834000+00:00",
-      "time": "01:35 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S2 $1212.96** Current: **$1212.75** | Strength: 4/5 \u2014 1H prior swing low; **second-tier intraday support**"
-    },
-    {
-      "ts": "2026-08-13T17:34:13.143000+00:00",
-      "time": "01:34 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1213.91** Current: **$1213.29** | Strength: 5/5 \u2014 Weekly close 2 weeks ago; acted as resistance on recent rallies (dai"
     }
   ]
 }
