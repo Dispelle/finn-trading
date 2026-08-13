@@ -22082,7 +22082,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -22102,7 +22102,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: Fibonacci 0.786 retracement (golden zone confluence), prior swing high from 60-day structure, **structural piv",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22822,7 +22822,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 reason: 20-day VWAP (volume-weighted accumulation level), last 10-bar daily open range support ($52.06\u2013$52.93 cluster)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22902,7 +22902,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 TODAY's daily high; prior intraday rejection",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22912,7 +22912,7 @@
         "type": "R2",
         "strength": 4,
         "reason": "Last 10-day high (strong daily reversal point); breakout above here targets $56.30",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22922,7 +22922,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "0.786 Fibonacci retracement (golden zone); 60d swing midpoint; MA20(4h) likely confluence",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22932,7 +22932,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 reason: Recent swing high cluster ($54.28 today 1H high, $54.12 1H prior), 38% Fibonacci extension zone from prior swi",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -22972,7 +22972,7 @@
         "type": "S1",
         "strength": 4,
         "reason": "\u2014 1H prior high (intraday structure); 4H micro-support",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -23002,7 +23002,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "|",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -23411,9 +23411,9 @@
         "price": 60.18,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint 49.61\u219270.77) + psychological round level",
+        "reason": "\u2014 Fibonacci 0.500 retracement + psychological round number + test zone for last 3 days",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23441,9 +23441,9 @@
         "price": 57.52,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.618 Golden Pocket",
+        "reason": "\u2014 **Fibonacci 0.618 golden pocket** + daily swing low anchor ($57.52 very close) + confluence zone",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23541,9 +23541,9 @@
         "price": 62.69,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement + 60-day pullback zone",
+        "reason": "\u2014 Fibonacci 0.382 retracement, aligns with gap fill toward 60-day highs",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23551,9 +23551,9 @@
         "price": 65.78,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 + proximity to recent $64.69 swing high (60d)",
+        "reason": "\u2014 Fibonacci 0.236 retracement + proximity to weekly MA20 $61.70 (nearby) + first real resistance pole in weekly uptrend",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23571,9 +23571,9 @@
         "price": 54.14,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.786 retracement + prior swing high",
+        "reason": "\u2014 Fibonacci 0.786 + MA20 daily ($53.94 nearby) \u2014 secondary support if breakdown occurs",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -23651,9 +23651,9 @@
         "price": 56.1,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 MA50 (daily moving average)",
+        "reason": "\u2014 MA50 + daily swing low $56.07 (2 bars ago)",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
