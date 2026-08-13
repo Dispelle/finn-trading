@@ -16358,7 +16358,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -16387,9 +16387,9 @@
         "price": 1089.29,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day swing high; break here = trend reversal signal",
+        "reason": "Swing high (60-day); major pullback terminus",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17087,9 +17087,9 @@
         "price": 882.6,
         "type": "S1",
         "strength": 5,
-        "reason": "**0.618 Fibonacci (golden pocket)** \u2014 natural harmonic reversal zone; MA20 $879.09 very close",
+        "reason": "0.618 Fibonacci (golden pocket); MA slope pivot",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -17118,7 +17118,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "\u2014 Prior daily close / 10-day low (intraday: $804.0 swing low, 60d low: $652.21 far extreme)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -17718,7 +17718,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "8-day high; prior swing high; chart leader",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -17967,9 +17967,9 @@
         "price": 1024.73,
         "type": "R3",
         "strength": 5,
-        "reason": "0.382 Fib retracement; prior swing high confluence zone",
+        "reason": "0.382 Fibonacci retracement (golden zone); structural resistance",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18028,7 +18028,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "\u2014 **",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -18057,9 +18057,9 @@
         "price": 854.35,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **60-day swing low (structural anchor)** + break invalidates uptrend",
+        "reason": "Recent swing low (4-day ago); critical technical floor",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18098,7 +18098,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 MA50 daily (major moving average rejection point, confirmed by price rejection)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -18108,7 +18108,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -18147,9 +18147,9 @@
         "price": 827.0,
         "type": "S3",
         "strength": 5,
-        "reason": "Recent swing low (Jan cycle); weekly close $823.03 nearby",
+        "reason": "Swing low (60-day); historical support cluster",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18477,9 +18477,9 @@
         "price": 1011.77,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Prior swing high (60-day), 60 pips above current; represents supply cluster from prior rejection. **",
+        "reason": "Recent swing high (60-day); confluence with demand cluster",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -18487,9 +18487,19 @@
         "price": 965.44,
         "type": "R1",
         "strength": 5,
-        "reason": "MA50 (dynamic resistance; price currently $39.44 below); prior support now resistance",
+        "reason": "MA50 (daily); major moving average; broken below from above",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 873.76,
+        "type": "S2",
+        "strength": 5,
+        "reason": "20-day VWAP; market value anchor",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
