@@ -30260,7 +30260,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -31129,9 +31129,9 @@
         "price": 300.8,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci golden pocket (PRIMARY DEMAND ZONE)",
+        "reason": "0.618 Fib (golden pocket); **intraday low touch ($300.57 today = 0.59 confluence**); critical reversal zone",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31139,9 +31139,9 @@
         "price": 298.54,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.650. Round number support ($300\u2013$298 zone). 2.69 points below S1.",
+        "reason": "0.650 Fib; psychological $300 psyche just broken; demand inflection if tested",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31149,9 +31149,9 @@
         "price": 288.91,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.786 retracement. Also aligns with 60-day range midpoint. Macro support if $298 fails.",
+        "reason": "0.786 Fib; secondary floor; MA200 $286.74 close by; deep structural support",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31270,7 +31270,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "MA20 ($323.84) + 0.382 Fib ($317.52) + prior swing low confluence; psychological hold",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -31329,9 +31329,9 @@
         "price": 317.52,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement. Aligns with last swing high cluster ($316.29\u2013$317.40). Prior support that will now face res",
+        "reason": "0.382 Fib retracement; recent swing high cycle ($316.29, $316.94); daily chart inflection",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31511,7 +31511,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-08-08",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31669,9 +31669,9 @@
         "price": 309.16,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci + prior daily lows cluster + MA50 ($309.48 proximal)",
+        "reason": "0.500 Fib + MA50 $309.48 confluence; psychological round; prior intraday high cycle",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -31752,6 +31752,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 320.26,
+        "type": "R3",
+        "strength": 4,
+        "reason": "20-day VWAP; moving average anchor; supply zone from prior week closes",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
