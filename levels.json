@@ -1948,7 +1948,7 @@
     ]
   },
   "META": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2309,7 +2309,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-11",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2387,9 +2387,9 @@
         "price": 587.0,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 golden pocket (524.49 \u2192 686.08)",
+        "reason": "\u2014 **0.618 Fibonacci retracement (GOLDEN POCKET)**",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2477,9 +2477,9 @@
         "price": 625.81,
         "type": "R3",
         "strength": 5,
-        "reason": "**0.382 Fib + prior swing low from 60d** \u2014 Mid-range supply; if taken out, structural downtrend weakens",
+        "reason": "\u2014 0.382 Fibonacci retracement (golden zone entry); psychological support-turned-resistance",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2587,9 +2587,9 @@
         "price": 647.95,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 retracement + 60-day swing high cluster (642.4, 643.0, 655.88) confluent zone",
+        "reason": "\u2014 0.236 Fib retracement; prior minor swing high",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2807,9 +2807,9 @@
         "price": 559.07,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement + 60-day swing low cluster (557.01, 540.18); psychological $560 level",
+        "reason": "\u2014 0.786 Fibonacci retracement; extended downside target",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2897,9 +2897,9 @@
         "price": 581.05,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 0.650 Fibonacci, secondary golden pocket.",
+        "reason": "\u2014 0.650 Fibonacci retracement; prior 1H swing low",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2928,7 +2928,7 @@
         "type": "TP1",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -2938,7 +2938,7 @@
         "type": "TP2",
         "strength": 3,
         "reason": "Take profit target from trade plan",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-05",
         "hit_count": 0,
         "last_hit": null
@@ -2947,9 +2947,9 @@
         "price": 577.07,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 60-day swing low, prior structure support.",
+        "reason": "\u2014 60-day prior swing low; psychological barrier",
         "status": "active",
-        "source_brief": "2026-08-12",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2997,9 +2997,9 @@
         "price": 604.92,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP; price currently $12.82 below; zone of fair value / potential rejection",
+        "reason": "\u2014 Today's daily high; prior 1H structure resistance",
         "status": "active",
-        "source_brief": "2026-08-09",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3170,6 +3170,16 @@
         "reason": "**Recent swing low (60d structure)** \u2014 Defined support; price just tested ($578.25 low today) and *bounced 1.4 points*",
         "status": "active",
         "source_brief": "2026-08-12",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 608.21,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 9-day prior daily high; swing high from pullback structure",
+        "status": "active",
+        "source_brief": "2026-08-13",
         "hit_count": 0,
         "last_hit": null
       }
