@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-13T22:51:53.679820+00:00",
+  "generated_at": "2026-08-13T23:20:52.031106+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T23:04:53.309000+00:00",
+      "time": "07:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$63,386** | P&L: **-22"
+    },
     {
       "ts": "2026-08-13T21:04:47.620000+00:00",
       "time": "05:04 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:17 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R1 $592.01** Current: **$591.89** | Strength: 5/5 \u2014 MA50 (50-day equilibrium) + confluence with zone where price rejected "
-    },
-    {
-      "ts": "2026-08-13T19:14:09.123000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $58.18** Current: **$58.13** | Strength: 5/5 Last 1H high; daily high today; immediate pivot"
     }
   ]
 }
