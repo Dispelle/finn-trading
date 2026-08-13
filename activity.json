@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:42:32.466465+00:00",
+  "generated_at": "2026-08-13T19:57:33.877140+00:00",
   "items": [
+    {
+      "ts": "2026-08-13T19:50:22.810000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $179.6** Current: **$179.58** | Strength: 5/5 \u2014 60-day high, swing high, recent daily high"
+    },
     {
       "ts": "2026-08-13T19:41:06.474000+00:00",
       "time": "03:41 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:14 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $399.0** Current: **$398.61** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-13T19:14:07.619000+00:00",
-      "time": "03:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $488.42** Current: **$488.36** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement (50% retrace of $393.36\u2192$584.73)"
     }
   ]
 }
