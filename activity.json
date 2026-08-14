@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T15:29:49.230731+00:00",
+  "generated_at": "2026-08-14T15:43:31.126251+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T15:39:32.458000+00:00",
+      "time": "11:39 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE S1 $62920.45** Current: **$62951.82** | Strength: 5/5 \u2014 Today's low; intraday support; forms a microstructure floor."
+    },
     {
       "ts": "2026-08-14T15:27:58.043000+00:00",
       "time": "11:27 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:09 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $978.0** Current: **$976.60** | Strength: 5/5 \u2014 Prior 1H high (today's high), immediate friction"
-    },
-    {
-      "ts": "2026-08-14T14:04:43.538000+00:00",
-      "time": "10:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $978.0** Current: **$978.54** | Strength: 5/5 \u2014 Prior 1H high (today's high), immediate friction"
     }
   ]
 }
