@@ -711,9 +711,9 @@
         "price": 772.45,
         "type": "R3",
         "strength": 4,
-        "reason": "| +$39.41 (+5.4%) | **Fibonacci 1.272 extension** (from $661.14 \u2192 $748.65); psychological round number |",
+        "reason": "Fibonacci 1.272 extension from $661.14 \u2192 $748.65 swing; institutional targets often cluster here",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -731,7 +731,7 @@
         "price": 728.0,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement (immediate pullback target); nearby daily swing low $727.25",
+        "reason": "Fibonacci 0.236 retracement (top to bottom of 60d swing); supply micro-zone",
         "status": "active",
         "source_brief": "2026-08-14",
         "hit_count": 0,
@@ -760,10 +760,10 @@
       {
         "price": 704.9,
         "type": "S3",
-        "strength": 3,
-        "reason": "| -$28.14 (-3.8%) | **Fibonacci 0.500 (midpoint)** \u2014 psychological retracement zone |",
+        "strength": 4,
+        "reason": "Fibonacci 0.500 (midpoint of swing); psychological round (705); Support cluster from recent 10-day lows",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -811,7 +811,7 @@
         "price": 715.22,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (mid-range support); MA50 at $713.21 cluster nearby",
+        "reason": "Fibonacci 0.382 retracement; confluent with recent daily support (719.32 low, 716.92 low swing); MA50 lies 2 pts above a",
         "status": "active",
         "source_brief": "2026-08-14",
         "hit_count": 0,
@@ -834,6 +834,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 745.45,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior swing high (60d); round psychological level (745); confluent with supply zone",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 748.65,
+        "type": "R2",
+        "strength": 5,
+        "reason": "60-day ATH; Weekly swing high; psychological (750 round); Fib 1.272 extension at $772.45 lies 23.80 pts beyond",
+        "status": "active",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       }
