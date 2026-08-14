@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T15:13:39.149221+00:00",
+  "generated_at": "2026-08-14T15:28:31.539285+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T15:27:58.043000+00:00",
+      "time": "11:27 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $960.68** Current: **$961.47** | Strength: 5/5 \u2014 MA50 (daily)"
+    },
+    {
+      "ts": "2026-08-14T15:27:57.422000+00:00",
+      "time": "11:27 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $582.7** Current: **$583.21** | Strength: 5/5 \u2014 recent swing low (2 days ago), daily VWAP cluster, inside current 1H ra"
+    },
+    {
+      "ts": "2026-08-14T15:26:53.332000+00:00",
+      "time": "11:26 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $960.68** Current: **$959.72** | Strength: 5/5 \u2014 MA50 (daily)"
+    },
+    {
+      "ts": "2026-08-14T15:26:52.672000+00:00",
+      "time": "11:26 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $582.7** Current: **$582.20** | Strength: 5/5 \u2014 recent swing low (2 days ago), daily VWAP cluster, inside current 1H ra"
+    },
     {
       "ts": "2026-08-14T15:05:26.336000+00:00",
       "time": "11:05 AM ET",
@@ -36,30 +60,6 @@
       "time": "10:04 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $978.0** Current: **$978.54** | Strength: 5/5 \u2014 Prior 1H high (today's high), immediate friction"
-    },
-    {
-      "ts": "2026-08-14T13:49:57.839000+00:00",
-      "time": "09:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $497.99** Current: **$495.90** | Strength: 4/5 Today's high; 1H swing high; tested 3\u00d7 in last 5 1H candles; psychologic"
-    },
-    {
-      "ts": "2026-08-14T13:48:53.594000+00:00",
-      "time": "09:48 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $497.99** Current: **$498.50** | Strength: 4/5 Today's high; 1H swing high; tested 3\u00d7 in last 5 1H candles; psychologic"
-    },
-    {
-      "ts": "2026-08-14T13:48:51.702000+00:00",
-      "time": "09:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.37** Current: **$160.32** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-14T13:47:49.420000+00:00",
-      "time": "09:47 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $402.58** Current: **$402.45** | Strength: 5/5 Today's 1H high, yesterday's daily close ($400.96/$402.54); short-term s"
     }
   ]
 }
