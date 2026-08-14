@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-14T13:43:12.742696+00:00",
+  "generated_at": "2026-08-14T13:58:05.736772+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T13:49:57.839000+00:00",
+      "time": "09:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW R1 $497.99** Current: **$495.90** | Strength: 4/5 Today's high; 1H swing high; tested 3\u00d7 in last 5 1H candles; psychologic"
+    },
+    {
+      "ts": "2026-08-14T13:48:53.594000+00:00",
+      "time": "09:48 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $497.99** Current: **$498.50** | Strength: 4/5 Today's high; 1H swing high; tested 3\u00d7 in last 5 1H candles; psychologic"
+    },
+    {
+      "ts": "2026-08-14T13:48:51.702000+00:00",
+      "time": "09:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.37** Current: **$160.32** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-14T13:47:49.420000+00:00",
+      "time": "09:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $402.58** Current: **$402.45** | Strength: 5/5 Today's 1H high, yesterday's daily close ($400.96/$402.54); short-term s"
+    },
+    {
+      "ts": "2026-08-14T13:47:47.751000+00:00",
+      "time": "09:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $160.37** Current: **$160.45** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-14T13:44:38.330000+00:00",
+      "time": "09:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE R1 $494.32** Current: **$494.84** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-08-14T13:40:24.964000+00:00",
       "time": "09:40 AM ET",
@@ -24,42 +60,6 @@
       "time": "09:34 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $962.88** Current: **$959.75** | Strength: 5/5 MA50 (50-day moving average); prior rejection zone; tested 3x in last 10 "
-    },
-    {
-      "ts": "2026-08-14T13:34:02.189000+00:00",
-      "time": "09:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW STOP $1184.41** Current: **$1183.25** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-14T13:32:59.360000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $402.58** Current: **$402.64** | Strength: 5/5 Today's 1H high, yesterday's daily close ($400.96/$402.54); short-term s"
-    },
-    {
-      "ts": "2026-08-14T13:32:58.810000+00:00",
-      "time": "09:32 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $489.04** Current: **$488.37** | Strength: 5/5 0.500 Fib (50% retracement); psychological round; daily support"
-    },
-    {
-      "ts": "2026-08-14T13:32:57.162000+00:00",
-      "time": "09:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1186.95** Current: **$1187.52** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-14T13:31:53.339000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $179.6** Current: **$179.41** | Strength: 5/5 60-day **swing high** (today's high); fresh resistance; tight"
-    },
-    {
-      "ts": "2026-08-14T13:31:52.666000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1191.08** Current: **$1186.12** | Strength: 5/5 Recent daily low (9 bars ago); higher low anchor; MA20 proximity ($1,1"
     }
   ]
 }
