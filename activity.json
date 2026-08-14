@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-14T15:43:41.464022+00:00",
+  "generated_at": "2026-08-14T15:58:33.373517+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T15:44:50.194000+00:00",
+      "time": "11:44 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $224.76** Current: **$224.79** | Strength: 5/5 \u2014 Recent swing low (2 days ago); intraday structure support; confluence"
+    },
+    {
+      "ts": "2026-08-14T15:43:46.565000+00:00",
+      "time": "11:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $224.76** Current: **$224.75** | Strength: 5/5 \u2014 Recent swing low (2 days ago); intraday structure support; confluence"
+    },
     {
       "ts": "2026-08-14T15:39:32.458000+00:00",
       "time": "11:39 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:57 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S2 $62497.95** Current: **$62484.48** | Strength: 5/5 **Fib 0.500 (midpoint)**; strong confluence with 60-day swing low cl"
-    },
-    {
-      "ts": "2026-08-14T14:39:31.278000+00:00",
-      "time": "10:39 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP2 $510.0** Current: **$509.56** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-14T14:09:59.997000+00:00",
-      "time": "10:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $978.0** Current: **$976.60** | Strength: 5/5 \u2014 Prior 1H high (today's high), immediate friction"
     }
   ]
 }
