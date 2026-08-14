@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T19:58:36.428145+00:00",
+  "generated_at": "2026-08-14T20:13:36.591706+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T20:00:37.969000+00:00",
+      "time": "04:00 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$62,905** | P&L: **-22"
+    },
     {
       "ts": "2026-08-14T19:55:19.267000+00:00",
       "time": "03:55 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:37 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.37** Current: **$160.36** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-14T18:35:14.005000+00:00",
-      "time": "02:35 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $174.94** Current: **$175.00** | Strength: 5/5 \u2014 Most recent daily close 2 bars back (strong support/resistance flip)."
     }
   ]
 }
