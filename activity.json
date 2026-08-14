@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:44:11.363142+00:00",
+  "generated_at": "2026-08-14T18:58:32.403103+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T18:45:14.791000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,909**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-14T18:38:23.199000+00:00",
       "time": "02:38 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:09 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1186.95** Current: **$1186.00** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-14T18:08:54.833000+00:00",
-      "time": "02:08 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1186.95** Current: **$1187.00** | Strength: 5/5 |"
     }
   ]
 }
