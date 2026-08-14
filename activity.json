@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:28:06.789745+00:00",
+  "generated_at": "2026-08-14T14:43:07.214479+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T14:39:31.278000+00:00",
+      "time": "10:39 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW TP2 $510.0** Current: **$509.56** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-14T14:09:59.997000+00:00",
       "time": "10:09 AM ET",
@@ -54,12 +60,6 @@
       "time": "09:40 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $225.5** Current: **$225.74** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-14T13:38:17.653000+00:00",
-      "time": "09:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $225.5** Current: **$225.38** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
