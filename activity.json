@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T20:14:34.389081+00:00",
+  "generated_at": "2026-08-14T20:28:38.153877+00:00",
   "items": [
+    {
+      "ts": "2026-08-14T20:15:06.477000+00:00",
+      "time": "04:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -22.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$62,897**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-14T20:00:37.969000+00:00",
       "time": "04:00 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:38 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $160.37** Current: **$160.38** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-14T18:37:19.904000+00:00",
-      "time": "02:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.37** Current: **$160.36** | Strength: 5/5 |"
     }
   ]
 }
