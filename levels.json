@@ -2016,7 +2016,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-08-13",
+    "last_updated": "2026-08-14",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2025,9 +2025,9 @@
         "price": 494.32,
         "type": "R1",
         "strength": 5,
-        "reason": "20-day VWAP + very close to current price; psychological barrier",
+        "reason": "\u2014 20-day VWAP; confluence with recent 1H swing high ($495.64, $497.98); **Volume node + anchored strength**",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2035,19 +2035,19 @@
         "price": 511.63,
         "type": "R2",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement (393.36\u2192584.73); prior support turned resistance",
+        "reason": "\u2014 MA50 daily; prior swing high ($511.63 = 0.382 fib); psychological barrier zone",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 539.57,
         "type": "R3",
-        "strength": 4,
-        "reason": "Fibonacci 0.236 retracement; proximity to prior swing highs (530\u2013562 zone)",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fibonacci retracement (393.36\u2192584.73); sits between recent swing highs (521.95, 561.47); supply zone",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2065,9 +2065,9 @@
         "price": 466.46,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.618 golden pocket (classic risk/reward zone); psychological",
+        "reason": "\u2014 **0.618 Fibonacci (golden pocket)**; strong reversal zone historically; confluence with 1H lows ($466.03, $465.1)",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2075,9 +2075,9 @@
         "price": 460.21,
         "type": "S3",
         "strength": 5,
-        "reason": "60-day swing low; invalidation level for bullish bias",
+        "reason": "\u2014 60-day swing low; holds weekly bull structure; **invalidation level below this**",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2098,6 +2098,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 489.04,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fibonacci retracement (middle of swing); psychological round number; confluence with recent daily close ($489.28",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 455.3,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       }
