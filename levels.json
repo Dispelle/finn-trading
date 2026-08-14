@@ -414,7 +414,7 @@
     ]
   },
   "SPY": {
-    "last_updated": "2026-08-13",
+    "last_updated": "2026-08-14",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -483,9 +483,9 @@
         "price": 740.57,
         "type": "S3",
         "strength": 5,
-        "reason": "**Golden Pocket** (Fib 0.618); Weekly MA20 $740.54; critically confluent zone; previous swing low nearby $739.22",
+        "reason": "\u2014 Fib 0.618 golden pocket; MA20 weekly ($740.81) near-perfect confluence",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -532,10 +532,10 @@
       {
         "price": 774.11,
         "type": "S1",
-        "strength": 3,
-        "reason": "Today's low; minor support; swing low from intraday structure",
+        "strength": 5,
+        "reason": "\u2014 Today's daily low; immediate support if intraday pullback",
         "status": "active",
-        "source_brief": "2026-08-13",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       },
@@ -566,6 +566,66 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-13",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 779.37,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior 60-day all-time high; psychological round; weekly candle touching upper Bollinger Band range",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 796.45,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension (716.58\u2192779.37 swing); next technical target",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 818.17,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.618 extension; macro upside target if breakout confirmed",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 764.55,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.236 retracement; psychological support; 5-day consolidation pivot",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 755.38,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.382 retracement; MA20 daily ($754.54) convergence; **GOLDEN ZONE**",
+        "status": "active",
+        "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 747.98,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.500 midpoint; MA50 ($748.48) convergence; strong support cluster",
+        "status": "active",
+        "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
       }
