@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T19:12:26.654999+00:00",
+  "generated_at": "2026-08-17T19:27:18.594898+00:00",
   "items": [
+    {
+      "ts": "2026-08-17T19:21:54.065000+00:00",
+      "time": "03:21 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $481.67** Current: **$481.71** | Strength: 5/5 Today's low; intraday pivot; 1H low confluence"
+    },
+    {
+      "ts": "2026-08-17T19:18:45.531000+00:00",
+      "time": "03:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R1 $404.92** Current: **$404.97** | Strength: 5/5 Last swing high (intraday pivot, 2 bars ago). Daily close above = bullis"
+    },
+    {
+      "ts": "2026-08-17T19:17:41.247000+00:00",
+      "time": "03:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R2 $1011.77** Current: **$1011.95** | Strength: 5/5 Prior swing high (60-day); clean rejection zone; heavy volume resistanc"
+    },
+    {
+      "ts": "2026-08-17T19:13:26.761000+00:00",
+      "time": "03:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R2 $1011.77** Current: **$1010.81** | Strength: 5/5 Prior swing high (60-day); clean rejection zone; heavy volume resistanc"
+    },
     {
       "ts": "2026-08-17T19:02:00.688000+00:00",
       "time": "03:02 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:12 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $225.5** Current: **$225.60** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-17T18:02:04.948000+00:00",
-      "time": "02:02 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW STOP $87.0** Current: **$86.93** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-17T18:00:56.919000+00:00",
-      "time": "02:00 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $304.3** Current: **$304.38** | Strength: 3/5 Today's intraday low (immediate support)"
-    },
-    {
-      "ts": "2026-08-17T17:59:54.565000+00:00",
-      "time": "01:59 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R1 $404.92** Current: **$404.85** | Strength: 5/5 Last swing high (intraday pivot, 2 bars ago). Daily close above = bullis"
-    },
-    {
-      "ts": "2026-08-17T17:56:40.956000+00:00",
-      "time": "01:56 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $304.3** Current: **$304.23** | Strength: 3/5 Today's intraday low (immediate support)"
     }
   ]
 }
