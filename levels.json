@@ -3004,7 +3004,7 @@
     ]
   },
   "XRP": {
-    "last_updated": "2026-08-14",
+    "last_updated": "2026-08-17",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3043,9 +3043,9 @@
         "price": 11.08,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 **52-week low, 60-day low, round number, swing low**",
+        "reason": "**60-day low / lower low marker**; 0.000 Fib swing point; psychological support",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3053,9 +3053,9 @@
         "price": 10.91,
         "type": "S2",
         "strength": 4,
-        "reason": "\u2014 Fibonacci extension extrapolated (1.272 = $16.69 inverted; gaps suggest ~$10.80\u2013$10.95 prior resistance floor)",
+        "reason": "Extension gap below $11.08; prior weekly low zone (extrapolated from range)",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3073,9 +3073,9 @@
         "price": 12.02,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 **0.786 Fibonacci (60d swing), daily structure resistance**",
+        "reason": "0.786 Fib retracement; prior 60-day swing low confluence; psychological round",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3083,9 +3083,9 @@
         "price": 12.76,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fibonacci (golden pocket), prior swing high resistance**",
+        "reason": "**0.618 Fib (golden pocket)**; prior 10-day swing high; zone of prior support/resistance overlap",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3093,9 +3093,9 @@
         "price": 13.28,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 **0.50 Fib, MA20 approaching ($13.47 next)**",
+        "reason": "0.500 Fib midpoint; 20-day VWAP sits at $11.90 (above current) \u2192 resistance cluster $13.28\u2013$13.81",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3186,6 +3186,16 @@
         "reason": "\u2014 **approximate 1.272 Fibonacci extension (if 11.08\u219215.49 reverses)**",
         "status": "active",
         "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 12.76,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       }
