@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:23:31.062960+00:00",
+  "generated_at": "2026-08-17T18:38:26.030555+00:00",
   "items": [
+    {
+      "ts": "2026-08-17T18:28:41.348000+00:00",
+      "time": "02:28 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $225.5** Current: **$225.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-17T18:12:42.389000+00:00",
       "time": "02:12 PM ET",
@@ -54,12 +60,6 @@
       "time": "01:38 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R2 $18.18** Current: **$18.19** | Strength: 5/5 Fibonacci 0.382 retracement (14.53\u219220.44); prior swing high overlap"
-    },
-    {
-      "ts": "2026-08-17T17:28:56.340000+00:00",
-      "time": "01:28 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $161.67** Current: **$161.71** | Strength: 5/5 60-day swing high; recent HH; prior supply ceiling"
     }
   ]
 }
