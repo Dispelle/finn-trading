@@ -3496,6 +3496,16 @@
         "source_brief": "2026-08-14",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 222.75,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
@@ -3519,9 +3529,9 @@
         "price": 632.13,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.236 Fib; 60-day swing high from ~8 trading days ago ($642.77 nearby); psychological round resistance",
+        "reason": "\u2014 0.236 Fib retracement (previous resistance, prior swing high nearby)",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3559,7 +3569,7 @@
         "price": 539.62,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 (deeper support); prior swing low (60d)",
+        "reason": "\u2014 0.786 Fib; minor swing low support",
         "status": "active",
         "source_brief": "2026-08-17",
         "hit_count": 0,
@@ -3609,7 +3619,7 @@
         "price": 567.88,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket, perfect golden pocket target); also sits near weekly MA20 confluence ($564.82)",
+        "reason": "\u2014 0.618 Fib (golden pocket start); MA20w at $565.40 nearby = strong confluence",
         "status": "active",
         "source_brief": "2026-08-17",
         "hit_count": 0,
@@ -3619,7 +3629,7 @@
         "price": 555.0,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Prior swing low (60-day); 10-day moving average proximity",
+        "reason": "\u2014 20-day VWAP (institutional anchor); prior weekly close (569.41 \u2192 572.93 range)",
         "status": "active",
         "source_brief": "2026-08-17",
         "hit_count": 0,
@@ -3730,6 +3740,26 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 620.0,
+        "type": "R1",
+        "strength": 4,
+        "reason": "\u2014 Round-number, minor supply zone (between recent swing highs; psychological",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 587.73,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fib retracement (also 4-candle weekly support; psychological midpoint)",
         "status": "active",
         "source_brief": "2026-08-17",
         "hit_count": 0,
@@ -3879,7 +3909,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4018,6 +4048,16 @@
         "type": "S3",
         "strength": 4,
         "reason": "20-day VWAP; recent weekly close ($877.57); daily MA20 ($890.05) nearby",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1055.29,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-17",
         "hit_count": 0,
