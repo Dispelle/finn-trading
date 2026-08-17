@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T18:38:26.030555+00:00",
+  "generated_at": "2026-08-17T18:53:16.793553+00:00",
   "items": [
+    {
+      "ts": "2026-08-17T18:52:10.284000+00:00",
+      "time": "02:52 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1191.08** Current: **$1190.86** | Strength: 5/5 Recent daily low (9 bars ago); higher low anchor; MA20 proximity ($1,1"
+    },
+    {
+      "ts": "2026-08-17T18:40:29.213000+00:00",
+      "time": "02:40 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE STOP $87.0** Current: **$87.02** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-17T18:28:41.348000+00:00",
       "time": "02:28 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:41 PM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE TP2 $510.0** Current: **$510.12** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-17T17:38:33.536000+00:00",
-      "time": "01:38 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $161.67** Current: **$161.65** | Strength: 5/5 60-day swing high; recent HH; prior supply ceiling"
-    },
-    {
-      "ts": "2026-08-17T17:38:31.701000+00:00",
-      "time": "01:38 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R2 $18.18** Current: **$18.19** | Strength: 5/5 Fibonacci 0.382 retracement (14.53\u219220.44); prior swing high overlap"
     }
   ]
 }
