@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:33:38.217381+00:00",
+  "generated_at": "2026-08-17T16:48:40.030027+00:00",
   "items": [
+    {
+      "ts": "2026-08-17T16:38:42.285000+00:00",
+      "time": "12:38 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.57** | Strength: 5/5 Today's low; intraday pivot; 1H low confluence"
+    },
     {
       "ts": "2026-08-17T16:21:39.354000+00:00",
       "time": "12:21 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:52 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $59.96** Current: **$59.91** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-17T14:51:08.048000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $59.96** Current: **$59.98** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
