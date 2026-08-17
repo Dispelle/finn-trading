@@ -3636,7 +3636,7 @@
     ]
   },
   "AMD": {
-    "last_updated": "2026-08-14",
+    "last_updated": "2026-08-17",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3695,9 +3695,9 @@
         "price": 460.21,
         "type": "S3",
         "strength": 5,
-        "reason": "0.650 Fib; secondary support band",
+        "reason": "60-day swing low; structure invalidation point; psychological $460 round number",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3845,9 +3845,9 @@
         "price": 584.73,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; weekly major supply; psychological round",
+        "reason": "60-day/60-period high; round psychological level ($585); extension target breakout",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3967,7 +3967,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3988,6 +3988,46 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-14",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 546.8,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Fibonacci 0.236 retracement (424.03\u2192584.73); prior supply zone in recent rally",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 561.47,
+        "type": "R2",
+        "strength": 5,
+        "reason": "60-day swing high; psychological round; prior resistance tested multiple times",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 504.38,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Fibonacci 0.500 golden pocket midline; 20-day VWAP at $495.14 nearby; psychological support",
+        "status": "active",
+        "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 485.42,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Fibonacci 0.618 golden pocket (Phi reversal zone); major confluence",
+        "status": "active",
+        "source_brief": "2026-08-17",
         "hit_count": 0,
         "last_hit": null
       }
