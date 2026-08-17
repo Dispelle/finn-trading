@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:19:00.498444+00:00",
+  "generated_at": "2026-08-17T16:33:38.217381+00:00",
   "items": [
+    {
+      "ts": "2026-08-17T16:21:39.354000+00:00",
+      "time": "12:21 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $64007.1** Current: **$64006.70** | Strength: 5/5 20-day VWAP \u2014 volume-weighted anchor; near MA20 ($63,935). Price just"
+    },
     {
       "ts": "2026-08-17T15:39:01.367000+00:00",
       "time": "11:39 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:51 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $59.96** Current: **$59.98** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-17T14:50:02.976000+00:00",
-      "time": "10:50 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW R2 $597.95** Current: **$597.23** | Strength: 4/5 60-day intraday high (2 bars ago); failed breakout candle; psychological"
     }
   ]
 }
