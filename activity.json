@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-18T16:09:51.715932+00:00",
+  "generated_at": "2026-08-18T16:10:17.510639+00:00",
   "items": [
+    {
+      "ts": "2026-08-18T16:10:06.050000+00:00",
+      "time": "12:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW S1 $64747.76** Current: **$64738.08** | Strength: 5/5 \u2014 **CRITICAL ZONE** Fibonacci 0.236 retracement sits EXACTLY at $64,"
+    },
     {
       "ts": "2026-08-18T15:41:04.676000+00:00",
       "time": "11:41 AM ET",
@@ -54,12 +60,6 @@
       "time": "11:11 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $475.76** Current: **$475.81** | Strength: 4/5 |"
-    },
-    {
-      "ts": "2026-08-18T15:10:05.133000+00:00",
-      "time": "11:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $475.76** Current: **$475.71** | Strength: 4/5 |"
     }
   ]
 }
