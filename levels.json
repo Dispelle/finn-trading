@@ -5432,7 +5432,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -5541,9 +5541,9 @@
         "price": 62.06,
         "type": "R1",
         "strength": 5,
-        "reason": "0.382 Fib retracement (49.61\u219269.75); prior swing high cluster zone; psychological",
+        "reason": "\u2014 Fibonacci 0.382 retracement (49.61\u219269.75); aligns with recent 60-day pullback zone; psychological resistance",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5551,9 +5551,9 @@
         "price": 64.69,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high cluster; MA200 proximity ($64.66); supply zone from late Jul/Aug",
+        "reason": "\u2014 Swing high from 60d chart; MA200 confluence zone ($64.65); strong supply cluster",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5561,9 +5561,9 @@
         "price": 69.75,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; Fibonacci 0.236 extension; major overhead resistance; volume climax",
+        "reason": "\u2014 60-day high; Fibonacci 0.000 (swing top); extension pivot point",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -5654,6 +5654,36 @@
         "reason": "20-day VWAP; MA20/MA50 confluence zone; strong volume node",
         "status": "active",
         "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 58.16,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Last HL (last higher low); daily structure anchor; loss of this breaks daily uptrend",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 57.3,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.618 golden pocket; strong harmonic reversal zone; MA50 proximity ($55.60)",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 56.66,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.650; VWAP (20-day) at $55.33 just below; psychological round level",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
