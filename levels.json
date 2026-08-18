@@ -1588,7 +1588,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1627,9 +1627,9 @@
         "price": 474.9,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement; recent daily low (4 bars back: $479.17) nearby",
+        "reason": "\u2014 Fibonacci 0.236 retracement. Round number support. MA20 at $454.14 is 20 points below.",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1637,9 +1637,9 @@
         "price": 450.88,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.382 retracement; **20-day VWAP $453.92 immediate vicinity**; MA20 $454.31",
+        "reason": "\u2014 **GOLDEN ZONE** \u2014 Fibonacci 0.382 retracement + 20-day VWAP still sits at $454.69 (4-point confluence). This is the li",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1757,9 +1757,9 @@
         "price": 505.18,
         "type": "R2",
         "strength": 5,
-        "reason": "Prior daily high (1 bar ago); 60-day high test zone entry",
+        "reason": "\u2014 60-day swing high (day 4 high) + psychological round level. Prior support turned resistance.",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1767,9 +1767,9 @@
         "price": 513.73,
         "type": "R3",
         "strength": 5,
-        "reason": "**Primary swing high (60d peak)**; Fibonacci extension area; supply zone",
+        "reason": "\u2014 **MAJOR** \u2014 60-day high, tested on 5 bars ago, extension zone target. Fibonacci extension (1.272 = $558.48 just above)",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1847,9 +1847,9 @@
         "price": 492.66,
         "type": "R1",
         "strength": 5,
-        "reason": "Today's high; prior daily HH confluence; 1H recent high; psychological barrier",
+        "reason": "\u2014 Prior daily support (day 10 low) + cluster zone of 1H consolidation (recent trading range floor). Tight zone.",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1890,6 +1890,16 @@
         "reason": "**Golden Pocket (0.618 Fib)**; MA50 $413.89 overlap",
         "status": "active",
         "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 478.41,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 **TODAY'S INTRADAY LOW** + Daily support cluster (day 8 low = $478.41, day 9 low = $479.36). Very recent, very relevan",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
