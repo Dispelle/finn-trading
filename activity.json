@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-18T20:49:27.605879+00:00",
+  "generated_at": "2026-08-18T21:24:24.626612+00:00",
   "items": [
+    {
+      "ts": "2026-08-18T21:02:36.225000+00:00",
+      "time": "05:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.7% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,556**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-18T19:58:13.293000+00:00",
       "time": "03:58 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:44 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $483.36** Current: **$483.90** | Strength: 5/5 \u2014 10-day prior higher low. **INVALIDATION LEVEL.** Breach = structure fa"
-    },
-    {
-      "ts": "2026-08-18T19:37:22.207000+00:00",
-      "time": "03:37 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $85.7** Current: **$85.66** | Strength: 5/5 \u2014 20-day VWAP ($82.73) + 1H cluster support; daily higher low (9 bars ago)"
     }
   ]
 }
