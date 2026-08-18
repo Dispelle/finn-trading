@@ -4061,9 +4061,9 @@
         "price": 216.05,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.382 retracement, 10-day MA support zone, confluent with daily support cluster",
+        "reason": "\u2014 Fibonacci 0.382 retracement; 60-day VWAP zone ($209.91 moving toward this); intermediate support if pullback extends. ",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4121,9 +4121,9 @@
         "price": 222.25,
         "type": "S2",
         "strength": 5,
-        "reason": "Fib 0.236 retracement, prior daily pivot, MA20 rejection zone nearby ($211.57)",
+        "reason": "\u2014 Fibonacci 0.236 retracement (189.80\u2192232.28); also recent daily swing low; volume pivot. **",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4141,9 +4141,9 @@
         "price": 232.28,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high / recent structure resistance / prior profit-taking zone",
+        "reason": "\u2014 Prior 60-day swing high; strong resistance; psychological round $230 nearby; tested multiple times; **",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4193,7 +4193,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4271,9 +4271,9 @@
         "price": 224.76,
         "type": "S1",
         "strength": 5,
-        "reason": "Last swing high turned support, daily higher-low anchor, critical structure",
+        "reason": "\u2014 Prior swing high, now support; 4-day cluster of daily lows near $224.50\u2013$224.86; intraday floor. **",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4350,20 +4350,20 @@
       {
         "price": 243.83,
         "type": "R2",
-        "strength": 4,
-        "reason": "\u2014 Fibonacci 1.272 extension (189.80 \u2192 232.28 measured move)",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension from 189.80\u2192232.28 swing; clean Fib level; breakout target if $232.28 cracks. **",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 258.53,
         "type": "R3",
-        "strength": 3,
-        "reason": "\u2014 Fibonacci 1.618 extension (golden ratio extension)",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.618 extension (golden ratio); secondary resistance; measured move target. **",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
