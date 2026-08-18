@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-18T18:34:15.855344+00:00",
+  "generated_at": "2026-08-18T18:49:07.997600+00:00",
   "items": [
+    {
+      "ts": "2026-08-18T18:49:04.218000+00:00",
+      "time": "02:49 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $567.88** Current: **$567.67** | Strength: 5/5 \u2014 **GOLDEN POCKET** (Fib 0.618 \u2014 strongest retrace zone); VWAP 20-day at"
+    },
+    {
+      "ts": "2026-08-18T18:47:58.701000+00:00",
+      "time": "02:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $480.27** Current: **$480.61** | Strength: 5/5 Fibonacci 0.650 + swing low cluster ($476\u2013$463); structural invalidation"
+    },
+    {
+      "ts": "2026-08-18T18:47:57.171000+00:00",
+      "time": "02:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $567.88** Current: **$568.07** | Strength: 5/5 \u2014 **GOLDEN POCKET** (Fib 0.618 \u2014 strongest retrace zone); VWAP 20-day at"
+    },
+    {
+      "ts": "2026-08-18T18:46:46.619000+00:00",
+      "time": "02:46 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.58** | Strength: 5/5 Today's low; intraday pivot; 1H low confluence"
+    },
+    {
+      "ts": "2026-08-18T18:45:43.519000+00:00",
+      "time": "02:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $479.5** Current: **$479.81** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-18T18:41:17.463000+00:00",
+      "time": "02:41 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $479.5** Current: **$478.87** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-18T18:40:09.633000+00:00",
+      "time": "02:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $85.7** Current: **$85.70** | Strength: 5/5 \u2014 20-day VWAP ($82.73) + 1H cluster support; daily higher low (9 bars ago)"
+    },
     {
       "ts": "2026-08-18T18:29:12.346000+00:00",
       "time": "02:29 PM ET",
@@ -18,48 +60,6 @@
       "time": "02:10 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $130.57** Current: **$130.65** | Strength: 4/5 Today's high; intraday pop failed to hold \u2014 tested twice in last 10 1H c"
-    },
-    {
-      "ts": "2026-08-18T18:05:31.193000+00:00",
-      "time": "02:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $931.91** Current: **$932.17** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-18T18:03:22.901000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $931.91** Current: **$931.80** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-18T17:58:00.136000+00:00",
-      "time": "01:58 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $481.67** Current: **$482.01** | Strength: 5/5 Today's low; intraday pivot; 1H low confluence"
-    },
-    {
-      "ts": "2026-08-18T17:55:52.542000+00:00",
-      "time": "01:55 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $361.3** Current: **$361.18** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-18T17:54:48.709000+00:00",
-      "time": "01:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.0** Current: **$164.98** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
-    },
-    {
-      "ts": "2026-08-18T17:53:45.051000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $361.3** Current: **$361.44** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-18T17:53:44.357000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $165.0** Current: **$165.06** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
     }
   ]
 }
