@@ -238,7 +238,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -307,9 +307,9 @@
         "price": 118.48,
         "type": "S3",
         "strength": 5,
-        "reason": "Recent swing low (HL), trend invalidation point",
+        "reason": "\u2014 Recent 60-day swing low; daily support cluster ($117.98 weekly, $117.51 daily low).",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -477,9 +477,9 @@
         "price": 120.8,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 **golden ratio**, coincides with 38% retracement of weekly range, prior swing low support cluster ($12",
+        "reason": "\u2014 0.618 Fibonacci (golden pocket); MA50 at $120.22 sits 47 bps away; strong harmonic zone.",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -517,9 +517,39 @@
         "price": 126.34,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint 102.42\u2192150.26), **CRITICAL confluence with 20-day VWAP ($126.69 \u00b10.35), today's daily open (",
+        "reason": "\u2014 0.500 Fibonacci retracement; coincides with 20-day VWAP $126.78; prior daily low consolidation zone.",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 136.61,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Swing high from 60-day chart; prior rejection zone; 0.236 Fib sits at $138.97 (just above).",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 142.33,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 60-day swing high; psychological $140s barrier; major supply cluster.",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 150.26,
+        "type": "R3",
+        "strength": 5,
+        "reason": "\u2014 60-day absolute high; Fibonacci 1.000 extension; strong resistance before $163.27 (1.272).",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
