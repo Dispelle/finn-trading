@@ -3820,7 +3820,7 @@
     ]
   },
   "SMH": {
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3829,9 +3829,9 @@
         "price": 607.58,
         "type": "R1",
         "strength": 5,
-        "reason": "0.382 Fib + prior resistance from daily swings (12/13 days ago)",
+        "reason": "Fibonacci 0.382 retracement (503.63\u2192671.83); confluent with recent daily resistance (10d highs cluster 586\u2013590); psychol",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3839,9 +3839,9 @@
         "price": 632.13,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: 0.236 Fibonacci retracement (first fib level, confluent with supply zone); multiple swing highs cluster nearby",
+        "reason": "Fibonacci 0.236 retracement; mid-zone between current price and 671.83 ATH; prior swing high area",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3849,9 +3849,9 @@
         "price": 671.83,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 reason: **60-day swing high (recent HH), psychological resistance, 1-to-1 extension of last pullback, Fibonacci extens",
+        "reason": "60-day ATH; **recent swing high**; resistance that capped 3 of last 5 weeks; critical overhead supply",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3879,9 +3879,9 @@
         "price": 539.62,
         "type": "S3",
         "strength": 5,
-        "reason": "0.786 Fib; 60-day swing low cluster; capitulation zone",
+        "reason": "Weekly close (2 weeks ago); structural support \u2014 breach = CHoCH to bearish",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3929,9 +3929,9 @@
         "price": 567.88,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 reason: **0.618 Fibonacci (golden pocket proper), confluent with swing low at 566.83 (recent 60d low)**",
+        "reason": "Fibonacci 0.618 (golden pocket lower bound); psychological 570 zone; prior daily resistance flipped support",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4019,9 +4019,9 @@
         "price": 503.63,
         "type": "S3",
         "strength": 4,
-        "reason": "60-day range low; critical support (will hold in bull market)",
+        "reason": "60-day swing low; base of entire Fibonacci structure; \"never again\" level if bullish",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4069,9 +4069,9 @@
         "price": 587.73,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 reason: **0.500 Fibonacci (midpoint of 503.63\u2013671.83), exact match with weekly lows, \"golden pocket\" entry zone**",
+        "reason": "Fibonacci 0.500 (golden midpoint 503.63\u2192671.83); **price is just above this NOW**; critical 4H/daily pivot",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4089,9 +4089,9 @@
         "price": 556.81,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 reason: 20-day VWAP, psychological round, support from earlier weekly closes (561.19, 556.53)",
+        "reason": "20-day VWAP; confluent with MA20 weekly at $565.14 (nearby); key volume-weighted support",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4132,6 +4132,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 717.58,
+        "type": "R3",
+        "strength": 3,
+        "reason": "Fibonacci 1.272 extension; psychological 715\u2013720 zone",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 540.53,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
