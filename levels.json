@@ -3206,7 +3206,7 @@
     ]
   },
   "PLTR": {
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3275,9 +3275,9 @@
         "price": 162.32,
         "type": "S3",
         "strength": 5,
-        "reason": "Fibonacci 0.236 retracement (23.6% pullback); intermediate support zone",
+        "reason": "Fibonacci 0.236 retracement (classical pullback support) + 10-day low anchor",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3335,9 +3335,9 @@
         "price": 171.04,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Yesterday's daily close. Psychological round level ($171). 1H lows cluster here.",
+        "reason": "10-day low; tested multiple times; daily MA20 proximity ($147.42 too far)",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3385,9 +3385,9 @@
         "price": 172.33,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 5-day prior low; 1H lows consolidation zone",
+        "reason": "Today's intraday low + **CRITICAL** \u2014 loss of higher low invalidates bull structure",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3427,7 +3427,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3478,6 +3478,36 @@
         "reason": "\u2014 20-day VWAP",
         "status": "active",
         "source_brief": "2026-08-17",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 176.27,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Today's high + 1H consolidation resistance + prior daily high (1/10)",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 180.18,
+        "type": "R2",
+        "strength": 5,
+        "reason": "60-day swing high + psychological round + Fib 1.272 extension zone entry ($200.26 nearby)",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 200.26,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (106.37\u2192180.18 move) + round psychological level",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
