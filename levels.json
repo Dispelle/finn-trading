@@ -71,7 +71,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-14",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -199,9 +199,9 @@
         "price": 65401.69,
         "type": "R1",
         "strength": 5,
-        "reason": "Recent swing high (2 days ago); daily resistance cluster",
+        "reason": "\u2014 Prior swing high (2 days); intraday rejection point; immediate supply",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -219,9 +219,9 @@
         "price": 66910.06,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day swing high; Fib 1.272 extension zone ($69,402); psychological barrier",
+        "reason": "\u2014 60-day high; Fib 1.000 extension of retracement; major structural ceiling",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       },
@@ -229,9 +229,69 @@
         "price": 68799.3,
         "type": "R3",
         "strength": 4,
-        "reason": "Weekly MA20; major structural line; 52-week mid-range",
+        "reason": "\u2014 MA20 weekly; psychological barrier; invalidates weekly bearish bias",
         "status": "active",
-        "source_brief": "2026-08-17",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63880.7,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 20-day VWAP (live anchor); price currently above = weak hands flushing",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63410.07,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fib 0.382 retracement; confluent with daily swing low structure",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62328.91,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fib 0.500 (midpoint); psychological consolidation zone; capitulation target",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 63410.07,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62328.91,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61247.76,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-18",
         "hit_count": 0,
         "last_hit": null
       }
