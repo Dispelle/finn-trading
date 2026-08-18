@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-18T15:25:01.351305+00:00",
+  "generated_at": "2026-08-18T15:39:48.739924+00:00",
   "items": [
+    {
+      "ts": "2026-08-18T15:36:46.547000+00:00",
+      "time": "11:36 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE R2 $1220.28** Current: **$1220.49** | Strength: 4/5 Recent daily close (2 bars ago); short-term resistance"
+    },
+    {
+      "ts": "2026-08-18T15:35:40.677000+00:00",
+      "time": "11:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $131.99** Current: **$131.97** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement (102.42\u2192150.26), strong IC reversal zone f"
+    },
+    {
+      "ts": "2026-08-18T15:34:35.764000+00:00",
+      "time": "11:34 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $131.99** Current: **$132.01** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement (102.42\u2192150.26), strong IC reversal zone f"
+    },
+    {
+      "ts": "2026-08-18T15:31:25.937000+00:00",
+      "time": "11:31 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $566.83** Current: **$567.06** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-18T15:20:47.764000+00:00",
       "time": "11:20 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:10 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $476.0** Current: **$475.71** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-18T15:04:44.062000+00:00",
-      "time": "11:04 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $85.17** Current: **$85.35** | Strength: 5/5 Intraday tested (L $85.0 in 1H data); daily support cluster; psychologica"
-    },
-    {
-      "ts": "2026-08-18T15:02:30.048000+00:00",
-      "time": "11:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,701** | P&L: **-20"
-    },
-    {
-      "ts": "2026-08-18T15:00:26.544000+00:00",
-      "time": "11:00 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $85.0** Current: **$85.06** | Strength: 5/5 \u2014 Daily higher low (9 bars ago); invalidation level for bullish structure;"
-    },
-    {
-      "ts": "2026-08-18T15:00:25.336000+00:00",
-      "time": "11:00 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $476.0** Current: **$476.96** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
