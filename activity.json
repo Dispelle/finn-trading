@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-19T20:50:17.785358+00:00",
+  "generated_at": "2026-08-19T21:26:14.096512+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T21:03:34.274000+00:00",
+      "time": "05:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$69,057** | P&L: **-15"
+    },
     {
       "ts": "2026-08-19T19:59:05.233000+00:00",
       "time": "03:59 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:46 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $218.69** Current: **$218.27** | Strength: 5/5 \u2014 reason: today's intraday low, fresh support established in last 4H"
-    },
-    {
-      "ts": "2026-08-19T19:43:06.184000+00:00",
-      "time": "03:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.0** Current: **$164.92** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
     }
   ]
 }
