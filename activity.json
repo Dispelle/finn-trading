@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-19T13:54:36.126705+00:00",
+  "generated_at": "2026-08-19T14:09:30.978302+00:00",
   "items": [
     {
-      "ts": "2026-08-19T13:53:43.284000+00:00",
-      "time": "09:53 AM ET",
+      "ts": "2026-08-19T14:09:14.481000+00:00",
+      "time": "10:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $559.56** Current: **$559.25** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-19T14:05:55.006000+00:00",
+      "time": "10:05 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $466.46** Current: **$467.00** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE S1 $170.63** Current: **$170.68** | Strength: 5/5 \u2014 Today's daily low. Intraday support; 4H chart holding here (1H lows c"
     },
     {
-      "ts": "2026-08-19T13:52:35.612000+00:00",
-      "time": "09:52 AM ET",
+      "ts": "2026-08-19T14:03:43.626000+00:00",
+      "time": "10:03 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $172.33** Current: **$172.32** | Strength: 5/5 Today's low, intraday support, tight daily closes support this"
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $170.63** Current: **$170.62** | Strength: 5/5 \u2014 Today's daily low. Intraday support; 4H chart holding here (1H lows c"
     },
     {
-      "ts": "2026-08-19T13:52:33.225000+00:00",
-      "time": "09:52 AM ET",
+      "ts": "2026-08-19T14:02:36.442000+00:00",
+      "time": "10:02 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S2 $171.04** Current: **$171.02** | Strength: 5/5 10-day low; tested multiple times; daily MA20 proximity ($147.42 too fa"
+    },
+    {
+      "ts": "2026-08-19T14:00:20.253000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE STOP $316.29** Current: **$316.48** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-19T13:57:05.412000+00:00",
+      "time": "09:57 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $313.33** Current: **$313.72** | Strength: 5/5 Recent swing high (Jan 23); prior support-turned-resistance"
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$562.63** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + today's 1H low $562.64 (fresh break point"
     },
     {
-      "ts": "2026-08-19T13:51:31.434000+00:00",
-      "time": "09:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $87.39** Current: **$87.31** | Strength: 5/5 |"
+      "ts": "2026-08-19T13:57:04.380000+00:00",
+      "time": "09:57 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $218.69** Current: **$218.83** | Strength: 5/5 \u2014 reason: today's intraday low, fresh support established in last 4H"
     },
     {
-      "ts": "2026-08-19T13:51:30.258000+00:00",
-      "time": "09:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $466.46** Current: **$465.46** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
+      "ts": "2026-08-19T13:55:58.892000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $925.69** Current: **$927.19** | Strength: 5/5 Today's daily low; intraday floor"
     },
     {
-      "ts": "2026-08-19T13:51:28.227000+00:00",
-      "time": "09:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $925.69** Current: **$922.61** | Strength: 5/5 Today's daily low; intraday floor"
+      "ts": "2026-08-19T13:55:58.233000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $920.95** Current: **$927.19** | Strength: 5/5 0.650 Fibonacci (just below current price), intraday support cluster"
     },
     {
-      "ts": "2026-08-19T13:51:26.687000+00:00",
-      "time": "09:51 AM ET",
+      "ts": "2026-08-19T13:55:57.034000+00:00",
+      "time": "09:55 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $218.5** Current: **$218.21** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T13:51:24.198000+00:00",
-      "time": "09:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $218.69** Current: **$218.21** | Strength: 5/5 \u2014 reason: today's intraday low, fresh support established in last 4H"
-    },
-    {
-      "ts": "2026-08-19T13:50:17.056000+00:00",
-      "time": "09:50 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $931.91** Current: **$929.61** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T13:50:16.419000+00:00",
-      "time": "09:50 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $562.5** Current: **$562.47** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + today's 1H low $562.64 (fresh break point"
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $218.5** Current: **$218.68** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
