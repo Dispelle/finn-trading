@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-19T12:49:51.971981+00:00",
+  "generated_at": "2026-08-19T13:24:27.576336+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T13:03:13.705000+00:00",
+      "time": "09:03 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34 \u26a1 **AUTO-SELL EXECUTED \u2014 BTC** \u26a1 \ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34\ud83d\udd34  **BTC HAS BEEN SOLD \u2014 NO RESPONSE RECEIVED** Sold at: **$64,736** | P&L: **-20"
+    },
     {
       "ts": "2026-08-19T11:03:14.215000+00:00",
       "time": "07:03 AM ET",
@@ -54,12 +60,6 @@
       "time": "03:51 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S3 $483.36** Current: **$483.27** | Strength: 5/5 \u2014 10-day prior higher low. **INVALIDATION LEVEL.** Breach = structure fa"
-    },
-    {
-      "ts": "2026-08-18T19:50:27.559000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.5** Current: **$165.42** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
     }
   ]
 }
