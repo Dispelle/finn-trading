@@ -1335,7 +1335,57 @@
         "price": 17.5,
         "type": "S3",
         "strength": 5,
-        "reason": "Swing low (60d), higher-low structure anchor",
+        "reason": "\u2014 Fibonacci 0.500 retracement ($17.42), recent swing low cluster (17.5, 17.17), **invalidation level for bullish bias**",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 20.31,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 60-day cycle high, tested today (H$20.18), just below; **prior swing high**, recent resistance.",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 20.95,
+        "type": "R2",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.272 extension ($21.88 rounded down), psychological 21.00 zone, previous swing high cluster convergence",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 23.88,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.618 extension, major trend target if R1/R2 break on volume",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 18.95,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.236 retracement, confluence with prior swing low cluster (18.83 from 60d highs), **immediate pullback targ",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 18.1,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement, **MA20 zone** ($18.15), 20-day VWAP ($18.25 nearby), proven support on last 10 daily lows",
         "status": "active",
         "source_brief": "2026-08-19",
         "hit_count": 0,
