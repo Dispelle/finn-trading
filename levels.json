@@ -7833,9 +7833,9 @@
         "price": 407.36,
         "type": "R2",
         "strength": 5,
-        "reason": "Swing high (60d); Fib 0.236 ($408.01) nearby; supply cluster",
+        "reason": "60-day swing high; Fib 0.236 ($408.01) nearby; prior support turned resistance",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7853,9 +7853,9 @@
         "price": 421.82,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; Fib extension resistance; major psychological resistance",
+        "reason": "60-day absolute high; Fib extension 1.272 ($437.73) above; macro resistance",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7883,9 +7883,9 @@
         "price": 385.67,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 **0.618 Fib retracement (golden pocket)** + MA20 daily at $386.14 (confluence)",
+        "reason": "Fib 0.618 (golden pocket start); MA20 $386.14 confluence; psychological support",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -7953,9 +7953,9 @@
         "price": 404.92,
         "type": "R1",
         "strength": 5,
-        "reason": "Last week's close; psychological round; within 1H recent highs cluster",
+        "reason": "Last daily high; intraday rejection zone; 1H high $406.23",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -8262,10 +8262,50 @@
       {
         "price": 397.87,
         "type": "S1",
-        "strength": 4,
-        "reason": "\u2014 Today's intraday low; **immediate support**",
+        "strength": 5,
+        "reason": "Today's low; Fib 0.382 ($399.47) just above; critical intraday floor",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 388.6,
+        "type": "S2",
+        "strength": 4,
+        "reason": "20-day VWAP; MA20 ($386.14) + slope upward sits just below",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 399.47,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 392.57,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 385.67,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
