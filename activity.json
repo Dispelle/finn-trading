@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-19T15:51:09.212255+00:00",
+  "generated_at": "2026-08-19T16:05:52.130370+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T16:01:08.824000+00:00",
+      "time": "12:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $488.52** Current: **$488.30** | Strength: 5/5 \u2014 10-day daily low (4 bars ago)"
+    },
+    {
+      "ts": "2026-08-19T15:54:33.244000+00:00",
+      "time": "11:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $11.98** Current: **$11.94** | Strength: 5/5 0.786 Fib retracement + prior 10d swing high (Nov 10d data) + psychologica"
+    },
+    {
+      "ts": "2026-08-19T15:54:30.697000+00:00",
+      "time": "11:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $488.52** Current: **$488.53** | Strength: 5/5 \u2014 10-day daily low (4 bars ago)"
+    },
+    {
+      "ts": "2026-08-19T15:53:25.247000+00:00",
+      "time": "11:53 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $11.98** Current: **$11.98** | Strength: 5/5 0.786 Fib retracement + prior 10d swing high (Nov 10d data) + psychologica"
+    },
     {
       "ts": "2026-08-19T15:50:01.714000+00:00",
       "time": "11:50 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:37 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $11.94** Current: **$11.96** | Strength: 4/5 \u2014 20-day VWAP, MA20 (slope down) | Recent confluence of supply"
-    },
-    {
-      "ts": "2026-08-19T15:35:37.658000+00:00",
-      "time": "11:35 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $357.52** Current: **$357.81** | Strength: 5/5 20-day VWAP = $354.48 (price above); confluence zone $357\u2013$359 = 3 daily"
-    },
-    {
-      "ts": "2026-08-19T15:34:30.556000+00:00",
-      "time": "11:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $357.52** Current: **$357.38** | Strength: 5/5 20-day VWAP = $354.48 (price above); confluence zone $357\u2013$359 = 3 daily"
-    },
-    {
-      "ts": "2026-08-19T15:29:57.035000+00:00",
-      "time": "11:29 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R3 $68533.23** Current: **$68126.95** | Strength: 4/5 Weekly MA20; gap from current price; structural overhead"
-    },
-    {
-      "ts": "2026-08-19T15:27:47.638000+00:00",
-      "time": "11:27 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $11.81** Current: **$11.86** | Strength: 4/5 \u2014 20-day MA (current moving average, slope down) + psychological level"
     }
   ]
 }
