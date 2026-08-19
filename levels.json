@@ -2914,7 +2914,7 @@
     ]
   },
   "TSLA": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2973,9 +2973,9 @@
         "price": 329.1,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.786 retracement; sits just below current 20-day VWAP ($324.25)",
+        "reason": "\u2014 **Fibonacci 0.786 retracement**, strong rejection level from prior swings, guards entry zone",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3033,9 +3033,9 @@
         "price": 315.52,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Secondary 60-day swing low; near key psychological level",
+        "reason": "\u2014 60-day swing low (recent), prior daily low, psychological support",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3083,9 +3083,9 @@
         "price": 345.45,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 Prior 60-day swing high ($345.45 on daily); psychological round number",
+        "reason": "\u2014 Prior swing high ($342.27) + 1% buffer, 4H confluence zone, broken lower high would negate bearish structure",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3093,19 +3093,19 @@
         "price": 354.0,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket); represents structural fib resistance from $297.38 \u2192 $445.60 swing",
+        "reason": "\u2014 **Fibonacci 0.618 (golden pocket)**, psychological round, critical retracement zone",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 371.49,
         "type": "R3",
-        "strength": 4,
-        "reason": "**Fib 0.500**; MA50 zone ($369.50 adjacent); 60-day swing high at $368.6 nearby; would break bearish structure if sustai",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.500 midpoint, MA50 proximity ($368.42), strong resistance cluster",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3203,9 +3203,9 @@
         "price": 323.64,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Recent daily swing low (9 days ago); round-number support; just below MA20 slope",
+        "reason": "\u2014 20-day VWAP, MA20 daily ($325.52), mean reversion magnet",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3225,7 +3225,7 @@
         "strength": 3,
         "reason": "Take profit target from trade plan",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3246,6 +3246,16 @@
         "reason": "\u2014 Weekly close low; psychological $310 floor",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 346.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
