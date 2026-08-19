@@ -875,9 +875,9 @@
         "price": 18.83,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: 60-day swing high, structure invalidation point, psychological round",
+        "reason": "Recent swing high (60d), confluence of supply zone",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -935,9 +935,9 @@
         "price": 19.05,
         "type": "R3",
         "strength": 5,
-        "reason": "0.236 Fib retracement (golden retracement); MA200 weekly sits here",
+        "reason": "MA200 (major moving average), trend line, psychological demand",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -955,9 +955,9 @@
         "price": 18.45,
         "type": "R1",
         "strength": 5,
-        "reason": "Weekly MA20 (downsloping); pivot resistance",
+        "reason": "Swing high (recent 60d), MA20 rejection point, Fib 0.236",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1155,7 +1155,7 @@
         "price": 18.1,
         "type": "S1",
         "strength": 5,
-        "reason": "0.382 Fib + MA20 confluence; **daily demand zone** \u2014 failed breaks here multiple times",
+        "reason": "Fib 0.382 (golden pocket start), 20-day VWAP, MA20",
         "status": "active",
         "source_brief": "2026-08-19",
         "hit_count": 0,
@@ -1205,9 +1205,9 @@
         "price": 17.93,
         "type": "S2",
         "strength": 4,
-        "reason": "Recent swing low; daily HL",
+        "reason": "Recent daily close floor, near-term support",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1218,6 +1218,16 @@
         "reason": "Fib 0.500 (50% retrace); golden midpoint",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 17.5,
+        "type": "S3",
+        "strength": 5,
+        "reason": "Swing low (60d), higher-low structure anchor",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
