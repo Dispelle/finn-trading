@@ -3830,7 +3830,7 @@
     ]
   },
   "JPM": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -3839,9 +3839,9 @@
         "price": 366.5,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day absolute high, 52-week resistance, swing high; psychological round-number cluster",
+        "reason": "60-day swing high; recent resistance failure (3 attempts in last 6 days)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3909,9 +3909,9 @@
         "price": 386.31,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 1.272 Fibonacci extension (aggressive bull target)",
+        "reason": "1.272 Fibonacci extension (295.20 \u2192 366.50)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3919,9 +3919,9 @@
         "price": 359.24,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 TODAY'S DAILY LOW; immediate support line, 1-bar test; first line of defense",
+        "reason": "Daily swing low (today + 10-day cluster); near 0.786 fib retracement",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3929,9 +3929,9 @@
         "price": 349.31,
         "type": "S3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 0.236 retracement + daily open zone; confluence zone",
+        "reason": "0.236 Fibonacci retracement; secondary support if S2 breaks",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3939,9 +3939,9 @@
         "price": 370.0,
         "type": "R2",
         "strength": 4,
-        "reason": "Round psychological level, minor supply zone, 1.272 fib extension zone starts $365\u2013$370",
+        "reason": "Round level + extension target (1.272 fib at $385.89, intermediate)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4019,9 +4019,9 @@
         "price": 356.3,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 20-day VWAP (mean reversion anchor); break here = structural issue",
+        "reason": "20-day VWAP; proximity to MA20 ($356.63); daily price oscillation base",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4162,6 +4162,26 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 364.5,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 370.4,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
