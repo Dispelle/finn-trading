@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-19T14:55:11.684696+00:00",
+  "generated_at": "2026-08-19T15:20:46.272257+00:00",
   "items": [
     {
-      "ts": "2026-08-19T14:50:12.150000+00:00",
-      "time": "10:50 AM ET",
+      "ts": "2026-08-19T15:08:01.727000+00:00",
+      "time": "11:08 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $88.5** Current: **$88.47** | Strength: 5/5 Fibonacci 0.236 retracement (71.05\u219293.89); prior daily swing high; area of"
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R2 $318.97** Current: **$318.70** | Strength: 5/5 20-day VWAP (major trend anchor); must reclaim to signal reversal"
     },
     {
-      "ts": "2026-08-19T14:46:50.751000+00:00",
-      "time": "10:46 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $346.5** Current: **$346.19** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T14:45:44.027000+00:00",
-      "time": "10:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $346.5** Current: **$347.30** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T14:45:41.929000+00:00",
-      "time": "10:45 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $131.99** Current: **$131.81** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement (102.42\u2192150.26), strong IC reversal zone f"
-    },
-    {
-      "ts": "2026-08-19T14:43:29.590000+00:00",
-      "time": "10:43 AM ET",
+      "ts": "2026-08-19T15:06:55.668000+00:00",
+      "time": "11:06 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $131.99** Current: **$132.02** | Strength: 4/5 \u2014 Fibonacci 0.382 retracement (102.42\u2192150.26), strong IC reversal zone f"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R2 $19.06** Current: **$19.18** | Strength: 5/5 \u2014 **MA200 (weekly trend filter) + 0.236 Fib retracement + confluence zone*"
     },
     {
-      "ts": "2026-08-19T14:42:23.114000+00:00",
-      "time": "10:42 AM ET",
+      "ts": "2026-08-19T15:06:55.164000+00:00",
+      "time": "11:06 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R3 $19.05** Current: **$19.18** | Strength: 5/5 MA200 (major moving average), trend line, psychological demand"
+    },
+    {
+      "ts": "2026-08-19T15:05:50.052000+00:00",
+      "time": "11:05 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R2 $318.97** Current: **$319.07** | Strength: 5/5 20-day VWAP (major trend anchor); must reclaim to signal reversal"
+    },
+    {
+      "ts": "2026-08-19T15:05:46.590000+00:00",
+      "time": "11:05 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R1 $18.95** Current: **$19.05** | Strength: 5/5 \u2014 reason: **0.236 Fibonacci retracement (golden zone start) + prior swing "
+    },
+    {
+      "ts": "2026-08-19T15:03:20.496000+00:00",
+      "time": "11:03 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R3 $65401.69** Current: **$65368.07** | Strength: 5/5 Last swing high (10-day); lower high confirming downtrend. Reclaim h"
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -18.9% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$65,989**  \u23f0 **YOU "
     },
     {
-      "ts": "2026-08-19T14:41:18.668000+00:00",
-      "time": "10:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $345.45** Current: **$345.52** | Strength: 5/5 \u2014 Prior swing high ($342.27) + 1% buffer, 4H confluence zone, broken lo"
-    },
-    {
-      "ts": "2026-08-19T14:39:09.019000+00:00",
-      "time": "10:39 AM ET",
+      "ts": "2026-08-19T15:01:28.761000+00:00",
+      "time": "11:01 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $219.22** Current: **$219.30** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1268.0** Current: **$1265.98** | Strength: 4/5 Psychological level; 2.0% above current price; prior resistance zone fr"
     },
     {
-      "ts": "2026-08-19T14:37:59.300000+00:00",
-      "time": "10:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S2 $770.56** Current: **$770.81** | Strength: 5/5 \u2014 **"
+      "ts": "2026-08-19T15:00:20.667000+00:00",
+      "time": "11:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R2 $18.83** Current: **$18.82** | Strength: 5/5 Recent swing high (60d), confluence of supply zone"
     },
     {
-      "ts": "2026-08-19T14:36:57.882000+00:00",
-      "time": "10:36 AM ET",
+      "ts": "2026-08-19T14:56:43.141000+00:00",
+      "time": "10:56 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $88.5** Current: **$88.53** | Strength: 5/5 Fibonacci 0.236 retracement (71.05\u219293.89); prior daily swing high; area of"
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R2 $18.83** Current: **$18.84** | Strength: 5/5 Recent swing high (60d), confluence of supply zone"
+    },
+    {
+      "ts": "2026-08-19T14:55:36.612000+00:00",
+      "time": "10:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $18.65** Current: **$18.75** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
