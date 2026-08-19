@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-19T18:21:00.102580+00:00",
+  "generated_at": "2026-08-19T18:35:40.972938+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T18:32:48.500000+00:00",
+      "time": "02:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $165.65** Current: **$165.65** | Strength: 5/5 1H recent low; intraday support; tightest confluence"
+    },
+    {
+      "ts": "2026-08-19T18:32:47.553000+00:00",
+      "time": "02:32 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $165.67** Current: **$165.65** | Strength: 5/5 \u2014 Prior 60-day swing high + today's 1H high. Exact level tested 20 times"
+    },
+    {
+      "ts": "2026-08-19T18:30:39.153000+00:00",
+      "time": "02:30 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $87.31** Current: **$87.36** | Strength: 3/5 Today's low, recent bounce point"
+    },
+    {
+      "ts": "2026-08-19T18:30:29.989000+00:00",
+      "time": "02:30 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R2 $130.98** Current: **$131.02** | Strength: 5/5 \u2014 Prior swing high (60d), convergence with daily pivot; psychological ro"
+    },
+    {
+      "ts": "2026-08-19T18:28:18.522000+00:00",
+      "time": "02:28 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $925.69** Current: **$926.47** | Strength: 5/5 Today's daily low; intraday floor"
+    },
+    {
+      "ts": "2026-08-19T18:26:04.277000+00:00",
+      "time": "02:26 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $87.39** Current: **$87.40** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-19T18:26:02.203000+00:00",
+      "time": "02:26 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $218.69** Current: **$218.90** | Strength: 5/5 \u2014 reason: today's intraday low, fresh support established in last 4H"
+    },
+    {
+      "ts": "2026-08-19T18:22:43.564000+00:00",
+      "time": "02:22 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $87.39** Current: **$87.39** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-08-19T18:18:16.695000+00:00",
       "time": "02:18 PM ET",
@@ -12,54 +60,6 @@
       "time": "02:18 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $356.09** Current: **$356.30** | Strength: 5/5 20-day VWAP (volume-weighted anchor); tested multiple times; lower intra"
-    },
-    {
-      "ts": "2026-08-19T18:14:57.743000+00:00",
-      "time": "02:14 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $356.09** Current: **$356.08** | Strength: 5/5 20-day VWAP (volume-weighted anchor); tested multiple times; lower intra"
-    },
-    {
-      "ts": "2026-08-19T18:11:36.101000+00:00",
-      "time": "02:11 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $769.2** Current: **$769.21** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T18:10:32.353000+00:00",
-      "time": "02:10 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $925.69** Current: **$922.60** | Strength: 5/5 Today's daily low; intraday floor"
-    },
-    {
-      "ts": "2026-08-19T18:09:20.148000+00:00",
-      "time": "02:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $769.2** Current: **$769.04** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T18:04:55.383000+00:00",
-      "time": "02:04 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $174.94** Current: **$174.88** | Strength: 5/5 \u2014 Most recent daily close 2 bars back (strong support/resistance flip)."
-    },
-    {
-      "ts": "2026-08-19T18:03:48.918000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $466.46** Current: **$466.41** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
-    },
-    {
-      "ts": "2026-08-19T18:03:47.695000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW STOP $931.91** Current: **$931.30** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-19T18:03:47.169000+00:00",
-      "time": "02:03 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $562.5** Current: **$562.49** | Strength: 5/5 \u2014 Fibonacci 0.650 retracement + today's 1H low $562.64 (fresh break point"
     }
   ]
 }
