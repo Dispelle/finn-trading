@@ -4267,9 +4267,9 @@
         "price": 1249.45,
         "type": "R1",
         "strength": 5,
-        "reason": "|",
+        "reason": "\u2014 60-day swing high, recent resistance, all-time recent peak",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4397,9 +4397,9 @@
         "price": 1148.28,
         "type": "S3",
         "strength": 4,
-        "reason": "|",
+        "reason": "\u2014 Fibonacci 0.500 (golden mean); psychological midpoint",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4656,20 +4656,20 @@
       {
         "price": 1304.5,
         "type": "R2",
-        "strength": 4,
-        "reason": "|",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 1.272 extension from 1047.07\u21921249.45 swing; psychological extension target",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 1374.52,
         "type": "R3",
-        "strength": 3,
-        "reason": "|",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 1.618 extension; major psychological barrier (>10% above current)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -4710,6 +4710,46 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1220.28,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Most recent daily close (yesterday pattern), intraday floor today",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1180.16,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 Recent daily swing low (validated twice in last week); critical invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1172.14,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 Fibonacci 0.382 retracement; MA50 ($1172.58) nearby, strong confluence",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1124.38,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); major support if correction deepens",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
