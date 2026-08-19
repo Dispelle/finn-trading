@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-19T10:53:33.965446+00:00",
+  "generated_at": "2026-08-19T11:19:45.549206+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T11:03:14.215000+00:00",
+      "time": "07:03 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u26d4 **STOP-LOSS HIT \u2014 BTC** \u26d4 \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8  **BTC DROPPED -20.8% \u2014 STOP TRIGGERED** Entry: $81,388 \u2192 Now: **$64,421**  \u23f0 **YOU "
+    },
     {
       "ts": "2026-08-18T23:02:38.235000+00:00",
       "time": "07:02 PM ET",
@@ -54,12 +60,6 @@
       "time": "03:50 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.5** Current: **$165.42** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
-    },
-    {
-      "ts": "2026-08-18T19:49:20.281000+00:00",
-      "time": "03:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $165.5** Current: **$165.53** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
     }
   ]
 }
