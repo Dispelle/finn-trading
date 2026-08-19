@@ -1,6 +1,6 @@
 {
   "BTC": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "portfolio",
@@ -59,9 +59,9 @@
         "price": 61376.91,
         "type": "S3",
         "strength": 5,
-        "reason": "Fib 0.618 golden pocket, prior swing low $61,275.83, support cluster, weekly structure anchor",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket); 60-day retracement anchor; Strong confluences",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -219,9 +219,9 @@
         "price": 66910.06,
         "type": "R2",
         "strength": 5,
-        "reason": "60-day highs cluster, weekly pivot, Fib 1.272 extension confluence",
+        "reason": "\u2014 60-day absolute high; Weekly MA20 context ($68,518) just above; Major psychological barrier; every touch failed",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -229,9 +229,9 @@
         "price": 68799.3,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 MA20 weekly; psychological barrier; invalidates weekly bearish bias",
+        "reason": "\u2014 Weekly MA200 (long-term bias anchor); Break above = macro bullish; Outside current range",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -239,9 +239,9 @@
         "price": 63880.7,
         "type": "S1",
         "strength": 5,
-        "reason": "20-day VWAP (order flow anchor), MA20 daily ($63,847.96 nearby), repeat test zone",
+        "reason": "\u2014 20-day VWAP; Price currently $578 above; Dynamic support, recently tested",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -299,9 +299,9 @@
         "price": 65658.34,
         "type": "R1",
         "strength": 5,
-        "reason": "Swing high (60-day chart), prior rejection point, psychological anchor",
+        "reason": "\u2014 Recent swing high (7\u201310 days ago); failed as resistance twice; now supply zone",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -362,6 +362,16 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 62818.65,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Last weekly close (7 days ago); Prior swing low reference; Psychological level",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
