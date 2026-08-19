@@ -1880,7 +1880,7 @@
     ]
   },
   "AAPL": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -1889,9 +1889,9 @@
         "price": 317.52,
         "type": "R1",
         "strength": 5,
-        "reason": "Weekly MA20 + 0.382 Fib confluence; psychological barrier",
+        "reason": "Prior lower high (recent failed rally); confluence with multiple swing highs",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1909,9 +1909,9 @@
         "price": 327.86,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 0.236 Fibonacci retracement; prior swing high vicinity; **extension target + fib cluster**",
+        "reason": "0.236 Fibonacci retracement; psychological zone above $325",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -1959,9 +1959,9 @@
         "price": 317.52,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 0.382 Fibonacci retracement; secondary MA20 anchor; **fib + prior swing high**",
+        "reason": "0.382 Fibonacci retracement; MA20 sits at $316.49 (slope down)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2099,9 +2099,9 @@
         "price": 300.57,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 0.618 Fibonacci (golden pocket); prior swing low support; **fib + psychological cluster**",
+        "reason": "60-day swing low (institutional double bottom)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2109,9 +2109,9 @@
         "price": 298.54,
         "type": "S3",
         "strength": 4,
-        "reason": "Fib 0.650 retracement; MA200 $287.48 below; long-term support cushion",
+        "reason": "0.650 Fibonacci retracement",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2129,9 +2129,9 @@
         "price": 309.16,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 0.500 Fibonacci (golden midpoint); **exact price of MA50 ($309.13)**; psychological round; **strongest confluence zone",
+        "reason": "**0.500 Fibonacci retracement (current price is HERE)**",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2159,9 +2159,29 @@
         "price": 305.02,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Last higher low (recent swing low); structural pivot; **break invalidates daily uptrend**",
+        "reason": "60-day swing low; recent daily support cluster",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 334.99,
+        "type": "R3",
+        "strength": 3,
+        "reason": "Recent swing high; psychological $335 zone",
+        "status": "active",
+        "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 300.57,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
