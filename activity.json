@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T16:35:54.450320+00:00",
+  "generated_at": "2026-08-19T16:50:55.088290+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T16:50:13.008000+00:00",
+      "time": "12:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW STOP $485.0** Current: **$484.79** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-19T16:39:17.207000+00:00",
+      "time": "12:39 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $315.66** Current: **$315.42** | Strength: 5/5 20-day VWAP; daily MA20 at $316.12; price currently **above**"
+    },
     {
       "ts": "2026-08-19T16:33:47.166000+00:00",
       "time": "12:33 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:01 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $488.52** Current: **$488.30** | Strength: 5/5 \u2014 10-day daily low (4 bars ago)"
-    },
-    {
-      "ts": "2026-08-19T15:54:33.244000+00:00",
-      "time": "11:54 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $11.98** Current: **$11.94** | Strength: 5/5 0.786 Fib retracement + prior 10d swing high (Nov 10d data) + psychologica"
-    },
-    {
-      "ts": "2026-08-19T15:54:30.697000+00:00",
-      "time": "11:54 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $488.52** Current: **$488.53** | Strength: 5/5 \u2014 10-day daily low (4 bars ago)"
     }
   ]
 }
