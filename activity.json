@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-19T16:06:48.083451+00:00",
+  "generated_at": "2026-08-19T16:20:52.600493+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T16:17:59.150000+00:00",
+      "time": "12:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $176.27** Current: **$176.03** | Strength: 5/5 \u2014 Last 4H swing high (yesterday's intraday high). Immediate technical r"
+    },
+    {
+      "ts": "2026-08-19T16:16:53.246000+00:00",
+      "time": "12:16 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $176.27** Current: **$176.30** | Strength: 5/5 \u2014 Last 4H swing high (yesterday's intraday high). Immediate technical r"
+    },
+    {
+      "ts": "2026-08-19T16:10:19.417000+00:00",
+      "time": "12:10 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $59.68** Current: **$59.63** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement + psychological round (prior swing high prox"
+    },
+    {
+      "ts": "2026-08-19T16:09:12.733000+00:00",
+      "time": "12:09 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R1 $59.68** Current: **$59.69** | Strength: 5/5 \u2014 Fibonacci 0.500 retracement + psychological round (prior swing high prox"
+    },
     {
       "ts": "2026-08-19T16:01:08.824000+00:00",
       "time": "12:01 PM ET",
@@ -36,30 +60,6 @@
       "time": "11:46 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $11.94** Current: **$11.90** | Strength: 4/5 \u2014 20-day VWAP, MA20 (slope down) | Recent confluence of supply"
-    },
-    {
-      "ts": "2026-08-19T15:40:01.585000+00:00",
-      "time": "11:40 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $485.68** Current: **$485.69** | Strength: 5/5 Prior daily low (4 bars back); critical structure support (HL)"
-    },
-    {
-      "ts": "2026-08-19T15:38:55.681000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $485.68** Current: **$485.59** | Strength: 5/5 Prior daily low (4 bars back); critical structure support (HL)"
-    },
-    {
-      "ts": "2026-08-19T15:38:54.495000+00:00",
-      "time": "11:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S2 $770.56** Current: **$770.55** | Strength: 5/5 \u2014 **"
-    },
-    {
-      "ts": "2026-08-19T15:37:50.540000+00:00",
-      "time": "11:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $11.94** Current: **$11.96** | Strength: 4/5 \u2014 20-day VWAP, MA20 (slope down) | Recent confluence of supply"
     }
   ]
 }
