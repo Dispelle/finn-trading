@@ -368,7 +368,7 @@
     ]
   },
   "USO": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -437,9 +437,9 @@
         "price": 118.48,
         "type": "S3",
         "strength": 5,
-        "reason": "0.618 Fib (golden pocket); recent swing low $118.48; critical invalidation",
+        "reason": "**0.618 Fib golden pocket + prior swing low = CRITICAL**",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -577,9 +577,9 @@
         "price": 136.61,
         "type": "R2",
         "strength": 5,
-        "reason": "Prior swing high (60d); round number psychology",
+        "reason": "Prior swing high (60-day); psychological round number confluence",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -796,10 +796,10 @@
       {
         "price": 134.02,
         "type": "R1",
-        "strength": 4,
-        "reason": "0.236 Fib retracement (natural swing extension); ~$3.40 above price",
+        "strength": 5,
+        "reason": "0.236 Fib retracement (nearest overhead); unbroken swing high zone",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -807,19 +807,19 @@
         "price": 143.78,
         "type": "R3",
         "strength": 5,
-        "reason": "60-day high; psychological level; 1.272 Fib extension target",
+        "reason": "60-day high; major extension target (1.272 Fib = $155.03 beyond)",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
       {
         "price": 127.98,
         "type": "S1",
-        "strength": 4,
-        "reason": "0.382 Fib (intermediate retracement); prior daily close support",
+        "strength": 5,
+        "reason": "0.382 Fib; recent close zone; MA20 pivoting here",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       },
@@ -830,6 +830,16 @@
         "reason": "20-day VWAP (volume-weighted anchor); MA20 = $126.11 (clustered)",
         "status": "active",
         "source_brief": "2026-08-18",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 123.1,
+        "type": "S2",
+        "strength": 4,
+        "reason": "0.500 Fib (midpoint); psychological support",
+        "status": "active",
+        "source_brief": "2026-08-19",
         "hit_count": 0,
         "last_hit": null
       }
