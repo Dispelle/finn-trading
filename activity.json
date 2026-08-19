@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-19T16:21:06.060508+00:00",
+  "generated_at": "2026-08-19T16:35:54.450320+00:00",
   "items": [
+    {
+      "ts": "2026-08-19T16:33:47.166000+00:00",
+      "time": "12:33 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R3 $68799.3** Current: **$68795.29** | Strength: 4/5 \u2014 Weekly MA200 (long-term bias anchor); Break above = macro bullish; "
+    },
+    {
+      "ts": "2026-08-19T16:25:46.079000+00:00",
+      "time": "12:25 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $487.65** Current: **$487.43** | Strength: 4/5 Prior 10-day close; 20-day VWAP ($450.86) far below; micro pivot"
+    },
+    {
+      "ts": "2026-08-19T16:25:40.771000+00:00",
+      "time": "12:25 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **BTC \u2014 BROKE ABOVE R3 $68799.3** Current: **$68803.06** | Strength: 4/5 \u2014 Weekly MA200 (long-term bias anchor); Break above = macro bullish; "
+    },
     {
       "ts": "2026-08-19T16:17:59.150000+00:00",
       "time": "12:17 PM ET",
@@ -42,24 +60,6 @@
       "time": "11:54 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $488.52** Current: **$488.53** | Strength: 5/5 \u2014 10-day daily low (4 bars ago)"
-    },
-    {
-      "ts": "2026-08-19T15:53:25.247000+00:00",
-      "time": "11:53 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R1 $11.98** Current: **$11.98** | Strength: 5/5 0.786 Fib retracement + prior 10d swing high (Nov 10d data) + psychologica"
-    },
-    {
-      "ts": "2026-08-19T15:50:01.714000+00:00",
-      "time": "11:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $487.65** Current: **$487.94** | Strength: 4/5 Prior 10-day close; 20-day VWAP ($450.86) far below; micro pivot"
-    },
-    {
-      "ts": "2026-08-19T15:46:42.773000+00:00",
-      "time": "11:46 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R1 $11.94** Current: **$11.90** | Strength: 4/5 \u2014 20-day VWAP, MA20 (slope down) | Recent confluence of supply"
     }
   ]
 }
