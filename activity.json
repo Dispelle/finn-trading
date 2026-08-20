@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-20T15:50:58.887338+00:00",
+  "generated_at": "2026-08-20T16:05:47.694637+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T15:54:29.006000+00:00",
+      "time": "11:54 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $345.45** Current: **$345.47** | Strength: 5/5 \u2014 Prior swing high ($342.27) + 1% buffer, 4H confluence zone, broken lo"
+    },
+    {
+      "ts": "2026-08-20T15:52:22.408000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $463.21** Current: **$463.56** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-20T15:51:15.833000+00:00",
+      "time": "11:51 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **XOM \u2014 BROKE BELOW TP1 $168.5** Current: **$168.48** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-20T15:49:08.142000+00:00",
       "time": "11:49 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:36 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R2 $414.67** Current: **$414.56** | Strength: 5/5 \u2014 Weekly MA200, major intermediate resistance"
-    },
-    {
-      "ts": "2026-08-20T15:34:14.491000+00:00",
-      "time": "11:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $463.21** Current: **$462.73** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-20T15:34:11.077000+00:00",
-      "time": "11:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R3 $22.05** Current: **$22.02** | Strength: 4/5 Fib 1.272 extension (bull case target)"
-    },
-    {
-      "ts": "2026-08-20T15:32:05.080000+00:00",
-      "time": "11:32 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $216.76** Current: **$216.78** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
     }
   ]
 }
