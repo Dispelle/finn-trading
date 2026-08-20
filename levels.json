@@ -10510,7 +10510,7 @@
     ]
   },
   "COPX": {
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10549,9 +10549,9 @@
         "price": 85.17,
         "type": "S1",
         "strength": 5,
-        "reason": "Fibonacci 0.382 retracement; last 4-5 daily lows cluster here ($85.0, $85.47)",
+        "reason": "Fib 0.382 (key retracement), prior daily pivot, confluent with recent consolidation low (85.47)",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10559,9 +10559,9 @@
         "price": 82.47,
         "type": "S2",
         "strength": 5,
-        "reason": "Fibonacci 0.500 (midpoint of swing); weekly MA20 @ $82.27 within $0.20; **CRITICAL**",
+        "reason": "Fib 0.500 (mid-point), MA20 proximity ($83.40), psychological round",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10569,9 +10569,9 @@
         "price": 79.77,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 reason: **Fib 0.618 Golden Pocket (core support), MA20 weekly at $82.40 nearby, strong macro demand zone**",
+        "reason": "Fib 0.618 (golden pocket start), MA50 proximity ($80.65), structural support",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10681,7 +10681,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10819,9 +10819,9 @@
         "price": 93.89,
         "type": "R1",
         "strength": 5,
-        "reason": "\u2014 60-day swing high (recent tested multiple times); volume resistance; 0.236 Fib level ($88.50 just broken through last ",
+        "reason": "60-day swing high, recent rejection point, Fib 1.000 extension from $71.05",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10829,9 +10829,9 @@
         "price": 100.1,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 1.272 extension (textbook buy-side target when breaking prior high); psychological round; confluence with 52",
+        "reason": "Fib 1.272 extension (impulse target), psychological round, 52w range upper bound proximity",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10839,9 +10839,9 @@
         "price": 108.01,
         "type": "R3",
         "strength": 4,
-        "reason": "\u2014 Fibonacci 1.618 extension; structural extension target if $100 breaks; medium-term bull extension",
+        "reason": "Fib 1.618 extension (Fibonacci golden target), major long-term projection",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10912,6 +10912,26 @@
         "reason": "Take profit target from trade plan",
         "status": "active",
         "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 93.89,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 100.1,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       }
