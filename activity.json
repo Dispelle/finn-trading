@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-20T14:49:52.987904+00:00",
+  "generated_at": "2026-08-20T15:20:45.013199+00:00",
   "items": [
     {
-      "ts": "2026-08-20T14:47:17.501000+00:00",
-      "time": "10:47 AM ET",
+      "ts": "2026-08-20T15:19:57.433000+00:00",
+      "time": "11:19 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE R1 $88.5** Current: **$88.61** | Strength: 5/5 Fibonacci 0.236 retracement (71.05\u219293.89); prior daily swing high; area of"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $98.98** Current: **$112.11** | Strength: 5/5 \u2014 reason: 0.786 Fibonacci + MA20 daily ($97.16 very close) + 20-day VWAP"
     },
     {
-      "ts": "2026-08-20T14:47:15.833000+00:00",
-      "time": "10:47 AM ET",
+      "ts": "2026-08-20T15:19:56.917000+00:00",
+      "time": "11:19 AM ET",
       "type": "analysis",
-      "message": "\ud83d\udfe2 **GLD \u2014 BROKE ABOVE TP1 $413.0** Current: **$413.06** | Strength: 3/5 Take profit target from trade plan"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $104.25** Current: **$112.11** | Strength: 5/5 \u2014 reason: Last week's close + swing high cluster ($104.6, $104.78, $105"
     },
     {
-      "ts": "2026-08-20T14:38:40.459000+00:00",
-      "time": "10:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $88.5** Current: **$88.37** | Strength: 5/5 Fibonacci 0.236 retracement (71.05\u219293.89); prior daily swing high; area of"
-    },
-    {
-      "ts": "2026-08-20T14:38:39.718000+00:00",
-      "time": "10:38 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R2 $61.16** Current: **$61.13** | Strength: 5/5 \u2014 Weekly MA20 (slope up, but price below); supply cluster on weekly; stron"
-    },
-    {
-      "ts": "2026-08-20T14:37:33.245000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE STOP $316.29** Current: **$316.42** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-20T14:36:31.460000+00:00",
-      "time": "10:36 AM ET",
+      "ts": "2026-08-20T15:19:56.374000+00:00",
+      "time": "11:19 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R2 $61.16** Current: **$61.19** | Strength: 5/5 \u2014 Weekly MA20 (slope up, but price below); supply cluster on weekly; stron"
+      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $109.9** Current: **$112.11** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci (golden pocket lower bound) + recent hourly lo"
     },
     {
-      "ts": "2026-08-20T14:36:29.376000+00:00",
-      "time": "10:36 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $168.21** Current: **$168.06** | Strength: 5/5 \u2014 60-day high AND today's intraday high; double-touch (1H bar at 12:00 a"
-    },
-    {
-      "ts": "2026-08-20T14:35:24.566000+00:00",
-      "time": "10:35 AM ET",
+      "ts": "2026-08-20T15:13:33.820000+00:00",
+      "time": "11:13 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $168.21** Current: **$168.22** | Strength: 5/5 \u2014 60-day high AND today's intraday high; double-touch (1H bar at 12:00 a"
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $543.21** Current: **$543.35** | Strength: 4/5 Yesterday's swing low (intraday support, tested 1x)"
     },
     {
-      "ts": "2026-08-20T14:35:23.323000+00:00",
-      "time": "10:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW STOP $316.29** Current: **$316.20** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-20T14:34:20.133000+00:00",
-      "time": "10:34 AM ET",
+      "ts": "2026-08-20T15:12:29.495000+00:00",
+      "time": "11:12 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $356.09** Current: **$356.49** | Strength: 5/5 20-day VWAP; MA20 at $357.08 (dynamic support) \u2014 very tight"
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R2 $62.06** Current: **$62.08** | Strength: 5/5 \u2014 Fibonacci 0.382 (from $49.61 \u2192 $69.73), clean retracement level, sits ju"
+    },
+    {
+      "ts": "2026-08-20T15:11:23.414000+00:00",
+      "time": "11:11 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $415.04** Current: **$414.68** | Strength: 5/5 \u2014 MA200 (major moving average, structural resistance from longer timefra"
+    },
+    {
+      "ts": "2026-08-20T15:09:06.231000+00:00",
+      "time": "11:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $543.21** Current: **$542.72** | Strength: 4/5 Yesterday's swing low (intraday support, tested 1x)"
+    },
+    {
+      "ts": "2026-08-20T15:09:04.574000+00:00",
+      "time": "11:09 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R3 $21.88** Current: **$21.83** | Strength: 4/5 \u2014 reason: **1.272 Fibonacci extension; next structural target if 0.236 bre"
+    },
+    {
+      "ts": "2026-08-20T15:05:44.838000+00:00",
+      "time": "11:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $175.87** Current: **$175.37** | Strength: 4/5 \u2014 Prior daily close (day 7); 1H low cluster shows support here. Tight f"
+    },
+    {
+      "ts": "2026-08-20T15:05:35.017000+00:00",
+      "time": "11:05 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $72407.0** Current: **$72278.45** | Strength: 4/5 Intraday high (1H candle 15 periods ago); minor resistance; recent te"
     }
   ]
 }
