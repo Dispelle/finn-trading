@@ -11846,5 +11846,73 @@
         "last_hit": null
       }
     ]
+  },
+  "MSTR": {
+    "last_updated": "2026-08-20",
+    "current_price_at_brief": 0,
+    "last_seen_price": 0,
+    "ticker_source": "watchlist",
+    "levels": [
+      {
+        "price": 121.93,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 reason: 0.500 Fibonacci (swing 81.81\u2192162.06) + round psychological level",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 131.4,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 reason: 0.382 Fibonacci + MA50 weekly ($99.69 extended) + prior swing high cluster confluenc",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 143.12,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 reason: 0.236 Fibonacci retracement; prior swing high ($136.25 nearby)",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 109.9,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 reason: 0.650 Fibonacci (golden pocket lower bound) + recent hourly low bounce zone",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 104.25,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 reason: Last week's close + swing high cluster ($104.6, $104.78, $105.5 nearby)",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 98.98,
+        "type": "S3",
+        "strength": 5,
+        "reason": "\u2014 reason: 0.786 Fibonacci + MA20 daily ($97.16 very close) + 20-day VWAP ($97.83)",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      }
+    ]
   }
 }
