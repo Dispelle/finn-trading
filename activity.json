@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T19:07:29.167364+00:00",
+  "generated_at": "2026-08-20T19:21:23.603940+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T19:17:18.414000+00:00",
+      "time": "03:17 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $962.88** Current: **$962.75** | Strength: 5/5 \u2014 reason: today's intraday high (fresh rejection point); 1H multiple reje"
+    },
+    {
+      "ts": "2026-08-20T19:09:53.236000+00:00",
+      "time": "03:09 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $415.04** Current: **$415.05** | Strength: 5/5 \u2014 MA200 (major moving average, structural resistance from longer timefra"
+    },
     {
       "ts": "2026-08-20T19:06:42.336000+00:00",
       "time": "03:06 PM ET",
@@ -48,18 +60,6 @@
       "time": "03:03 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $959.56** Current: **$960.53** | Strength: 5/5 Today's daily high + 1H high from last bar; immediate supply zone"
-    },
-    {
-      "ts": "2026-08-20T18:51:47.297000+00:00",
-      "time": "02:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $956.2** Current: **$956.23** | Strength: 5/5 \u2014 60-day swing low (recent, reliable); VWAP proximity ($886.35 is 20d, but"
-    },
-    {
-      "ts": "2026-08-20T18:44:22.802000+00:00",
-      "time": "02:44 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $315.66** Current: **$315.69** | Strength: 5/5 1-hour swing low (current session); VWAP 20-day = $315.44 (tight match)"
     }
   ]
 }
