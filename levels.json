@@ -464,6 +464,66 @@
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 72407.0,
+        "type": "R1",
+        "strength": 3,
+        "reason": "| +$517.15 (+0.72%) | **Intraday high** (1H high 3 candles ago); minor psychological level |",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 74500.0,
+        "type": "R2",
+        "strength": 4,
+        "reason": "| +$2,610 (+3.63%) | **Fibonacci 1.272 extension** ($76,255 adjusted down by 2.3%); round number + extension confluence ",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 76255.0,
+        "type": "R3",
+        "strength": 5,
+        "reason": "| +$4,365 (+6.07%) | **Fibonacci 1.272 extension** from swing low $57,747.77 \u2192 high $72,297.63; major extension target |",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 68863.86,
+        "type": "S1",
+        "strength": 5,
+        "reason": "| -$3,025.99 (-4.21%) | **Fibonacci 0.236 retracement**; prior daily high (Sept 26); consolidation zone top |",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 66739.58,
+        "type": "S2",
+        "strength": 5,
+        "reason": "| -$5,150.27 (-7.16%) | **Fibonacci 0.382 retracement**; prior swing high (Sept 24 at $66,910); strong supply zone |",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 65022.7,
+        "type": "S3",
+        "strength": 4,
+        "reason": "| -$6,867.15 (-9.55%) | **Fibonacci 0.500 retracement** (median); 20-day VWAP anchor at $65,363 nearby; major support cl",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
