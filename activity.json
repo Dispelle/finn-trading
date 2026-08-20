@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T16:36:01.769224+00:00",
+  "generated_at": "2026-08-20T16:50:54.568911+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T16:47:19.431000+00:00",
+      "time": "12:47 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R3 $14.45** Current: **$14.47** | Strength: 5/5 \u2014 **"
+    },
+    {
+      "ts": "2026-08-20T16:36:45.656000+00:00",
+      "time": "12:36 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R3 $14.27** Current: **$14.26** | Strength: 4/5 \u2014 Fibonacci 0.236 retracement + prior swing high cluster ($13.27)"
+    },
     {
       "ts": "2026-08-20T16:35:41.965000+00:00",
       "time": "12:35 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:43 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $61.68** Current: **$61.63** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-20T15:40:39.701000+00:00",
-      "time": "11:40 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $89.07** Current: **$89.02** | Strength: 4/5 Today's 1H high + intraday rejection zone; prior daily close resistance"
-    },
-    {
-      "ts": "2026-08-20T15:39:34.053000+00:00",
-      "time": "11:39 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $414.55** Current: **$414.40** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
