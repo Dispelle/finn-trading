@@ -2062,7 +2062,7 @@
     ]
   },
   "QQQ": {
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2091,9 +2091,9 @@
         "price": 772.45,
         "type": "R3",
         "strength": 4,
-        "reason": "1.272 Fib extension (661.14 \u2192 748.65)",
+        "reason": "1.618 Fibonacci extension (golden ratio); round-number psychological level",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2151,9 +2151,9 @@
         "price": 694.57,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.618 (golden pocket), psychological $695 round, prior resistance-turned-support; defines weekly fail-safe",
+        "reason": "0.618 Fibonacci (golden pocket); major support zone if $702.81 fails",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2163,7 +2163,7 @@
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2231,9 +2231,9 @@
         "price": 748.65,
         "type": "R2",
         "strength": 5,
-        "reason": "**60-day swing high / upper bound of current range** (fib baseline anchor); likely to see profit-taking",
+        "reason": "60-day all-time high; 1.272 Fib extension zone; psychological round; supply exhaustion peak",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2261,9 +2261,9 @@
         "price": 704.9,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.500 (midpoint of swing), confluence with 20-day VWAP ($702.28); critical support zone",
+        "reason": "Recent swing low; higher-low confirmation level; loss of this = structure break",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2381,9 +2381,9 @@
         "price": 715.22,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.382 retracement, also near today's 1H range low ($712.61); acts as immediate floor",
+        "reason": "0.382 Fibonacci retracement; cluster with 20-day VWAP ($702.42) nearby; daily support zone",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2414,6 +2414,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 734.58,
+        "type": "R1",
+        "strength": 5,
+        "reason": "Prior swing high (4 days ago); tested multiple times in last 5 days; daily technical resistance",
+        "status": "active",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       }
