@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-20T15:35:49.187455+00:00",
+  "generated_at": "2026-08-20T15:50:48.003552+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T15:49:08.142000+00:00",
+      "time": "11:49 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $216.05** Current: **$216.07** | Strength: 5/5 \u2014 Fibonacci 0.382 (38.2% retracement) **+ 20-day VWAP $209.91 proximity"
+    },
+    {
+      "ts": "2026-08-20T15:44:54.540000+00:00",
+      "time": "11:44 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $216.05** Current: **$215.98** | Strength: 5/5 \u2014 Fibonacci 0.382 (38.2% retracement) **+ 20-day VWAP $209.91 proximity"
+    },
+    {
+      "ts": "2026-08-20T15:44:53.535000+00:00",
+      "time": "11:44 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP1 $168.5** Current: **$168.57** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-20T15:43:50.468000+00:00",
+      "time": "11:43 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $61.68** Current: **$61.63** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-20T15:40:39.701000+00:00",
+      "time": "11:40 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $89.07** Current: **$89.02** | Strength: 4/5 Today's 1H high + intraday rejection zone; prior daily close resistance"
+    },
+    {
+      "ts": "2026-08-20T15:39:34.053000+00:00",
+      "time": "11:39 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW STOP $414.55** Current: **$414.40** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-20T15:36:22.367000+00:00",
+      "time": "11:36 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R2 $414.67** Current: **$414.56** | Strength: 5/5 \u2014 Weekly MA200, major intermediate resistance"
+    },
     {
       "ts": "2026-08-20T15:34:14.491000+00:00",
       "time": "11:34 AM ET",
@@ -18,48 +60,6 @@
       "time": "11:32 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $216.76** Current: **$216.78** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
-    },
-    {
-      "ts": "2026-08-20T15:30:59.991000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R2 $62.06** Current: **$62.03** | Strength: 5/5 \u2014 Fibonacci 0.382 (from $49.61 \u2192 $69.73), clean retracement level, sits ju"
-    },
-    {
-      "ts": "2026-08-20T15:30:57.337000+00:00",
-      "time": "11:30 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $216.76** Current: **$216.72** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
-    },
-    {
-      "ts": "2026-08-20T15:29:42.107000+00:00",
-      "time": "11:29 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R3 $22.05** Current: **$22.07** | Strength: 4/5 Fib 1.272 extension (bull case target)"
-    },
-    {
-      "ts": "2026-08-20T15:19:57.433000+00:00",
-      "time": "11:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S3 $98.98** Current: **$112.11** | Strength: 5/5 \u2014 reason: 0.786 Fibonacci + MA20 daily ($97.16 very close) + 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-20T15:19:56.917000+00:00",
-      "time": "11:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S2 $104.25** Current: **$112.11** | Strength: 5/5 \u2014 reason: Last week's close + swing high cluster ($104.6, $104.78, $105"
-    },
-    {
-      "ts": "2026-08-20T15:19:56.374000+00:00",
-      "time": "11:19 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE S1 $109.9** Current: **$112.11** | Strength: 5/5 \u2014 reason: 0.650 Fibonacci (golden pocket lower bound) + recent hourly lo"
-    },
-    {
-      "ts": "2026-08-20T15:13:33.820000+00:00",
-      "time": "11:13 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $543.21** Current: **$543.35** | Strength: 4/5 Yesterday's swing low (intraday support, tested 1x)"
     }
   ]
 }
