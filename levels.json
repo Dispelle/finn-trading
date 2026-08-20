@@ -6152,6 +6152,66 @@
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 1280.0,
+        "type": "R1",
+        "strength": 4,
+        "reason": "TODAY's high; prior 1H resistance; psychological round",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1292.65,
+        "type": "R2",
+        "strength": 5,
+        "reason": "**60-day high** (intraday); Fib extension breakpoint; recent swing high",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1358.07,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fib 1.272 extension (1052.15 \u2192 1292.65); golden extension zone",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1257.0,
+        "type": "S1",
+        "strength": 3,
+        "reason": "TODAY's low; intraday support; tight range pivot",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1240.54,
+        "type": "S2",
+        "strength": 5,
+        "reason": "**Swing low (last 10 bars)**; 0.236 Fib zone ($1235.89) confluence; invalidation of HH/HL",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 1235.89,
+        "type": "S3",
+        "strength": 4,
+        "reason": "**Fib 0.236 retracement** (from 1052.15 swing low); supply cluster zone",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
