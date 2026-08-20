@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-20T19:36:23.879497+00:00",
+  "generated_at": "2026-08-20T19:51:25.007716+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T19:50:29.802000+00:00",
+      "time": "03:50 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE STOP $61.68** Current: **$61.72** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-20T19:48:21.437000+00:00",
+      "time": "03:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $466.46** Current: **$466.24** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
+    },
+    {
+      "ts": "2026-08-20T19:39:47.871000+00:00",
+      "time": "03:39 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $466.46** Current: **$466.60** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
+    },
     {
       "ts": "2026-08-20T19:35:25.660000+00:00",
       "time": "03:35 PM ET",
@@ -42,24 +60,6 @@
       "time": "03:25 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$562.53** | Strength: 5/5 \u2014 0.650 Fib retracement + 20-day VWAP ($556.69 nearby)"
-    },
-    {
-      "ts": "2026-08-20T19:21:37.229000+00:00",
-      "time": "03:21 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $415.04** Current: **$414.89** | Strength: 5/5 \u2014 MA200 (major moving average, structural resistance from longer timefra"
-    },
-    {
-      "ts": "2026-08-20T19:17:18.414000+00:00",
-      "time": "03:17 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $962.88** Current: **$962.75** | Strength: 5/5 \u2014 reason: today's intraday high (fresh rejection point); 1H multiple reje"
-    },
-    {
-      "ts": "2026-08-20T19:09:53.236000+00:00",
-      "time": "03:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $415.04** Current: **$415.05** | Strength: 5/5 \u2014 MA200 (major moving average, structural resistance from longer timefra"
     }
   ]
 }
