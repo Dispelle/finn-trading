@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-20T15:21:18.822493+00:00",
+  "generated_at": "2026-08-20T15:35:49.187455+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T15:34:14.491000+00:00",
+      "time": "11:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $463.21** Current: **$462.73** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-20T15:34:11.077000+00:00",
+      "time": "11:34 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R3 $22.05** Current: **$22.02** | Strength: 4/5 Fib 1.272 extension (bull case target)"
+    },
+    {
+      "ts": "2026-08-20T15:32:05.080000+00:00",
+      "time": "11:32 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $216.76** Current: **$216.78** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
+    },
+    {
+      "ts": "2026-08-20T15:30:59.991000+00:00",
+      "time": "11:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R2 $62.06** Current: **$62.03** | Strength: 5/5 \u2014 Fibonacci 0.382 (from $49.61 \u2192 $69.73), clean retracement level, sits ju"
+    },
+    {
+      "ts": "2026-08-20T15:30:57.337000+00:00",
+      "time": "11:30 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $216.76** Current: **$216.72** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
+    },
+    {
+      "ts": "2026-08-20T15:29:42.107000+00:00",
+      "time": "11:29 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE R3 $22.05** Current: **$22.07** | Strength: 4/5 Fib 1.272 extension (bull case target)"
+    },
     {
       "ts": "2026-08-20T15:19:57.433000+00:00",
       "time": "11:19 AM ET",
@@ -24,42 +60,6 @@
       "time": "11:13 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $543.21** Current: **$543.35** | Strength: 4/5 Yesterday's swing low (intraday support, tested 1x)"
-    },
-    {
-      "ts": "2026-08-20T15:12:29.495000+00:00",
-      "time": "11:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE R2 $62.06** Current: **$62.08** | Strength: 5/5 \u2014 Fibonacci 0.382 (from $49.61 \u2192 $69.73), clean retracement level, sits ju"
-    },
-    {
-      "ts": "2026-08-20T15:11:23.414000+00:00",
-      "time": "11:11 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $415.04** Current: **$414.68** | Strength: 5/5 \u2014 MA200 (major moving average, structural resistance from longer timefra"
-    },
-    {
-      "ts": "2026-08-20T15:09:06.231000+00:00",
-      "time": "11:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $543.21** Current: **$542.72** | Strength: 4/5 Yesterday's swing low (intraday support, tested 1x)"
-    },
-    {
-      "ts": "2026-08-20T15:09:04.574000+00:00",
-      "time": "11:09 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R3 $21.88** Current: **$21.83** | Strength: 4/5 \u2014 reason: **1.272 Fibonacci extension; next structural target if 0.236 bre"
-    },
-    {
-      "ts": "2026-08-20T15:05:44.838000+00:00",
-      "time": "11:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $175.87** Current: **$175.37** | Strength: 4/5 \u2014 Prior daily close (day 7); 1H low cluster shows support here. Tight f"
-    },
-    {
-      "ts": "2026-08-20T15:05:35.017000+00:00",
-      "time": "11:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **BTC \u2014 BROKE BELOW R1 $72407.0** Current: **$72278.45** | Strength: 4/5 Intraday high (1H candle 15 periods ago); minor resistance; recent te"
     }
   ]
 }
