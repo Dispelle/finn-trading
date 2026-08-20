@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:21:17.576940+00:00",
+  "generated_at": "2026-08-20T17:36:20.002236+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T17:34:48.384000+00:00",
+      "time": "01:34 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $342.27** Current: **$342.25** | Strength: 4/5 \u2014 Prior swing high (8 days ago, daily close); acted as minor resistance"
+    },
     {
       "ts": "2026-08-20T17:04:49.195000+00:00",
       "time": "01:04 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:44 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S3 $216.05** Current: **$215.98** | Strength: 5/5 \u2014 Fibonacci 0.382 (38.2% retracement) **+ 20-day VWAP $209.91 proximity"
-    },
-    {
-      "ts": "2026-08-20T15:44:53.535000+00:00",
-      "time": "11:44 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **XOM \u2014 BROKE ABOVE TP1 $168.5** Current: **$168.57** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
