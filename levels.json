@@ -2788,7 +2788,7 @@
     ]
   },
   "MSFT": {
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -2807,9 +2807,9 @@
         "price": 558.48,
         "type": "R3",
         "strength": 4,
-        "reason": "Fibonacci 1.272 extension (349.20\u2192513.73), major supply zone",
+        "reason": "Fibonacci 1.272 extension (349.20\u2192513.73); upside projection if bull thesis plays out",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2827,9 +2827,9 @@
         "price": 474.9,
         "type": "S2",
         "strength": 5,
-        "reason": "\u2014 Fib 0.236 retracement, recent daily swing, psychological",
+        "reason": "Fibonacci 0.236 retracement; convergence of MA20 slope support",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2837,9 +2837,9 @@
         "price": 450.88,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.382 retracement, strong confluence with 20-day VWAP ($460.17 nearby), major pullback target",
+        "reason": "Fibonacci 0.382; psychological round number proximity",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2957,9 +2957,9 @@
         "price": 505.18,
         "type": "R2",
         "strength": 5,
-        "reason": "\u2014 reason: Recent daily higher high (3 days ago); prior swing; resistance confluence",
+        "reason": "Dec 26 daily high; logical extension of current daily consolidation",
         "status": "active",
-        "source_brief": "2026-08-18",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -2967,9 +2967,9 @@
         "price": 513.73,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 60-day swing high, Fib extension 1.272 (~$558.48 beyond this), structural peak (failed breakout)",
+        "reason": "**60-day swing high (key resistance)**; Major psychological barrier; Separates \"recovery\" from \"breakout to new highs\"",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3067,9 +3067,9 @@
         "price": 481.67,
         "type": "S1",
         "strength": 5,
-        "reason": "\u2014 Last higher low (8-day weekly close), **invalidation level**, key structure pivot",
+        "reason": "Dec 28 swing low; most recent higher-low reference; holds bullish bias",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3077,9 +3077,9 @@
         "price": 431.46,
         "type": "S3",
         "strength": 5,
-        "reason": "\u2014 Fib 0.500 (midpoint), MA20 adjacent ($463.04), secondary pullback target",
+        "reason": "Fibonacci 0.500 (mid-swing); loss of 50-day MA ($416.57) proximity = structural breakdown",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -3240,6 +3240,26 @@
         "reason": "\u2014 Recent 8-day swing high, prior daily close, VWAP resistance area",
         "status": "active",
         "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 495.4,
+        "type": "R1",
+        "strength": 4,
+        "reason": "Prior swing high (Dec 27 daily close); confluent with upper edge of 1H compression range",
+        "status": "active",
+        "source_brief": "2026-08-20",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 460.51,
+        "type": "S3",
+        "strength": 5,
+        "reason": "20-day VWAP; confluence with MA20 zone ($463.04); key anchor for mean-reversion",
+        "status": "active",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       }
