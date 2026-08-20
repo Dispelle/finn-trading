@@ -10092,7 +10092,7 @@
     ]
   },
   "SLV": {
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -10111,9 +10111,9 @@
         "price": 62.06,
         "type": "R2",
         "strength": 5,
-        "reason": "**Fibonacci 0.382 retracement** (49.61\u219269.73); zone of gravity in 60-day range",
+        "reason": "\u2014 Fibonacci 0.382 (from $49.61 \u2192 $69.73), clean retracement level, sits just above MA20.",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10121,9 +10121,9 @@
         "price": 65.0,
         "type": "R3",
         "strength": 5,
-        "reason": "\u2014 Fibonacci 0.236 (extension of bounce); prior swing high at $64.69 (58 days ago)",
+        "reason": "\u2014 Fibonacci 0.236 + confluence with 60-day swing high $64.69. This is a **critical supply zone**.",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10331,9 +10331,9 @@
         "price": 57.3,
         "type": "S2",
         "strength": 5,
-        "reason": "**Fibonacci 0.618 \"golden pocket\"** \u2014 historically critical bounce level",
+        "reason": "\u2014 Fibonacci 0.618 (golden pocket start), also daily low $57.23. Confluence = major support.",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10471,9 +10471,9 @@
         "price": 55.72,
         "type": "S3",
         "strength": 5,
-        "reason": "**20-day VWAP**; MA20 ($55.67) + MA50 ($55.48) cluster",
+        "reason": "\u2014 20-day VWAP, also MA20 daily $55.67. Prior support, psychological round.",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10481,9 +10481,9 @@
         "price": 59.67,
         "type": "S1",
         "strength": 5,
-        "reason": "**Fibonacci 0.500 (golden ratio midpoint)**; current price hovering just above; critical pivot",
+        "reason": "\u2014 Fibonacci 0.500, exact midpoint of 60-day range. Current price $60.01 is *just above* this\u2014potential pivot.",
         "status": "active",
-        "source_brief": "2026-08-19",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       },
@@ -10494,6 +10494,16 @@
         "reason": "**Fibonacci 1.272 extension**; recovery target if trend flips",
         "status": "active",
         "source_brief": "2026-08-19",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 61.16,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Weekly MA20, tested multiple times, recent rejection.",
+        "status": "active",
+        "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
       }
