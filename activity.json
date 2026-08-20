@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-20T18:36:23.794173+00:00",
+  "generated_at": "2026-08-20T18:51:22.698295+00:00",
   "items": [
+    {
+      "ts": "2026-08-20T18:44:22.802000+00:00",
+      "time": "02:44 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $315.66** Current: **$315.69** | Strength: 5/5 1-hour swing low (current session); VWAP 20-day = $315.44 (tight match)"
+    },
     {
       "ts": "2026-08-20T18:30:06.788000+00:00",
       "time": "02:30 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:09 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW S1 $174.94** Current: **$174.91** | Strength: 5/5 \u2014 Most recent daily close 2 bars back (strong support/resistance flip)."
-    },
-    {
-      "ts": "2026-08-20T18:08:25.330000+00:00",
-      "time": "02:08 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW STOP $559.56** Current: **$559.15** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
