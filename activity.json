@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-21T19:23:16.038714+00:00",
+  "generated_at": "2026-08-21T19:38:07.267218+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T19:35:05.570000+00:00",
+      "time": "03:35 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1257.0** Current: **$1256.66** | Strength: 3/5 TODAY's low; intraday support; tight range pivot"
+    },
     {
       "ts": "2026-08-21T19:19:16.680000+00:00",
       "time": "03:19 PM ET",
@@ -54,12 +60,6 @@
       "time": "02:47 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $135.17** Current: **$135.12** | Strength: 4/5 Intraday high (today's high, 1H resistance) + minor swing high"
-    },
-    {
-      "ts": "2026-08-21T18:44:17.969000+00:00",
-      "time": "02:44 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $135.17** Current: **$135.18** | Strength: 4/5 Intraday high (today's high, 1H resistance) + minor swing high"
     }
   ]
 }
