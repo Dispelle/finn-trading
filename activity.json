@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T15:38:24.620202+00:00",
+  "generated_at": "2026-08-21T15:52:48.787808+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T15:51:52.514000+00:00",
+      "time": "11:51 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **PLTR \u2014 BROKE ABOVE TP2 $180.0** Current: **$180.24** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-21T15:51:51.908000+00:00",
+      "time": "11:51 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $180.18** Current: **$180.24** | Strength: 5/5 \u2014 60-day swing high, prior resistance proven twice (hit $179.91 and $18"
+    },
+    {
+      "ts": "2026-08-21T15:46:34.007000+00:00",
+      "time": "11:46 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $179.6** Current: **$179.79** | Strength: 5/5 60-day **swing high** (today's high); fresh resistance; tight"
+    },
+    {
+      "ts": "2026-08-21T15:41:17.551000+00:00",
+      "time": "11:41 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $216.76** Current: **$216.85** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
+    },
     {
       "ts": "2026-08-21T15:35:56.104000+00:00",
       "time": "11:35 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:12 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $165.65** Current: **$165.68** | Strength: 5/5 \u2014 1H recent close cluster (165.62, 165.67, 165.77 repeated), local suppo"
-    },
-    {
-      "ts": "2026-08-21T15:12:28.458000+00:00",
-      "time": "11:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $165.67** Current: **$165.68** | Strength: 5/5 \u2014 Prior 60-day swing high + today's 1H high. Exact level tested 20 times"
-    },
-    {
-      "ts": "2026-08-21T15:12:27.903000+00:00",
-      "time": "11:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $165.5** Current: **$165.68** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
-    },
-    {
-      "ts": "2026-08-21T15:10:20.710000+00:00",
-      "time": "11:10 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.5** Current: **$165.44** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
-    },
-    {
-      "ts": "2026-08-21T15:10:19.052000+00:00",
-      "time": "11:10 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $134.02** Current: **$134.07** | Strength: 5/5 \u2014 0.236 Fibonacci retracement (recent swing high area, minor confluence,"
     }
   ]
 }
