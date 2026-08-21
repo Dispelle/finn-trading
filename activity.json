@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T15:53:13.473659+00:00",
+  "generated_at": "2026-08-21T16:07:55.884485+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T15:57:13.960000+00:00",
+      "time": "11:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $767.45** Current: **$767.39** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-21T15:56:10.249000+00:00",
+      "time": "11:56 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S3 $715.22** Current: **$714.96** | Strength: 4/5 | -$17.82 (-2.4%) | **Fibonacci 0.382 retracement** \u2014 common pullback ta"
+    },
+    {
+      "ts": "2026-08-21T15:55:07.440000+00:00",
+      "time": "11:55 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **PLTR \u2014 BROKE BELOW TP1 $181.5** Current: **$181.40** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-21T15:54:03.310000+00:00",
+      "time": "11:54 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **PLTR \u2014 BROKE ABOVE TP1 $181.5** Current: **$181.80** | Strength: 3/5 Take profit target from trade plan"
+    },
     {
       "ts": "2026-08-21T15:52:58.875000+00:00",
       "time": "11:52 AM ET",
@@ -36,30 +60,6 @@
       "time": "11:46 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE R1 $179.6** Current: **$179.79** | Strength: 5/5 60-day **swing high** (today's high); fresh resistance; tight"
-    },
-    {
-      "ts": "2026-08-21T15:41:17.551000+00:00",
-      "time": "11:41 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $216.76** Current: **$216.85** | Strength: 5/5 Today's low; tightly held intraday floor; confluence with Fib 0.382 ($2"
-    },
-    {
-      "ts": "2026-08-21T15:35:56.104000+00:00",
-      "time": "11:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $766.5** Current: **$766.54** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:33:50.595000+00:00",
-      "time": "11:33 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $216.05** Current: **$216.07** | Strength: 5/5 \u2014 Fibonacci 0.382 (38.2% retracement) **+ 20-day VWAP $209.91 proximity"
-    },
-    {
-      "ts": "2026-08-21T15:14:37.595000+00:00",
-      "time": "11:14 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $177.5** Current: **$177.41** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
