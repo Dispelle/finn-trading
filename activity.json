@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T15:52:48.787808+00:00",
+  "generated_at": "2026-08-21T15:52:59.469018+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T15:52:58.875000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $180.5** Current: **$180.84** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T15:52:56.673000+00:00",
+      "time": "11:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $715.22** Current: **$715.44** | Strength: 4/5 | -$17.82 (-2.4%) | **Fibonacci 0.382 retracement** \u2014 common pullback ta"
+    },
+    {
+      "ts": "2026-08-21T15:52:55.909000+00:00",
+      "time": "11:52 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $767.45** Current: **$767.72** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-08-21T15:51:52.514000+00:00",
       "time": "11:51 AM ET",
@@ -42,24 +60,6 @@
       "time": "11:14 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $177.5** Current: **$177.41** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:13:33.857000+00:00",
-      "time": "11:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $177.5** Current: **$177.64** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:12:29.760000+00:00",
-      "time": "11:12 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $165.4** Current: **$165.68** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:12:29.117000+00:00",
-      "time": "11:12 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $165.65** Current: **$165.68** | Strength: 5/5 \u2014 1H recent close cluster (165.62, 165.67, 165.77 repeated), local suppo"
     }
   ]
 }
