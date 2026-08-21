@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-21T13:53:13.247511+00:00",
+  "generated_at": "2026-08-21T14:07:40.217354+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T14:06:07.423000+00:00",
+      "time": "10:06 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $356.5** Current: **$357.72** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T14:00:49.229000+00:00",
+      "time": "10:00 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $354.0** Current: **$353.55** | Strength: 5/5 0.618 Fibonacci golden pocket (297.38 \u2192 445.60); prior swing high conflu"
+    },
+    {
+      "ts": "2026-08-21T13:59:44.825000+00:00",
+      "time": "09:59 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $354.0** Current: **$354.39** | Strength: 5/5 0.618 Fibonacci golden pocket (297.38 \u2192 445.60); prior swing high conflu"
+    },
+    {
+      "ts": "2026-08-21T13:58:40.129000+00:00",
+      "time": "09:58 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R2 $351.26** Current: **$351.59** | Strength: 5/5 \u2014 last daily high candle (2 days ago); 4H swing high; confluence with 1"
+    },
+    {
+      "ts": "2026-08-21T13:55:30.205000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$563.15** | Strength: 5/5 \u2014 0.650 Fib retracement + 20-day VWAP ($556.69 nearby)"
+    },
+    {
+      "ts": "2026-08-21T13:54:26.258000+00:00",
+      "time": "09:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $562.5** Current: **$561.40** | Strength: 5/5 \u2014 0.650 Fib retracement + 20-day VWAP ($556.69 nearby)"
+    },
+    {
+      "ts": "2026-08-21T13:54:23.852000+00:00",
+      "time": "09:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $764.55** Current: **$764.28** | Strength: 5/5 Fib 0.236 retracement; tighter reversal zone"
+    },
     {
       "ts": "2026-08-21T13:51:14.829000+00:00",
       "time": "09:51 AM ET",
@@ -18,48 +60,6 @@
       "time": "09:50 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $350.0** Current: **$350.50** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T13:48:01.788000+00:00",
-      "time": "09:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S2 $356.3** Current: **$356.12** | Strength: 5/5 \u2014 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-21T13:44:50.240000+00:00",
-      "time": "09:44 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S2 $356.3** Current: **$356.31** | Strength: 5/5 \u2014 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-21T13:44:49.548000+00:00",
-      "time": "09:44 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $349.26** Current: **$348.75** | Strength: 5/5 Fibonacci 0.650 retracement; immediate support (1H/4H structure); very "
-    },
-    {
-      "ts": "2026-08-21T13:43:45.547000+00:00",
-      "time": "09:43 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $356.09** Current: **$356.16** | Strength: 5/5 20-day VWAP; MA20 at $357.08 (dynamic support) \u2014 very tight"
-    },
-    {
-      "ts": "2026-08-21T13:43:44.089000+00:00",
-      "time": "09:43 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.54** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
-    },
-    {
-      "ts": "2026-08-21T13:41:37.029000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R1 $1249.45** Current: **$1247.05** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-21T13:41:36.339000+00:00",
-      "time": "09:41 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE STOP $354.5** Current: **$355.24** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
