@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-21T18:08:45.227126+00:00",
+  "generated_at": "2026-08-21T18:23:01.689916+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T18:17:50.633000+00:00",
+      "time": "02:17 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S3 $352.1** Current: **$352.23** | Strength: 4/5 \u2014 Last higher low / structural invalidation level"
+    },
+    {
+      "ts": "2026-08-21T18:15:43.301000+00:00",
+      "time": "02:15 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S2 $352.04** Current: **$352.05** | Strength: 5/5 Recent daily swing low (5 days ago, before $366.50 push); psychological "
+    },
+    {
+      "ts": "2026-08-21T18:15:42.165000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP1 $309.15** Current: **$309.08** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-21T18:15:41.546000+00:00",
+      "time": "02:15 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $309.16** Current: **$309.08** | Strength: 5/5 \u2014 0.500 Fibonacci retracement + MA50 ($309.08) confluence; first retest"
+    },
+    {
+      "ts": "2026-08-21T18:09:21.288000+00:00",
+      "time": "02:09 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $351.79** Current: **$351.81** | Strength: 4/5 Daily swing low (5 bars ago); intraday floor"
+    },
     {
       "ts": "2026-08-21T17:58:45.748000+00:00",
       "time": "01:58 PM ET",
@@ -30,36 +60,6 @@
       "time": "01:43 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.0** Current: **$164.92** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
-    },
-    {
-      "ts": "2026-08-21T17:36:34.083000+00:00",
-      "time": "01:36 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R3 $15.49** Current: **$15.46** | Strength: 4/5 \u2014 60-day high; break = uptrend confirmation"
-    },
-    {
-      "ts": "2026-08-21T17:23:52.592000+00:00",
-      "time": "01:23 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW STOP $165.4** Current: **$165.37** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T16:46:54.794000+00:00",
-      "time": "12:46 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **PLTR \u2014 BROKE BELOW TP2 $180.0** Current: **$179.84** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-21T16:45:51.251000+00:00",
-      "time": "12:45 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $180.18** Current: **$180.11** | Strength: 5/5 \u2014 60-day swing high, prior resistance proven twice (hit $179.91 and $18"
-    },
-    {
-      "ts": "2026-08-21T16:26:51.123000+00:00",
-      "time": "12:26 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $351.79** Current: **$351.69** | Strength: 4/5 Daily swing low (5 bars ago); intraday floor"
     }
   ]
 }
