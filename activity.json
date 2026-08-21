@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T17:52:59.834962+00:00",
+  "generated_at": "2026-08-21T18:08:01.417758+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T17:58:45.748000+00:00",
+      "time": "01:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.65** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
+    },
+    {
+      "ts": "2026-08-21T17:54:32.718000+00:00",
+      "time": "01:54 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $179.6** Current: **$179.58** | Strength: 5/5 \u2014 Daily swing high (2 bars prior); confluence with psychological $180 zo"
+    },
+    {
+      "ts": "2026-08-21T17:53:28.793000+00:00",
+      "time": "01:53 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R3 $15.49** Current: **$15.49** | Strength: 4/5 \u2014 60-day high; break = uptrend confirmation"
+    },
     {
       "ts": "2026-08-21T17:48:11.586000+00:00",
       "time": "01:48 PM ET",
@@ -42,24 +60,6 @@
       "time": "12:26 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $351.79** Current: **$351.69** | Strength: 4/5 Daily swing low (5 bars ago); intraday floor"
-    },
-    {
-      "ts": "2026-08-21T16:09:58.605000+00:00",
-      "time": "12:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $180.5** Current: **$180.41** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T16:09:56.558000+00:00",
-      "time": "12:09 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW STOP $766.5** Current: **$766.34** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:57:13.960000+00:00",
-      "time": "11:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $767.45** Current: **$767.39** | Strength: 5/5 |"
     }
   ]
 }
