@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T18:53:03.338445+00:00",
+  "generated_at": "2026-08-21T19:08:05.823812+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T19:05:31.730000+00:00",
+      "time": "03:05 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R3 $15.26** Current: **$15.30** | Strength: 4/5 \u2014 60-day high; start of Fibonacci extensions (1.272 at $16.40)"
+    },
+    {
+      "ts": "2026-08-21T19:04:28.268000+00:00",
+      "time": "03:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW R3 $15.26** Current: **$15.25** | Strength: 4/5 \u2014 60-day high; start of Fibonacci extensions (1.272 at $16.40)"
+    },
+    {
+      "ts": "2026-08-21T19:03:24.164000+00:00",
+      "time": "03:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S3 $352.1** Current: **$352.08** | Strength: 4/5 \u2014 Last higher low / structural invalidation level"
+    },
     {
       "ts": "2026-08-21T18:51:44.954000+00:00",
       "time": "02:51 PM ET",
@@ -42,24 +60,6 @@
       "time": "02:15 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP1 $309.15** Current: **$309.08** | Strength: 3/5 Take profit target from trade plan"
-    },
-    {
-      "ts": "2026-08-21T18:15:41.546000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW R1 $309.16** Current: **$309.08** | Strength: 5/5 \u2014 0.500 Fibonacci retracement + MA50 ($309.08) confluence; first retest"
-    },
-    {
-      "ts": "2026-08-21T18:09:21.288000+00:00",
-      "time": "02:09 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $351.79** Current: **$351.81** | Strength: 4/5 Daily swing low (5 bars ago); intraday floor"
-    },
-    {
-      "ts": "2026-08-21T17:58:45.748000+00:00",
-      "time": "01:58 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.65** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
     }
   ]
 }
