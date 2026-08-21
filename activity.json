@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-21T14:22:52.730776+00:00",
+  "generated_at": "2026-08-21T14:37:42.798998+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T14:37:21.461000+00:00",
+      "time": "10:37 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S2 $353.33** Current: **$352.98** | Strength: 5/5 \u2014 20-day VWAP, MA20 at $355.69 (very close), strong daily MA support + p"
+    },
+    {
+      "ts": "2026-08-21T14:33:09.210000+00:00",
+      "time": "10:33 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW R3 $421.82** Current: **$421.54** | Strength: 5/5 \u2014 60-day absolute peak; weekly resistance; bearish reversal pivot"
+    },
+    {
+      "ts": "2026-08-21T14:27:51.054000+00:00",
+      "time": "10:27 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $559.56** Current: **$559.66** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T14:26:47.783000+00:00",
+      "time": "10:26 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $466.46** Current: **$466.94** | Strength: 5/5 **0.618 Fib golden pocket** (risk magnet); psychological round; prior 1H"
+    },
+    {
+      "ts": "2026-08-21T14:26:46.693000+00:00",
+      "time": "10:26 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $215.0** Current: **$215.06** | Strength: 5/5 \u2014 Fib 0.382 ($216.05) rounded, tested 4x in last 10 days, **structural f"
+    },
+    {
+      "ts": "2026-08-21T14:25:43.276000+00:00",
+      "time": "10:25 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE R3 $421.82** Current: **$421.90** | Strength: 5/5 \u2014 60-day absolute peak; weekly resistance; bearish reversal pivot"
+    },
+    {
+      "ts": "2026-08-21T14:25:42.293000+00:00",
+      "time": "10:25 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $215.0** Current: **$214.84** | Strength: 5/5 \u2014 Fib 0.382 ($216.05) rounded, tested 4x in last 10 days, **structural f"
+    },
     {
       "ts": "2026-08-21T14:22:32.075000+00:00",
       "time": "10:22 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:22 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $962.88** Current: **$963.28** | Strength: 5/5 \u2014 reason: today's intraday high (fresh rejection point); 1H multiple reje"
-    },
-    {
-      "ts": "2026-08-21T14:22:27.794000+00:00",
-      "time": "10:22 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $356.5** Current: **$356.47** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T14:22:26.905000+00:00",
-      "time": "10:22 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE STOP $709.5** Current: **$709.90** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T14:21:21.730000+00:00",
-      "time": "10:21 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $463.21** Current: **$463.28** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T14:21:19.220000+00:00",
-      "time": "10:21 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S3 $556.81** Current: **$557.21** | Strength: 5/5 20-day VWAP"
-    },
-    {
-      "ts": "2026-08-21T14:20:05.914000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $463.21** Current: **$462.88** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T14:20:05.086000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S2 $961.03** Current: **$960.00** | Strength: 5/5 \u2014 MA50 (50-period moving average); dynamic support, slope still up"
-    },
-    {
-      "ts": "2026-08-21T14:20:04.325000+00:00",
-      "time": "10:20 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW S1 $960.68** Current: **$960.00** | Strength: 5/5 **MA50 (daily); daily close hold above = structure intact; must defend**"
     }
   ]
 }
