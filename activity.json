@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T16:38:03.728736+00:00",
+  "generated_at": "2026-08-21T16:52:54.027086+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T16:46:54.794000+00:00",
+      "time": "12:46 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **PLTR \u2014 BROKE BELOW TP2 $180.0** Current: **$179.84** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-21T16:45:51.251000+00:00",
+      "time": "12:45 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R1 $180.18** Current: **$180.11** | Strength: 5/5 \u2014 60-day swing high, prior resistance proven twice (hit $179.91 and $18"
+    },
     {
       "ts": "2026-08-21T16:26:51.123000+00:00",
       "time": "12:26 PM ET",
@@ -48,18 +60,6 @@
       "time": "11:52 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $180.5** Current: **$180.84** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T15:52:56.673000+00:00",
-      "time": "11:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S3 $715.22** Current: **$715.44** | Strength: 4/5 | -$17.82 (-2.4%) | **Fibonacci 0.382 retracement** \u2014 common pullback ta"
-    },
-    {
-      "ts": "2026-08-21T15:52:55.909000+00:00",
-      "time": "11:52 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $767.45** Current: **$767.72** | Strength: 5/5 |"
     }
   ]
 }
