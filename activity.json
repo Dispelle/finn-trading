@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-21T16:22:52.926489+00:00",
+  "generated_at": "2026-08-21T16:37:53.800873+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T16:26:51.123000+00:00",
+      "time": "12:26 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $351.79** Current: **$351.69** | Strength: 4/5 Daily swing low (5 bars ago); intraday floor"
+    },
     {
       "ts": "2026-08-21T16:09:58.605000+00:00",
       "time": "12:09 PM ET",
@@ -54,12 +60,6 @@
       "time": "11:52 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $767.45** Current: **$767.72** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-21T15:51:52.514000+00:00",
-      "time": "11:51 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **PLTR \u2014 BROKE ABOVE TP2 $180.0** Current: **$180.24** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
