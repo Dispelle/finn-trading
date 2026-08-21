@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-21T15:08:30.960316+00:00",
+  "generated_at": "2026-08-21T15:22:46.927876+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T15:14:37.595000+00:00",
+      "time": "11:14 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW STOP $177.5** Current: **$177.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T15:13:33.857000+00:00",
+      "time": "11:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **PLTR \u2014 BROKE ABOVE STOP $177.5** Current: **$177.64** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T15:12:29.760000+00:00",
+      "time": "11:12 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE STOP $165.4** Current: **$165.68** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T15:12:29.117000+00:00",
+      "time": "11:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $165.65** Current: **$165.68** | Strength: 5/5 \u2014 1H recent close cluster (165.62, 165.67, 165.77 repeated), local suppo"
+    },
+    {
+      "ts": "2026-08-21T15:12:28.458000+00:00",
+      "time": "11:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $165.67** Current: **$165.68** | Strength: 5/5 \u2014 Prior 60-day swing high + today's 1H high. Exact level tested 20 times"
+    },
+    {
+      "ts": "2026-08-21T15:12:27.903000+00:00",
+      "time": "11:12 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $165.5** Current: **$165.68** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
+    },
+    {
+      "ts": "2026-08-21T15:10:20.710000+00:00",
+      "time": "11:10 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.5** Current: **$165.44** | Strength: 4/5 Round number + Fib 1.272 extension zone ($171.49) midpoint psychological "
+    },
+    {
+      "ts": "2026-08-21T15:10:19.052000+00:00",
+      "time": "11:10 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $134.02** Current: **$134.07** | Strength: 5/5 \u2014 0.236 Fibonacci retracement (recent swing high area, minor confluence,"
+    },
+    {
+      "ts": "2026-08-21T15:09:15.239000+00:00",
+      "time": "11:09 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $133.99** Current: **$134.01** | Strength: 5/5"
+    },
     {
       "ts": "2026-08-21T15:08:12.337000+00:00",
       "time": "11:08 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $165.65** Current: **$165.53** | Strength: 5/5 \u2014 1H recent close cluster (165.62, 165.67, 165.77 repeated), local suppo"
-    },
-    {
-      "ts": "2026-08-21T15:08:11.675000+00:00",
-      "time": "11:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $165.67** Current: **$165.53** | Strength: 5/5 \u2014 Prior 60-day swing high + today's 1H high. Exact level tested 20 times"
-    },
-    {
-      "ts": "2026-08-21T15:08:10.658000+00:00",
-      "time": "11:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S2 $485.68** Current: **$485.37** | Strength: 5/5 Prior daily low (4 bars back); critical structure support (HL)"
-    },
-    {
-      "ts": "2026-08-21T15:08:09.494000+00:00",
-      "time": "11:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R3 $133.99** Current: **$133.96** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-21T15:07:06.011000+00:00",
-      "time": "11:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $134.02** Current: **$134.00** | Strength: 5/5 \u2014 0.236 Fibonacci retracement (recent swing high area, minor confluence,"
-    },
-    {
-      "ts": "2026-08-21T15:03:55.562000+00:00",
-      "time": "11:03 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S2 $485.68** Current: **$485.74** | Strength: 5/5 Prior daily low (4 bars back); critical structure support (HL)"
-    },
-    {
-      "ts": "2026-08-21T14:59:41.537000+00:00",
-      "time": "10:59 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $556.32** Current: **$556.98** | Strength: 5/5 Daily swing low (2 days ago) + 1H recent low / fresh test zone + psychol"
-    },
-    {
-      "ts": "2026-08-21T14:59:40.550000+00:00",
-      "time": "10:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE STOP $556.53** Current: **$556.98** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-21T14:59:39.532000+00:00",
-      "time": "10:59 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW R2 $1268.0** Current: **$1267.77** | Strength: 4/5 Psychological level; 2.0% above current price; prior resistance zone fr"
-    },
-    {
-      "ts": "2026-08-21T14:58:36.195000+00:00",
-      "time": "10:58 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $556.32** Current: **$556.10** | Strength: 5/5 Daily swing low (2 days ago) + 1H recent low / fresh test zone + psychol"
     }
   ]
 }
