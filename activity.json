@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T15:22:59.612521+00:00",
+  "generated_at": "2026-08-21T15:37:48.753358+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T15:35:56.104000+00:00",
+      "time": "11:35 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE STOP $766.5** Current: **$766.54** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-21T15:33:50.595000+00:00",
+      "time": "11:33 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S3 $216.05** Current: **$216.07** | Strength: 5/5 \u2014 Fibonacci 0.382 (38.2% retracement) **+ 20-day VWAP $209.91 proximity"
+    },
     {
       "ts": "2026-08-21T15:14:37.595000+00:00",
       "time": "11:14 AM ET",
@@ -48,18 +60,6 @@
       "time": "11:10 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $134.02** Current: **$134.07** | Strength: 5/5 \u2014 0.236 Fibonacci retracement (recent swing high area, minor confluence,"
-    },
-    {
-      "ts": "2026-08-21T15:09:15.239000+00:00",
-      "time": "11:09 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R3 $133.99** Current: **$134.01** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-21T15:08:12.337000+00:00",
-      "time": "11:08 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $165.65** Current: **$165.53** | Strength: 5/5 \u2014 1H recent close cluster (165.62, 165.67, 165.77 repeated), local suppo"
     }
   ]
 }
