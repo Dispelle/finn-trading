@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T19:08:45.939564+00:00",
+  "generated_at": "2026-08-21T19:23:06.379179+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T19:19:16.680000+00:00",
+      "time": "03:19 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $215.0** Current: **$215.08** | Strength: 5/5 \u2014 Fib 0.382 ($216.05) rounded, tested 4x in last 10 days, **structural f"
+    },
+    {
+      "ts": "2026-08-21T19:18:11.055000+00:00",
+      "time": "03:18 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AAPL \u2014 BROKE ABOVE TP1 $309.15** Current: **$309.26** | Strength: 3/5 Take profit target from trade plan"
+    },
+    {
+      "ts": "2026-08-21T19:18:10.367000+00:00",
+      "time": "03:18 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $309.16** Current: **$309.26** | Strength: 5/5 \u2014 0.500 Fibonacci retracement + MA50 ($309.08) confluence; first retest"
+    },
+    {
+      "ts": "2026-08-21T19:13:57.873000+00:00",
+      "time": "03:13 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $215.0** Current: **$214.94** | Strength: 5/5 \u2014 Fib 0.382 ($216.05) rounded, tested 4x in last 10 days, **structural f"
+    },
     {
       "ts": "2026-08-21T19:05:31.730000+00:00",
       "time": "03:05 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:44 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $135.17** Current: **$135.18** | Strength: 4/5 Intraday high (today's high, 1H resistance) + minor swing high"
-    },
-    {
-      "ts": "2026-08-21T18:41:08.635000+00:00",
-      "time": "02:41 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $481.67** Current: **$481.86** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
-    },
-    {
-      "ts": "2026-08-21T18:17:50.633000+00:00",
-      "time": "02:17 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S3 $352.1** Current: **$352.23** | Strength: 4/5 \u2014 Last higher low / structural invalidation level"
-    },
-    {
-      "ts": "2026-08-21T18:15:43.301000+00:00",
-      "time": "02:15 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S2 $352.04** Current: **$352.05** | Strength: 5/5 Recent daily swing low (5 days ago, before $366.50 push); psychological "
-    },
-    {
-      "ts": "2026-08-21T18:15:42.165000+00:00",
-      "time": "02:15 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AAPL \u2014 BROKE BELOW TP1 $309.15** Current: **$309.08** | Strength: 3/5 Take profit target from trade plan"
     }
   ]
 }
