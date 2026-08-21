@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T14:37:42.798998+00:00",
+  "generated_at": "2026-08-21T14:52:43.774357+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T14:47:56.570000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S3 $352.1** Current: **$351.92** | Strength: 4/5 \u2014 Last higher low / structural invalidation level"
+    },
+    {
+      "ts": "2026-08-21T14:47:55.993000+00:00",
+      "time": "10:47 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S2 $352.04** Current: **$351.92** | Strength: 5/5 Recent daily swing low (5 days ago, before $366.50 push); psychological "
+    },
+    {
+      "ts": "2026-08-21T14:38:26.828000+00:00",
+      "time": "10:38 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW STOP $62.5** Current: **$62.41** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-21T14:37:21.461000+00:00",
       "time": "10:37 AM ET",
@@ -42,24 +60,6 @@
       "time": "10:25 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $215.0** Current: **$214.84** | Strength: 5/5 \u2014 Fib 0.382 ($216.05) rounded, tested 4x in last 10 days, **structural f"
-    },
-    {
-      "ts": "2026-08-21T14:22:32.075000+00:00",
-      "time": "10:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $961.03** Current: **$963.28** | Strength: 5/5 \u2014 MA50 (50-period moving average); dynamic support, slope still up"
-    },
-    {
-      "ts": "2026-08-21T14:22:30.876000+00:00",
-      "time": "10:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $960.68** Current: **$963.28** | Strength: 5/5 **MA50 (daily); daily close hold above = structure intact; must defend**"
-    },
-    {
-      "ts": "2026-08-21T14:22:29.944000+00:00",
-      "time": "10:22 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $962.88** Current: **$963.28** | Strength: 5/5 \u2014 reason: today's intraday high (fresh rejection point); 1H multiple reje"
     }
   ]
 }
