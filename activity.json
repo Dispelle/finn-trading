@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T18:38:47.435891+00:00",
+  "generated_at": "2026-08-21T18:53:03.338445+00:00",
   "items": [
+    {
+      "ts": "2026-08-21T18:51:44.954000+00:00",
+      "time": "02:51 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S2 $352.04** Current: **$351.80** | Strength: 5/5 Recent daily swing low (5 days ago, before $366.50 push); psychological "
+    },
+    {
+      "ts": "2026-08-21T18:47:30.089000+00:00",
+      "time": "02:47 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $135.17** Current: **$135.12** | Strength: 4/5 Intraday high (today's high, 1H resistance) + minor swing high"
+    },
+    {
+      "ts": "2026-08-21T18:44:17.969000+00:00",
+      "time": "02:44 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE R1 $135.17** Current: **$135.18** | Strength: 4/5 Intraday high (today's high, 1H resistance) + minor swing high"
+    },
+    {
+      "ts": "2026-08-21T18:41:08.635000+00:00",
+      "time": "02:41 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE S1 $481.67** Current: **$481.86** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
+    },
     {
       "ts": "2026-08-21T18:17:50.633000+00:00",
       "time": "02:17 PM ET",
@@ -36,30 +60,6 @@
       "time": "01:58 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW S1 $481.67** Current: **$481.65** | Strength: 5/5 Dec 28 swing low; most recent higher-low reference; holds bullish bias"
-    },
-    {
-      "ts": "2026-08-21T17:54:32.718000+00:00",
-      "time": "01:54 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **PLTR \u2014 BROKE BELOW R2 $179.6** Current: **$179.58** | Strength: 5/5 \u2014 Daily swing high (2 bars prior); confluence with psychological $180 zo"
-    },
-    {
-      "ts": "2026-08-21T17:53:28.793000+00:00",
-      "time": "01:53 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE R3 $15.49** Current: **$15.49** | Strength: 4/5 \u2014 60-day high; break = uptrend confirmation"
-    },
-    {
-      "ts": "2026-08-21T17:48:11.586000+00:00",
-      "time": "01:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R2 $165.0** Current: **$165.01** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
-    },
-    {
-      "ts": "2026-08-21T17:43:56.617000+00:00",
-      "time": "01:43 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R2 $165.0** Current: **$164.92** | Strength: 5/5 Round number + 200 pips above R1; psychological resistance"
     }
   ]
 }
