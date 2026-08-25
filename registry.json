@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:55:11.162371+00:00",
+  "generated_at": "2026-08-25T23:10:42.303490+00:00",
   "overall_status": "green",
   "overdue_count": 0,
   "total_jobs": 0,
@@ -108,6 +108,11 @@
     {
       "id": "JZsFYmnl",
       "name": "Level Watcher \u2014 Price Crosses",
+      "active": true
+    },
+    {
+      "id": "KFrQh7NF",
+      "name": "Crew Clock-In \u2192 Telegram (Webhook)",
       "active": true
     },
     {
@@ -248,11 +253,6 @@
     {
       "id": "mTujoye1",
       "name": "UPA - Calendar Agent",
-      "active": false
-    },
-    {
-      "id": "mbNODcxO",
-      "name": "PS Quote Sent to Airtable",
       "active": false
     }
   ],
