@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-27T19:56:07.227467+00:00",
+  "generated_at": "2026-08-27T20:10:29.417602+00:00",
   "items": [
+    {
+      "ts": "2026-08-27T19:58:24.476000+00:00",
+      "time": "03:58 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW R3 $23.88** Current: **$23.88** | Strength: 4/5 \u2014 Fibonacci 1.618 extension, longer-term structure target"
+    },
+    {
+      "ts": "2026-08-27T19:57:22.225000+00:00",
+      "time": "03:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $475.76** Current: **$476.26** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-08-27T19:57:21.601000+00:00",
+      "time": "03:57 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $476.0** Current: **$476.26** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-27T19:57:20.843000+00:00",
+      "time": "03:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $935.42** Current: **$937.58** | Strength: 5/5 **Fibonacci 0.618 (golden pocket)** \u2014 CRITICAL; price currently testing t"
+    },
+    {
+      "ts": "2026-08-27T19:57:18.657000+00:00",
+      "time": "03:57 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $156.9** Current: **$156.91** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-27T19:56:14.783000+00:00",
+      "time": "03:56 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $475.76** Current: **$475.69** | Strength: 4/5 |"
+    },
+    {
+      "ts": "2026-08-27T19:56:12.065000+00:00",
+      "time": "03:56 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S2 $156.41** Current: **$156.63** | Strength: 5/5 \u2014 20-day VWAP. Institutionally weighted price. Key anchor if daily pullb"
+    },
     {
       "ts": "2026-08-27T19:55:07.098000+00:00",
       "time": "03:55 PM ET",
@@ -18,48 +60,6 @@
       "time": "03:54 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S3 $474.98** Current: **$475.05** | Strength: 4/5 | Today's daily low; psychological $475 round number; minor swing low"
-    },
-    {
-      "ts": "2026-08-27T19:51:50.338000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW STOP $474.0** Current: **$473.95** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-27T19:51:46.557000+00:00",
-      "time": "03:51 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW S1 $130.14** Current: **$130.02** | Strength: 4/5 1H/Daily low; recent consolidation floor; psychological"
-    },
-    {
-      "ts": "2026-08-27T19:50:44.626000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S2 $474.32** Current: **$474.13** | Strength: 5/5 **TODAY'S LOW + 1H recent lows** (multiple touches $475\u2013$477); structura"
-    },
-    {
-      "ts": "2026-08-27T19:50:42.231000+00:00",
-      "time": "03:50 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S2 $156.41** Current: **$156.33** | Strength: 5/5 \u2014 20-day VWAP. Institutionally weighted price. Key anchor if daily pullb"
-    },
-    {
-      "ts": "2026-08-27T19:49:35.019000+00:00",
-      "time": "03:49 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **USO \u2014 BROKE ABOVE S1 $130.14** Current: **$130.20** | Strength: 4/5 1H/Daily low; recent consolidation floor; psychological"
-    },
-    {
-      "ts": "2026-08-27T19:48:32.842000+00:00",
-      "time": "03:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE STOP $474.0** Current: **$474.47** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-27T19:48:32.309000+00:00",
-      "time": "03:48 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S2 $474.32** Current: **$474.47** | Strength: 5/5 **TODAY'S LOW + 1H recent lows** (multiple touches $475\u2013$477); structura"
     }
   ]
 }
