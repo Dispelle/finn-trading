@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-08-27T20:10:41.214323+00:00",
+  "generated_at": "2026-08-27T20:25:49.946272+00:00",
   "overall_status": "red",
   "overdue_count": 30,
   "total_jobs": 33,
   "openclaw_crons": [
+    {
+      "id": "35a221f2",
+      "name": "-",
+      "schedule": "Mission Control \u2014 Pus... every 15",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.25,
+      "api_keys": [
+        "?"
+      ]
+    },
     {
       "id": "e5cc98c4",
       "name": "-",
@@ -83,19 +96,6 @@
       ]
     },
     {
-      "id": "35a221f2",
-      "name": "-",
-      "schedule": "Mission Control \u2014 Pus... every 15",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.25,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "f7c1c317",
       "name": "-",
       "schedule": "Discord \u2014 Market Clos... cron 30",
@@ -113,7 +113,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:05:41.212595+00:00",
+      "last_run": "2026-08-27T20:20:49.944915+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -126,7 +126,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:05:41.212746+00:00",
+      "last_run": "2026-08-27T20:20:49.945140+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -139,7 +139,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:05:41.212853+00:00",
+      "last_run": "2026-08-27T20:20:49.945280+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
