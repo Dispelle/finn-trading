@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-08-27T20:41:04.162936+00:00",
+  "generated_at": "2026-08-27T20:55:40.326213+00:00",
   "overall_status": "red",
   "overdue_count": 30,
   "total_jobs": 33,
   "openclaw_crons": [
+    {
+      "id": "35a221f2",
+      "name": "-",
+      "schedule": "Mission Control \u2014 Pus... every 15",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.25,
+      "api_keys": [
+        "?"
+      ]
+    },
     {
       "id": "e5cc98c4",
       "name": "-",
@@ -26,19 +39,6 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "80261400",
-      "name": "-",
-      "schedule": "Pipeline Dry-Run Logg... cron */1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
       "api_keys": [
         "?"
       ]
@@ -70,37 +70,11 @@
       ]
     },
     {
-      "id": "d01a2cdd",
-      "name": "-",
-      "schedule": "Shadow Alert Filter \u2014... cron */1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "35a221f2",
-      "name": "-",
-      "schedule": "Mission Control \u2014 Pus... every 15",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.25,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "13526878",
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:36:04.159647+00:00",
+      "last_run": "2026-08-27T20:50:40.324807+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -113,7 +87,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:36:04.159839+00:00",
+      "last_run": "2026-08-27T20:50:40.324955+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -126,7 +100,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T20:36:04.159981+00:00",
+      "last_run": "2026-08-27T20:50:40.325044+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -213,9 +187,35 @@
       ]
     },
     {
+      "id": "80261400",
+      "name": "-",
+      "schedule": "Pipeline Dry-Run Logg... cron */1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "8737eeef",
       "name": "-",
       "schedule": "Discord \u2014 My Position... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d01a2cdd",
+      "name": "-",
+      "schedule": "Shadow Alert Filter \u2014... cron */1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
