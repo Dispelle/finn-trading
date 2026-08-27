@@ -1,48 +1,9 @@
 {
-  "generated_at": "2026-08-27T19:56:18.469212+00:00",
+  "generated_at": "2026-08-27T20:10:41.214323+00:00",
   "overall_status": "red",
   "overdue_count": 30,
   "total_jobs": 33,
   "openclaw_crons": [
-    {
-      "id": "35a221f2",
-      "name": "-",
-      "schedule": "Mission Control \u2014 Pus... every 15",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.25,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "3b653229",
-      "name": "-",
-      "schedule": "BILL Spend & Expense ... cron 56",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "9402bab7",
-      "name": "-",
-      "schedule": "Watcher Watchdog (lev... every 5m",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
     {
       "id": "e5cc98c4",
       "name": "-",
@@ -57,53 +18,14 @@
       ]
     },
     {
-      "id": "184dd5d1",
+      "id": "9402bab7",
       "name": "-",
-      "schedule": "Crew Clock-Out Reminder  cron 0 2",
+      "schedule": "Watcher Watchdog (lev... every 5m",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "4c920861",
-      "name": "-",
-      "schedule": "Discord \u2014 Watchlist (... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "4f9bbdda",
-      "name": "-",
-      "schedule": "Discord \u2014 My Position... cron 0 2",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "6448de3d",
-      "name": "-",
-      "schedule": "Discord \u2014 Goals Updat... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
+      "expected_hours": 0.083,
       "api_keys": [
         "?"
       ]
@@ -161,14 +83,14 @@
       ]
     },
     {
-      "id": "2a3b9b11",
+      "id": "35a221f2",
       "name": "-",
-      "schedule": "System Health Check \u2014... cron 0 *",
+      "schedule": "Mission Control \u2014 Pus... every 15",
       "script": "unknown",
-      "last_run": "2026-08-27T19:51:18.467990+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.25,
       "api_keys": [
         "?"
       ]
@@ -191,7 +113,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T19:51:18.468192+00:00",
+      "last_run": "2026-08-27T20:05:41.212595+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -204,7 +126,20 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-27T19:51:18.468267+00:00",
+      "last_run": "2026-08-27T20:05:41.212746+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "2a3b9b11",
+      "name": "-",
+      "schedule": "System Health Check \u2014... cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-27T20:05:41.212853+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -255,6 +190,32 @@
       "id": "b8c7928b",
       "name": "-",
       "schedule": "Crew Clock-In Reminder   cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "4c920861",
+      "name": "-",
+      "schedule": "Discord \u2014 Watchlist (... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "6448de3d",
+      "name": "-",
+      "schedule": "Discord \u2014 Goals Updat... cron 0 1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -333,6 +294,45 @@
       "id": "e7488751",
       "name": "-",
       "schedule": "Remind Bill \u2014 Dave Cu... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "3b653229",
+      "name": "-",
+      "schedule": "BILL Spend & Expense ... cron 56",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "184dd5d1",
+      "name": "-",
+      "schedule": "Crew Clock-Out Reminder  cron 0 2",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "4f9bbdda",
+      "name": "-",
+      "schedule": "Discord \u2014 My Position... cron 0 2",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
