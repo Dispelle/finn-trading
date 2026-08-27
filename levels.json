@@ -8186,6 +8186,86 @@
         "source_brief": "2026-08-27",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 230.47,
+        "type": "R1",
+        "strength": 5,
+        "reason": "60-day swing high, 1H high today, prior resistance cluster",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 236.54,
+        "type": "R2",
+        "strength": 5,
+        "reason": "52-week high, psychological round number, extension magnet",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 241.53,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (189.80 \u2192 230.47), next logical supply zone",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 220.9,
+        "type": "S1",
+        "strength": 5,
+        "reason": "Today's daily low, immediate pullback floor, short-term structure",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 217.03,
+        "type": "S2",
+        "strength": 5,
+        "reason": "20-day VWAP, MA20 price line ($217.18), confluence support zone",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 214.72,
+        "type": "S3",
+        "strength": 4,
+        "reason": "10-day low, 20-day MA footprint, prior swing low confluence",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 236.54,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 241.53,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
