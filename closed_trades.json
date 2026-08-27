@@ -1,35 +1,4 @@
 {
-  "generated_at": "2026-08-27T20:25:37.582445+00:00",
-  "closed": [
-    {
-      "ticker": "NVDA",
-      "date": "2026-05-18",
-      "entry": 219.16,
-      "exit": 225.758,
-      "pnl": 1.56,
-      "r": 1.56,
-      "outcome": "TP1 Hit",
-      "bias": "LONG"
-    },
-    {
-      "ticker": "RTX",
-      "date": "2026-05-14",
-      "entry": 179.06,
-      "exit": 176.62,
-      "pnl": -1,
-      "r": -1,
-      "outcome": "Stopped Out",
-      "bias": "LONG"
-    },
-    {
-      "ticker": "MSTR",
-      "date": "2026-05-13",
-      "entry": 195.25,
-      "exit": 182.03,
-      "pnl": -0.65,
-      "r": -0.65,
-      "outcome": "Manually Closed",
-      "bias": "LONG"
-    }
-  ]
+  "generated_at": "2026-08-27T20:40:26.501609+00:00",
+  "closed": []
 }
