@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-28T16:25:27.506291+00:00",
+  "generated_at": "2026-08-28T16:40:28.214607+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T16:31:42.462000+00:00",
+      "time": "12:31 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S2 $94.59** Current: **$94.64** | Strength: 5/5 |"
+    },
     {
       "ts": "2026-08-28T16:18:41.803000+00:00",
       "time": "12:18 PM ET",
@@ -54,12 +60,6 @@
       "time": "12:02 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $220.9** Current: **$220.92** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T16:01:13.889000+00:00",
-      "time": "12:01 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $220.9** Current: **$220.88** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
