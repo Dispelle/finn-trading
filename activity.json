@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-28T14:55:41.463758+00:00",
+  "generated_at": "2026-08-28T15:10:36.525643+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T15:02:40.729000+00:00",
+      "time": "11:02 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $357.74** Current: **$357.54** | Strength: 5/5 \u2014 20-day VWAP + psychological round number"
+    },
+    {
+      "ts": "2026-08-28T14:57:12.654000+00:00",
+      "time": "10:57 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $320.28** Current: **$320.32** | Strength: 5/5 \u2014 Prior swing high (60d), failed breakout, psychological round; tested "
+    },
     {
       "ts": "2026-08-28T14:51:50.049000+00:00",
       "time": "10:51 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:19 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $23.7** Current: **$23.71** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T14:17:11.852000+00:00",
-      "time": "10:17 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $95.31** Current: **$95.36** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-28T14:15:00.342000+00:00",
-      "time": "10:15 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$562.64** | Strength: 5/5 Fibonacci 0.650 retracement + prior swing low (559.56) nearby"
     }
   ]
 }
