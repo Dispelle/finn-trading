@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:55:50.757510+00:00",
+  "generated_at": "2026-08-28T12:10:39.780419+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -31,32 +31,6 @@
       ]
     },
     {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "965ece7f",
-      "name": "-",
-      "schedule": "Peptide \u2014 Morning Wor... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -70,66 +44,14 @@
       ]
     },
     {
-      "id": "b8c7928b",
+      "id": "0f6aa896",
       "name": "-",
-      "schedule": "Crew Clock-In Reminder   cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "13526878",
-      "name": "-",
-      "schedule": "Soloway YouTube Monitor  cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-28T11:50:50.756188+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "41e4c55d",
-      "name": "-",
-      "schedule": "Agent Sync poller        cron */3",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "2a3b9b11",
-      "name": "-",
-      "schedule": "System Health Check \u2014... cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-28T11:50:50.756354+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "5c65709e",
-      "name": "-",
-      "schedule": "knowledge-monitor        cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-28T11:50:50.756428+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
       "api_keys": [
         "?"
       ]
@@ -226,6 +148,19 @@
       ]
     },
     {
+      "id": "41e4c55d",
+      "name": "-",
+      "schedule": "Agent Sync poller        cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "987dd610",
       "name": "-",
       "schedule": "Daily Gareth recap sc... cron 15",
@@ -259,6 +194,45 @@
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "2a3b9b11",
+      "name": "-",
+      "schedule": "System Health Check \u2014... cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-28T12:05:39.779529+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "13526878",
+      "name": "-",
+      "schedule": "Soloway YouTube Monitor  cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-28T12:05:39.779670+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "5c65709e",
+      "name": "-",
+      "schedule": "knowledge-monitor        cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-28T12:05:39.779752+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
       "expected_hours": 24,
       "api_keys": [
         "?"
@@ -382,6 +356,19 @@
       ]
     },
     {
+      "id": "965ece7f",
+      "name": "-",
+      "schedule": "Peptide \u2014 Morning Wor... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "e5b0a787",
       "name": "-",
       "schedule": "Peptide \u2014 Morning Res... cron 0 1",
@@ -437,6 +424,19 @@
       "id": "b57277ec",
       "name": "-",
       "schedule": "Cron Health Watchdog     cron 0 8",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "b8c7928b",
+      "name": "-",
+      "schedule": "Crew Clock-In Reminder   cron 0 1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
