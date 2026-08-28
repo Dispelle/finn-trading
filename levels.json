@@ -4660,6 +4660,106 @@
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 598.63,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Weekly MA20, exact slope reversal threshold",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 605.29,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.500 Fib retracement (golden mean); psychological round + fib confluence",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 624.35,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.382 Fib retracement; prior daily support (3 touches at $624\u2013$628)",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 647.94,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 0.236 Fib retracement; 60-day swing high cluster",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 686.08,
+        "type": "R3",
+        "strength": 3,
+        "reason": "\u2014 60-day absolute high; extension target if bull breaks above R1-R3",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 575.96,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Daily MA20, currently holding; primary support for mean reversion",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 559.07,
+        "type": "S2",
+        "strength": 5,
+        "reason": "\u2014 0.786 Fib retracement (support zone entering); 60-day swing low cluster",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 549.9,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Recent weekly swing low (8 weeks ago); psychological $550 round",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 540.18,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 60-day secondary swing low; support cluster",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 524.49,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 60-day absolute low; Fib base (0.0)",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
