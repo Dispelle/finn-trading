@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-08-28T02:11:06.149322+00:00",
+  "generated_at": "2026-08-28T02:11:19.719155+00:00",
   "overall_status": "red",
   "overdue_count": 31,
   "total_jobs": 34,
   "openclaw_crons": [
-    {
-      "id": "35a221f2",
-      "name": "-",
-      "schedule": "Mission Control \u2014 Pus... every 15",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.25,
-      "api_keys": [
-        "?"
-      ]
-    },
     {
       "id": "9402bab7",
       "name": "-",
@@ -57,6 +44,19 @@
       ]
     },
     {
+      "id": "35a221f2",
+      "name": "-",
+      "schedule": "Mission Control \u2014 Pus... every 15",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.25,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "0f6aa896",
       "name": "-",
       "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
@@ -87,7 +87,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:06:06.147847+00:00",
+      "last_run": "2026-08-28T02:06:19.717909+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -100,7 +100,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:06:06.147968+00:00",
+      "last_run": "2026-08-28T02:06:19.718014+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -113,7 +113,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:06:06.148043+00:00",
+      "last_run": "2026-08-28T02:06:19.718125+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
