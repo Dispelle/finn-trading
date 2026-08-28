@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:41:36.931788+00:00",
+  "generated_at": "2026-08-28T14:43:37.576364+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -13,19 +13,6 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.25,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "e5cc98c4",
-      "name": "-",
-      "schedule": "NVDA Retest Watcher      cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
@@ -83,6 +70,19 @@
       ]
     },
     {
+      "id": "e5cc98c4",
+      "name": "-",
+      "schedule": "NVDA Retest Watcher      cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "9402bab7",
       "name": "-",
       "schedule": "Watcher Watchdog (lev... every 5m",
@@ -113,7 +113,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T14:36:36.930034+00:00",
+      "last_run": "2026-08-28T14:38:37.574961+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -126,7 +126,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T14:36:36.930220+00:00",
+      "last_run": "2026-08-28T14:38:37.575114+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -152,7 +152,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T14:36:36.930403+00:00",
+      "last_run": "2026-08-28T14:38:37.575248+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
