@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-08-28T14:11:59.833533+00:00",
+  "generated_at": "2026-08-28T14:26:25.860894+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T14:19:18.884000+00:00",
+      "time": "10:19 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $23.7** Current: **$23.71** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T14:17:11.852000+00:00",
+      "time": "10:17 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $95.31** Current: **$95.36** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-28T14:15:00.342000+00:00",
+      "time": "10:15 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$562.64** | Strength: 5/5 Fibonacci 0.650 retracement + prior swing low (559.56) nearby"
+    },
+    {
+      "ts": "2026-08-28T14:13:56.049000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $95.31** Current: **$95.04** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-28T14:13:55.235000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $62.26** Current: **$61.99** | Strength: 4/5 \u2014 Recent daily low (1 bar ago); confluence with MA50 nearby ($55.70 is too"
+    },
+    {
+      "ts": "2026-08-28T14:13:53.883000+00:00",
+      "time": "10:13 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $562.5** Current: **$562.33** | Strength: 5/5 Fibonacci 0.650 retracement + prior swing low (559.56) nearby"
+    },
+    {
+      "ts": "2026-08-28T14:13:51.802000+00:00",
+      "time": "10:13 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE S1 $155.77** Current: **$155.78** | Strength: 5/5 0.382 Fib retracement; 1-bar away; hourly floor"
+    },
     {
       "ts": "2026-08-28T14:11:39.791000+00:00",
       "time": "10:11 AM ET",
@@ -18,48 +60,6 @@
       "time": "10:08 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $62.26** Current: **$62.40** | Strength: 4/5 \u2014 Recent daily low (1 bar ago); confluence with MA50 nearby ($55.70 is too"
-    },
-    {
-      "ts": "2026-08-28T14:07:18.269000+00:00",
-      "time": "10:07 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $155.77** Current: **$155.72** | Strength: 5/5 0.382 Fib retracement; 1-bar away; hourly floor"
-    },
-    {
-      "ts": "2026-08-28T14:05:09.848000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $96.09** Current: **$96.01** | Strength: 5/5 60d high line (prior daily high), recently tested 4 times"
-    },
-    {
-      "ts": "2026-08-28T14:05:07.506000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $15.68** Current: **$15.63** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-28T14:05:05.950000+00:00",
-      "time": "10:05 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1173.08** Current: **$1174.59** | Strength: 5/5 0.500 Fib retracement (50% mean reversion) \u2014 psychological balance poi"
-    },
-    {
-      "ts": "2026-08-28T14:04:02.525000+00:00",
-      "time": "10:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $133.88** Current: **$133.71** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T14:04:01.290000+00:00",
-      "time": "10:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $63.45** Current: **$63.33** | Strength: 5/5 \u2014 **Fibonacci 0.236 retracement (49.61\u219267.72) + just above prior HH $63.21"
-    },
-    {
-      "ts": "2026-08-28T14:04:00.109000+00:00",
-      "time": "10:04 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $420.31** Current: **$420.19** | Strength: 5/5 Yesterday's intraday low; invalidation level for bullish structure; mino"
     }
   ]
 }
