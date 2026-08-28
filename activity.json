@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-28T13:56:24.794852+00:00",
+  "generated_at": "2026-08-28T14:11:25.496598+00:00",
   "items": [
     {
-      "ts": "2026-08-28T13:56:22.066000+00:00",
-      "time": "09:56 AM ET",
+      "ts": "2026-08-28T14:09:30.714000+00:00",
+      "time": "10:09 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $225.16** Current: **$225.22** | Strength: 5/5 Prior weekly/daily close (2 days ago), support inflection"
+      "message": "@here \ud83d\udfe2 **XRP \u2014 BROKE ABOVE S1 $15.68** Current: **$15.69** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-08-28T13:55:17.409000+00:00",
-      "time": "09:55 AM ET",
+      "ts": "2026-08-28T14:08:26.620000+00:00",
+      "time": "10:08 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SLV \u2014 BROKE ABOVE S1 $62.26** Current: **$62.40** | Strength: 4/5 \u2014 Recent daily low (1 bar ago); confluence with MA50 nearby ($55.70 is too"
+    },
+    {
+      "ts": "2026-08-28T14:07:18.269000+00:00",
+      "time": "10:07 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $225.16** Current: **$224.88** | Strength: 5/5 Prior weekly/daily close (2 days ago), support inflection"
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW S1 $155.77** Current: **$155.72** | Strength: 5/5 0.382 Fib retracement; 1-bar away; hourly floor"
     },
     {
-      "ts": "2026-08-28T13:55:16.102000+00:00",
-      "time": "09:55 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $354.6** Current: **$355.23** | Strength: 5/5 \u2014 Confluence of 1H lows + intraday demand zone"
-    },
-    {
-      "ts": "2026-08-28T13:54:10.669000+00:00",
-      "time": "09:54 AM ET",
+      "ts": "2026-08-28T14:05:09.848000+00:00",
+      "time": "10:05 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $354.6** Current: **$354.32** | Strength: 5/5 \u2014 Confluence of 1H lows + intraday demand zone"
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $96.09** Current: **$96.01** | Strength: 5/5 60d high line (prior daily high), recently tested 4 times"
     },
     {
-      "ts": "2026-08-28T13:40:04.504000+00:00",
-      "time": "09:40 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S1 $567.88** Current: **$567.99** | Strength: 5/5 \u2014 **GOLDEN POCKET (0.618 Fib)** \u2190 price is HERE ($573 is 5 points above)"
-    },
-    {
-      "ts": "2026-08-28T13:38:58.913000+00:00",
-      "time": "09:38 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $473.25** Current: **$474.14** | Strength: 4/5 Recent swing low (2 weeks ago); daily close price; MA200 breakout zone ("
-    },
-    {
-      "ts": "2026-08-28T13:36:47.067000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-08-28T14:05:07.506000+00:00",
+      "time": "10:05 AM ET",
       "type": "alert",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE STOP $915.18** Current: **$920.80** | Strength: 5/5 Trade plan stop / invalidation level"
+      "message": "@here \ud83d\udd34 **XRP \u2014 BROKE BELOW S1 $15.68** Current: **$15.63** | Strength: 5/5 |"
     },
     {
-      "ts": "2026-08-28T13:36:45.847000+00:00",
-      "time": "09:36 AM ET",
+      "ts": "2026-08-28T14:05:05.950000+00:00",
+      "time": "10:05 AM ET",
       "type": "analysis",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE R2 $227.49** Current: **$227.58** | Strength: 5/5"
+      "message": "@here \ud83d\udfe2 **LLY \u2014 BROKE ABOVE S1 $1173.08** Current: **$1174.59** | Strength: 5/5 0.500 Fib retracement (50% mean reversion) \u2014 psychological balance poi"
     },
     {
-      "ts": "2026-08-28T13:34:36.151000+00:00",
-      "time": "09:34 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S2 $909.94** Current: **$912.86** | Strength: 5/5 \u2014 **"
+      "ts": "2026-08-28T14:04:02.525000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSTR \u2014 BROKE BELOW STOP $133.88** Current: **$133.71** | Strength: 5/5 Trade plan stop / invalidation level"
     },
     {
-      "ts": "2026-08-28T13:34:35.303000+00:00",
-      "time": "09:34 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $909.68** Current: **$912.86** | Strength: 5/5 1H low 2 candles ago; MA20 $914.55 nearby; Fib 0.650 $918.87 cluster"
+      "ts": "2026-08-28T14:04:01.290000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW R1 $63.45** Current: **$63.33** | Strength: 5/5 \u2014 **Fibonacci 0.236 retracement (49.61\u219267.72) + just above prior HH $63.21"
+    },
+    {
+      "ts": "2026-08-28T14:04:00.109000+00:00",
+      "time": "10:04 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S1 $420.31** Current: **$420.19** | Strength: 5/5 Yesterday's intraday low; invalidation level for bullish structure; mino"
+    },
+    {
+      "ts": "2026-08-28T14:01:50.954000+00:00",
+      "time": "10:01 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW R1 $97.15** Current: **$96.68** | Strength: 5/5 |"
     }
   ]
 }
