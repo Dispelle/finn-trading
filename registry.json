@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:40:49.405308+00:00",
+  "generated_at": "2026-08-28T11:55:39.357328+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -21,19 +21,6 @@
       "id": "9402bab7",
       "name": "-",
       "schedule": "Watcher Watchdog (lev... every 5m",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "a9a97800",
-      "name": "-",
-      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -70,6 +57,19 @@
       ]
     },
     {
+      "id": "a9a97800",
+      "name": "-",
+      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.083,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "b8c7928b",
       "name": "-",
       "schedule": "Crew Clock-In Reminder   cron 0 1",
@@ -87,7 +87,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T11:35:49.404082+00:00",
+      "last_run": "2026-08-28T11:50:39.354473+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -113,7 +113,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T11:35:49.404213+00:00",
+      "last_run": "2026-08-28T11:50:39.354720+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -126,7 +126,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T11:35:49.404274+00:00",
+      "last_run": "2026-08-28T11:50:39.354849+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
