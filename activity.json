@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-28T14:43:38.497243+00:00",
+  "generated_at": "2026-08-28T14:55:28.863912+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T14:51:50.049000+00:00",
+      "time": "10:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $513.73** Current: **$513.37** | Strength: 5/5 \u2014 60-day swing high + recent rejection point + Fib 1.272 extension zone"
+    },
+    {
+      "ts": "2026-08-28T14:50:44.562000+00:00",
+      "time": "10:50 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $513.73** Current: **$513.78** | Strength: 5/5 \u2014 60-day swing high + recent rejection point + Fib 1.272 extension zone"
+    },
     {
       "ts": "2026-08-28T14:37:49.352000+00:00",
       "time": "10:37 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:15 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **SMH \u2014 BROKE ABOVE S2 $562.5** Current: **$562.64** | Strength: 5/5 Fibonacci 0.650 retracement + prior swing low (559.56) nearby"
-    },
-    {
-      "ts": "2026-08-28T14:13:56.049000+00:00",
-      "time": "10:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S1 $95.31** Current: **$95.04** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-28T14:13:55.235000+00:00",
-      "time": "10:13 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $62.26** Current: **$61.99** | Strength: 4/5 \u2014 Recent daily low (1 bar ago); confluence with MA50 nearby ($55.70 is too"
     }
   ]
 }
