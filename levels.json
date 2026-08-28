@@ -9098,7 +9098,7 @@
     ]
   },
   "MU": {
-    "last_updated": "2026-08-27",
+    "last_updated": "2026-08-28",
     "current_price_at_brief": 0,
     "last_seen_price": 0,
     "ticker_source": "watchlist",
@@ -9108,7 +9108,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Daily swing high (2 days ago); 1H swing high repeated 3x (950s\u2013960s zone); psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9138,7 +9138,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Round number, recent intraday support (1H lows near $915\u2013$926)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9168,7 +9168,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "\u2014 reason: today's intraday high (fresh rejection point); 1H multiple rejections; psychological round level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9188,7 +9188,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "**Prior 60d ATH**; structural resistance",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9218,7 +9218,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9228,7 +9228,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "Recent weekly close (1 week ago); prior swing low",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9238,7 +9238,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9288,7 +9288,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "Prior daily HL; 1H swing low cluster (926.64\u2013927.81); **recent structure pivot**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9318,7 +9318,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 Daily MA20 level + 10-day average close",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9378,7 +9378,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "20-day VWAP; psychological round number",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9568,7 +9568,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "Fibonacci 0.650; near daily lower low $915.18 (4 days ago)",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9608,7 +9608,7 @@
         "type": "S2",
         "strength": 5,
         "reason": "\u2014 reason: **today's daily low + HL confirmation point**; breach here = structure invalidation",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9648,7 +9648,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Today's low, 1H minor swing low",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9668,7 +9668,7 @@
         "type": "R1",
         "strength": 5,
         "reason": "Today's daily high + 1H high from last bar; immediate supply zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9678,7 +9678,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "Fibonacci 0.500 (golden pocket mid-point); prior daily close level ($949.83 nearby); volume node",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9688,7 +9688,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Daily high 3 days ago (local peak before reversal); MA50 + 50-point extension",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9698,7 +9698,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "\u2014 reason: **Recent 9-day swing high / breakout threshold**",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9728,7 +9728,7 @@
         "type": "R3",
         "strength": 5,
         "reason": "Fibonacci 0.382 (strong fib resistance); prior swing high $1,035.5\u2013$1,036.13",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9738,7 +9738,7 @@
         "type": "S3",
         "strength": 5,
         "reason": "Daily swing low (highest of recent lows); MA20 weekly avg zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9748,7 +9748,7 @@
         "type": "STOP",
         "strength": 5,
         "reason": "Trade plan stop / invalidation level",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9778,7 +9778,7 @@
         "type": "S1",
         "strength": 5,
         "reason": "**Fibonacci 0.618 (golden pocket)** \u2014 CRITICAL; price currently testing this zone",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9788,7 +9788,7 @@
         "type": "S3",
         "strength": 4,
         "reason": "5-bar daily low; MA20 daily proximity",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9818,7 +9818,7 @@
         "type": "R2",
         "strength": 5,
         "reason": "\u2014 reason: yesterday's daily high + strong 1H resistance band (multiple touches 978\u2013984); previous support/resistance zon",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9908,7 +9908,7 @@
         "type": "S3",
         "strength": 3,
         "reason": "\u2014 reason: 60-day swing low; major support floor",
-        "status": "active",
+        "status": "expired",
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
@@ -9960,6 +9960,16 @@
         "reason": "Trade plan stop / invalidation level",
         "status": "active",
         "source_brief": "2026-08-27",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 844.62,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-28",
         "hit_count": 0,
         "last_hit": null
       }
