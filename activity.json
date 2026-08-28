@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-28T19:40:26.414788+00:00",
+  "generated_at": "2026-08-28T19:55:26.749880+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T19:54:36.468000+00:00",
+      "time": "03:54 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$469.08** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-08-28T19:53:30.672000+00:00",
+      "time": "03:53 PM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $468.54** Current: **$468.33** | Strength: 3/5 |"
+    },
     {
       "ts": "2026-08-28T19:02:34.644000+00:00",
       "time": "03:02 PM ET",
@@ -48,18 +60,6 @@
       "time": "01:51 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $473.25** Current: **$473.05** | Strength: 4/5 Recent swing low (2 weeks ago); daily close price; MA200 breakout zone ("
-    },
-    {
-      "ts": "2026-08-28T17:50:02.291000+00:00",
-      "time": "01:50 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $473.25** Current: **$473.39** | Strength: 4/5 Recent swing low (2 weeks ago); daily close price; MA200 breakout zone ("
-    },
-    {
-      "ts": "2026-08-28T17:48:56.119000+00:00",
-      "time": "01:48 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $219.5** Current: **$219.58** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
