@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-28T16:11:06.503026+00:00",
+  "generated_at": "2026-08-28T16:25:27.506291+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T16:18:41.803000+00:00",
+      "time": "12:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **COPX \u2014 BROKE BELOW S2 $94.59** Current: **$94.53** | Strength: 5/5 |"
+    },
+    {
+      "ts": "2026-08-28T16:18:40.605000+00:00",
+      "time": "12:18 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SLV \u2014 BROKE BELOW S1 $60.8** Current: **$60.68** | Strength: 5/5 \u2014 **Fibonacci 0.382 retracement (49.61\u219267.72) + near last HL $60.26 + MA20 "
+    },
     {
       "ts": "2026-08-28T16:08:53.535000+00:00",
       "time": "12:08 PM ET",
@@ -48,18 +60,6 @@
       "time": "12:01 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $220.9** Current: **$220.88** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T15:57:57.638000+00:00",
-      "time": "11:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $415.26** Current: **$415.02** | Strength: 4/5 Prior daily close (4 days ago); psychological round $415"
-    },
-    {
-      "ts": "2026-08-28T15:53:36.826000+00:00",
-      "time": "11:53 AM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$468.79** | Strength: 3/5 |"
     }
   ]
 }
