@@ -13604,6 +13604,106 @@
         "source_brief": "2026-08-28",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 99.99,
+        "type": "R1",
+        "strength": 5,
+        "reason": "52-week psychological high, round number, zone resistance",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 104.61,
+        "type": "R2",
+        "strength": 4,
+        "reason": "Fibonacci 1.272 extension (71.05\u219297.43), prior breakout zone",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 113.73,
+        "type": "R3",
+        "strength": 4,
+        "reason": "Fibonacci 1.618 extension, major supply zone",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 96.09,
+        "type": "S1",
+        "strength": 5,
+        "reason": "60d high line (prior daily high), recently tested 4 times",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 94.59,
+        "type": "S2",
+        "strength": 5,
+        "reason": "Swing low (5 days ago), MA20 proximity, invalidation line",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 89.93,
+        "type": "S3",
+        "strength": 4,
+        "reason": "20-day VWAP ($89.12) + recent daily close, psychological support",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 94.59,
+        "type": "STOP",
+        "strength": 5,
+        "reason": "Trade plan stop / invalidation level",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 101.01,
+        "type": "TP1",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 102.62,
+        "type": "TP2",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 104.21,
+        "type": "TP3",
+        "strength": 3,
+        "reason": "Take profit target from trade plan",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
