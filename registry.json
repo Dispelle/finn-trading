@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T10:55:39.294717+00:00",
+  "generated_at": "2026-08-28T11:10:38.937626+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -57,22 +44,9 @@
       ]
     },
     {
-      "id": "ed66ed81",
+      "id": "0f6aa896",
       "name": "-",
-      "schedule": "Daily Heartbeat \u2014 7AM ET cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "41e4c55d",
-      "name": "-",
-      "schedule": "Agent Sync poller        cron */3",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -113,10 +87,23 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T10:50:39.291854+00:00",
+      "last_run": "2026-08-28T11:05:38.936184+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "41e4c55d",
+      "name": "-",
+      "schedule": "Agent Sync poller        cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
@@ -126,7 +113,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T10:50:39.292041+00:00",
+      "last_run": "2026-08-28T11:05:38.936462+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -139,7 +126,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T10:50:39.292207+00:00",
+      "last_run": "2026-08-28T11:05:38.936551+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -424,6 +411,19 @@
       "id": "aa2e8b20",
       "name": "-",
       "schedule": "Macro Calendar \u2014 Weekly  cron 30",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "ed66ed81",
+      "name": "-",
+      "schedule": "Daily Heartbeat \u2014 7AM ET cron 0 1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
