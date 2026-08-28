@@ -3594,6 +3594,86 @@
         "source_brief": "2026-08-20",
         "hit_count": 0,
         "last_hit": null
+      },
+      {
+        "price": 320.28,
+        "type": "R1",
+        "strength": 5,
+        "reason": "\u2014 Prior swing high (60d), failed breakout, psychological round; tested 3x recently",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 327.86,
+        "type": "R2",
+        "strength": 5,
+        "reason": "\u2014 0.236 Fib retracement + confluent with psychological $328 zone; breakout target into next swing",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 334.99,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 Prior swing high (60d consolidation), supply cluster, gateway to $344.57 retest",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 344.57,
+        "type": "R3",
+        "strength": 4,
+        "reason": "\u2014 60d absolute high, technical resistance, 1.272 fib extension target if bullish bias holds",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 314.58,
+        "type": "S1",
+        "strength": 5,
+        "reason": "\u2014 Prior daily close (recent), intraday swing low confluence, MA20 proximity",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 307.01,
+        "type": "S2",
+        "strength": 4,
+        "reason": "\u2014 Last swing low (daily), **critical higher-low** \u2014 loss of this = structure break",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 300.57,
+        "type": "S3",
+        "strength": 4,
+        "reason": "\u2014 Recent lower-low swing (intraday key support), golden pocket start (0.618 = $300.80 nearby)",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
+      },
+      {
+        "price": 288.91,
+        "type": "S3",
+        "strength": 3,
+        "reason": "\u2014 0.786 Fib retracement, longer-term support",
+        "status": "active",
+        "source_brief": "2026-08-28",
+        "hit_count": 0,
+        "last_hit": null
       }
     ]
   },
