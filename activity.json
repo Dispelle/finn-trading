@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-28T17:40:40.102733+00:00",
+  "generated_at": "2026-08-28T17:55:26.671929+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T17:51:07.424000+00:00",
+      "time": "01:51 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $473.25** Current: **$473.05** | Strength: 4/5 Recent swing low (2 weeks ago); daily close price; MA200 breakout zone ("
+    },
+    {
+      "ts": "2026-08-28T17:50:02.291000+00:00",
+      "time": "01:50 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $473.25** Current: **$473.39** | Strength: 4/5 Recent swing low (2 weeks ago); daily close price; MA200 breakout zone ("
+    },
+    {
+      "ts": "2026-08-28T17:48:56.119000+00:00",
+      "time": "01:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $219.5** Current: **$219.58** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
     {
       "ts": "2026-08-28T17:16:01.972000+00:00",
       "time": "01:16 PM ET",
@@ -42,24 +60,6 @@
       "time": "12:08 PM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $220.87** Current: **$221.06** | Strength: 5/5 **Fib 0.236 retracement** (golden pocket start), daily mean reversion"
-    },
-    {
-      "ts": "2026-08-28T16:05:39.204000+00:00",
-      "time": "12:05 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $413.82** Current: **$413.60** | Strength: 5/5 Fib 0.236 retracement (363.32\u2192429.42); daily MA20 vicinity ($402.96); cr"
-    },
-    {
-      "ts": "2026-08-28T16:04:33.005000+00:00",
-      "time": "12:04 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $220.87** Current: **$220.81** | Strength: 5/5 **Fib 0.236 retracement** (golden pocket start), daily mean reversion"
-    },
-    {
-      "ts": "2026-08-28T16:04:30.042000+00:00",
-      "time": "12:04 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $23.44** Current: **$23.47** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
