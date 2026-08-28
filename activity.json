@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-28T15:57:35.124637+00:00",
+  "generated_at": "2026-08-28T16:10:28.313530+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T16:08:53.535000+00:00",
+      "time": "12:08 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S2 $220.87** Current: **$221.06** | Strength: 5/5 **Fib 0.236 retracement** (golden pocket start), daily mean reversion"
+    },
+    {
+      "ts": "2026-08-28T16:05:39.204000+00:00",
+      "time": "12:05 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $413.82** Current: **$413.60** | Strength: 5/5 Fib 0.236 retracement (363.32\u2192429.42); daily MA20 vicinity ($402.96); cr"
+    },
+    {
+      "ts": "2026-08-28T16:04:33.005000+00:00",
+      "time": "12:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S2 $220.87** Current: **$220.81** | Strength: 5/5 **Fib 0.236 retracement** (golden pocket start), daily mean reversion"
+    },
+    {
+      "ts": "2026-08-28T16:04:30.042000+00:00",
+      "time": "12:04 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $23.44** Current: **$23.47** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T16:03:24.753000+00:00",
+      "time": "12:03 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **META \u2014 BROKE ABOVE S1 $575.96** Current: **$575.98** | Strength: 5/5 \u2014 Daily MA20, currently holding; primary support for mean reversion"
+    },
+    {
+      "ts": "2026-08-28T16:03:23.274000+00:00",
+      "time": "12:03 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **ETH \u2014 BROKE BELOW STOP $23.44** Current: **$23.39** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T16:02:20.709000+00:00",
+      "time": "12:02 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $220.9** Current: **$220.92** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T16:01:13.889000+00:00",
+      "time": "12:01 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW STOP $220.9** Current: **$220.88** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T15:57:57.638000+00:00",
+      "time": "11:57 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **GLD \u2014 BROKE BELOW S2 $415.26** Current: **$415.02** | Strength: 4/5 Prior daily close (4 days ago); psychological round $415"
+    },
     {
       "ts": "2026-08-28T15:53:36.826000+00:00",
       "time": "11:53 AM ET",
       "type": "analysis",
       "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$468.79** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-08-28T15:53:34.346000+00:00",
-      "time": "11:53 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $348.5** Current: **$348.80** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T15:52:31.304000+00:00",
-      "time": "11:52 AM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $468.54** Current: **$468.00** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-08-28T15:52:30.133000+00:00",
-      "time": "11:52 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $222.25** Current: **$222.00** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-28T15:52:27.818000+00:00",
-      "time": "11:52 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $348.5** Current: **$348.25** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T15:51:22.970000+00:00",
-      "time": "11:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $559.56** Current: **$559.34** | Strength: 5/5 Recent swing low (most recent, 60d); MA200 well below at $526.16; psycho"
-    },
-    {
-      "ts": "2026-08-28T15:49:08.857000+00:00",
-      "time": "11:49 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $349.42** Current: **$349.24** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket); recent swing low confluent; daily su"
-    },
-    {
-      "ts": "2026-08-28T15:46:59.836000+00:00",
-      "time": "11:46 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $560.42** Current: **$560.12** | Strength: 5/5 60d swing low (most recent lower low); key structural support"
-    },
-    {
-      "ts": "2026-08-28T15:14:31.430000+00:00",
-      "time": "11:14 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $357.74** Current: **$357.82** | Strength: 5/5 \u2014 20-day VWAP + psychological round number"
-    },
-    {
-      "ts": "2026-08-28T15:02:40.729000+00:00",
-      "time": "11:02 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $357.74** Current: **$357.54** | Strength: 5/5 \u2014 20-day VWAP + psychological round number"
     }
   ]
 }
