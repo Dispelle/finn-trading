@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-28T13:41:32.738896+00:00",
+  "generated_at": "2026-08-28T13:56:24.794852+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T13:56:22.066000+00:00",
+      "time": "09:56 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE S1 $225.16** Current: **$225.22** | Strength: 5/5 Prior weekly/daily close (2 days ago), support inflection"
+    },
+    {
+      "ts": "2026-08-28T13:55:17.409000+00:00",
+      "time": "09:55 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW S1 $225.16** Current: **$224.88** | Strength: 5/5 Prior weekly/daily close (2 days ago), support inflection"
+    },
+    {
+      "ts": "2026-08-28T13:55:16.102000+00:00",
+      "time": "09:55 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE S1 $354.6** Current: **$355.23** | Strength: 5/5 \u2014 Confluence of 1H lows + intraday demand zone"
+    },
+    {
+      "ts": "2026-08-28T13:54:10.669000+00:00",
+      "time": "09:54 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW S1 $354.6** Current: **$354.32** | Strength: 5/5 \u2014 Confluence of 1H lows + intraday demand zone"
+    },
     {
       "ts": "2026-08-28T13:40:04.504000+00:00",
       "time": "09:40 AM ET",
@@ -36,30 +60,6 @@
       "time": "09:34 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S1 $909.68** Current: **$912.86** | Strength: 5/5 1H low 2 candles ago; MA20 $914.55 nearby; Fib 0.650 $918.87 cluster"
-    },
-    {
-      "ts": "2026-08-28T13:31:17.486000+00:00",
-      "time": "09:31 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE S3 $918.87** Current: **$919.66** | Strength: 4/5 **0.650 Fib** + prior daily lows cluster (844.62, 827.0 nearby)"
-    },
-    {
-      "ts": "2026-08-28T13:31:16.616000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $567.88** Current: **$566.69** | Strength: 5/5 \u2014 **GOLDEN POCKET (0.618 Fib)** \u2190 price is HERE ($573 is 5 points above)"
-    },
-    {
-      "ts": "2026-08-28T13:31:15.562000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R2 $227.49** Current: **$226.85** | Strength: 5/5"
-    },
-    {
-      "ts": "2026-08-28T13:31:14.489000+00:00",
-      "time": "09:31 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **LLY \u2014 BROKE BELOW S1 $1173.08** Current: **$1170.95** | Strength: 5/5 0.500 Fib retracement (50% mean reversion) \u2014 psychological balance poi"
     }
   ]
 }
