@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T02:25:40.182856+00:00",
+  "generated_at": "2026-08-28T02:40:40.318016+00:00",
   "overall_status": "red",
   "overdue_count": 31,
   "total_jobs": 34,
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -70,6 +57,19 @@
       ]
     },
     {
+      "id": "0f6aa896",
+      "name": "-",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "3395dff7",
       "name": "-",
       "schedule": "Peptide \u2014 Before Bed ... cron 0 3",
@@ -87,7 +87,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:20:40.180712+00:00",
+      "last_run": "2026-08-28T02:35:40.316681+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -100,7 +100,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:20:40.180887+00:00",
+      "last_run": "2026-08-28T02:35:40.316912+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -113,7 +113,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-28T02:20:40.181007+00:00",
+      "last_run": "2026-08-28T02:35:40.317000+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
