@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-28T15:40:27.551572+00:00",
+  "generated_at": "2026-08-28T15:55:27.469931+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T15:53:36.826000+00:00",
+      "time": "11:53 AM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$468.79** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-08-28T15:53:34.346000+00:00",
+      "time": "11:53 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE STOP $348.5** Current: **$348.80** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T15:52:31.304000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $468.54** Current: **$468.00** | Strength: 3/5 |"
+    },
+    {
+      "ts": "2026-08-28T15:52:30.133000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **NVDA \u2014 BROKE BELOW R1 $222.25** Current: **$222.00** | Strength: 5/5"
+    },
+    {
+      "ts": "2026-08-28T15:52:27.818000+00:00",
+      "time": "11:52 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW STOP $348.5** Current: **$348.25** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-28T15:51:22.970000+00:00",
+      "time": "11:51 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S1 $559.56** Current: **$559.34** | Strength: 5/5 Recent swing low (most recent, 60d); MA200 well below at $526.16; psycho"
+    },
+    {
+      "ts": "2026-08-28T15:49:08.857000+00:00",
+      "time": "11:49 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW S1 $349.42** Current: **$349.24** | Strength: 5/5 \u2014 Fibonacci 0.618 (golden pocket); recent swing low confluent; daily su"
+    },
+    {
+      "ts": "2026-08-28T15:46:59.836000+00:00",
+      "time": "11:46 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SMH \u2014 BROKE BELOW S2 $560.42** Current: **$560.12** | Strength: 5/5 60d swing low (most recent lower low); key structural support"
+    },
     {
       "ts": "2026-08-28T15:14:31.430000+00:00",
       "time": "11:14 AM ET",
@@ -12,54 +60,6 @@
       "time": "11:02 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **JPM \u2014 BROKE BELOW R1 $357.74** Current: **$357.54** | Strength: 5/5 \u2014 20-day VWAP + psychological round number"
-    },
-    {
-      "ts": "2026-08-28T14:57:12.654000+00:00",
-      "time": "10:57 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE R1 $320.28** Current: **$320.32** | Strength: 5/5 \u2014 Prior swing high (60d), failed breakout, psychological round; tested "
-    },
-    {
-      "ts": "2026-08-28T14:51:50.049000+00:00",
-      "time": "10:51 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MSFT \u2014 BROKE BELOW R1 $513.73** Current: **$513.37** | Strength: 5/5 \u2014 60-day swing high + recent rejection point + Fib 1.272 extension zone"
-    },
-    {
-      "ts": "2026-08-28T14:50:44.562000+00:00",
-      "time": "10:50 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MSFT \u2014 BROKE ABOVE R1 $513.73** Current: **$513.78** | Strength: 5/5 \u2014 60-day swing high + recent rejection point + Fib 1.272 extension zone"
-    },
-    {
-      "ts": "2026-08-28T14:37:49.352000+00:00",
-      "time": "10:37 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **MSTR \u2014 BROKE ABOVE STOP $133.88** Current: **$134.02** | Strength: 5/5 Trade plan stop / invalidation level"
-    },
-    {
-      "ts": "2026-08-28T14:37:48.484000+00:00",
-      "time": "10:37 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **COPX \u2014 BROKE ABOVE S1 $96.09** Current: **$96.11** | Strength: 5/5 60d high line (prior daily high), recently tested 4 times"
-    },
-    {
-      "ts": "2026-08-28T14:35:37.438000+00:00",
-      "time": "10:35 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $945.75** Current: **$945.16** | Strength: 4/5 Prior daily high (8 days ago); strong rejection zone; Fib 0.650 near $918"
-    },
-    {
-      "ts": "2026-08-28T14:34:32.730000+00:00",
-      "time": "10:34 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $945.75** Current: **$946.26** | Strength: 4/5 Prior daily high (8 days ago); strong rejection zone; Fib 0.650 near $918"
-    },
-    {
-      "ts": "2026-08-28T14:33:25.339000+00:00",
-      "time": "10:33 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $575.96** Current: **$575.23** | Strength: 5/5 \u2014 Daily MA20, currently holding; primary support for mean reversion"
     }
   ]
 }
