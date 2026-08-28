@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-28T15:10:36.525643+00:00",
+  "generated_at": "2026-08-28T15:25:27.727593+00:00",
   "items": [
+    {
+      "ts": "2026-08-28T15:14:31.430000+00:00",
+      "time": "11:14 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **JPM \u2014 BROKE ABOVE R1 $357.74** Current: **$357.82** | Strength: 5/5 \u2014 20-day VWAP + psychological round number"
+    },
     {
       "ts": "2026-08-28T15:02:40.729000+00:00",
       "time": "11:02 AM ET",
@@ -54,12 +60,6 @@
       "time": "10:33 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **META \u2014 BROKE BELOW S1 $575.96** Current: **$575.23** | Strength: 5/5 \u2014 Daily MA20, currently holding; primary support for mean reversion"
-    },
-    {
-      "ts": "2026-08-28T14:19:18.884000+00:00",
-      "time": "10:19 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **ETH \u2014 BROKE ABOVE STOP $23.7** Current: **$23.71** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
