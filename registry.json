@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T17:55:53.686215+00:00",
+  "generated_at": "2026-08-29T18:10:42.161283+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -57,61 +44,22 @@
       ]
     },
     {
-      "id": "e7488751",
+      "id": "41e4c55d",
       "name": "-",
-      "schedule": "Remind Bill \u2014 Dave Cu... cron 0 1",
+      "schedule": "Agent Sync poller        cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
-      "expected_hours": 24,
+      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
     },
     {
-      "id": "13526878",
+      "id": "0f6aa896",
       "name": "-",
-      "schedule": "Soloway YouTube Monitor  cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-29T17:50:53.683298+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "2a3b9b11",
-      "name": "-",
-      "schedule": "System Health Check \u2014... cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-29T17:50:53.683559+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "5c65709e",
-      "name": "-",
-      "schedule": "knowledge-monitor        cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-29T17:50:53.683731+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "41e4c55d",
-      "name": "-",
-      "schedule": "Agent Sync poller        cron */3",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -135,6 +83,19 @@
       ]
     },
     {
+      "id": "2a3b9b11",
+      "name": "-",
+      "schedule": "System Health Check \u2014... cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-29T18:05:42.158289+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "dfc56ae8",
       "name": "-",
       "schedule": "Peptide \u2014 Pre-Workout... cron 30",
@@ -142,6 +103,32 @@
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "13526878",
+      "name": "-",
+      "schedule": "Soloway YouTube Monitor  cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-29T18:05:42.158568+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "5c65709e",
+      "name": "-",
+      "schedule": "knowledge-monitor        cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-29T18:05:42.158704+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
       "expected_hours": 24,
       "api_keys": [
         "?"
@@ -164,6 +151,19 @@
       "id": "e5b0a787",
       "name": "-",
       "schedule": "Peptide \u2014 Morning Res... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "e7488751",
+      "name": "-",
+      "schedule": "Remind Bill \u2014 Dave Cu... cron 0 1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
