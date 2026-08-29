@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T02:58:35.147156+00:00",
+  "generated_at": "2026-08-29T03:10:37.663710+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -31,32 +31,6 @@
       ]
     },
     {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "3395dff7",
-      "name": "-",
-      "schedule": "Peptide \u2014 Before Bed ... cron 0 3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -65,32 +39,6 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "13526878",
-      "name": "-",
-      "schedule": "Soloway YouTube Monitor  cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-29T02:53:35.145752+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "5c65709e",
-      "name": "-",
-      "schedule": "knowledge-monitor        cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-29T02:53:35.145868+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
       "api_keys": [
         "?"
       ]
@@ -109,11 +57,50 @@
       ]
     },
     {
+      "id": "0f6aa896",
+      "name": "-",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "2a3b9b11",
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-29T02:53:35.145962+00:00",
+      "last_run": "2026-08-29T03:05:37.662284+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "13526878",
+      "name": "-",
+      "schedule": "Soloway YouTube Monitor  cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-29T03:05:37.662407+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "5c65709e",
+      "name": "-",
+      "schedule": "knowledge-monitor        cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-29T03:05:37.662476+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -164,6 +151,19 @@
       "id": "dfc56ae8",
       "name": "-",
       "schedule": "Peptide \u2014 Pre-Workout... cron 30",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "3395dff7",
+      "name": "-",
+      "schedule": "Peptide \u2014 Before Bed ... cron 0 3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
