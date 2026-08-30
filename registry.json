@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:43:26.911157+00:00",
+  "generated_at": "2026-08-30T08:55:42.963014+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "id": "a9a97800",
-      "name": "-",
-      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "0f6aa896",
       "name": "-",
       "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
@@ -57,11 +44,24 @@
       ]
     },
     {
+      "id": "a9a97800",
+      "name": "-",
+      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.083,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "13526878",
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-30T08:38:26.908233+00:00",
+      "last_run": "2026-08-30T08:50:42.960455+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -74,7 +74,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-30T08:38:26.908451+00:00",
+      "last_run": "2026-08-30T08:50:42.960677+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -100,7 +100,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-30T08:38:26.908702+00:00",
+      "last_run": "2026-08-30T08:50:42.960928+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
