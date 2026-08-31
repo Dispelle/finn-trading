@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:29:06.561585+00:00",
+  "generated_at": "2026-08-31T17:34:18.155435+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -18,35 +18,9 @@
       ]
     },
     {
-      "id": "a9a97800",
+      "id": "e5cc98c4",
       "name": "-",
-      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.083,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "41e4c55d",
-      "name": "-",
-      "schedule": "Agent Sync poller        cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
+      "schedule": "NVDA Retest Watcher      cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -96,9 +70,22 @@
       ]
     },
     {
-      "id": "e5cc98c4",
+      "id": "a9a97800",
       "name": "-",
-      "schedule": "NVDA Retest Watcher      cron */3",
+      "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.083,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "0f6aa896",
+      "name": "-",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -126,7 +113,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T17:24:06.559300+00:00",
+      "last_run": "2026-08-31T17:29:18.154259+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -139,7 +126,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T17:24:06.559510+00:00",
+      "last_run": "2026-08-31T17:29:18.154412+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -152,7 +139,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T17:24:06.559655+00:00",
+      "last_run": "2026-08-31T17:29:18.154486+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -169,6 +156,19 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.083,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "41e4c55d",
+      "name": "-",
+      "schedule": "Agent Sync poller        cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
