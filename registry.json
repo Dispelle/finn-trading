@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:11:13.014355+00:00",
+  "generated_at": "2026-08-31T19:26:02.759383+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
@@ -18,6 +18,19 @@
       ]
     },
     {
+      "id": "9402bab7",
+      "name": "-",
+      "schedule": "Watcher Watchdog (lev... every 5m",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.083,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "e5cc98c4",
       "name": "-",
       "schedule": "NVDA Retest Watcher      cron */3",
@@ -31,14 +44,14 @@
       ]
     },
     {
-      "id": "9402bab7",
+      "id": "0f6aa896",
       "name": "-",
-      "schedule": "Watcher Watchdog (lev... every 5m",
+      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
       "status": "red",
-      "expected_hours": 0.083,
+      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
@@ -91,19 +104,6 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "0f6aa896",
-      "name": "-",
-      "schedule": "Poll Agent Sync \u2014 Bri... cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
@@ -191,7 +191,7 @@
       "name": "-",
       "schedule": "System Health Check \u2014... cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T19:06:13.011875+00:00",
+      "last_run": "2026-08-31T19:21:02.758164+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -230,7 +230,7 @@
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T19:06:13.012462+00:00",
+      "last_run": "2026-08-31T19:21:02.758374+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -243,7 +243,7 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T19:06:13.012658+00:00",
+      "last_run": "2026-08-31T19:21:02.758449+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
