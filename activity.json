@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-31T17:55:06.084446+00:00",
+  "generated_at": "2026-08-31T18:11:03.224863+00:00",
   "items": [
+    {
+      "ts": "2026-08-31T17:57:50.959000+00:00",
+      "time": "01:57 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $715.22** Current: **$715.21** | Strength: 5/5 20-day VWAP; price currently trades $4 above; dynamic support"
+    },
     {
       "ts": "2026-08-31T17:51:15.899000+00:00",
       "time": "01:51 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:35 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **AAPL \u2014 BROKE ABOVE S1 $314.58** Current: **$314.65** | Strength: 5/5 \u2014 Prior daily close (recent), intraday swing low confluence, MA20 proxi"
-    },
-    {
-      "ts": "2026-08-31T14:34:46.317000+00:00",
-      "time": "10:34 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **AAPL \u2014 BROKE BELOW S1 $314.58** Current: **$314.54** | Strength: 5/5 \u2014 Prior daily close (recent), intraday swing low confluence, MA20 proxi"
     }
   ]
 }
