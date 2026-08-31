@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-08-31T12:16:31.168215+00:00",
+  "generated_at": "2026-08-31T14:11:12.340800+00:00",
   "overall_status": "red",
   "overdue_count": 32,
   "total_jobs": 35,
   "openclaw_crons": [
-    {
-      "id": "2a3b9b11",
-      "name": "-",
-      "schedule": "System Health Check \u2014... cron 0 *",
-      "script": "unknown",
-      "last_run": "2026-08-31T12:11:31.166391+00:00",
-      "last_run_label": "0.1h ago",
-      "status": "green",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
     {
       "id": "35a221f2",
       "name": "-",
@@ -26,6 +13,19 @@
       "last_run_label": "NEVER RAN",
       "status": "red",
       "expected_hours": 0.25,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "e5cc98c4",
+      "name": "-",
+      "schedule": "NVDA Retest Watcher      cron */3",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 0.05,
       "api_keys": [
         "?"
       ]
@@ -44,6 +44,19 @@
       ]
     },
     {
+      "id": "80261400",
+      "name": "-",
+      "schedule": "Pipeline Dry-Run Logg... cron */1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "a9a97800",
       "name": "-",
       "schedule": "Pipeline Sync \u2014 Lead ... cron */5",
@@ -57,9 +70,22 @@
       ]
     },
     {
-      "id": "b57277ec",
+      "id": "be27b526",
       "name": "-",
-      "schedule": "Cron Health Watchdog     cron 0 8",
+      "schedule": "Position Monitor \u2014 Ev... cron */1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d01a2cdd",
+      "name": "-",
+      "schedule": "Shadow Alert Filter \u2014... cron */1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -96,141 +122,11 @@
       ]
     },
     {
-      "id": "4c920861",
-      "name": "-",
-      "schedule": "Discord \u2014 Watchlist (... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "6448de3d",
-      "name": "-",
-      "schedule": "Discord \u2014 Goals Updat... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "80261400",
-      "name": "-",
-      "schedule": "Pipeline Dry-Run Logg... cron */1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "8737eeef",
-      "name": "-",
-      "schedule": "Discord \u2014 My Position... cron 0 1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "d01a2cdd",
-      "name": "-",
-      "schedule": "Shadow Alert Filter \u2014... cron */1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "dd89f6a8",
-      "name": "-",
-      "schedule": "Discord \u2014 Daily Picks... cron 0 9",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "e5cc98c4",
-      "name": "-",
-      "schedule": "NVDA Retest Watcher      cron */3",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 0.05,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "987dd610",
-      "name": "-",
-      "schedule": "Daily Gareth recap sc... cron 15",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "d57a0119",
-      "name": "-",
-      "schedule": "Market Open Watch \u2014 9... cron 30",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
-      "id": "be27b526",
-      "name": "-",
-      "schedule": "Position Monitor \u2014 Ev... cron */1",
-      "script": "unknown",
-      "last_run": null,
-      "last_run_label": "NEVER RAN",
-      "status": "red",
-      "expected_hours": 24,
-      "api_keys": [
-        "?"
-      ]
-    },
-    {
       "id": "13526878",
       "name": "-",
       "schedule": "Soloway YouTube Monitor  cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T12:11:31.167349+00:00",
+      "last_run": "2026-08-31T14:06:12.339960+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -243,7 +139,20 @@
       "name": "-",
       "schedule": "knowledge-monitor        cron 0 *",
       "script": "unknown",
-      "last_run": "2026-08-31T12:11:31.167448+00:00",
+      "last_run": "2026-08-31T14:06:12.340077+00:00",
+      "last_run_label": "0.1h ago",
+      "status": "green",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "2a3b9b11",
+      "name": "-",
+      "schedule": "System Health Check \u2014... cron 0 *",
+      "script": "unknown",
+      "last_run": "2026-08-31T14:06:12.340144+00:00",
       "last_run_label": "0.1h ago",
       "status": "green",
       "expected_hours": 24,
@@ -304,9 +213,35 @@
       ]
     },
     {
+      "id": "4c920861",
+      "name": "-",
+      "schedule": "Discord \u2014 Watchlist (... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "4f9bbdda",
       "name": "-",
       "schedule": "Discord \u2014 My Position... cron 0 2",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "6448de3d",
+      "name": "-",
+      "schedule": "Discord \u2014 Goals Updat... cron 0 1",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
@@ -395,6 +330,58 @@
       ]
     },
     {
+      "id": "8737eeef",
+      "name": "-",
+      "schedule": "Discord \u2014 My Position... cron 0 1",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "dd89f6a8",
+      "name": "-",
+      "schedule": "Discord \u2014 Daily Picks... cron 0 9",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "987dd610",
+      "name": "-",
+      "schedule": "Daily Gareth recap sc... cron 15",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "d57a0119",
+      "name": "-",
+      "schedule": "Market Open Watch \u2014 9... cron 30",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
       "id": "e5b0a787",
       "name": "-",
       "schedule": "Peptide \u2014 Morning Res... cron 0 1",
@@ -437,6 +424,19 @@
       "id": "aa2e8b20",
       "name": "-",
       "schedule": "Macro Calendar \u2014 Weekly  cron 30",
+      "script": "unknown",
+      "last_run": null,
+      "last_run_label": "NEVER RAN",
+      "status": "red",
+      "expected_hours": 24,
+      "api_keys": [
+        "?"
+      ]
+    },
+    {
+      "id": "b57277ec",
+      "name": "-",
+      "schedule": "Cron Health Watchdog     cron 0 8",
       "script": "unknown",
       "last_run": null,
       "last_run_label": "NEVER RAN",
