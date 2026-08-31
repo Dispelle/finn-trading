@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-31T19:41:41.924955+00:00",
+  "generated_at": "2026-08-31T19:56:14.130201+00:00",
   "items": [
+    {
+      "ts": "2026-08-31T19:55:30.349000+00:00",
+      "time": "03:55 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $955.0** Current: **$956.27** | Strength: 5/5 \u2014 50-day moving average; overhead resistance; previous support/resistance "
+    },
+    {
+      "ts": "2026-08-31T19:48:03.349000+00:00",
+      "time": "03:48 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **SPY \u2014 BROKE BELOW S1 $766.93** Current: **$766.79** | Strength: 5/5 \u2014 20-day VWAP; price currently 3.47 above it; first natural pullback zon"
+    },
+    {
+      "ts": "2026-08-31T19:42:47.728000+00:00",
+      "time": "03:42 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.69** Current: **$160.63** | Strength: 5/5 0.236 Fib retracement + recent 1H oscillation ceiling; 3-bar resistance"
+    },
+    {
+      "ts": "2026-08-31T19:42:46.512000+00:00",
+      "time": "03:42 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **SPY \u2014 BROKE ABOVE S1 $766.93** Current: **$766.96** | Strength: 5/5 \u2014 20-day VWAP; price currently 3.47 above it; first natural pullback zon"
+    },
     {
       "ts": "2026-08-31T19:40:39.644000+00:00",
       "time": "03:40 PM ET",
@@ -36,30 +60,6 @@
       "time": "02:40 PM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $945.75** Current: **$945.41** | Strength: 4/5 Prior daily high (8 days ago); strong rejection zone; Fib 0.650 near $918"
-    },
-    {
-      "ts": "2026-08-31T17:57:50.959000+00:00",
-      "time": "01:57 PM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **QQQ \u2014 BROKE BELOW S1 $715.22** Current: **$715.21** | Strength: 5/5 20-day VWAP; price currently trades $4 above; dynamic support"
-    },
-    {
-      "ts": "2026-08-31T17:51:15.899000+00:00",
-      "time": "01:51 PM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S1 $715.22** Current: **$715.48** | Strength: 5/5 20-day VWAP; price currently trades $4 above; dynamic support"
-    },
-    {
-      "ts": "2026-08-31T17:44:41.383000+00:00",
-      "time": "01:44 PM ET",
-      "type": "analysis",
-      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$468.58** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-08-31T17:43:36.018000+00:00",
-      "time": "01:43 PM ET",
-      "type": "alert",
-      "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $468.54** Current: **$468.53** | Strength: 3/5 |"
     }
   ]
 }
