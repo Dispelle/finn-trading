@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-31T15:46:20.196837+00:00",
+  "generated_at": "2026-08-31T15:55:43.503187+00:00",
   "items": [
+    {
+      "ts": "2026-08-31T15:48:43.831000+00:00",
+      "time": "11:48 AM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $365.49** Current: **$365.44** | Strength: 5/5 \u2014 Fibonacci 0.500 (mid-point 297.38\u2192432.86); psychological round; prior"
+    },
+    {
+      "ts": "2026-08-31T15:47:38.172000+00:00",
+      "time": "11:47 AM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $365.49** Current: **$365.61** | Strength: 5/5 \u2014 Fibonacci 0.500 (mid-point 297.38\u2192432.86); psychological round; prior"
+    },
     {
       "ts": "2026-08-31T14:55:25.884000+00:00",
       "time": "10:55 AM ET",
@@ -48,18 +60,6 @@
       "time": "10:09 AM ET",
       "type": "analysis",
       "message": "@here \ud83d\udfe2 **GLD \u2014 BROKE ABOVE S2 $405.9** Current: **$405.96** | Strength: 5/5 |"
-    },
-    {
-      "ts": "2026-08-31T14:05:27.384000+00:00",
-      "time": "10:05 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **MU \u2014 BROKE BELOW R1 $945.75** Current: **$945.69** | Strength: 4/5 Prior daily high (8 days ago); strong rejection zone; Fib 0.650 near $918"
-    },
-    {
-      "ts": "2026-08-31T13:57:47.977000+00:00",
-      "time": "09:57 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **XOM \u2014 BROKE BELOW R1 $160.69** Current: **$160.65** | Strength: 5/5 0.236 Fib retracement + recent 1H oscillation ceiling; 3-bar resistance"
     }
   ]
 }
