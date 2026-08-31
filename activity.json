@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-31T19:25:48.243694+00:00",
+  "generated_at": "2026-08-31T19:41:19.856909+00:00",
   "items": [
+    {
+      "ts": "2026-08-31T19:40:39.644000+00:00",
+      "time": "03:40 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **XOM \u2014 BROKE ABOVE R1 $160.69** Current: **$160.75** | Strength: 5/5 0.236 Fib retracement + recent 1H oscillation ceiling; 3-bar resistance"
+    },
+    {
+      "ts": "2026-08-31T19:27:58.715000+00:00",
+      "time": "03:27 PM ET",
+      "type": "alert",
+      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $219.5** Current: **$219.56** | Strength: 5/5 Trade plan stop / invalidation level"
+    },
+    {
+      "ts": "2026-08-31T19:25:52.074000+00:00",
+      "time": "03:25 PM ET",
+      "type": "analysis",
+      "message": "@here \ud83d\udfe2 **MU \u2014 BROKE ABOVE R1 $945.75** Current: **$945.92** | Strength: 4/5 Prior daily high (8 days ago); strong rejection zone; Fib 0.650 near $918"
+    },
     {
       "ts": "2026-08-31T18:47:20.954000+00:00",
       "time": "02:47 PM ET",
@@ -42,24 +60,6 @@
       "time": "01:43 PM ET",
       "type": "alert",
       "message": "\ud83d\udd34 **AMD \u2014 BROKE BELOW S1 $468.54** Current: **$468.53** | Strength: 3/5 |"
-    },
-    {
-      "ts": "2026-08-31T15:48:43.831000+00:00",
-      "time": "11:48 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udd34 **TSLA \u2014 BROKE BELOW R1 $365.49** Current: **$365.44** | Strength: 5/5 \u2014 Fibonacci 0.500 (mid-point 297.38\u2192432.86); psychological round; prior"
-    },
-    {
-      "ts": "2026-08-31T15:47:38.172000+00:00",
-      "time": "11:47 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **TSLA \u2014 BROKE ABOVE R1 $365.49** Current: **$365.61** | Strength: 5/5 \u2014 Fibonacci 0.500 (mid-point 297.38\u2192432.86); psychological round; prior"
-    },
-    {
-      "ts": "2026-08-31T14:55:25.884000+00:00",
-      "time": "10:55 AM ET",
-      "type": "alert",
-      "message": "@here \ud83d\udfe2 **NVDA \u2014 BROKE ABOVE STOP $219.5** Current: **$219.62** | Strength: 5/5 Trade plan stop / invalidation level"
     }
   ]
 }
