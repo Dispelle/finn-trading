@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-31T17:44:39.791011+00:00",
+  "generated_at": "2026-08-31T17:48:02.351433+00:00",
   "items": [
+    {
+      "ts": "2026-08-31T17:44:41.383000+00:00",
+      "time": "01:44 PM ET",
+      "type": "analysis",
+      "message": "\ud83d\udfe2 **AMD \u2014 BROKE ABOVE S1 $468.54** Current: **$468.58** | Strength: 3/5 |"
+    },
     {
       "ts": "2026-08-31T17:43:36.018000+00:00",
       "time": "01:43 PM ET",
@@ -54,12 +60,6 @@
       "time": "10:33 AM ET",
       "type": "alert",
       "message": "@here \ud83d\udd34 **USO \u2014 BROKE BELOW R1 $132.91** Current: **$132.89** | Strength: 5/5 0.236 Fib (strong confluent zone); recent swing high cluster; daily resi"
-    },
-    {
-      "ts": "2026-08-31T14:28:15.949000+00:00",
-      "time": "10:28 AM ET",
-      "type": "analysis",
-      "message": "@here \ud83d\udfe2 **QQQ \u2014 BROKE ABOVE S2 $713.24** Current: **$713.61** | Strength: 5/5 Fibonacci 0.382 retracement; confluence with MA50 ($712.16) nearby"
     }
   ]
 }
